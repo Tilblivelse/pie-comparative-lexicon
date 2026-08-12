@@ -1,0 +1,547 @@
+# *newun
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/newun)
+
+## Proto-Germanic
+
+**Reconstruction:** *newun
+
+### Etymology
+
+From earlier *newunt, from Proto-Indo-European *h₁néwn̥ (“nine”), with -t added through influence of *tehun (“ten”). Some descendants supposedly reconstruct a variant *negun instead. This presents an isolated case of wu undergoing dissimilatory fortition to gwu (creating the Pre-Germanic form *negwunt necessary for explaining this discrepancy). This change must have happened quite early on in history, as it underwent a regular application of Boukólos rule, showing the gwu losing the w before u, becoming gu (just like other labiovelars in this position) and also regular loss of word final unstressed Pre-Germanic t (which from the word-final consonant of the Proto-Indo-European ancestor term being d in most cases, but in this case was excresently added via influence from *tehun (“ten”) as mentioned above).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₁néwn̥
+
+### Pronunciation
+
+- IPA: `/ˈne.wun/`
+
+### Numeral
+
+1. _(reconstruction)_ nine
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| *negun | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *neun
+  - **Old English:** nigon
+    - **Middle English:** nyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nin
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nine
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niwon — _Early Middle English_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝhenn — _Ormulum_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neghen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyne — _especially Northern; North Midland_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+  - **Old English:** nigen
+    - **Middle English:** nyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nin
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nine
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niwon — _Early Middle English_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝhenn — _Ormulum_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neghen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyne — _especially Northern; North Midland_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+  - **Old English:** nigan
+    - **Middle English:** nyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nin
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nine
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niwon — _Early Middle English_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝhenn — _Ormulum_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neghen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyne — _especially Northern; North Midland_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+  - **Old English:** niogen
+    - **Middle English:** nyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nin
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nine
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niwon — _Early Middle English_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝhenn — _Ormulum_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neghen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyne — _especially Northern; North Midland_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+  - **Old English:** nygon
+    - **Middle English:** nyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nin
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nine
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** nyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niwon — _Early Middle English_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** niȝhenn — _Ormulum_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neghen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neȝen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyen
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyn
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+    - **Middle English:** neyne — _especially Northern; North Midland_
+      - **English:** nine
+      - **Scots:** nine
+      - **Scots:** neen
+      - **Scots:** nyn
+      - **Scots:** nyne
+      - **Yola:** neen
+  - **Old Frisian:** niugun
+    - **North Frisian:** 
+    - **Saterland Frisian:** njuugen
+    - **Saterland Frisian:** njúgen
+    - **West Frisian:** njoggen
+  - **Old Frisian:** nigun
+    - **North Frisian:** 
+    - **Saterland Frisian:** njuugen
+    - **Saterland Frisian:** njúgen
+    - **West Frisian:** njoggen
+  - **Old Frisian:** niogen
+    - **North Frisian:** 
+    - **Saterland Frisian:** njuugen
+    - **Saterland Frisian:** njúgen
+    - **West Frisian:** njoggen
+  - **Old Saxon:** nigun
+    - **Middle Low German:** negen
+      - **Low German:** nägen
+        - **German Low German:** negen
+      - **Plautdietsch:** näajen
+  - **Old Saxon:** nigon
+    - **Middle Low German:** negen
+      - **Low German:** nägen
+        - **German Low German:** negen
+      - **Plautdietsch:** näajen
+  - **Old Saxon:** nigen
+    - **Middle Low German:** negen
+      - **Low German:** nägen
+        - **German Low German:** negen
+      - **Plautdietsch:** näajen
+  - **Old Dutch:** nigun
+    - **Middle Dutch:** nēgen
+      - **Dutch:** negen
+        - **Afrikaans:** nege
+        - **Afrikaans:** neë
+      - **Limburgish:** nege
+      - **Zealandic:** negen
+  - **Old High German:** niun
+    - **Middle High German:** niun
+      - **Alemannic German:** nüün
+      - **Alemannic German:** nin
+      - **Alemannic German:** nine
+      - **Bavarian:** 
+      - **German:** neun
+      - **Luxembourgish:** néng
+      - **Vilamovian:** naojn
+      - **Yiddish:** נײַן
+- **Proto-Norse:** ᚾᛁᚢ
+  - **Old Norse:** níu
+    - **Icelandic:** níu
+    - **Faroese:** níggju
+    - **Norn:** ni
+    - **Norwegian Nynorsk:** ni
+    - **Norwegian Nynorsk:** nio
+    - **Norwegian Nynorsk:** nie — _dialectal_
+    - **Norwegian Nynorsk:** niu
+    - **Elfdalian:** niu
+    - **Old Swedish:** nīo
+      - **Swedish:** nio
+    - **Old Danish:** ni
+      - **Danish:** ni
+      - **Norwegian Bokmål:** ni
+    - **Gutnish:** nei
+    - **Gutnish:** neie
+    - **Gutnish:** näiu
+    - **Gutnish:** neiå
+  - **Old Norse:** nío
+    - **Icelandic:** níu
+    - **Faroese:** níggju
+    - **Norn:** ni
+    - **Norwegian Nynorsk:** ni
+    - **Norwegian Nynorsk:** nio
+    - **Norwegian Nynorsk:** nie — _dialectal_
+    - **Norwegian Nynorsk:** niu
+    - **Elfdalian:** niu
+    - **Old Swedish:** nīo
+      - **Swedish:** nio
+    - **Old Danish:** ni
+      - **Danish:** ni
+      - **Norwegian Bokmål:** ni
+    - **Gutnish:** nei
+    - **Gutnish:** neie
+    - **Gutnish:** näiu
+    - **Gutnish:** neiå
+- **Gothic:** 𐌽𐌹𐌿𐌽
+- **Crimean Gothic:** nyne

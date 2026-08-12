@@ -1,0 +1,742 @@
+# *nehw
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/nehw)
+
+## Proto-Germanic
+
+**Reconstruction:** *nehw
+
+### Etymology
+
+Etymology tree
+Proto-Indo-European *né
+Proto-Indo-European *-kʷe
+Proto-Indo-European *nékʷe
+Proto-Germanic *nehw
+From Proto-Indo-European *nékʷe. Equivalent to *ne + *-hw. Cognate with Latin neque (“nor”), Proto-Celtic *nekʷe.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *nékʷe
+
+### Pronunciation
+
+- IPA: `/ˈnexʷ/`
+
+### Conjunction
+
+1. _(reconstruction)_ nor, and not
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *nehw
+  - **Proto-West Germanic:** *nehwain — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nihēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** niēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** nigēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Dutch:** nehein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** ghein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** chein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old High German:** nehein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+    - **Old High German:** nihein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+  - **Proto-West Germanic:** *nehain — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nihēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** niēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** nigēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Dutch:** nehein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** ghein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** chein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old High German:** nehein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+    - **Old High German:** nihein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+  - **Proto-West Germanic:** *nehwan — _reshaped by analogy or addition of morphemes_
+    - **Old English:** nefne — _inherited; uncertain_
+    - **Old English:** nemne — _inherited; uncertain_
+    - **Old English:** nymne — _inherited; uncertain_
+    - **Old English:** nemþe — _inherited; uncertain_
+    - **Old English:** nymþe — _inherited; uncertain_
+    - **Old English:** nimþe — _inherited; uncertain_
+    - **Old Saxon:** newan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** niwan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nowan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** newa
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** neva
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nevo
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nevu
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** novan
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** navo
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** nova
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old High German:** niwan
+      - **Middle High German:** niwen
+      - **Middle High German:** niuwen
+      - **Middle High German:** niewen
+- **Proto-West Germanic:** *nehu
+  - **Proto-West Germanic:** *nehwain — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nihēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** niēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** nigēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Dutch:** nehein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** ghein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** chein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old High German:** nehein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+    - **Old High German:** nihein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+  - **Proto-West Germanic:** *nehain — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nihēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** niēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** nigēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Dutch:** nehein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** ghein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** chein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old High German:** nehein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+    - **Old High German:** nihein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+  - **Proto-West Germanic:** *nehwan — _reshaped by analogy or addition of morphemes_
+    - **Old English:** nefne — _inherited; uncertain_
+    - **Old English:** nemne — _inherited; uncertain_
+    - **Old English:** nymne — _inherited; uncertain_
+    - **Old English:** nemþe — _inherited; uncertain_
+    - **Old English:** nymþe — _inherited; uncertain_
+    - **Old English:** nimþe — _inherited; uncertain_
+    - **Old Saxon:** newan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** niwan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nowan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** newa
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** neva
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nevo
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nevu
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** novan
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** navo
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** nova
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old High German:** niwan
+      - **Middle High German:** niwen
+      - **Middle High German:** niuwen
+      - **Middle High German:** niewen
+- **Proto-West Germanic:** *neh
+  - **Proto-West Germanic:** *nehwain — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nihēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** niēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** nigēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Dutch:** nehein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** ghein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** chein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old High German:** nehein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+    - **Old High German:** nihein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+  - **Proto-West Germanic:** *nehain — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nihēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** niēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Saxon:** nigēn
+      - **Middle Low German:** nechên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** gên
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+      - **Middle Low German:** kein
+        - **German Low German:** geen
+        - **German Low German:** gien
+        - **German Low German:** keen
+        - **German Low German:** kien
+    - **Old Dutch:** nehein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** ghein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old Dutch:** chein
+      - **Middle Dutch:** negeen
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+      - **Middle Dutch:** gein
+        - **Dutch:** geen
+        - **West Frisian:** gjin — _borrowed; uncertain_
+    - **Old High German:** nehein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+    - **Old High German:** nihein
+      - **Middle High German:** nehein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nihein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nechein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nichein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+      - **Middle High German:** nekein
+        - **Middle High German:** kein — _reshaped by analogy or addition of morphemes_
+          - **German:** kein
+  - **Proto-West Germanic:** *nehwan — _reshaped by analogy or addition of morphemes_
+    - **Old English:** nefne — _inherited; uncertain_
+    - **Old English:** nemne — _inherited; uncertain_
+    - **Old English:** nymne — _inherited; uncertain_
+    - **Old English:** nemþe — _inherited; uncertain_
+    - **Old English:** nymþe — _inherited; uncertain_
+    - **Old English:** nimþe — _inherited; uncertain_
+    - **Old Saxon:** newan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** niwan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nowan
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** newa
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** neva
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nevo
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Saxon:** nevu
+      - **Middle Low German:** mēven — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** novan
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** navo
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old Dutch:** nova
+      - **Old Dutch:** novanthoh — _reshaped by analogy or addition of morphemes_
+    - **Old High German:** niwan
+      - **Middle High German:** niwen
+      - **Middle High German:** niuwen
+      - **Middle High German:** niewen
+- **Old Norse:** né
+  - **Icelandic:** né
+- **Gothic:** 𐌽𐌹𐌷

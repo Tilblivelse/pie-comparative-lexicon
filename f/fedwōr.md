@@ -1,0 +1,563 @@
+# *fedwōr
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/fedw%C5%8Dr)
+
+## Proto-Germanic
+
+**Reconstruction:** *fedwōr
+
+### Etymology
+
+From pre-Grimm *petwṓr, with an irregular consonant change from *kʷetwṓr, the neuter form of Proto-Indo-European *kʷetwóres (“four”). The consonant change was probably caused by the influence of the *p- in the word for "five", *pénkʷe. The expected outcome would have been **hwedwōr.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *kʷetwóres
+
+### Pronunciation
+
+- IPA: `/ˈɸeð.wɔːr/`
+
+### Numeral
+
+1. _(reconstruction)_ four
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| fedwōr | nominative, plural |
+| fedwōr | accusative, plural |
+| fedurǫ̂ | genitive, plural |
+| fedurmaz | dative, plural |
+| fedurmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *feuwar
+  - **Old English:** fēower
+    - **Middle English:** four
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fore
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** foure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fower
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowr
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feor
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feouwer
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feower — _Laȝamon's Brut_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowwerr — _Ormulum_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** faure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fawre — _Northwest Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** vour — _Kent; West Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+  - **Old English:** fēwer
+    - **Middle English:** four
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fore
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** foure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fower
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowr
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feor
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feouwer
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feower — _Laȝamon's Brut_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowwerr — _Ormulum_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** faure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fawre — _Northwest Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** vour — _Kent; West Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+  - **Old English:** fēuor — _Northumbrian_
+    - **Middle English:** four
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fore
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** foure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fower
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowr
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feor
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feouwer
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feower — _Laȝamon's Brut_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowwerr — _Ormulum_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** faure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fawre — _Northwest Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** vour — _Kent; West Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+  - **Old English:** fēowor
+    - **Middle English:** four
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fore
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** foure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fower
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowr
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feor
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feouwer
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feower — _Laȝamon's Brut_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowwerr — _Ormulum_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** faure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fawre — _Northwest Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** vour — _Kent; West Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+  - **Old English:** fēowur — _West Saxon_
+    - **Middle English:** four
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fore
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** foure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fower
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowr
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feor
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feouwer
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** feower — _Laȝamon's Brut_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fowwerr — _Ormulum_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** faure
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** fawre — _Northwest Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+    - **Middle English:** vour — _Kent; West Midland_
+      - **English:** four
+      - **Scots:** fower
+      - **Yola:** vour
+      - **Yola:** voure
+      - **Yola:** vowre
+  - **Old Frisian:** fiūwer
+    - **North Frisian:** fjauer — _Föhr-Amrum; Goesharde; Wiedingharde_
+    - **North Frisian:** schtjuur — _Heligoland_
+    - **North Frisian:** fjouer — _Mooring_
+    - **North Frisian:** fjuur — _Sylt_
+  - **Old Saxon:** fiuwar
+    - **Middle Low German:** vêr
+      - **Low German:** veer
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Low German:** vier
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Plautdietsch:** vea
+  - **Old Saxon:** fiwar
+    - **Middle Low German:** vêr
+      - **Low German:** veer
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Low German:** vier
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Plautdietsch:** vea
+  - **Old Saxon:** fior
+    - **Middle Low German:** vêr
+      - **Low German:** veer
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Low German:** vier
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Plautdietsch:** vea
+  - **Old Saxon:** fiar
+    - **Middle Low German:** vêr
+      - **Low German:** veer
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Low German:** vier
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Plautdietsch:** vea
+  - **Old Saxon:** fier
+    - **Middle Low German:** vêr
+      - **Low German:** veer
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Low German:** vier
+        - **Dutch Low Saxon:** vier
+        - **Dutch Low Saxon:** veer
+        - **German Low German:** veer — _Hamburgisch_
+          - **Westphalian:** 
+      - **Plautdietsch:** vea
+  - **Old Dutch:** fiuwar
+    - **Middle Dutch:** vier
+      - **Dutch:** vier
+        - **Afrikaans:** vier
+  - **Old Dutch:** Viervliet
+    - **Middle Dutch:** vier
+      - **Dutch:** vier
+        - **Afrikaans:** vier
+  - **Old Dutch:** *fior
+    - **Middle Dutch:** vier
+      - **Dutch:** vier
+        - **Afrikaans:** vier
+  - **Old Dutch:** *fier
+    - **Middle Dutch:** vier
+      - **Dutch:** vier
+        - **Afrikaans:** vier
+  - **Old High German:** fior
+    - **Middle High German:** vier
+      - **Alemannic German:** vier
+      - **Bavarian:** 
+      - **Central Franconian:** vier
+      - **German:** vier
+      - **Luxembourgish:** véier
+      - **Pennsylvania German:** vier
+      - **Vilamovian:** fiyr
+      - **Yiddish:** פֿיר
+- **Old Norse:** fjórir
+  - **Icelandic:** fjórir
+  - **Faroese:** fýra
+  - **Norn:** fyre
+  - **Norwegian Nynorsk:** fjore
+  - **Elfdalian:** fyra
+  - **Old Swedish:** fiūrir
+    - **Swedish:** fyra
+  - **Old Swedish:** fiūri
+    - **Swedish:** fyra
+  - **Old Swedish:** fȳrir
+    - **Swedish:** fyra
+  - **Old Swedish:** fȳri
+    - **Swedish:** fyra
+  - **Old Danish:** fiūræ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+  - **Old Danish:** fiūghræ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+  - **Old Danish:** fȳræ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+  - **Old Danish:** firæ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+- **Old Norse:** fjǫgurir
+  - **Icelandic:** fjórir
+  - **Faroese:** fýra
+  - **Norn:** fyre
+  - **Norwegian Nynorsk:** fjore
+  - **Elfdalian:** fyra
+  - **Old Swedish:** fiūrir
+    - **Swedish:** fyra
+  - **Old Swedish:** fiūri
+    - **Swedish:** fyra
+  - **Old Swedish:** fȳrir
+    - **Swedish:** fyra
+  - **Old Swedish:** fȳri
+    - **Swedish:** fyra
+  - **Old Danish:** fiūræ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+  - **Old Danish:** fiūghræ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+  - **Old Danish:** fȳræ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+  - **Old Danish:** firæ
+    - **Danish:** fire
+      - **Norwegian Bokmål:** fire
+        - **Norwegian Nynorsk:** fire — _borrowed_
+- **Gothic:** 𐍆𐌹𐌳𐍅𐍉𐍂
+- **Crimean Gothic:** fyder

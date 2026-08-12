@@ -1,0 +1,446 @@
+# *hwar
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hwar)
+
+## Proto-Germanic
+
+**Reconstruction:** *hwar
+
+### Etymology
+
+From *hwaz (“what”) + *-r (“locative suffix”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *kʷ-
+
+### Pronunciation
+
+- IPA: `/xʷɑr/`
+
+### Adverb
+
+1. _(reconstruction)_ where, in what place (interrogative)
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hwār
+  - **Old English:** hwǣr
+    - **Middle English:** wher
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** where
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** wheir
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** whare
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** were
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** qwere
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+  - **Old English:** hwār — _Late West Saxon_
+    - **Middle English:** wher
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** where
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** wheir
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** whare
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** were
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** qwere
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+  - **Old English:** hwēr — _Anglian; Late Kentish_
+    - **Middle English:** wher
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** where
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** wheir
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** whare
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** were
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** qwere
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+  - **Old English:** hwœ̄r — _Late Northumbrian_
+    - **Middle English:** wher
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** where
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** wheir
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** whare
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** were
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** qwere
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+  - **Old English:** hwīer
+    - **Middle English:** wher
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** where
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** wheir
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** whare
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** were
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** qwere
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+  - **Old English:** wēr
+    - **Middle English:** wher
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** where
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** wheir
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** whare
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** were
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** qwere
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+  - **Old English:** wār
+    - **Middle English:** wher
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** where
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** wheir
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** whare
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** were
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+    - **Middle English:** qwere
+      - **English:** where
+      - **English:** quhair
+      - **English:** quhar
+      - **English:** quher
+      - **English:** quhere — _all obsolete_
+      - **Scots:** whaur
+  - **Old Frisian:** hwēr
+    - **North Frisian:** 
+    - **Saterland Frisian:** wier
+    - **West Frisian:** wêr
+  - **Old Saxon:** hwār
+    - **Middle Low German:** wār
+      - **Low German:** war
+        - **German Low German:** waar
+      - **Low German:** wor
+        - **German Low German:** waar
+    - **Middle Low German:** wōr
+      - **Low German:** war
+        - **German Low German:** waar
+      - **Low German:** wor
+        - **German Low German:** waar
+  - **Old Saxon:** hwar
+    - **Middle Low German:** wār
+      - **Low German:** war
+        - **German Low German:** waar
+      - **Low German:** wor
+        - **German Low German:** waar
+    - **Middle Low German:** wōr
+      - **Low German:** war
+        - **German Low German:** waar
+      - **Low German:** wor
+        - **German Low German:** waar
+  - **Old Dutch:** war
+    - **Middle Dutch:** waer
+      - **Dutch:** waar
+        - **Afrikaans:** waar
+      - **Limburgish:** boe
+      - **Limburgish:** woe
+      - **Limburgish:** wu
+      - **Limburgish:** wuë
+    - **Middle Dutch:** war
+      - **Dutch:** waar
+        - **Afrikaans:** waar
+      - **Limburgish:** boe
+      - **Limburgish:** woe
+      - **Limburgish:** wu
+      - **Limburgish:** wuë
+  - **Old Dutch:** wara
+    - **Middle Dutch:** waer
+      - **Dutch:** waar
+        - **Afrikaans:** waar
+      - **Limburgish:** boe
+      - **Limburgish:** woe
+      - **Limburgish:** wu
+      - **Limburgish:** wuë
+    - **Middle Dutch:** war
+      - **Dutch:** waar
+        - **Afrikaans:** waar
+      - **Limburgish:** boe
+      - **Limburgish:** woe
+      - **Limburgish:** wu
+      - **Limburgish:** wuë
+  - **Old High German:** hwār
+    - **Middle High German:** wār
+      - **Alemannic German:** warr
+      - **Bavarian:** 
+      - **German:** wo
+      - **Hunsrik:** wo
+      - **Luxembourgish:** wou
+    - **Middle High German:** wā
+      - **Alemannic German:** warr
+      - **Bavarian:** 
+      - **German:** wo
+      - **Hunsrik:** wo
+      - **Luxembourgish:** wou
+    - **Middle High German:** wō
+      - **Alemannic German:** warr
+      - **Bavarian:** 
+      - **German:** wo
+      - **Hunsrik:** wo
+      - **Luxembourgish:** wou
+  - **Old High German:** wār
+    - **Middle High German:** wār
+      - **Alemannic German:** warr
+      - **Bavarian:** 
+      - **German:** wo
+      - **Hunsrik:** wo
+      - **Luxembourgish:** wou
+    - **Middle High German:** wā
+      - **Alemannic German:** warr
+      - **Bavarian:** 
+      - **German:** wo
+      - **Hunsrik:** wo
+      - **Luxembourgish:** wou
+    - **Middle High German:** wō
+      - **Alemannic German:** warr
+      - **Bavarian:** 
+      - **German:** wo
+      - **Hunsrik:** wo
+      - **Luxembourgish:** wou
+- **Old Norse:** hvar
+  - **Icelandic:** hvar
+  - **Faroese:** hvar
+  - **Norwegian Nynorsk:** kvar
+  - **Norwegian Nynorsk:** kor
+  - **Old Swedish:** hvar
+    - **Swedish:** var
+    - **Swedish:** hvar — _pre-1906 spelling_
+    - **Swedish:** hôr — _dialectal_
+  - **Old Swedish:** hwor
+    - **Swedish:** var
+    - **Swedish:** hvar — _pre-1906 spelling_
+    - **Swedish:** hôr — _dialectal_
+  - **Old Danish:** hwar
+    - **Danish:** hvor
+      - **Norwegian Bokmål:** hvor
+  - **Old Danish:** huræ
+    - **Danish:** hvor
+      - **Norwegian Bokmål:** hvor
+  - **Old Danish:** huro
+    - **Danish:** hvor
+      - **Norwegian Bokmål:** hvor
+  - **Gutnish:** var
+- **Gothic:** 𐍈𐌰𐍂

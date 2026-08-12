@@ -1,0 +1,618 @@
+# *hwaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hwaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *hwaz
+
+### Etymology
+
+From Proto-Indo-European *kʷos, *kʷís (“interrogative pronoun”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *kʷ-, *kʷos, *kʷís
+
+### Pronunciation
+
+- IPA: `/xʷɑz/`
+
+### Pronoun
+
+1. _(interrogative, reconstruction)_ who, what
+2. _(interrogative, reconstruction, in genitive)_ whose
+3. _(interrogative, reconstruction, in accusative and dative)_ whom
+4. _(interrogative, reconstruction, in instrumental)_ with whom, with what, how, in what way
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| hwaz | masculine, nominative, singular |
+| hwō | feminine, nominative, singular |
+| hwat | neuter, nominative, singular |
+| hwanǭ | accusative, masculine, singular |
+| hwǭ | accusative, feminine, singular |
+| hwat | accusative, neuter, singular |
+| hwes | genitive, masculine, singular |
+| hwezōz | feminine, genitive, singular |
+| hwes | genitive, neuter, singular |
+| hwammai | dative, masculine, singular |
+| hwezōi | dative, feminine, singular |
+| hwammai | dative, neuter, singular |
+| hwē | instrumental, masculine, singular |
+| hwī | instrumental, masculine, singular |
+| hwō | instrumental, masculine, singular |
+| hwezō | feminine, instrumental, singular |
+| hwē | instrumental, neuter, singular |
+| hwī | instrumental, neuter, singular |
+| hwō | instrumental, neuter, singular |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hwaʀ
+  - **Old English:** hwā
+    - **Middle English:** who
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** ȝwo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** ho
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** hoo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** huo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** quo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** qwo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** qwho
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** whoo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** wo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** woo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** qua
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** wha — _northern_
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** hwa
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** hwo
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+    - **Middle English:** hwoa — _Early Middle English_
+      - **English:** who
+      - **Geordie:** whe
+      - **Scots:** wha
+      - **Yola:** fho
+      - **Yola:** fo
+      - **Yola:** vo
+  - **Old Frisian:** hwā
+    - **West Frisian:** wa
+  - **Old Saxon:** hwē
+    - **Middle Low German:** wê
+      - **Low German:** we
+      - **Low German:** wo
+      - **Low German:** wie
+      - **Plautdietsch:** wäa
+    - **Middle Low German:** wei
+      - **Low German:** we
+      - **Low German:** wo
+      - **Low German:** wie
+      - **Plautdietsch:** wäa
+    - **Middle Low German:** wie
+      - **Low German:** we
+      - **Low German:** wo
+      - **Low German:** wie
+      - **Plautdietsch:** wäa
+  - **Old Dutch:** wie
+    - **Middle Dutch:** wie
+      - **Dutch:** wie
+      - **Limburgish:** wae
+  - **Old High German:** wër
+    - **Middle High German:** wër — _northern_
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+    - **Middle High German:** wie
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+    - **Middle High German:** wē
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+  - **Old High German:** hwër — _northern_
+    - **Middle High German:** wër — _northern_
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+    - **Middle High German:** wie
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+    - **Middle High German:** wē
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+  - **Old High German:** *(h)wie
+    - **Middle High German:** wër — _northern_
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+    - **Middle High German:** wie
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+    - **Middle High German:** wē
+      - **Central Franconian:** wä
+      - **Cimbrian:** bèar
+      - **Cimbrian:** ber — _Luserna_
+      - **German:** wer
+      - **Yiddish:** ווער
+- **Old Norse:** *hver
+  - **Icelandic:** hver
+  - **Icelandic:** hvað
+  - **Icelandic:** hví
+  - **Faroese:** hvør
+  - **Faroese:** hvat
+  - **Faroese:** hví
+  - **Norwegian Nynorsk:** kven (from the accusative), kveim (from the dative), kva, kvi, (dialectal) kver, kvæ
+  - **Old Swedish:** hvar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwo
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hvat
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Danish:** hvem
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvad
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvis
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvi
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvo
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Jamtish:** hut
+  - **Jamtish:** hvuð
+  - **Jamtish:** horreg
+- **Old Norse:** *hvar
+  - **Icelandic:** hver
+  - **Icelandic:** hvað
+  - **Icelandic:** hví
+  - **Faroese:** hvør
+  - **Faroese:** hvat
+  - **Faroese:** hví
+  - **Norwegian Nynorsk:** kven (from the accusative), kveim (from the dative), kva, kvi, (dialectal) kver, kvæ
+  - **Old Swedish:** hvar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwo
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hvat
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Danish:** hvem
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvad
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvis
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvi
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvo
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Jamtish:** hut
+  - **Jamtish:** hvuð
+  - **Jamtish:** horreg
+- **Old Norse:** hverr
+  - **Icelandic:** hver
+  - **Icelandic:** hvað
+  - **Icelandic:** hví
+  - **Faroese:** hvør
+  - **Faroese:** hvat
+  - **Faroese:** hví
+  - **Norwegian Nynorsk:** kven (from the accusative), kveim (from the dative), kva, kvi, (dialectal) kver, kvæ
+  - **Old Swedish:** hvar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwo
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hvat
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Danish:** hvem
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvad
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvis
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvi
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvo
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Jamtish:** hut
+  - **Jamtish:** hvuð
+  - **Jamtish:** horreg
+- **Old Norse:** hvat
+  - **Icelandic:** hver
+  - **Icelandic:** hvað
+  - **Icelandic:** hví
+  - **Faroese:** hvør
+  - **Faroese:** hvat
+  - **Faroese:** hví
+  - **Norwegian Nynorsk:** kven (from the accusative), kveim (from the dative), kva, kvi, (dialectal) kver, kvæ
+  - **Old Swedish:** hvar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwo
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hvat
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Danish:** hvem
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvad
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvis
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvi
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvo
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Jamtish:** hut
+  - **Jamtish:** hvuð
+  - **Jamtish:** horreg
+- **Old Norse:** hví
+  - **Icelandic:** hver
+  - **Icelandic:** hvað
+  - **Icelandic:** hví
+  - **Faroese:** hvør
+  - **Faroese:** hvat
+  - **Faroese:** hví
+  - **Norwegian Nynorsk:** kven (from the accusative), kveim (from the dative), kva, kvi, (dialectal) kver, kvæ
+  - **Old Swedish:** hvar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwo
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hvat
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Danish:** hvem
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvad
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvis
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvi
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvo
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Jamtish:** hut
+  - **Jamtish:** hvuð
+  - **Jamtish:** horreg
+- **Old Norse:** hvé
+  - **Icelandic:** hver
+  - **Icelandic:** hvað
+  - **Icelandic:** hví
+  - **Faroese:** hvør
+  - **Faroese:** hvat
+  - **Faroese:** hví
+  - **Norwegian Nynorsk:** kven (from the accusative), kveim (from the dative), kva, kvi, (dialectal) kver, kvæ
+  - **Old Swedish:** hvar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwar
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hwo
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Old Swedish:** hvat
+    - **Swedish:** vem
+    - **Swedish:** vad
+    - **Swedish:** vi
+    - **Swedish:** ho
+  - **Danish:** hvem
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvad
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvis
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvi
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Danish:** hvo
+    - **Norwegian Bokmål:** hvem
+    - **Norwegian Bokmål:** hva
+    - **Norwegian Bokmål:** hvis
+    - **Norwegian Bokmål:** hvi
+    - **Norwegian Bokmål:** hvo
+  - **Jamtish:** hut
+  - **Jamtish:** hvuð
+  - **Jamtish:** horreg
+- **Gothic:** 𐍈𐌰𐍃
+- **Gothic:** 𐍈𐌰
+- **Gothic:** 𐍈𐌴

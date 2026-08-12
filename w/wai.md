@@ -1,0 +1,467 @@
+# *wai
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/wai)
+
+## Proto-Germanic
+
+**Reconstruction:** *wai
+
+### Etymology
+
+From Proto-Indo-European *wáy (“woe! (interjection)”). Compare Latin vae, Lithuanian vai̇̃, vái, Russian увы́ (uvý, “alas”), Middle Irish fáe, Welsh gwae (“woe”), Avestan 𐬬𐬀𐬫𐬋𐬌 (vayōi), Sanskrit उवे (uvé), Persian وای (vây).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *wáy
+
+### Pronunciation
+
+- IPA: `/wɑi̯/`
+
+### Interjection
+
+1. _(reconstruction)_ woe! alas! (expression of grief or anguish)
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *wai
+  - **Old English:** wā
+    - **Middle English:** wo
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** woo
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** wa — _Early Middle English or Northern_
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** woa — _Early Middle English_
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+  - **Old English:** wei
+    - **Middle English:** wo
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** woo
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** wa — _Early Middle English or Northern_
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** woa — _Early Middle English_
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+  - **Old English:** wǣ
+    - **Middle English:** wo
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** woo
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** wa — _Early Middle English or Northern_
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+    - **Middle English:** woa — _Early Middle English_
+      - **English:** woe
+      - **Middle Scots:** wa
+        - **Scots:** wae
+  - **Old Frisian:** wach
+    - **West Frisian:** wee
+    - **West Frisian:** wea
+  - **Old Frisian:** *wē
+    - **West Frisian:** wee
+    - **West Frisian:** wea
+  - **Old Saxon:** wah
+    - **Middle Low German:** wach
+    - **Middle Low German:** wê
+    - **Plautdietsch:** wee
+  - **Old Saxon:** wē
+    - **Middle Low German:** wach
+    - **Middle Low German:** wê
+    - **Plautdietsch:** wee
+  - **Old Dutch:** *wē
+    - **Middle Dutch:** wee
+      - **Dutch:** wee
+  - **Old High German:** wah
+    - **Middle High German:** wāch
+      - **Cimbrian:** bèa
+      - **German:** weh
+      - **German:** Weh
+      - **German:** wehe
+      - **German:** Wehe
+      - **Yiddish:** וויי
+        - **English:** vey — _borrowed_
+    - **Middle High German:** wē
+      - **Cimbrian:** bèa
+      - **German:** weh
+      - **German:** Weh
+      - **German:** wehe
+      - **German:** Wehe
+      - **Yiddish:** וויי
+        - **English:** vey — _borrowed_
+  - **Old High German:** wa
+    - **Middle High German:** wāch
+      - **Cimbrian:** bèa
+      - **German:** weh
+      - **German:** Weh
+      - **German:** wehe
+      - **German:** Wehe
+      - **Yiddish:** וויי
+        - **English:** vey — _borrowed_
+    - **Middle High German:** wē
+      - **Cimbrian:** bèa
+      - **German:** weh
+      - **German:** Weh
+      - **German:** wehe
+      - **German:** Wehe
+      - **Yiddish:** וויי
+        - **English:** vey — _borrowed_
+  - **Old High German:** wē
+    - **Middle High German:** wāch
+      - **Cimbrian:** bèa
+      - **German:** weh
+      - **German:** Weh
+      - **German:** wehe
+      - **German:** Wehe
+      - **Yiddish:** וויי
+        - **English:** vey — _borrowed_
+    - **Middle High German:** wē
+      - **Cimbrian:** bèa
+      - **German:** weh
+      - **German:** Weh
+      - **German:** wehe
+      - **German:** Wehe
+      - **Yiddish:** וויי
+        - **English:** vey — _borrowed_
+- **Proto-Norse:** *ᚹᚨᛁ
+  - **Old Norse:** vei
+    - **Icelandic:** vei
+    - **Icelandic:** væ
+    - **Faroese:** vei
+    - **Faroese:** veiggj
+    - **Norwegian:** ve
+    - **Old Swedish:** vē
+      - **Swedish:** ve
+    - **Danish:** ve
+    - **Middle English:** waȝȝ — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wæi — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wei — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** weye — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wai — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Old Norse:** væla — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** weilen — _borrowed_
+        - **English:** wail
+      - **Middle English:** waylen — _borrowed_
+        - **English:** wail
+      - **Icelandic:** væla
+      - **Elfdalian:** wäla
+      - **Old Norse:** væl — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** væl
+  - **Old Norse:** væ
+    - **Icelandic:** vei
+    - **Icelandic:** væ
+    - **Faroese:** vei
+    - **Faroese:** veiggj
+    - **Norwegian:** ve
+    - **Old Swedish:** vē
+      - **Swedish:** ve
+    - **Danish:** ve
+    - **Middle English:** waȝȝ — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wæi — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wei — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** weye — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wai — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Old Norse:** væla — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** weilen — _borrowed_
+        - **English:** wail
+      - **Middle English:** waylen — _borrowed_
+        - **English:** wail
+      - **Icelandic:** væla
+      - **Elfdalian:** wäla
+      - **Old Norse:** væl — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** væl
+  - **Old Norse:** ve-
+    - **Icelandic:** vei
+    - **Icelandic:** væ
+    - **Faroese:** vei
+    - **Faroese:** veiggj
+    - **Norwegian:** ve
+    - **Old Swedish:** vē
+      - **Swedish:** ve
+    - **Danish:** ve
+    - **Middle English:** waȝȝ — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wæi — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wei — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** weye — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wai — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Old Norse:** væla — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** weilen — _borrowed_
+        - **English:** wail
+      - **Middle English:** waylen — _borrowed_
+        - **English:** wail
+      - **Icelandic:** væla
+      - **Elfdalian:** wäla
+      - **Old Norse:** væl — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** væl
+- **Proto-Norse:** ᚹᚨᛃᛖ-
+  - **Old Norse:** vei
+    - **Icelandic:** vei
+    - **Icelandic:** væ
+    - **Faroese:** vei
+    - **Faroese:** veiggj
+    - **Norwegian:** ve
+    - **Old Swedish:** vē
+      - **Swedish:** ve
+    - **Danish:** ve
+    - **Middle English:** waȝȝ — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wæi — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wei — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** weye — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wai — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Old Norse:** væla — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** weilen — _borrowed_
+        - **English:** wail
+      - **Middle English:** waylen — _borrowed_
+        - **English:** wail
+      - **Icelandic:** væla
+      - **Elfdalian:** wäla
+      - **Old Norse:** væl — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** væl
+  - **Old Norse:** væ
+    - **Icelandic:** vei
+    - **Icelandic:** væ
+    - **Faroese:** vei
+    - **Faroese:** veiggj
+    - **Norwegian:** ve
+    - **Old Swedish:** vē
+      - **Swedish:** ve
+    - **Danish:** ve
+    - **Middle English:** waȝȝ — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wæi — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wei — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** weye — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wai — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Old Norse:** væla — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** weilen — _borrowed_
+        - **English:** wail
+      - **Middle English:** waylen — _borrowed_
+        - **English:** wail
+      - **Icelandic:** væla
+      - **Elfdalian:** wäla
+      - **Old Norse:** væl — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** væl
+  - **Old Norse:** ve-
+    - **Icelandic:** vei
+    - **Icelandic:** væ
+    - **Faroese:** vei
+    - **Faroese:** veiggj
+    - **Norwegian:** ve
+    - **Old Swedish:** vē
+      - **Swedish:** ve
+    - **Danish:** ve
+    - **Middle English:** waȝȝ — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wæi — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wei — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** weye — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Middle English:** wai — _borrowed_
+      - **Middle English:** weylaway — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+      - **Middle English:** wailewaie — _reshaped by analogy or addition of morphemes_
+        - **English:** welaway
+        - **English:** wellaway
+    - **Old Norse:** væla — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** weilen — _borrowed_
+        - **English:** wail
+      - **Middle English:** waylen — _borrowed_
+        - **English:** wail
+      - **Icelandic:** væla
+      - **Elfdalian:** wäla
+      - **Old Norse:** væl — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** væl
+- **Gothic:** 𐍅𐌰𐌹

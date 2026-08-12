@@ -1,0 +1,785 @@
+# *anadz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/anadz)
+
+## Proto-Germanic
+
+**Reconstruction:** *anadz
+
+### Etymology
+
+From Pre-Germanic *h₂énh₂ets ~ *h₂énh₂uts, from Proto-Indo-European *h₂énh₂ts (“duck”). Cognate with Latin anas (“duck, drake”), Lithuanian ántis (“duck, mallard”), and Proto-Slavic *ǫty (“duck”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂énh₂ts
+
+### Pronunciation
+
+- IPA: `/ˈɑ.nɑdz/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ duck
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| anadz | nominative, singular |
+| anadiz | nominative, plural |
+| anad | singular, vocative |
+| anadiz | plural, vocative |
+| anadų | accusative, singular |
+| anadunz | accusative, plural |
+| anadiz | genitive, singular |
+| anadǫ̂ | genitive, plural |
+| anadi | dative, singular |
+| anadumaz | dative, plural |
+| anadē | instrumental, singular |
+| anadumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *anad
+  - **Old English:** ened
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** enid
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** æned
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** ænid
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old Frisian:** *ened
+    - **North Frisian:** ånert — _Mooring_
+    - **North Frisian:** En — _Sylt_
+    - **Saterland Frisian:** Oante
+    - **Saterland Frisian:** Oande
+    - **West Frisian:** ein
+  - **Old Frisian:** *aned
+    - **North Frisian:** ånert — _Mooring_
+    - **North Frisian:** En — _Sylt_
+    - **Saterland Frisian:** Oante
+    - **Saterland Frisian:** Oande
+    - **West Frisian:** ein
+  - **Old Saxon:** anud
+    - **Middle Low German:** aned
+      - **German Low German:** Aant
+      - **Plautdietsch:** Ent
+    - **Middle Low German:** ēnde
+      - **German Low German:** Aant
+      - **Plautdietsch:** Ent
+  - **Old Dutch:** ened
+    - **Middle Dutch:** ent
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+    - **Middle Dutch:** eent
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+    - **Middle Dutch:** eynt
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+  - **Old High German:** enita
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+  - **Old High German:** aneta
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+  - **Old High German:** anut
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+- **Proto-West Germanic:** *anud
+  - **Old English:** ened
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** enid
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** æned
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** ænid
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old Frisian:** *ened
+    - **North Frisian:** ånert — _Mooring_
+    - **North Frisian:** En — _Sylt_
+    - **Saterland Frisian:** Oante
+    - **Saterland Frisian:** Oande
+    - **West Frisian:** ein
+  - **Old Frisian:** *aned
+    - **North Frisian:** ånert — _Mooring_
+    - **North Frisian:** En — _Sylt_
+    - **Saterland Frisian:** Oante
+    - **Saterland Frisian:** Oande
+    - **West Frisian:** ein
+  - **Old Saxon:** anud
+    - **Middle Low German:** aned
+      - **German Low German:** Aant
+      - **Plautdietsch:** Ent
+    - **Middle Low German:** ēnde
+      - **German Low German:** Aant
+      - **Plautdietsch:** Ent
+  - **Old Dutch:** ened
+    - **Middle Dutch:** ent
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+    - **Middle Dutch:** eent
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+    - **Middle Dutch:** eynt
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+  - **Old High German:** enita
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+  - **Old High German:** aneta
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+  - **Old High German:** anut
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+- **Proto-West Germanic:** *anid
+  - **Old English:** ened
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** enid
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** æned
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old English:** ænid
+    - **Middle English:** ende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** enede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** hende
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** henede
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+    - **Middle English:** heynd
+      - **English:** ende
+      - **English:** annet
+      - **English:** annot
+      - **Scots:** ennet
+      - **Scots:** annet
+      - **Scots:** annot
+  - **Old Frisian:** *ened
+    - **North Frisian:** ånert — _Mooring_
+    - **North Frisian:** En — _Sylt_
+    - **Saterland Frisian:** Oante
+    - **Saterland Frisian:** Oande
+    - **West Frisian:** ein
+  - **Old Frisian:** *aned
+    - **North Frisian:** ånert — _Mooring_
+    - **North Frisian:** En — _Sylt_
+    - **Saterland Frisian:** Oante
+    - **Saterland Frisian:** Oande
+    - **West Frisian:** ein
+  - **Old Saxon:** anud
+    - **Middle Low German:** aned
+      - **German Low German:** Aant
+      - **Plautdietsch:** Ent
+    - **Middle Low German:** ēnde
+      - **German Low German:** Aant
+      - **Plautdietsch:** Ent
+  - **Old Dutch:** ened
+    - **Middle Dutch:** ent
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+    - **Middle Dutch:** eent
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+    - **Middle Dutch:** eynt
+      - **Dutch:** eend
+        - **Afrikaans:** eend
+  - **Old High German:** enita
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+  - **Old High German:** aneta
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+  - **Old High German:** anut
+    - **Middle High German:** ant
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+    - **Middle High German:** anet
+      - **Alemannic German:** Ant
+      - **Alemannic German:** Anete
+      - **Central Franconian:** 
+        - **Hunsrik:** Ent
+        - **Luxembourgish:** Int
+      - **German:** Ente
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Ent
+      - **Vilamovian:** ant
+- **Old Norse:** ǫnd
+  - **Icelandic:** önd
+  - **Faroese:** ont
+  - **Norwegian Nynorsk:** and
+  - **Norwegian Nynorsk:** ond
+  - **Norwegian:** ònd
+  - **Norwegian:** ånd
+  - **Norwegian:** ønd
+  - **Norwegian:** ånt
+  - **Norwegian Bokmål:** and
+  - **Old Swedish:** and
+    - **Swedish:** and
+  - **Old Danish:** *and
+    - **Danish:** and
+- **Old Norse:** ǫnn
+  - **Icelandic:** önd
+  - **Faroese:** ont
+  - **Norwegian Nynorsk:** and
+  - **Norwegian Nynorsk:** ond
+  - **Norwegian:** ònd
+  - **Norwegian:** ånd
+  - **Norwegian:** ønd
+  - **Norwegian:** ånt
+  - **Norwegian Bokmål:** and
+  - **Old Swedish:** and
+    - **Swedish:** and
+  - **Old Danish:** *and
+    - **Danish:** and

@@ -1,0 +1,258 @@
+# *skup-
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/skup-)
+
+## Proto-Germanic
+
+**Reconstruction:** *skup-
+
+### Etymology
+
+From Proto-Indo-European *skub-, *skup-, *skupn- (“to curve, bow, vault”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *skub-
+
+### Pronunciation
+
+- IPA: `/ˈskup/`
+
+### Noun
+
+1. _(reconstruction)_ A stem found in various derivatives meaning: barn, shed
+
+### Germanic descendants
+
+- **Old English:** sċoppa
+  - **Middle English:** schoppe
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schüpene
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schipne
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schepne
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+- **Old English:** sċeoppa
+  - **Middle English:** schoppe
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schüpene
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schipne
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schepne
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+- **Old English:** sċypen
+  - **Middle English:** schoppe
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schüpene
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schipne
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+  - **Middle English:** schepne
+    - **Scots:** schop
+    - **Scots:** schap
+    - **Scots:** chop
+    - **Scots:** chope
+    - **English:** shoppe
+    - **English:** shop
+    - **English:** shippen
+    - **English:** shippon
+- **Old Saxon:** *skoppa
+  - **Middle Low German:** schoppe — _m or f_
+    - **German Low German:** Schuppen
+    - **Plautdietsch:** Schaup
+- **Old Dutch:** *skoppa
+  - **Middle Dutch:** scoppe
+    - **Dutch:** schop
+  - **Middle Dutch:** schoppe
+    - **Dutch:** schop
+  - **Middle Dutch:** scop
+    - **Dutch:** schop
+- **Old High German:** scupfa
+  - **Middle High German:** schupfe
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schopf
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schober
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+- **Old High German:** scupha
+  - **Middle High German:** schupfe
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schopf
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schober
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+- **Old High German:** skopf
+  - **Middle High German:** schupfe
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schopf
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schober
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+- **Old High German:** scoph
+  - **Middle High German:** schupfe
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schopf
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schober
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+- **Old High German:** scobar
+  - **Middle High German:** schupfe
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schopf
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober
+  - **Middle High German:** schober
+    - **Bavarian:** Schupfa
+    - **Bavarian:** Schupfn
+    - **German:** Schupfen
+    - **German:** Schuppen
+    - **German:** Schopf
+    - **German:** Schober

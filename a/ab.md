@@ -1,0 +1,768 @@
+# *ab
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ab)
+
+## Proto-Germanic
+
+**Reconstruction:** *ab
+
+### Etymology
+
+From Proto-Indo-European *h₂epó.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂epó
+
+### Pronunciation
+
+- IPA: `/ˈɑβ/`
+
+### Preposition
+
+1. _(reconstruction)_ away from, off of
+2. _(reconstruction)_ of
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| *aba | alternative |
+| *af | alternative |
+| *afa | alternative |
+
+</details>
+
+### Adverb
+
+1. _(reconstruction)_ away
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| *aba | alternative |
+| *af | alternative |
+| *afa | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ab(a)
+  - **Old English:** æf
+    - **Middle English:** of
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** ofe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** offe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** of
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ofe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** offe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** hof
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ove
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ob
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** om
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** oþ — _before b; m; þ_
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+  - **Old English:** of
+    - **Middle English:** of
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** ofe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** offe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** of
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ofe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** offe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** hof
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ove
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ob
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** om
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** oþ — _before b; m; þ_
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+  - **Old English:** ob — _before b_
+    - **Middle English:** of
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** ofe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** offe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** of
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ofe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** offe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** hof
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ove
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ob
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** om
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** oþ — _before b; m; þ_
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+  - **Old Frisian:** af
+    - **Saterland Frisian:** oawe
+    - **Saterland Frisian:** ou
+    - **West Frisian:** af
+    - **West Frisian:** ôf
+  - **Old Frisian:** of
+    - **Saterland Frisian:** oawe
+    - **Saterland Frisian:** ou
+    - **West Frisian:** af
+    - **West Frisian:** ôf
+  - **Old Saxon:** af
+    - **Middle Low German:** af
+      - **Low German:** af
+      - **Low German:** of
+      - **Plautdietsch:** auf
+  - **Old Dutch:** ava
+    - **Middle Dutch:** ave
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+    - **Middle Dutch:** af
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+  - **Old Dutch:** af-
+    - **Middle Dutch:** ave
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+    - **Middle Dutch:** af
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+  - **Old High German:** aba
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+  - **Old High German:** ab
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+  - **Old High German:** ava
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+  - **Old High German:** af
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+- **Proto-West Germanic:** *af(a)
+  - **Old English:** æf
+    - **Middle English:** of
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** ofe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** offe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** of
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ofe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** offe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** hof
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ove
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ob
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** om
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** oþ — _before b; m; þ_
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+  - **Old English:** of
+    - **Middle English:** of
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** ofe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** offe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** of
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ofe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** offe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** hof
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ove
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ob
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** om
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** oþ — _before b; m; þ_
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+  - **Old English:** ob — _before b_
+    - **Middle English:** of
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** ofe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** offe
+      - **English:** off
+      - **Scots:** aff
+    - **Middle English:** of
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ofe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** offe
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** hof
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ove
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** ob
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** om
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+    - **Middle English:** oþ — _before b; m; þ_
+      - **English:** of
+      - **Scots:** o
+      - **Scots:** o'
+      - **Yola:** ov
+      - **Yola:** of
+      - **Yola:** af
+      - **Yola:** av
+  - **Old Frisian:** af
+    - **Saterland Frisian:** oawe
+    - **Saterland Frisian:** ou
+    - **West Frisian:** af
+    - **West Frisian:** ôf
+  - **Old Frisian:** of
+    - **Saterland Frisian:** oawe
+    - **Saterland Frisian:** ou
+    - **West Frisian:** af
+    - **West Frisian:** ôf
+  - **Old Saxon:** af
+    - **Middle Low German:** af
+      - **Low German:** af
+      - **Low German:** of
+      - **Plautdietsch:** auf
+  - **Old Dutch:** ava
+    - **Middle Dutch:** ave
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+    - **Middle Dutch:** af
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+  - **Old Dutch:** af-
+    - **Middle Dutch:** ave
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+    - **Middle Dutch:** af
+      - **Dutch:** af
+        - **Afrikaans:** af
+      - **Limburgish:** aaf
+      - **Limburgish:** aof
+      - **West Flemish:** of
+  - **Old High German:** aba
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+  - **Old High German:** ab
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+  - **Old High German:** ava
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+  - **Old High German:** af
+    - **Middle High German:** abe
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ab
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** ave
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+    - **Middle High German:** af
+      - **German:** ab
+        - **Norwegian Bokmål:** ab
+      - **Luxembourgish:** of
+      - **Yiddish:** אָפּ
+- **Proto-Norse:** *ᚨᛒ
+  - **Old Norse:** af
+    - **Icelandic:** af
+    - **Faroese:** av
+    - **Norwegian Nynorsk:** av
+    - **Norwegian Bokmål:** av
+    - **Norn:** av
+    - **Elfdalian:** åv
+    - **Old Swedish:** af
+      - **Swedish:** av
+      - **Swedish:** af — _pre-1906 spelling; remains in surnames_
+    - **Old Swedish:** āf
+      - **Swedish:** av
+      - **Swedish:** af — _pre-1906 spelling; remains in surnames_
+    - **Old Swedish:** aff
+      - **Swedish:** av
+      - **Swedish:** af — _pre-1906 spelling; remains in surnames_
+    - **Danish:** af
+- **Gothic:** 𐌰𐍆

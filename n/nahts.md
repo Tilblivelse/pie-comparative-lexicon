@@ -1,0 +1,744 @@
+# *nahts
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/nahts)
+
+## Proto-Germanic
+
+**Reconstruction:** *nahts
+
+### Etymology
+
+From earlier *nókts, from Proto-Indo-European *nókʷts (“night”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *nókʷts
+
+### Pronunciation
+
+- IPA: `/ˈnɑxts/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ night
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| nahts | nominative, singular |
+| nahtiz | nominative, plural |
+| naht | singular, vocative |
+| nahtiz | plural, vocative |
+| nahtų | accusative, singular |
+| nahtunz | accusative, plural |
+| nahtiz | genitive, singular |
+| nahtǫ̂ | genitive, plural |
+| nahti | dative, singular |
+| nahtumaz | dative, plural |
+| nahtē | instrumental, singular |
+| nahtumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *naht
+  - **Old English:** niht
+    - **Middle English:** nyght
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** naht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** night
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nighte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyghte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyhte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+  - **Old English:** næht — _Anglian_
+    - **Middle English:** nyght
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** naht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** night
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nighte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyghte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyhte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+  - **Old English:** neaht
+    - **Middle English:** nyght
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** naht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** night
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nighte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyghte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyhte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+  - **Old English:** nieht
+    - **Middle English:** nyght
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** naht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** night
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nighte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyghte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyhte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+  - **Old English:** neht
+    - **Middle English:** nyght
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** naht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** night
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nighte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyghte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyhte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+  - **Old English:** nyht — _some forms continue inflected *nahti_
+    - **Middle English:** nyght
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** naht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** night
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nighte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** niht
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyghte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝt
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyȝte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+    - **Middle English:** nyhte
+      - **English:** night
+      - **English:** nite — _informal spelling_
+      - **English:** neet — _Yorkshire; archaic_
+      - **Geordie:** neet
+      - **Scots:** nicht
+      - **Scots:** neicht
+      - **Yola:** neeght
+      - **Yola:** nieght
+      - **Yola:** nyeght
+  - **Old Frisian:** nacht
+    - **North Frisian:** 
+    - **Saterland Frisian:** Noacht
+    - **West Frisian:** nacht
+  - **Old Saxon:** naht
+    - **Middle Low German:** nacht
+      - **Low German:** 
+        - **Dutch Low Saxon:** nacht
+        - **German Low German:** Nacht
+      - **Plautdietsch:** Nacht
+  - **Old Saxon:** nacht
+    - **Middle Low German:** nacht
+      - **Low German:** 
+        - **Dutch Low Saxon:** nacht
+        - **German Low German:** Nacht
+      - **Plautdietsch:** Nacht
+  - **Old Dutch:** naht
+    - **Middle Dutch:** nacht
+      - **Dutch:** nacht
+        - **Afrikaans:** nag
+      - **Limburgish:** nach
+      - **West Flemish:** nacht
+  - **Old High German:** naht
+    - **Middle High German:** naht
+      - **Alemannic German:** 
+        - **Alsatian:** Nàcht
+        - **Swabian:** Nachd
+      - **Bavarian:** 
+      - **German:** Nacht
+      - **Pennsylvania German:** Nacht
+      - **Hunsrik:** Nacht
+      - **Hunsrik:** naacht
+      - **Luxembourgish:** Nuecht
+      - **Luxembourgish:** Nuet
+      - **Vilamovian:** naocht
+      - **Yiddish:** נאַכט
+- **Old Norse:** nátt
+  - **Icelandic:** nátt
+  - **Icelandic:** nótt
+  - **Faroese:** nátt
+  - **Norwegian Nynorsk:** natt
+  - **Norwegian Nynorsk:** nått
+  - **Norwegian Nynorsk:** nott — _dialectal_
+  - **Norwegian Nynorsk:** nótt
+  - **Norwegian Nynorsk:** nætt
+  - **Norwegian Nynorsk:** nat
+  - **Elfdalian:** ną̊t
+  - **Old Swedish:** nāt
+    - **Swedish:** natt
+  - **Old Danish:** nāt
+    - **Danish:** nat
+      - **Norwegian Bokmål:** natt
+    - **Scanian:** nøtt
+  - **Gutnish:** nat
+- **Old Norse:** nǫ́tt
+  - **Icelandic:** nátt
+  - **Icelandic:** nótt
+  - **Faroese:** nátt
+  - **Norwegian Nynorsk:** natt
+  - **Norwegian Nynorsk:** nått
+  - **Norwegian Nynorsk:** nott — _dialectal_
+  - **Norwegian Nynorsk:** nótt
+  - **Norwegian Nynorsk:** nætt
+  - **Norwegian Nynorsk:** nat
+  - **Elfdalian:** ną̊t
+  - **Old Swedish:** nāt
+    - **Swedish:** natt
+  - **Old Danish:** nāt
+    - **Danish:** nat
+      - **Norwegian Bokmål:** natt
+    - **Scanian:** nøtt
+  - **Gutnish:** nat
+- **Old Norse:** nótt — _later form_
+  - **Icelandic:** nátt
+  - **Icelandic:** nótt
+  - **Faroese:** nátt
+  - **Norwegian Nynorsk:** natt
+  - **Norwegian Nynorsk:** nått
+  - **Norwegian Nynorsk:** nott — _dialectal_
+  - **Norwegian Nynorsk:** nótt
+  - **Norwegian Nynorsk:** nætt
+  - **Norwegian Nynorsk:** nat
+  - **Elfdalian:** ną̊t
+  - **Old Swedish:** nāt
+    - **Swedish:** natt
+  - **Old Danish:** nāt
+    - **Danish:** nat
+      - **Norwegian Bokmål:** natt
+    - **Scanian:** nøtt
+  - **Gutnish:** nat
+- **Gothic:** 𐌽𐌰𐌷𐍄𐍃

@@ -1,0 +1,559 @@
+# *fra-
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/fra-)
+
+## Proto-Germanic
+
+**Reconstruction:** *fra-
+
+### Etymology
+
+From Proto-Indo-European *pro- (“before, in front of”). Cognate with Ancient Greek πρό- (pró-, “in front of”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *pro-
+
+### Prefix
+
+1. _(morpheme, reconstruction)_ off, away
+2. _(morpheme, reconstruction)_ completely, fully, up
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *fra-
+  - **Old English:** for-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** far-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fer-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fær-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fier-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fyr-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old Frisian:** for-
+    - **Saterland Frisian:** fer-
+    - **West Frisian:** for-
+    - **West Frisian:** fer-
+  - **Old Saxon:** far-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** fir-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** for-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Dutch:** far-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** for-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** fer-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old High German:** far-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+  - **Old High German:** fir-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+- **Proto-West Germanic:** *far-
+  - **Old English:** for-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** far-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fer-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fær-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fier-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fyr-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old Frisian:** for-
+    - **Saterland Frisian:** fer-
+    - **West Frisian:** for-
+    - **West Frisian:** fer-
+  - **Old Saxon:** far-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** fir-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** for-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Dutch:** far-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** for-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** fer-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old High German:** far-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+  - **Old High German:** fir-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+- **Proto-West Germanic:** *fur-
+  - **Old English:** for-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** far-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fer-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fær-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fier-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fyr-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old Frisian:** for-
+    - **Saterland Frisian:** fer-
+    - **West Frisian:** for-
+    - **West Frisian:** fer-
+  - **Old Saxon:** far-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** fir-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** for-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Dutch:** far-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** for-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** fer-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old High German:** far-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+  - **Old High German:** fir-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+- **Proto-West Germanic:** *fir-
+  - **Old English:** for-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** far-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fer-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fær-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fier-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old English:** fyr-
+    - **Middle English:** for-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** far-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** fer-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** vor-
+      - **English:** for-
+      - **Scots:** for-
+    - **Middle English:** ver-
+      - **English:** for-
+      - **Scots:** for-
+  - **Old Frisian:** for-
+    - **Saterland Frisian:** fer-
+    - **West Frisian:** for-
+    - **West Frisian:** fer-
+  - **Old Saxon:** far-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** fir-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Saxon:** for-
+    - **Middle Low German:** vor-
+      - **Low German:** for-
+      - **Low German:** ver-
+  - **Old Dutch:** far-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** for-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old Dutch:** fer-
+    - **Middle Dutch:** ver-
+      - **Dutch:** ver-
+  - **Old High German:** far-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+  - **Old High German:** fir-
+    - **Middle High German:** ver-
+      - **German:** ver-
+      - **Yiddish:** פֿאַר־
+- **Old Norse:** for-
+  - **Icelandic:** for-
+  - **Norwegian:** for-
+  - **Swedish:** för-
+  - **Danish:** for-
+- **Old Norse:** fyr-
+  - **Icelandic:** for-
+  - **Norwegian:** for-
+  - **Swedish:** för-
+  - **Danish:** for-
+- **Old Norse:** fir-
+  - **Icelandic:** for-
+  - **Norwegian:** for-
+  - **Swedish:** för-
+  - **Danish:** for-
+- **Gothic:** 𐍆𐍂𐌰-

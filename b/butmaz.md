@@ -1,0 +1,616 @@
+# *butmaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/butmaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *butmaz
+
+### Etymology
+
+From Proto-Indo-European *bʰudʰmḗn, genitive form *bʰudʰmnós. According to Kroonen, the *-m- had been dissimilated in the genitive already in Proto-Indo-European (see the asno rule), giving Sanskrit बुध्न (budhna) and Latin fundus, which in combination with Kluge's law resulted in an early Proto-Germanic paradigm of *budm-, *butt-, then giving rise to other variants. Doublet of *buttaz (“end-piece”) according to this theory.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *bʰudʰmḗn
+
+### Pronunciation
+
+- IPA: `/ˈbut.mɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ bottom; foundation
+2. _(masculine, reconstruction)_ ground
+3. _(masculine, reconstruction)_ abyss
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| butmaz | nominative, singular |
+| butmōz | nominative, plural |
+| butmōs | nominative, plural |
+| butm | singular, vocative |
+| butmōz | plural, vocative |
+| butmōs | plural, vocative |
+| butmą | accusative, singular |
+| butmanz | accusative, plural |
+| butmas | genitive, singular |
+| butmis | genitive, singular |
+| butmǫ̂ | genitive, plural |
+| butmai | dative, singular |
+| butmamaz | dative, plural |
+| butmō | instrumental, singular |
+| butmamiz | instrumental, plural |
+| *budmaz | alternative |
+| *budmô | alternative |
+| *buttmô | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *botm
+  - **Old English:** bodan
+  - **Old English:** botm
+    - **Middle English:** botme
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botom
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botome
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bothom
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bothum
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botham
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bothme
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botym
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bottum
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** butme
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** boþem
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+  - **Old Frisian:** bodem
+    - **North Frisian:** bom
+    - **Saterland Frisian:** Boudem
+    - **West Frisian:** beame
+    - **West Frisian:** boaiem
+    - **West Frisian:** boom
+  - **Old Frisian:** boden
+    - **North Frisian:** bom
+    - **Saterland Frisian:** Boudem
+    - **West Frisian:** beame
+    - **West Frisian:** boaiem
+    - **West Frisian:** boom
+  - **Old Saxon:** bodom
+    - **Middle Low German:** bōdeme
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** bodem
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** boddeme
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** boddem
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** bodden
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+  - **Old Dutch:** *bodom
+    - **Middle Dutch:** bodem
+      - **Dutch:** bodem
+        - **Afrikaans:** bodem
+      - **Dutch:** boom — _obsolete_
+        - **Afrikaans:** bodem
+      - **Dutch:** boôm — _obsolete_
+        - **Afrikaans:** bodem
+      - **Limburgish:** boeadem
+      - **Limburgish:** baom
+  - **Old High German:** bodam
+    - **Middle High German:** bodem
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+    - **Middle High German:** boden
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+  - **Old High German:** podam
+    - **Middle High German:** bodem
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+    - **Middle High German:** boden
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+- **Proto-West Germanic:** *bodm
+  - **Old English:** bodan
+  - **Old English:** botm
+    - **Middle English:** botme
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botom
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botome
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bothom
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bothum
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botham
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bothme
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** botym
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** bottum
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** butme
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+    - **Middle English:** boþem
+      - **English:** bottom
+        - **Dutch:** bottom — _borrowed_
+      - **English:** botton — _dialectal_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** bottome — _obsolete_
+        - **Dutch:** bottom — _borrowed_
+      - **English:** buttom — _misspelling_
+        - **Dutch:** bottom — _borrowed_
+      - **Scots:** boddem
+      - **Scots:** boddum
+      - **Scots:** boddam
+      - **Scots:** boddom
+      - **Scots:** bottome
+      - **Yola:** bothom
+      - **Middle English:** bum — _reshaped by analogy or addition of morphemes; syncopated_
+        - **English:** bum
+        - **Scots:** bum
+  - **Old Frisian:** bodem
+    - **North Frisian:** bom
+    - **Saterland Frisian:** Boudem
+    - **West Frisian:** beame
+    - **West Frisian:** boaiem
+    - **West Frisian:** boom
+  - **Old Frisian:** boden
+    - **North Frisian:** bom
+    - **Saterland Frisian:** Boudem
+    - **West Frisian:** beame
+    - **West Frisian:** boaiem
+    - **West Frisian:** boom
+  - **Old Saxon:** bodom
+    - **Middle Low German:** bōdeme
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** bodem
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** boddeme
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** boddem
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+    - **Middle Low German:** bodden
+      - **German Low German:** Bodden
+      - **German Low German:** Borrn
+      - **German Low German:** Baam
+      - **Plautdietsch:** Boddem
+  - **Old Dutch:** *bodom
+    - **Middle Dutch:** bodem
+      - **Dutch:** bodem
+        - **Afrikaans:** bodem
+      - **Dutch:** boom — _obsolete_
+        - **Afrikaans:** bodem
+      - **Dutch:** boôm — _obsolete_
+        - **Afrikaans:** bodem
+      - **Limburgish:** boeadem
+      - **Limburgish:** baom
+  - **Old High German:** bodam
+    - **Middle High German:** bodem
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+    - **Middle High German:** boden
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+  - **Old High German:** podam
+    - **Middle High German:** bodem
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+    - **Middle High German:** boden
+      - **German:** Boden
+      - **Hunsrik:** Boddem
+      - **Luxembourgish:** Buedem
+      - **Vilamovian:** bödum
+- **Old Norse:** botn
+  - **Icelandic:** botn
+  - **Faroese:** botnur
+  - **Norwegian Nynorsk:** botn
+    - **Norwegian Bokmål:** botn — _borrowed_
+  - **Norwegian Bokmål:** bånn
+  - **Old Swedish:** butn
+    - **Swedish:** botten
+  - **Old Swedish:** botn
+    - **Swedish:** botten
+  - **Old Danish:** botn
+    - **Danish:** bund
+      - **Norwegian Bokmål:** bunn
+  - **Old Danish:** bon
+    - **Danish:** bund
+      - **Norwegian Bokmål:** bunn
+  - **Elfdalian:** buottn
+  - **Gutnish:** buttn
+  - **Scanian:** bónð

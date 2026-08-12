@@ -1,0 +1,837 @@
+# *kāsijaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/k%C4%81sijaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *kāsijaz
+
+### Etymology
+
+Borrowed from Latin cāseus.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Noun
+
+1. _(error-unknown-tag, masculine, reconstruction)_ cheese
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ja-stem | class |
+| kāsijaz | nominative, singular |
+| kāsijōz | nominative, plural |
+| kāsijōs | nominative, plural |
+| kāsī | singular, vocative |
+| kāsijōz | plural, vocative |
+| kāsijōs | plural, vocative |
+| kāsiją | accusative, singular |
+| kāsijanz | accusative, plural |
+| kāsijas | genitive, singular |
+| kāsīs | genitive, singular |
+| kāsijǫ̂ | genitive, plural |
+| kāsijai | dative, singular |
+| kāsijamaz | dative, plural |
+| kāsijō | instrumental, singular |
+| kāsijamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *kāsī
+  - **Old English:** ċīese
+    - **Middle English:** chese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chesse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheys
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chiese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chise
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cæse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** ceose
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cuse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cyse — _Early Middle English_
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+  - **Old English:** ċīse — _Early West Saxon_
+    - **Middle English:** chese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chesse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheys
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chiese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chise
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cæse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** ceose
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cuse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cyse — _Early Middle English_
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+  - **Old English:** ċȳse
+    - **Middle English:** chese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chesse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheys
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chiese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chise
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cæse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** ceose
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cuse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cyse — _Early Middle English_
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+  - **Old English:** ċȳsa — _Late West Saxon_
+    - **Middle English:** chese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chesse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheys
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chiese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chise
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cæse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** ceose
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cuse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cyse — _Early Middle English_
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+  - **Old English:** ċēse — _Anglian; late Kentish_
+    - **Middle English:** chese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chesse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheys
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chiese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chise
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cæse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** ceose
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cuse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cyse — _Early Middle English_
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+  - **Old English:** ċǣse — _Kentish_
+    - **Middle English:** chese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chesse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cheys
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chiese
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** chise
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cæse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** ceose
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cuse
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+    - **Middle English:** cyse — _Early Middle English_
+      - **English:** cheese
+      - **Middle Scots:** cheis
+        - **Scots:** cheese
+      - **Middle Scots:** cheys
+        - **Scots:** cheese
+      - **Middle Scots:** scheis
+        - **Scots:** cheese
+      - **Middle Scots:** sches
+        - **Scots:** cheese
+      - **Middle Scots:** schis
+        - **Scots:** cheese
+  - **Old Frisian:** tzīse
+    - **North Frisian:** 
+    - **East Frisian:** 
+    - **West Frisian:** tsiis
+    - **West Frisian:** tsjiis
+  - **Old Frisian:** *tzēse
+    - **North Frisian:** 
+    - **East Frisian:** 
+    - **West Frisian:** tsiis
+    - **West Frisian:** tsjiis
+  - **Old Saxon:** kāsi
+    - **Middle Low German:** kêse
+      - **Low German:** Käse
+        - **Dutch Low Saxon:** keze
+        - **German Low German:** Kees
+      - **Plautdietsch:** Kjees
+  - **Old Dutch:** *cāsi
+    - **Middle Dutch:** câse
+      - **Dutch:** kaas
+        - **Afrikaans:** kaas
+      - **Limburgish:** kieës
+      - **Limburgish:** kees
+    - **Middle Dutch:** kese — _eastern_
+      - **Dutch:** kaas
+        - **Afrikaans:** kaas
+      - **Limburgish:** kieës
+      - **Limburgish:** kees
+  - **Old High German:** kāsi
+    - **Middle High German:** kæse
+      - **Alemannic German:** Chääs
+      - **Alemannic German:** Chees
+      - **Alemannic German:** Chèès
+      - **Bavarian:** Kas
+      - **Bavarian:** Kaas
+      - **East Franconian:** Kaas
+      - **East Franconian:** Kees
+      - **German:** Käse
+      - **Hunsrik:** Kees
+      - **Kölsch:** Kies
+      - **Luxembourgish:** Kéis
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kȳz
+      - **Yiddish:** קעז
+  - **Old High German:** chāsi
+    - **Middle High German:** kæse
+      - **Alemannic German:** Chääs
+      - **Alemannic German:** Chees
+      - **Alemannic German:** Chèès
+      - **Bavarian:** Kas
+      - **Bavarian:** Kaas
+      - **East Franconian:** Kaas
+      - **East Franconian:** Kees
+      - **German:** Käse
+      - **Hunsrik:** Kees
+      - **Kölsch:** Kies
+      - **Luxembourgish:** Kéis
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kȳz
+      - **Yiddish:** קעז
+- **Old Norse:** kæsir
+  - **Icelandic:** kæsir
+  - **Norwegian Nynorsk:** kjese
+  - **Elfdalian:** kęse
+  - **Danish:** kæse

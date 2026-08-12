@@ -1,0 +1,1347 @@
+# *hrabnaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hrabnaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *hrabnaz
+
+### Etymology
+
+From Pre-Germanic *krobʰ-no-s, from a root *krobʰ- likely of onomatopoeic origin, similar to that of various words for corvids in various languages; compare Swedish korp.
+Older theories derived the word from a root Proto-Indo-European *ḱer-, whence also Latin corvus, Proto-Balto-Slavic *śárˀkāˀ. Regardless, these words share the same sound-symbolic logic as the Germanic.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *ḱer-
+
+### Pronunciation
+
+- IPA: `/ˈxrɑβ.nɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ raven
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| hrabnaz | nominative, singular |
+| hrabnōz | nominative, plural |
+| hrabnōs | nominative, plural |
+| hrabn | singular, vocative |
+| hrabnōz | plural, vocative |
+| hrabnōs | plural, vocative |
+| hrabną | accusative, singular |
+| hrabnanz | accusative, plural |
+| hrabnas | genitive, singular |
+| hrabnis | genitive, singular |
+| hrabnǫ̂ | genitive, plural |
+| hrabnai | dative, singular |
+| hrabnamaz | dative, plural |
+| hrabnō | instrumental, singular |
+| hrabnamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hrabn
+  - **Old English:** hræfn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hrefn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hræmn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hrem
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hremn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hræfen
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old Frisian:** ravan
+    - **Saterland Frisian:** Roave — _possibly from Middle Low German_
+    - **West Frisian:** raven
+  - **Old Saxon:** hravan
+    - **Middle Low German:** rāven
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāve
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāvene
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāmme
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+  - **Old Saxon:** hraƀan
+    - **Middle Low German:** rāven
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāve
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāvene
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāmme
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+  - **Old Saxon:** ravan
+    - **Middle Low German:** rāven
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāve
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāvene
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāmme
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+  - **Old Dutch:** ravan
+    - **Middle Dutch:** rāven
+      - **Dutch:** raaf
+  - **Old High German:** raban
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** hraban
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** hram
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** ram
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** rabo
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** rappo
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+- **Proto-West Germanic:** *hrabō
+  - **Old English:** hræfn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hrefn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hræmn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hrem
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hremn
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old English:** hræfen
+    - **Middle English:** raven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** reven
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+    - **Middle English:** revin
+      - **English:** raven
+      - **Scots:** ravin
+      - **Scots:** revin
+      - **Scots:** rawin
+  - **Old Frisian:** ravan
+    - **Saterland Frisian:** Roave — _possibly from Middle Low German_
+    - **West Frisian:** raven
+  - **Old Saxon:** hravan
+    - **Middle Low German:** rāven
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāve
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāvene
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāmme
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+  - **Old Saxon:** hraƀan
+    - **Middle Low German:** rāven
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāve
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāvene
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāmme
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+  - **Old Saxon:** ravan
+    - **Middle Low German:** rāven
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāve
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāvene
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+    - **Middle Low German:** rāmme
+      - **German Low German:** Raav
+      - **German Low German:** Roov
+      - **Plautdietsch:** Rowen
+  - **Old Dutch:** ravan
+    - **Middle Dutch:** rāven
+      - **Dutch:** raaf
+  - **Old High German:** raban
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** hraban
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** hram
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** ram
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** rabo
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+  - **Old High German:** rappo
+    - **Middle High German:** raben
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** ram
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rabe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rab
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rappe
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rapp
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+    - **Middle High German:** rauen — _plural; Niederrheinisch_
+      - **Alemannic German:** Rapp
+      - **Bavarian:** Råb
+      - **Central Franconian:** 
+      - **German:** Rabe
+      - **Rhine Franconian:** Rab
+      - **Rhine Franconian:** Ramm
+      - **Rhine Franconian:** Rapp
+      - **Yiddish:** ראָב
+- **Proto-Norse:** ᚺᚨᚱᚨᛒᚨᚾᚨᛉ
+  - **Old Norse:** hrafn
+    - **Icelandic:** hrafn
+    - **Faroese:** ravnur
+    - **Norwegian Nynorsk:** ramn
+    - **Norwegian Nynorsk:** rabn — _dialectal_
+    - **Norwegian Nynorsk:** rabm
+    - **Norwegian Nynorsk:** ravn
+    - **Old Swedish:** ramn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** rampn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** ramfn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** rafn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** raffn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** ram
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** rafner
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** ramner
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** hramn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Danish:** rafn
+      - **Danish:** ravn
+        - **Norwegian Bokmål:** ravn
+  - **Old Norse:** hramn
+    - **Icelandic:** hrafn
+    - **Faroese:** ravnur
+    - **Norwegian Nynorsk:** ramn
+    - **Norwegian Nynorsk:** rabn — _dialectal_
+    - **Norwegian Nynorsk:** rabm
+    - **Norwegian Nynorsk:** ravn
+    - **Old Swedish:** ramn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** rampn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** ramfn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** rafn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** raffn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** ram
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** rafner
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** ramner
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Swedish:** hramn
+      - **Swedish:** ramn
+      - **Swedish:** ramm
+      - **Swedish:** ram
+      - **Swedish:** raam — _historical_
+      - **Swedish:** rham
+      - **Swedish:** rambn
+      - **Swedish:** rampn
+      - **Swedish:** ravn
+      - **Swedish:** rafn
+      - **Swedish:** raffn
+    - **Old Danish:** rafn
+      - **Danish:** ravn
+        - **Norwegian Bokmål:** ravn
+- **Burgundian:** Franno

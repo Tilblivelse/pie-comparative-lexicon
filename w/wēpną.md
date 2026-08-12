@@ -1,0 +1,628 @@
+# *wēpną
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/w%C4%93pn%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *wēpną
+
+### Etymology
+
+Of uncertain origin.
+Based on the variant form *wēbną (whence Old Norse vámn, Old English wǣmn), Kroonen derives both from an earlier noun *wēbō, itself from an iterative verb *wappōną (“to wave, shake”) (whence Old English wafian (“to wave”), Old High German waben, wappen (“to waver, shake”), Dutch wapperen (“idem”)). Said verb is thought to be either sound-symbolic or related to Proto-Germanic *webaną (“to weave”).
+Other theories tentatively compare Tocharian B yepe (knife); if so, both may derive from a Proto-Indo-European form such as *wēbnom or *wēben.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Noun
+
+1. _(neuter, reconstruction)_ weapon
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| wēpną | nominative, singular |
+| wēpnō | nominative, plural |
+| wēpną | singular, vocative |
+| wēpnō | plural, vocative |
+| wēpną | accusative, singular |
+| wēpnō | accusative, plural |
+| wēpnas | genitive, singular |
+| wēpnis | genitive, singular |
+| wēpnǫ̂ | genitive, plural |
+| wēpnai | dative, singular |
+| wēpnamaz | dative, plural |
+| wēpnō | instrumental, singular |
+| wēpnamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *wāpn
+  - **Old English:** wǣpn
+    - **Middle English:** wepen
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepne
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepyn
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weapon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepene
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weppen — _Late Middle English_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapen
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapyn — _Northern_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weopne — _West Midland_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wæpenn — _Ormulum_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+  - **Old English:** wǣpen
+    - **Middle English:** wepen
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepne
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepyn
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weapon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepene
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weppen — _Late Middle English_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapen
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapyn — _Northern_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weopne — _West Midland_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wæpenn — _Ormulum_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+  - **Old English:** wǣmn
+    - **Middle English:** wepen
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepne
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepyn
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weapon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepene
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wepon
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weppen — _Late Middle English_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapen
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wapyn — _Northern_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** weopne — _West Midland_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+    - **Middle English:** wæpenn — _Ormulum_
+      - **English:** weapon
+      - **Middle Scots:** wapyn
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wapoun
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+      - **Middle Scots:** wappin
+        - **Scots:** wappen
+        - **Scots:** wappin
+        - **Scots:** weepon
+  - **Old Frisian:** *wāpin
+    - **North Frisian:** woopen
+    - **Saterland Frisian:** Woapen
+    - **West Frisian:** wapen
+  - **Old Frisian:** wēpin
+    - **North Frisian:** woopen
+    - **Saterland Frisian:** Woapen
+    - **West Frisian:** wapen
+  - **Old Saxon:** wāpan
+    - **Middle Low German:** wāpen
+      - **German Low German:** Wapen
+      - **German Low German:** Wopen
+      - **Middle High German:** wāpen — _borrowed_
+        - **German:** Wappen
+  - **Old Dutch:** wāpan
+    - **Middle Dutch:** wapen
+      - **Dutch:** wapen
+  - **Old High German:** wāfan
+    - **Middle High German:** wāfen
+      - **Alemannic German:** Waaffe
+      - **Central Franconian:** 
+        - **Hunsrik:** Waff
+        - **Luxembourgish:** Waff
+      - **German:** Waffe
+        - **German Low German:** Waffe — _borrowed_
+      - **Yiddish:** וואָפֿן
+    - **Middle High German:** wāpen
+      - **Alemannic German:** Waaffe
+      - **Central Franconian:** 
+        - **Hunsrik:** Waff
+        - **Luxembourgish:** Waff
+      - **German:** Waffe
+        - **German Low German:** Waffe — _borrowed_
+      - **Yiddish:** וואָפֿן
+- **Old Norse:** vápn
+  - **Icelandic:** vopn
+  - **Icelandic:** vokn
+  - **Faroese:** vápn
+  - **Faroese:** vákn
+  - **Norwegian Nynorsk:** våpn
+  - **Norwegian Nynorsk:** våpen
+  - **Norwegian Nynorsk:** våknhus — _reshaped by analogy or addition of morphemes_
+  - **Norwegian Nynorsk:** våkenhus — _reshaped by analogy or addition of morphemes_
+  - **Elfdalian:** wapen
+  - **Elfdalian:** waken-
+  - **Old Swedish:** vapn
+    - **Swedish:** vapen
+    - **Swedish:** vaken-
+    - **Swedish:** vång-
+  - **Old Swedish:** vakn
+    - **Swedish:** vapen
+    - **Swedish:** vaken-
+    - **Swedish:** vång-
+  - **Old Danish:** wāpn
+    - **Scanian:** vaben
+    - **Danish:** våben
+      - **Norwegian Bokmål:** våpen
+  - **Old Danish:** wākn
+    - **Scanian:** vaben
+    - **Danish:** våben
+      - **Norwegian Bokmål:** våpen
+  - **Old Gutnish:** vapn
+    - **Gutnish:** vapen
+  - **Northern Middle English:** wapen — _borrowed_
+    - **Middle Scots:** wapyn
+      - **Scots:** wappen
+      - **Scots:** wappin
+    - **Middle Scots:** wapoun
+      - **Scots:** wappen
+      - **Scots:** wappin
+    - **Middle Scots:** wappin
+      - **Scots:** wappen
+      - **Scots:** wappin
+- **Gothic:** 𐍅𐌴𐍀𐌽

@@ -1,0 +1,3344 @@
+# *arwīts
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/arw%C4%ABts)
+
+## Proto-Germanic
+
+**Reconstruction:** *arwīts
+
+### Etymology
+
+Possibly a substrate term related to Latin ervum (“bitter-vetch”), Ancient Greek ὄροβος (órobos, “bitter-vetch”), ἐρέβινθος (erébinthos, “chickpea”) and to Middle Armenian առուոյտ (aṙuoyt, “alfalfa”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Noun
+
+1. _(feminine, reconstruction)_ pea
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| arwīts | nominative, singular |
+| arwītiz | nominative, plural |
+| arwīt | singular, vocative |
+| arwītiz | plural, vocative |
+| arwītų | accusative, singular |
+| arwītunz | accusative, plural |
+| arwītiz | genitive, singular |
+| arwītǫ̂ | genitive, plural |
+| arwīti | dative, singular |
+| arwītumaz | dative, plural |
+| arwītē | instrumental, singular |
+| arwītumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *arwīt
+  - **Old Frisian:** *erit
+    - **Saterland Frisian:** Aate
+    - **West Frisian:** eart
+  - **Old Saxon:** eriwit
+    - **Middle Low German:** erwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwitte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arvete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** ērte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+  - **Old Saxon:** erit
+    - **Middle Low German:** erwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwitte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arvete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** ērte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+  - **Old Dutch:** *erwit
+    - **Middle Dutch:** erwete
+      - **Dutch:** erwt
+        - **Afrikaans:** ertjie
+      - **Dutch:** ert
+        - **Afrikaans:** ertjie
+  - **Old Dutch:** *erewit
+    - **Middle Dutch:** erwete
+      - **Dutch:** erwt
+        - **Afrikaans:** ertjie
+      - **Dutch:** ert
+        - **Afrikaans:** ertjie
+  - **Old High German:** arawīȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** araweiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** araweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** areweiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** areweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arewiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arewurȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** ariweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arwiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arwuȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erewiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erit
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erivit
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** eriwiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erwiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** harviȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** hereviȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+- **Proto-West Germanic:** *arwait
+  - **Old Frisian:** *erit
+    - **Saterland Frisian:** Aate
+    - **West Frisian:** eart
+  - **Old Saxon:** eriwit
+    - **Middle Low German:** erwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwitte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arvete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** ērte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+  - **Old Saxon:** erit
+    - **Middle Low German:** erwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwitte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arwete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erwte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** erfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arfte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** arvete
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+    - **Middle Low German:** ērte
+      - **German Low German:** Ervte
+      - **German Low German:** Arvte
+      - **German Low German:** Arvt
+      - **Plautdietsch:** Oaft
+  - **Old Dutch:** *erwit
+    - **Middle Dutch:** erwete
+      - **Dutch:** erwt
+        - **Afrikaans:** ertjie
+      - **Dutch:** ert
+        - **Afrikaans:** ertjie
+  - **Old Dutch:** *erewit
+    - **Middle Dutch:** erwete
+      - **Dutch:** erwt
+        - **Afrikaans:** ertjie
+      - **Dutch:** ert
+        - **Afrikaans:** ertjie
+  - **Old High German:** arawīȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** araweiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** araweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** areweiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** areweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arewiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arewurȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** ariweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arwiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** arwuȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erewiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erit
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erivit
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** eriwiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erweȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** erwiȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** harviȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+  - **Old High German:** hereviȥ
+    - **Middle High German:** erweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** erbeiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīs
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** arwīȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+    - **Middle High German:** areweiȥ
+      - **Bavarian:** Arbaiß
+        - **Cimbrian:** érbasa
+      - **Central Franconian:** Ääz
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Eerz — _Ripuarian_
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Arwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erwes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erbes
+        - **Luxembourgish:** Ierbes
+      - **Central Franconian:** Erres — _Moselle Franconian_
+        - **Luxembourgish:** Ierbes
+      - **German:** Erbse
+      - **Yiddish:** אַרבעס
+- **Old Norse:** ertr
+  - **Danish:** ært
+  - **Elfdalian:** ert
+  - **Faroese:** ertur
+  - **Icelandic:** erta
+  - **Norwegian Bokmål:** ert
+  - **Norwegian Nynorsk:** ert
+  - **Old Swedish:** ært
+    - **Swedish:** ärt
+    - **Swedish:** ärta

@@ -1,0 +1,541 @@
+# *gagin
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/gagin)
+
+## Proto-Germanic
+
+**Reconstruction:** *gagin
+
+### Etymology
+
+Sense 1 is of uncertain origin. Orel tentatively suggests the word to be a metathesized derivative of *ganganą (“to go, walk, step”).
+By surface analysis, *ga- (“with”) + *-gin (“not”), literally "not with" and therefore "against" someone or something. This is probably the source of Sense 2.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈɣɑ.ɣin/`
+
+### Preposition
+
+1. _(reconstruction)_ towards, in the direction of
+2. _(reconstruction)_ against
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *gagin
+  - **Old English:** ġeġn
+    - **Middle English:** gain
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+    - **Middle English:** ȝæn
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+  - **Old English:** gæġn
+    - **Middle English:** gain
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+    - **Middle English:** ȝæn
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+  - **Old English:** ġēan
+    - **Middle English:** gain
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+    - **Middle English:** ȝæn
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+  - **Old English:** ġēn
+    - **Middle English:** gain
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+    - **Middle English:** ȝæn
+      - **English:** gain — _obsolete_
+      - **Scots:** gain
+      - **Scots:** gin
+  - **Old Frisian:** jēn
+    - **North Frisian:** jen
+    - **North Frisian:** jien
+    - **Saterland Frisian:** juun
+    - **West Frisian:** jin
+      - **West Frisian:** tsjin — _reshaped by analogy or addition of morphemes_
+  - **Old Frisian:** jōn
+    - **North Frisian:** jen
+    - **North Frisian:** jien
+    - **Saterland Frisian:** juun
+    - **West Frisian:** jin
+      - **West Frisian:** tsjin — _reshaped by analogy or addition of morphemes_
+  - **Old Saxon:** gegin
+    - **Middle Low German:** gēgen
+      - **Low German:** giegen — _Münsterländisch_
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Low German:** gegen
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Plautdietsch:** jäajen
+    - **Middle Low German:** jēgen
+      - **Low German:** giegen — _Münsterländisch_
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Low German:** gegen
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Plautdietsch:** jäajen
+  - **Old Saxon:** gigin
+    - **Middle Low German:** gēgen
+      - **Low German:** giegen — _Münsterländisch_
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Low German:** gegen
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Plautdietsch:** jäajen
+    - **Middle Low German:** jēgen
+      - **Low German:** giegen — _Münsterländisch_
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Low German:** gegen
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Plautdietsch:** jäajen
+  - **Old Saxon:** gagan
+    - **Middle Low German:** gēgen
+      - **Low German:** giegen — _Münsterländisch_
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Low German:** gegen
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Plautdietsch:** jäajen
+    - **Middle Low German:** jēgen
+      - **Low German:** giegen — _Münsterländisch_
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Low German:** gegen
+        - **Low German:** tiegen — _Münsterländisch; reshaped by analogy or addition of morphemes_
+        - **Low German:** tegen — _reshaped by analogy or addition of morphemes_
+      - **Plautdietsch:** jäajen
+  - **Old Dutch:** gegin
+    - **Middle Dutch:** jegen
+      - **Middle Dutch:** tegen — _reshaped by analogy or addition of morphemes_
+        - **Dutch:** tegen
+          - **Afrikaans:** teen
+      - **Middle Dutch:** tjegen — _reshaped by analogy or addition of morphemes_
+        - **Dutch:** tegen
+          - **Afrikaans:** teen
+      - **Middle Dutch:** jeghens — _reshaped by analogy or addition of morphemes_
+        - **Dutch:** jegens
+          - **Afrikaans:** jeens
+    - **Middle Dutch:** jeghen
+      - **Middle Dutch:** tegen — _reshaped by analogy or addition of morphemes_
+        - **Dutch:** tegen
+          - **Afrikaans:** teen
+      - **Middle Dutch:** tjegen — _reshaped by analogy or addition of morphemes_
+        - **Dutch:** tegen
+          - **Afrikaans:** teen
+      - **Middle Dutch:** jeghens — _reshaped by analogy or addition of morphemes_
+        - **Dutch:** jegens
+          - **Afrikaans:** jeens
+  - **Old High German:** gagan
+    - **Middle High German:** gegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gagen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** jegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gein
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gēn
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+  - **Old High German:** gegin
+    - **Middle High German:** gegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gagen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** jegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gein
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gēn
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+  - **Old High German:** kagan
+    - **Middle High German:** gegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gagen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** jegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gein
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gēn
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+  - **Old High German:** kagen
+    - **Middle High German:** gegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gagen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** jegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gein
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gēn
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+  - **Old High German:** gagen
+    - **Middle High German:** gegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gagen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** jegen
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gein
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+    - **Middle High German:** gēn
+      - **Alemannic German:** gege
+      - **Cimbrian:** ghéghen
+      - **German:** gegen
+      - **Hunsrik:** geghe
+      - **Yiddish:** קעגן
+      - **Middle High German:** gein — _reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+      - **Middle High German:** gēn — _contraction; reshaped by analogy or addition of morphemes_
+        - **German:** gen — _literary; dated_
+        - **Yiddish:** קיין
+        - **Luxembourgish:** géint — _reshaped by analogy or addition of morphemes; with paragogic -t_
+- **Old Norse:** gegn
+  - **Icelandic:** gegn
+  - **Faroese:** gjøgn
+  - **Norwegian:** 
+    - **Norwegian Bokmål:** gjen-
+    - **Norwegian Nynorsk:** gjegn
+    - **Norwegian Nynorsk:** gjen-
+  - **Old Swedish:** gēn
+    - **Swedish:** gen-
+  - **Danish:** gen-
+  - **Middle English:** gayn — _borrowed_
+    - **English:** gain — _obsolete; dialectal_
+    - **Scots:** gain
+  - **Middle English:** geyn — _borrowed_
+    - **English:** gain — _obsolete; dialectal_
+    - **Scots:** gain
+  - **Middle English:** gein — _borrowed_
+    - **English:** gain — _obsolete; dialectal_
+    - **Scots:** gain
+  - **Middle English:** gain — _borrowed_
+    - **English:** gain — _obsolete; dialectal_
+    - **Scots:** gain
+  - **Middle English:** gayne — _borrowed_
+    - **English:** gain — _obsolete; dialectal_
+    - **Scots:** gain
+  - **Middle English:** gaine — _borrowed_
+    - **English:** gain — _obsolete; dialectal_
+    - **Scots:** gain
+  - **Old Norse:** gegnum — _reshaped by analogy or addition of morphemes_
+  - **Old Norse:** í gegn — _reshaped by analogy or addition of morphemes_
+    - **Faroese:** ígjøgn
+    - **Norwegian:** 
+    - **Norwegian:** igjen
+    - **Jamtish:** igjann
+    - **Old Swedish:** ī gēn
+      - **Swedish:** igen
+    - **Danish:** igen

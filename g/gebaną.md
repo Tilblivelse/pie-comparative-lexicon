@@ -1,0 +1,1060 @@
+# *gebaną
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/geban%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *gebaną
+
+### Etymology
+
+From Proto-Indo-European *gʰebʰ-e-ti, from *gʰebʰ- (“to give, move”) (traditionally *gʰabʰ-). Cognate with Latvian gãbtiês (“to snatch, grab, seize”), Lithuanian góbti (id.), Proto-Slavic *gabati (“to seize, take”) and Sanskrit गभस्ति (gábhasti, “arm, hand”).
+However, some Leiden scholars reject the existence of *gʰebʰ- without a laryngeal, reconstructing it as *gʰeHbʰ-, and therefore reject the appurtenance of Germanic *geb-. Kortlandt proposes to connect Proto-Indo-European *h₁ep- (“to seize”) and assumes it was prefixed in Proto-Germanic with *ga-; this is supported by Kroonen.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *gʰebʰ-, *gʰebʰ-e-ti, *h₁ep-
+
+### Pronunciation
+
+- IPA: `/ˈɣe.βɑ.nɑ̃/`
+
+### Verb
+
+1. _(reconstruction)_ to give (with dative object)
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| 5 | class |
+| gebō | active, first-person, indicative, singular |
+| gebaų | active, first-person, singular, subjunctive |
+| - | active, first-person, imperative, singular |
+| gebai | first-person, indicative, passive, singular |
+| - | first-person, passive, singular, subjunctive |
+| gibizi | active, indicative, second-person, singular |
+| gebaiz | active, second-person, singular, subjunctive |
+| geb | active, imperative, second-person, singular |
+| gebazai | indicative, passive, second-person, singular |
+| gebaizau | passive, second-person, singular, subjunctive |
+| gibidi | active, indicative, singular, third-person |
+| gebai | active, singular, subjunctive, third-person |
+| gebadau | active, imperative, singular, third-person |
+| gebadai | indicative, passive, singular, third-person |
+| gebaidau | passive, singular, subjunctive, third-person |
+| gebōz | active, dual, first-person, indicative |
+| gebaiw | active, dual, first-person, subjunctive |
+| - | active, dual, first-person, imperative |
+| - | dual, first-person, indicative, passive |
+| - | dual, first-person, passive, subjunctive |
+| gebadiz | active, dual, indicative, second-person |
+| gebaidiz | active, dual, second-person, subjunctive |
+| gebadiz | active, dual, imperative, second-person |
+| - | dual, indicative, passive, second-person |
+| - | dual, passive, second-person, subjunctive |
+| gebamaz | active, first-person, indicative, plural |
+| gebaim | active, first-person, plural, subjunctive |
+| - | active, first-person, imperative, plural |
+| gebandai | first-person, indicative, passive, plural |
+| gebaindau | first-person, passive, plural, subjunctive |
+| gibid | active, indicative, plural, second-person |
+| gebaid | active, plural, second-person, subjunctive |
+| gibid | active, imperative, plural, second-person |
+| gebandai | indicative, passive, plural, second-person |
+| gebaindau | passive, plural, second-person, subjunctive |
+| gebandi | active, indicative, plural, third-person |
+| gebain | active, plural, subjunctive, third-person |
+| gebandau | active, imperative, plural, third-person |
+| gebandai | indicative, passive, plural, third-person |
+| gebaindau | passive, plural, subjunctive, third-person |
+| gab | active, first-person, indicative, singular |
+| gēbį̄ | active, first-person, singular, subjunctive |
+| gaft | active, indicative, second-person, singular |
+| gēbīz | active, second-person, singular, subjunctive |
+| gab | active, indicative, singular, third-person |
+| gēbī | active, singular, subjunctive, third-person |
+| gēbū | active, dual, first-person, indicative |
+| gēbīw | active, dual, first-person, subjunctive |
+| gēbudiz | active, dual, indicative, second-person |
+| gēbīdiz | active, dual, second-person, subjunctive |
+| gēbum | active, first-person, indicative, plural |
+| gēbīm | active, first-person, plural, subjunctive |
+| gēbud | active, indicative, plural, second-person |
+| gēbīd | active, plural, second-person, subjunctive |
+| gēbun | active, indicative, plural, third-person |
+| gēbīn | active, plural, subjunctive, third-person |
+| gebandz | active, participle, present |
+| gebanaz | active, participle, past, subjunctive |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *geban
+  - **Old English:** ġiefan
+    - **Middle English:** yiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** yeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** given — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** gifen — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** geven — _reshaped by analogy or addition of morphemes; influenced by Old Norse gefa_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+  - **Old English:** ġifan — _West Saxon_
+    - **Middle English:** yiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** yeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** given — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** gifen — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** geven — _reshaped by analogy or addition of morphemes; influenced by Old Norse gefa_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+  - **Old English:** ġyfan — _Late West Saxon_
+    - **Middle English:** yiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** yeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** given — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** gifen — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** geven — _reshaped by analogy or addition of morphemes; influenced by Old Norse gefa_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+  - **Old English:** ġefan
+    - **Middle English:** yiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** yeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** given — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** gifen — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** geven — _reshaped by analogy or addition of morphemes; influenced by Old Norse gefa_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+  - **Old English:** ġeofan
+    - **Middle English:** yiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** yeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** given — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** gifen — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** geven — _reshaped by analogy or addition of morphemes; influenced by Old Norse gefa_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+  - **Old English:** ġiofan — _Anglian; Kentish_
+    - **Middle English:** yiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** ȝiven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** yeven
+      - **English:** yive
+      - **English:** yeve
+      - **Yola:** yie
+      - **Yola:** ye
+      - **Yola:** yive
+    - **Middle English:** given — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** gifen — _reshaped by analogy or addition of morphemes_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+    - **Middle English:** geven — _reshaped by analogy or addition of morphemes; influenced by Old Norse gefa_
+      - **English:** give
+      - **English:** gie
+      - **English:** gi'
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **Yola:** gee
+  - **Old Frisian:** jeva
+    - **North Frisian:** jiw — _Amrum_
+    - **North Frisian:** jiiw — _Föhr_
+    - **North Frisian:** jeewe — _Halligen; Mooring_
+    - **North Frisian:** iiv — _Sylt_
+    - **North Frisian:** gjiuwe — _Wiedingharde_
+    - **West Frisian:** jaan
+  - **Old Saxon:** gevan
+    - **Middle Low German:** geven
+      - **Low German:** geven
+      - **Low German:** gewen
+      - **Low German:** giäwen
+      - **Low German:** giewen
+      - **Plautdietsch:** jäwen
+  - **Old Saxon:** geƀan
+    - **Middle Low German:** geven
+      - **Low German:** geven
+      - **Low German:** gewen
+      - **Low German:** giäwen
+      - **Low German:** giewen
+      - **Plautdietsch:** jäwen
+  - **Old Dutch:** gevan
+    - **Middle Dutch:** gēven
+      - **Dutch:** geven
+        - **Afrikaans:** gee
+      - **Limburgish:** gaeve
+  - **Old High German:** gëban
+    - **Middle High German:** gëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gegëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gēn — _contraction_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** këben — _Bavarian; rare_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gëven — _Central Franconian_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+  - **Old High German:** këban
+    - **Middle High German:** gëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gegëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gēn — _contraction_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** këben — _Bavarian; rare_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gëven — _Central Franconian_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+  - **Old High German:** këpan — _chiefly Bavarian_
+    - **Middle High German:** gëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gegëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gēn — _contraction_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** këben — _Bavarian; rare_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gëven — _Central Franconian_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+  - **Old High German:** gëvan — _Central Franconian_
+    - **Middle High German:** gëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gegëben
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gēn — _contraction_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** këben — _Bavarian; rare_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+    - **Middle High German:** gëven — _Central Franconian_
+      - **Alemannic German:** gë
+      - **Alemannic German:** gua
+      - **Alemannic German:** gää
+      - **Alemannic German:** gea
+      - **Bavarian:** gebn
+      - **Central Franconian:** jevve
+      - **Central Franconian:** jenn
+      - **Central Franconian:** gewe
+      - **Central Franconian:** gewwe
+      - **Central Franconian:** genn
+      - **East Franconian:** geb
+      - **East Franconian:** gebe
+      - **East Franconian:** gewe
+      - **German:** geben
+      - **Rhine Franconian:** 
+      - **Vilamovian:** gaon
+      - **Vilamovian:** gann
+      - **Yiddish:** געבן
+- **Proto-Norse:** ᚷᛁᛒᚢ
+  - **Old Norse:** gefa
+    - **Icelandic:** gefa
+    - **Faroese:** geva
+    - **Norwegian Nynorsk:** gjeva
+    - **Norwegian Nynorsk:** gjeve
+    - **Norwegian Nynorsk:** gje — _dialectal_
+    - **Norwegian Nynorsk:** giva
+    - **Norwegian Nynorsk:** gjåvå
+    - **Elfdalian:** djävå
+    - **Old Swedish:** giva
+      - **Swedish:** giva
+    - **Old Swedish:** gæva
+      - **Swedish:** giva
+    - **Old Swedish:** giffua
+      - **Swedish:** giva
+    - **Old Swedish:** giffwa
+      - **Swedish:** giva
+    - **Danish:** give
+      - **Norwegian Bokmål:** gi — _obsolete_
+        - **Norwegian Nynorsk:** gi — _borrowed_
+      - **Norwegian Bokmål:** give
+        - **Norwegian Nynorsk:** gi — _borrowed_
+    - **Scanian:** gi
+      - **Hallandian:** ge
+    - **Gutnish:** giva
+    - **Gutnish:** gi
+    - **Middle English:** given — _borrowed; influenced by native Old English ġiefan_
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **English:** give
+  - **Old Norse:** ᚴᛅᚠ — _first/third singular past indicative; Runic form_
+    - **Icelandic:** gefa
+    - **Faroese:** geva
+    - **Norwegian Nynorsk:** gjeva
+    - **Norwegian Nynorsk:** gjeve
+    - **Norwegian Nynorsk:** gje — _dialectal_
+    - **Norwegian Nynorsk:** giva
+    - **Norwegian Nynorsk:** gjåvå
+    - **Elfdalian:** djävå
+    - **Old Swedish:** giva
+      - **Swedish:** giva
+    - **Old Swedish:** gæva
+      - **Swedish:** giva
+    - **Old Swedish:** giffua
+      - **Swedish:** giva
+    - **Old Swedish:** giffwa
+      - **Swedish:** giva
+    - **Danish:** give
+      - **Norwegian Bokmål:** gi — _obsolete_
+        - **Norwegian Nynorsk:** gi — _borrowed_
+      - **Norwegian Bokmål:** give
+        - **Norwegian Nynorsk:** gi — _borrowed_
+    - **Scanian:** gi
+      - **Hallandian:** ge
+    - **Gutnish:** giva
+    - **Gutnish:** gi
+    - **Middle English:** given — _borrowed; influenced by native Old English ġiefan_
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **English:** give
+  - **Old Norse:** ᚴᛅᚠᚢ — _third plural past indicative; Runic form_
+    - **Icelandic:** gefa
+    - **Faroese:** geva
+    - **Norwegian Nynorsk:** gjeva
+    - **Norwegian Nynorsk:** gjeve
+    - **Norwegian Nynorsk:** gje — _dialectal_
+    - **Norwegian Nynorsk:** giva
+    - **Norwegian Nynorsk:** gjåvå
+    - **Elfdalian:** djävå
+    - **Old Swedish:** giva
+      - **Swedish:** giva
+    - **Old Swedish:** gæva
+      - **Swedish:** giva
+    - **Old Swedish:** giffua
+      - **Swedish:** giva
+    - **Old Swedish:** giffwa
+      - **Swedish:** giva
+    - **Danish:** give
+      - **Norwegian Bokmål:** gi — _obsolete_
+        - **Norwegian Nynorsk:** gi — _borrowed_
+      - **Norwegian Bokmål:** give
+        - **Norwegian Nynorsk:** gi — _borrowed_
+    - **Scanian:** gi
+      - **Hallandian:** ge
+    - **Gutnish:** giva
+    - **Gutnish:** gi
+    - **Middle English:** given — _borrowed; influenced by native Old English ġiefan_
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **English:** give
+- **Proto-Norse:** ᚷᛡᚠ
+  - **Old Norse:** gefa
+    - **Icelandic:** gefa
+    - **Faroese:** geva
+    - **Norwegian Nynorsk:** gjeva
+    - **Norwegian Nynorsk:** gjeve
+    - **Norwegian Nynorsk:** gje — _dialectal_
+    - **Norwegian Nynorsk:** giva
+    - **Norwegian Nynorsk:** gjåvå
+    - **Elfdalian:** djävå
+    - **Old Swedish:** giva
+      - **Swedish:** giva
+    - **Old Swedish:** gæva
+      - **Swedish:** giva
+    - **Old Swedish:** giffua
+      - **Swedish:** giva
+    - **Old Swedish:** giffwa
+      - **Swedish:** giva
+    - **Danish:** give
+      - **Norwegian Bokmål:** gi — _obsolete_
+        - **Norwegian Nynorsk:** gi — _borrowed_
+      - **Norwegian Bokmål:** give
+        - **Norwegian Nynorsk:** gi — _borrowed_
+    - **Scanian:** gi
+      - **Hallandian:** ge
+    - **Gutnish:** giva
+    - **Gutnish:** gi
+    - **Middle English:** given — _borrowed; influenced by native Old English ġiefan_
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **English:** give
+  - **Old Norse:** ᚴᛅᚠ — _first/third singular past indicative; Runic form_
+    - **Icelandic:** gefa
+    - **Faroese:** geva
+    - **Norwegian Nynorsk:** gjeva
+    - **Norwegian Nynorsk:** gjeve
+    - **Norwegian Nynorsk:** gje — _dialectal_
+    - **Norwegian Nynorsk:** giva
+    - **Norwegian Nynorsk:** gjåvå
+    - **Elfdalian:** djävå
+    - **Old Swedish:** giva
+      - **Swedish:** giva
+    - **Old Swedish:** gæva
+      - **Swedish:** giva
+    - **Old Swedish:** giffua
+      - **Swedish:** giva
+    - **Old Swedish:** giffwa
+      - **Swedish:** giva
+    - **Danish:** give
+      - **Norwegian Bokmål:** gi — _obsolete_
+        - **Norwegian Nynorsk:** gi — _borrowed_
+      - **Norwegian Bokmål:** give
+        - **Norwegian Nynorsk:** gi — _borrowed_
+    - **Scanian:** gi
+      - **Hallandian:** ge
+    - **Gutnish:** giva
+    - **Gutnish:** gi
+    - **Middle English:** given — _borrowed; influenced by native Old English ġiefan_
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **English:** give
+  - **Old Norse:** ᚴᛅᚠᚢ — _third plural past indicative; Runic form_
+    - **Icelandic:** gefa
+    - **Faroese:** geva
+    - **Norwegian Nynorsk:** gjeva
+    - **Norwegian Nynorsk:** gjeve
+    - **Norwegian Nynorsk:** gje — _dialectal_
+    - **Norwegian Nynorsk:** giva
+    - **Norwegian Nynorsk:** gjåvå
+    - **Elfdalian:** djävå
+    - **Old Swedish:** giva
+      - **Swedish:** giva
+    - **Old Swedish:** gæva
+      - **Swedish:** giva
+    - **Old Swedish:** giffua
+      - **Swedish:** giva
+    - **Old Swedish:** giffwa
+      - **Swedish:** giva
+    - **Danish:** give
+      - **Norwegian Bokmål:** gi — _obsolete_
+        - **Norwegian Nynorsk:** gi — _borrowed_
+      - **Norwegian Bokmål:** give
+        - **Norwegian Nynorsk:** gi — _borrowed_
+    - **Scanian:** gi
+      - **Hallandian:** ge
+    - **Gutnish:** giva
+    - **Gutnish:** gi
+    - **Middle English:** given — _borrowed; influenced by native Old English ġiefan_
+      - **Scots:** gie
+      - **Scots:** geve
+      - **Scots:** gewe
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gefe
+      - **English:** give
+- **Gothic:** 𐌲𐌹𐌱𐌰𐌽

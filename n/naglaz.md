@@ -1,0 +1,893 @@
+# *naglaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/naglaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *naglaz
+
+### Etymology
+
+From Proto-Indo-European *h₃nṓgʰs (“nail”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₃nṓgʰs
+
+### Pronunciation
+
+- IPA: `/ˈnɑɣ.lɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ nail (on hands or feet)
+2. _(masculine, reconstruction)_ nail or peg used for fastening
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| naglaz | nominative, singular |
+| naglōz | nominative, plural |
+| naglōs | nominative, plural |
+| nagl | singular, vocative |
+| naglōz | plural, vocative |
+| naglōs | plural, vocative |
+| naglą | accusative, singular |
+| naglanz | accusative, plural |
+| naglas | genitive, singular |
+| naglis | genitive, singular |
+| naglǫ̂ | genitive, plural |
+| naglai | dative, singular |
+| naglamaz | dative, plural |
+| naglō | instrumental, singular |
+| naglamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *nagl
+  - **Old English:** næġl
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old English:** næġel
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old English:** neġl
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old English:** neġel
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old Frisian:** neil
+    - **North Frisian:** 
+    - **Saterland Frisian:** Nail
+    - **West Frisian:** neil
+  - **Old Frisian:** nīl
+    - **North Frisian:** 
+    - **Saterland Frisian:** Nail
+    - **West Frisian:** neil
+  - **Old Saxon:** nagal
+    - **Middle Low German:** nāgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+    - **Middle Low German:** nēgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+  - **Old Saxon:** *negil
+    - **Middle Low German:** nāgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+    - **Middle Low German:** nēgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+  - **Old Dutch:** *nagal
+    - **Middle Dutch:** nāgel
+      - **Dutch:** nagel
+        - **Afrikaans:** nael
+      - **Limburgish:** nagel
+  - **Old High German:** nagal
+    - **Middle High German:** nagel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nail
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nāl
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** negel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** neil
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+  - **Old High German:** negil
+    - **Middle High German:** nagel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nail
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nāl
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** negel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** neil
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+- **Proto-West Germanic:** *nagli
+  - **Old English:** næġl
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old English:** næġel
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old English:** neġl
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old English:** neġel
+    - **Middle English:** nayl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nail
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** nayll
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neil
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** neyl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** naylle
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næȝl
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+    - **Middle English:** næil — _Early Middle English_
+      - **English:** nail
+      - **Scots:** nail
+      - **Scots:** nale
+      - **Yola:** niel
+  - **Old Frisian:** neil
+    - **North Frisian:** 
+    - **Saterland Frisian:** Nail
+    - **West Frisian:** neil
+  - **Old Frisian:** nīl
+    - **North Frisian:** 
+    - **Saterland Frisian:** Nail
+    - **West Frisian:** neil
+  - **Old Saxon:** nagal
+    - **Middle Low German:** nāgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+    - **Middle Low German:** nēgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+  - **Old Saxon:** *negil
+    - **Middle Low German:** nāgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+    - **Middle Low German:** nēgel
+      - **Low German:** Någel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Noagel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Naogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Low German:** Nogel
+        - **German Low German:** Nagel
+        - **North Frisian:**  — _borrowed_
+      - **Plautdietsch:** Noagel
+  - **Old Dutch:** *nagal
+    - **Middle Dutch:** nāgel
+      - **Dutch:** nagel
+        - **Afrikaans:** nael
+      - **Limburgish:** nagel
+  - **Old High German:** nagal
+    - **Middle High German:** nagel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nail
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nāl
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** negel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** neil
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+  - **Old High German:** negil
+    - **Middle High German:** nagel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nail
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** nāl
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** negel
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+    - **Middle High German:** neil
+      - **Bavarian:** Någl
+      - **Central Franconian:** Nohl
+      - **Central Franconian:** Nähl
+      - **Central Franconian:** Näl
+      - **Central Franconian:** Nääl
+      - **Central Franconian:** Nahl
+      - **Central Franconian:** Nagel
+      - **German:** Nagel
+      - **Alemannic German:** Nagel
+      - **Yiddish:** נאָגל
+      - **Yiddish:** נאגיל — _Middle Yiddish; attested in Shemot Devarim_
+- **Old Norse:** nagl — _m_
+  - **Icelandic:** nögl — _f_
+  - **Icelandic:** nagli — _m_
+  - **Faroese:** naglur — _m_
+  - **Faroese:** negl — _f_
+  - **Faroese:** nøgl — _f_
+  - **Norwegian Nynorsk:** nagl — _m_
+  - **Norwegian Nynorsk:** nygla — _f_
+  - **Norwegian Nynorsk:** nugla — _f_
+  - **Norwegian Nynorsk:** naggel — _m_
+  - **Old Swedish:** naghl — _m_
+    - **Swedish:** nagel — _c_
+  - **Danish:** negl — _c_
+    - **Norwegian Bokmål:** negl — _m_
+  - **Elfdalian:** nagel — _m_
+  - **Gutnish:** nagel — _m_
+  - **Gutnish:** nagul — _m_
+- **Old Norse:** negl
+  - **Icelandic:** nögl — _f_
+  - **Icelandic:** nagli — _m_
+  - **Faroese:** naglur — _m_
+  - **Faroese:** negl — _f_
+  - **Faroese:** nøgl — _f_
+  - **Norwegian Nynorsk:** nagl — _m_
+  - **Norwegian Nynorsk:** nygla — _f_
+  - **Norwegian Nynorsk:** nugla — _f_
+  - **Norwegian Nynorsk:** naggel — _m_
+  - **Old Swedish:** naghl — _m_
+    - **Swedish:** nagel — _c_
+  - **Danish:** negl — _c_
+    - **Norwegian Bokmål:** negl — _m_
+  - **Elfdalian:** nagel — _m_
+  - **Gutnish:** nagel — _m_
+  - **Gutnish:** nagul — _m_
+- **Old Norse:** nagli — _m_
+  - **Icelandic:** nögl — _f_
+  - **Icelandic:** nagli — _m_
+  - **Faroese:** naglur — _m_
+  - **Faroese:** negl — _f_
+  - **Faroese:** nøgl — _f_
+  - **Norwegian Nynorsk:** nagl — _m_
+  - **Norwegian Nynorsk:** nygla — _f_
+  - **Norwegian Nynorsk:** nugla — _f_
+  - **Norwegian Nynorsk:** naggel — _m_
+  - **Old Swedish:** naghl — _m_
+    - **Swedish:** nagel — _c_
+  - **Danish:** negl — _c_
+    - **Norwegian Bokmål:** negl — _m_
+  - **Elfdalian:** nagel — _m_
+  - **Gutnish:** nagel — _m_
+  - **Gutnish:** nagul — _m_
+- **Old Norse:** negla — _f_
+  - **Icelandic:** nögl — _f_
+  - **Icelandic:** nagli — _m_
+  - **Faroese:** naglur — _m_
+  - **Faroese:** negl — _f_
+  - **Faroese:** nøgl — _f_
+  - **Norwegian Nynorsk:** nagl — _m_
+  - **Norwegian Nynorsk:** nygla — _f_
+  - **Norwegian Nynorsk:** nugla — _f_
+  - **Norwegian Nynorsk:** naggel — _m_
+  - **Old Swedish:** naghl — _m_
+    - **Swedish:** nagel — _c_
+  - **Danish:** negl — _c_
+    - **Norwegian Bokmål:** negl — _m_
+  - **Elfdalian:** nagel — _m_
+  - **Gutnish:** nagel — _m_
+  - **Gutnish:** nagul — _m_
+- **Old Norse:** nygla — _f_
+  - **Icelandic:** nögl — _f_
+  - **Icelandic:** nagli — _m_
+  - **Faroese:** naglur — _m_
+  - **Faroese:** negl — _f_
+  - **Faroese:** nøgl — _f_
+  - **Norwegian Nynorsk:** nagl — _m_
+  - **Norwegian Nynorsk:** nygla — _f_
+  - **Norwegian Nynorsk:** nugla — _f_
+  - **Norwegian Nynorsk:** naggel — _m_
+  - **Old Swedish:** naghl — _m_
+    - **Swedish:** nagel — _c_
+  - **Danish:** negl — _c_
+    - **Norwegian Bokmål:** negl — _m_
+  - **Elfdalian:** nagel — _m_
+  - **Gutnish:** nagel — _m_
+  - **Gutnish:** nagul — _m_
+- **Gothic:** *𐌽𐌰𐌲𐌻𐍃

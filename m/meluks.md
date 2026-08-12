@@ -1,0 +1,567 @@
+# *meluks
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/meluks)
+
+## Proto-Germanic
+
+**Reconstruction:** *meluks
+
+### Etymology
+
+From Proto-Indo-European *h₂melǵ- (“to milk”). Cognate with Latin mulgeō (“milk”, verb).
+The presence of *-u- in the second syllable is aberrant, as it was not present in the PIE root or even in the related Germanic verb *melkaną. However, the evidence of all descendants speaks unambiguously in favour of its presence. Aside from being directly attested in most of them, it is also implied by Old Norse u-mutation in case forms where it would not be expected, in the raising of e to i before u in the non-Ingvaeonic West Germanic languages, and in the High German shift /k/ → /x/.
+Possible theories of origin of the disputed *-u-:
+* According to Kümmel, the vowel *u is an anaptyctic vowel, inserted after the resonant to ease the complicated cluster of three consonants *VRCs#.
+* According to Szemerenyi (1992: 1125) it is the result of contamination of the full- and zero-grade in an ablauting paradigm */melk-z/, genitive */mulk-iz/, but this leaves the Schwebeablaut unexplained.
+* According to Bammesberger (1990: 196f) this */u/ represents a schwa that arose between the */l/ and the */k/ in the nominative */melk-z/. However, this solution fails to explain why the same did not happen in e.g *alhs (“temple”), perhaps this is due to dialectal variation.
+* According to Kroonen, *-u- originates from the strong verb *mel(u)kaną (“to milk”), whence this archaic root noun likely derives. This does not answer the ultimate origin of the u however.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂melǵ-
+
+### Pronunciation
+
+- IPA: `/ˈme.luks/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ milk
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| meluks | nominative, singular |
+| melukiz | nominative, plural |
+| meluk | singular, vocative |
+| melukiz | plural, vocative |
+| melukų | accusative, singular |
+| melukunz | accusative, plural |
+| melukiz | genitive, singular |
+| melukǫ̂ | genitive, plural |
+| meluki | dative, singular |
+| melukumaz | dative, plural |
+| melukē | instrumental, singular |
+| melukumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *meluk
+  - **Old English:** meolc
+    - **Middle English:** milk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milc
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melc — _chiefly Kent and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulc — _chiefly Southern and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+  - **Old English:** meoloc
+    - **Middle English:** milk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milc
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melc — _chiefly Kent and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulc — _chiefly Southern and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+  - **Old English:** meoluc
+    - **Middle English:** milk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milc
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melc — _chiefly Kent and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulc — _chiefly Southern and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+  - **Old English:** meluc
+    - **Middle English:** milk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milc
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melc — _chiefly Kent and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulc — _chiefly Southern and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+  - **Old English:** mioluc
+    - **Middle English:** milk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milc
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melc — _chiefly Kent and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulc — _chiefly Southern and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+  - **Old English:** milc
+    - **Middle English:** milk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** milc
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melke
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** melc — _chiefly Kent and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulk
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+    - **Middle English:** mulc — _chiefly Southern and southwest Midlands_
+      - **English:** milk
+      - **English:** melk
+      - **Scots:** milk
+      - **Scots:** melk
+      - **Scots:** mylk
+      - **Yola:** mulk
+  - **Old Frisian:** melok — _all descendants are merged with molken < *mulknō_
+    - **North Frisian:** 
+    - **Saterland Frisian:** Moalk
+    - **Saterland Frisian:** Molk
+    - **West Frisian:** molke
+  - **Old Saxon:** milok
+    - **Middle Low German:** melik
+      - **Low German:** Melk
+        - **Dutch Low Saxon:** melk
+        - **German Low German:** Melk
+    - **Middle Low German:** melk
+      - **Low German:** Melk
+        - **Dutch Low Saxon:** melk
+        - **German Low German:** Melk
+  - **Old Saxon:** miluk
+    - **Middle Low German:** melik
+      - **Low German:** Melk
+        - **Dutch Low Saxon:** melk
+        - **German Low German:** Melk
+    - **Middle Low German:** melk
+      - **Low German:** Melk
+        - **Dutch Low Saxon:** melk
+        - **German Low German:** Melk
+  - **Old Dutch:** miloc
+    - **Middle Dutch:** melc
+      - **Dutch:** melk
+        - **Afrikaans:** melk
+      - **Limburgish:** mèlk
+  - **Old Dutch:** milic
+    - **Middle Dutch:** melc
+      - **Dutch:** melk
+        - **Afrikaans:** melk
+      - **Limburgish:** mèlk
+  - **Old Dutch:** milec
+    - **Middle Dutch:** melc
+      - **Dutch:** melk
+        - **Afrikaans:** melk
+      - **Limburgish:** mèlk
+  - **Old High German:** miluh
+    - **Middle High German:** milich
+      - **Alemannic German:** Möuch
+      - **Alemannic German:** Melch
+      - **Bavarian:** Muich
+      - **Bavarian:** Milli
+      - **Bavarian:** milch
+      - **Bavarian:** milach
+      - **Bavarian:** milich
+      - **Central Franconian:** Mellech
+      - **German:** Milch
+      - **Rhine Franconian:** 
+      - **Vilamovian:** myłich
+      - **Yiddish:** מילך
+    - **Middle High German:** milch
+      - **Alemannic German:** Möuch
+      - **Alemannic German:** Melch
+      - **Bavarian:** Muich
+      - **Bavarian:** Milli
+      - **Bavarian:** milch
+      - **Bavarian:** milach
+      - **Bavarian:** milich
+      - **Central Franconian:** Mellech
+      - **German:** Milch
+      - **Rhine Franconian:** 
+      - **Vilamovian:** myłich
+      - **Yiddish:** מילך
+- **Old Norse:** mjǫlk
+  - **Icelandic:** mjólk
+  - **Faroese:** mjólk
+  - **Norwegian Nynorsk:** mjølk — _dialectal_
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjolk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjelk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Elfdalian:** mjok
+  - **Old Swedish:** miolk
+    - **Swedish:** mjölk
+  - **Old Swedish:** miølk
+    - **Swedish:** mjölk
+  - **Old Danish:** mialk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** mælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miølk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Gutnish:** mjalk
+  - **Gutnish:** mjälk
+  - **Gutnish:** mjölk
+- **Old Norse:** mjolk
+  - **Icelandic:** mjólk
+  - **Faroese:** mjólk
+  - **Norwegian Nynorsk:** mjølk — _dialectal_
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjolk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjelk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Elfdalian:** mjok
+  - **Old Swedish:** miolk
+    - **Swedish:** mjölk
+  - **Old Swedish:** miølk
+    - **Swedish:** mjölk
+  - **Old Danish:** mialk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** mælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miølk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Gutnish:** mjalk
+  - **Gutnish:** mjälk
+  - **Gutnish:** mjölk
+- **Old Norse:** mjólk
+  - **Icelandic:** mjólk
+  - **Faroese:** mjólk
+  - **Norwegian Nynorsk:** mjølk — _dialectal_
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjolk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjelk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Elfdalian:** mjok
+  - **Old Swedish:** miolk
+    - **Swedish:** mjölk
+  - **Old Swedish:** miølk
+    - **Swedish:** mjölk
+  - **Old Danish:** mialk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** mælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miølk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Gutnish:** mjalk
+  - **Gutnish:** mjälk
+  - **Gutnish:** mjölk
+- **Old Norse:** miolk — _Old East Norse_
+  - **Icelandic:** mjólk
+  - **Faroese:** mjólk
+  - **Norwegian Nynorsk:** mjølk — _dialectal_
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjolk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Norwegian Nynorsk:** mjelk
+    - **Norwegian Bokmål:** mjølk — _borrowed_
+  - **Elfdalian:** mjok
+  - **Old Swedish:** miolk
+    - **Swedish:** mjölk
+  - **Old Swedish:** miølk
+    - **Swedish:** mjölk
+  - **Old Danish:** mialk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** mælk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Old Danish:** miølk
+    - **Danish:** mælk
+      - **Norwegian Bokmål:** melk
+    - **Scanian:** milk
+    - **Scanian:** mjælk
+  - **Gutnish:** mjalk
+  - **Gutnish:** mjälk
+  - **Gutnish:** mjölk
+- **Gothic:** 𐌼𐌹𐌻𐌿𐌺𐍃

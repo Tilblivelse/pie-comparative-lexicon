@@ -1,0 +1,727 @@
+# *kūtiz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/k%C5%ABtiz)
+
+## Proto-Germanic
+
+**Reconstruction:** *kūtiz
+
+### Etymology
+
+See *keutaz.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Noun
+
+1. _(feminine, reconstruction)_ bag
+2. _(feminine, reconstruction)_ stomach
+3. _(feminine, reconstruction)_ gut, entrails, intestines
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| i-stem | class |
+| kūtiz | nominative, singular |
+| kūtīz | nominative, plural |
+| kūti | singular, vocative |
+| kūtīz | plural, vocative |
+| kūtį | accusative, singular |
+| kūtinz | accusative, plural |
+| kūtīz | genitive, singular |
+| kūtijǫ̂ | genitive, plural |
+| kūtī | dative, singular |
+| kūtimaz | dative, plural |
+| kūtī | instrumental, singular |
+| kūtimiz | instrumental, plural |
+| *kiutiz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *kūti
+  - **Old English:** *cȳte
+    - **Middle English:** *cut
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *ket
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kit
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kyt
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** *cȳt
+    - **Middle English:** *cut
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *ket
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kit
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kyt
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** *ċīete — _inherited; uncertain_
+    - **Middle English:** *chiter — _reshaped by analogy or addition of morphemes; uncertain_
+      - **English:** chiterling — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** chitterling
+        - **Scots:** chitterlin
+      - **Scots:** chitter
+  - **Old Saxon:** *kūti — _f_
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Saxon:** *kūt — _n_
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Dutch:** *kūti
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+  - **Old Dutch:** *kiuti
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+- **Proto-West Germanic:** *kiuti
+  - **Old English:** *cȳte
+    - **Middle English:** *cut
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *ket
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kit
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kyt
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** *cȳt
+    - **Middle English:** *cut
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *ket
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kit
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kyt
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** *ċīete — _inherited; uncertain_
+    - **Middle English:** *chiter — _reshaped by analogy or addition of morphemes; uncertain_
+      - **English:** chiterling — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** chitterling
+        - **Scots:** chitterlin
+      - **Scots:** chitter
+  - **Old Saxon:** *kūti — _f_
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Saxon:** *kūt — _n_
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Dutch:** *kūti
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+  - **Old Dutch:** *kiuti
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+- **Proto-West Germanic:** *kiutiʀu
+  - **Old English:** *cȳte
+    - **Middle English:** *cut
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *ket
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kit
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kyt
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** *cȳt
+    - **Middle English:** *cut
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *ket
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kit
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** *kyt
+      - **Middle English:** kidenere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kidnere — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kideney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Middle English:** kedney — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** kidney
+      - **Scots:** cut — _inherited; uncertain_
+        - **Scots:** cutpoke — _reshaped by analogy or addition of morphemes; uncertain_
+        - **Scots:** kitpock — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** *ċīete — _inherited; uncertain_
+    - **Middle English:** *chiter — _reshaped by analogy or addition of morphemes; uncertain_
+      - **English:** chiterling — _reshaped by analogy or addition of morphemes; uncertain_
+        - **English:** chitterling
+        - **Scots:** chitterlin
+      - **Scots:** chitter
+  - **Old Saxon:** *kūti — _f_
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Saxon:** *kūt — _n_
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Dutch:** *kūti
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+  - **Old Dutch:** *kiuti
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+- **Old Norse:** kútr — _inherited; uncertain; m_
+  - **Icelandic:** kútur — _m_
+  - **Icelandic:** kýta
+  - **Norwegian Nynorsk:** kyta
+  - **Swedish:** kut
+  - **Middle English:** kyte — _borrowed_
+    - **English:** kite
+    - **English:** kyte
+    - **Scots:** kyte
+- **Old Norse:** *kýta — _inherited; uncertain; inherited; uncertain; f; possibly borrowed from Middle Low German_
+  - **Icelandic:** kútur — _m_
+  - **Icelandic:** kýta
+  - **Norwegian Nynorsk:** kyta
+  - **Swedish:** kut
+  - **Middle English:** kyte — _borrowed_
+    - **English:** kite
+    - **English:** kyte
+    - **Scots:** kyte

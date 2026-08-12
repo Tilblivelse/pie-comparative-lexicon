@@ -1,0 +1,485 @@
+# *līkahamô
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/l%C4%ABkaham%C3%B4)
+
+## Proto-Germanic
+
+**Reconstruction:** *līkahamô
+
+### Etymology
+
+*līką + *hamô
+
+### Proto-Indo-European ancestry
+
+**PIE form(s) resolved through Proto-Germanic components:** *-ō, *leyg-, *leyǵ-, *ḱem-, *ḱom-o-
+
+### Pronunciation
+
+- IPA: `/ˈliː.kɑˌxɑ.mɔːː/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ the human body; bodily frame
+2. _(masculine, reconstruction)_ corpse
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| līkahamô | nominative, singular |
+| līkahamaniz | nominative, plural |
+| līkahamô | singular, vocative |
+| līkahamaniz | plural, vocative |
+| līkahamanų | accusative, singular |
+| līkahamanunz | accusative, plural |
+| līkahaminiz | genitive, singular |
+| līkahamanǫ̂ | genitive, plural |
+| līkahamini | dative, singular |
+| līkahamammaz | dative, plural |
+| līkahaminē | instrumental, singular |
+| līkahamammiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *līkahamō
+  - **Old English:** līchama
+    - **Middle English:** likame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lickham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** likam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lycam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lycame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lykame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lykhame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lichame — _Early Middle English_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** liccame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lickam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lygham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lyghame — _Northern_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licome
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lichome
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lychome — _West Midland_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+  - **Old English:** līcema
+    - **Middle English:** likame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lickham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** likam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lycam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lycame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lykame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lykhame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lichame — _Early Middle English_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** liccame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lickam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lygham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lyghame — _Northern_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licome
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lichome
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lychome — _West Midland_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+  - **Old English:** līchoma
+    - **Middle English:** likame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lickham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** likam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lycam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lycame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lykame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lykhame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lichame — _Early Middle English_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** liccame
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lickam
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lygham
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lyghame — _Northern_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** licome
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lichome
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+    - **Middle English:** lychome — _West Midland_
+      - **Middle Scots:** likame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+      - **Middle Scots:** lekame
+        - **Scots:** lingcan — _inherited; uncertain; hapax_
+  - **Old Frisian:** līkama
+    - **Saterland Frisian:** licman — _obsolete_
+    - **West Frisian:** lichem
+  - **Old Frisian:** līkoma
+    - **Saterland Frisian:** licman — _obsolete_
+    - **West Frisian:** lichem
+  - **Old Frisian:** līkkoma
+    - **Saterland Frisian:** licman — _obsolete_
+    - **West Frisian:** lichem
+  - **Old Frisian:** līkma
+    - **Saterland Frisian:** licman — _obsolete_
+    - **West Frisian:** lichem
+  - **Old Saxon:** līkhamo — _m_
+    - **Middle Low German:** licham
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+    - **Middle Low German:** lickham
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+    - **Middle Low German:** likam
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+    - **Middle Low German:** lîkem
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+  - **Old Saxon:** līknamo — _m_
+    - **Middle Low German:** licham
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+    - **Middle Low German:** lickham
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+    - **Middle Low German:** likam
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+    - **Middle Low German:** lîkem
+      - **Low German:** Liekam
+      - **Low German:** Lieknam
+      - **Low German:** Luikem
+  - **Old Dutch:** līchamo — _m_
+    - **Middle Dutch:** lichāme
+      - **Dutch:** lichaam
+        - **Afrikaans:** liggaam
+      - **Dutch:** lichaem
+        - **Afrikaans:** liggaam
+      - **Dutch:** ligchaam — _obsolete spelling_
+        - **Afrikaans:** liggaam
+  - **Old Dutch:** līcnamo
+    - **Middle Dutch:** lichāme
+      - **Dutch:** lichaam
+        - **Afrikaans:** liggaam
+      - **Dutch:** lichaem
+        - **Afrikaans:** liggaam
+      - **Dutch:** ligchaam — _obsolete spelling_
+        - **Afrikaans:** liggaam
+  - **Old High German:** līhhamo
+    - **Middle High German:** līcham(e)
+      - **German:** Leichnam
+    - **Middle High German:** līchname
+      - **German:** Leichnam
+  - **Old High German:** līchamo
+    - **Middle High German:** līcham(e)
+      - **German:** Leichnam
+    - **Middle High German:** līchname
+      - **German:** Leichnam
+  - **Old High German:** līhamo
+    - **Middle High German:** līcham(e)
+      - **German:** Leichnam
+    - **Middle High German:** līchname
+      - **German:** Leichnam
+  - **Old High German:** līhhinhamo — _chiefly Bavarian_
+    - **Middle High German:** līcham(e)
+      - **German:** Leichnam
+    - **Middle High German:** līchname
+      - **German:** Leichnam
+  - **Old High German:** līhhinamo
+    - **Middle High German:** līcham(e)
+      - **German:** Leichnam
+    - **Middle High German:** līchname
+      - **German:** Leichnam
+- **Old Norse:** líkami
+  - **Faroese:** likamur — _m_
+  - **Faroese:** likam — _n_
+  - **Icelandic:** líkami
+  - **Icelandic:** líkamur
+  - **Old Danish:** likum
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** likomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** lekomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Norwegian Nynorsk:** lekam
+  - **Old Swedish:** līkami
+    - **Swedish:** lekamen
+  - **Old Swedish:** likamin
+    - **Swedish:** lekamen
+- **Old Norse:** líkamr
+  - **Faroese:** likamur — _m_
+  - **Faroese:** likam — _n_
+  - **Icelandic:** líkami
+  - **Icelandic:** líkamur
+  - **Old Danish:** likum
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** likomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** lekomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Norwegian Nynorsk:** lekam
+  - **Old Swedish:** līkami
+    - **Swedish:** lekamen
+  - **Old Swedish:** likamin
+    - **Swedish:** lekamen
+- **Old Norse:** líkhami
+  - **Faroese:** likamur — _m_
+  - **Faroese:** likam — _n_
+  - **Icelandic:** líkami
+  - **Icelandic:** líkamur
+  - **Old Danish:** likum
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** likomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** lekomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Norwegian Nynorsk:** lekam
+  - **Old Swedish:** līkami
+    - **Swedish:** lekamen
+  - **Old Swedish:** likamin
+    - **Swedish:** lekamen
+- **Old Norse:** líkhamr
+  - **Faroese:** likamur — _m_
+  - **Faroese:** likam — _n_
+  - **Icelandic:** líkami
+  - **Icelandic:** líkamur
+  - **Old Danish:** likum
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** likomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Old Danish:** lekomæ
+    - **Danish:** legeme
+    - **Norwegian Bokmål:** legeme — _borrowed_
+  - **Norwegian Nynorsk:** lekam
+  - **Old Swedish:** līkami
+    - **Swedish:** lekamen
+  - **Old Swedish:** likamin
+    - **Swedish:** lekamen

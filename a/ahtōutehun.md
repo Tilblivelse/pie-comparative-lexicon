@@ -1,0 +1,329 @@
+# *ahtōutehun
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/aht%C5%8Dutehun)
+
+## Proto-Germanic
+
+**Reconstruction:** *ahtōutehun
+
+### Etymology
+
+Compound of *ahtōu (“eight”) + *tehun (“ten”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈɑx.tɔːu̯.te.xun/`
+
+### Numeral
+
+1. _(reconstruction)_ eighteen
+
+### Germanic descendants
+
+- **Old English:** eahtatīene
+  - **Middle English:** eightetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** ehtetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eightene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eiȝtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eiȝtetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyghtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyȝtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyȝteteene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** auhten
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** auhtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** awghtene — _Northern; Northeast Midland_
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+- **Old English:** eahtatȳne
+  - **Middle English:** eightetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** ehtetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eightene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eiȝtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eiȝtetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyghtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyȝtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyȝteteene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** auhten
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** auhtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** awghtene — _Northern; Northeast Midland_
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+- **Old English:** eahtatēne
+  - **Middle English:** eightetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** ehtetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eightene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eiȝtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eiȝtetene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyghtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyȝtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** eyȝteteene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** auhten
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** auhtene
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+  - **Middle English:** awghtene — _Northern; Northeast Midland_
+    - **English:** eighteen
+    - **Scots:** aughteen
+    - **Scots:** auchteen
+    - **Scots:** aichteen
+    - **Yola:** ayghteen
+- **Old Frisian:** achtatīn
+  - **North Frisian:** aagetanj — _Föhr-Amrum_
+  - **North Frisian:** oochtäin — _Mooring_
+  - **North Frisian:** achtain — _Sylt_
+  - **Saterland Frisian:** achttien
+  - **West Frisian:** achttjin
+- **Old Saxon:** ahtotein
+  - **Middle Low German:** achtein
+    - **Plautdietsch:** achtieen
+  - **Middle Low German:** achtetein
+    - **Plautdietsch:** achtieen
+- **Old Dutch:** *ahtotian
+  - **Middle Dutch:** achtetien
+    - **Dutch:** achttien
+      - **Afrikaans:** agtien
+      - **Afrikaans:** agttien
+    - **Limburgish:** achtieën
+  - **Middle Dutch:** achttien
+    - **Dutch:** achttien
+      - **Afrikaans:** agtien
+      - **Afrikaans:** agttien
+    - **Limburgish:** achtieën
+- **Old High German:** ahtozehan
+  - **Middle High German:** ahzehen
+    - **Cimbrian:** achtzane
+    - **German:** achtzehn
+    - **Luxembourgish:** uechtzéng
+    - **Yiddish:** אַכצן
+- **Old Norse:** átján
+  - **Icelandic:** átján
+  - **Faroese:** átjan
+  - **Norwegian Nynorsk:** atjan
+  - **Norwegian Nynorsk:** attan
+  - **Old Swedish:** atertān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** adherton
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** attartān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** atartān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** attān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** adhærton
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Danish:** attæn
+    - **Danish:** atten
+    - **Norwegian Bokmål:** atten
+      - **Norwegian Nynorsk:** atten — _borrowed_
+    - **Danish:** atto- — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** atto- — _borrowed_ — _through a non-Germanic route_
+    - **English:** atto- — _borrowed_ — _through a non-Germanic route_
+    - **Norwegian Bokmål:** atto- — _borrowed_ — _through a non-Germanic route_
+  - **Elfdalian:** aðertǫ
+  - **Elfdalian:** åttjǫ
+  - **Elfdalian:** artǫ
+  - **Gutnish:** attn
+  - **Gutnish:** adatn
+  - **Gutnish:** atretten
+- **Old Norse:** áttján — _older form_
+  - **Icelandic:** átján
+  - **Faroese:** átjan
+  - **Norwegian Nynorsk:** atjan
+  - **Norwegian Nynorsk:** attan
+  - **Old Swedish:** atertān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** adherton
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** attartān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** atartān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** attān
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Swedish:** adhærton
+    - **Swedish:** aderton
+    - **Swedish:** arton
+  - **Old Danish:** attæn
+    - **Danish:** atten
+    - **Norwegian Bokmål:** atten
+      - **Norwegian Nynorsk:** atten — _borrowed_
+    - **Danish:** atto- — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** atto- — _borrowed_ — _through a non-Germanic route_
+    - **English:** atto- — _borrowed_ — _through a non-Germanic route_
+    - **Norwegian Bokmål:** atto- — _borrowed_ — _through a non-Germanic route_
+  - **Elfdalian:** aðertǫ
+  - **Elfdalian:** åttjǫ
+  - **Elfdalian:** artǫ
+  - **Gutnish:** attn
+  - **Gutnish:** adatn
+  - **Gutnish:** atretten

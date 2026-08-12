@@ -1,0 +1,1152 @@
+# *augô
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/aug%C3%B4)
+
+## Proto-Germanic
+
+**Reconstruction:** *augô
+
+### Etymology
+
+From an n-suffixed form of Proto-Indo-European *h₃ekʷ- (“eye; to see”), with analogical introduction of the diphthong -au- from *auzô (“ear”), or alternatively metathesized from earlier *agwô (→ *awgô). The voicing due to Verner's law points to an originally accented suffix, which may have been introduced from the oblique forms of a pre-Proto-Germanic paradigm *ahwô ~ *agwnes (→ *augnes, whence back-formed *augô), which must have been formed at a late stage as it evaded Kluge's law; or it may be analogical with agent nouns in *-ô (like *slagô, *tugô; “eye” would have been “that which sees”), the paradigm of which in any case *augô may have been partly leveled to.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₃ekʷ-
+
+### Pronunciation
+
+- IPA: `/ˈɑu̯.ɣɔːː/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ eye
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| augô | nominative, singular |
+| augōnō | nominative, plural |
+| augô | singular, vocative |
+| augōnō | plural, vocative |
+| augô | accusative, singular |
+| augōnō | accusative, plural |
+| auginiz | genitive, singular |
+| auganǫ̂ | genitive, plural |
+| augini | dative, singular |
+| augammaz | dative, plural |
+| auginē | instrumental, singular |
+| augammiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *augā
+  - **Old English:** ēage
+    - **Middle English:** eye
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** e
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** ei
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eie
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eighe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eyghe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eyȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** iȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** ye
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yë
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yghe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yhe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eȝhe — _Ormulum_
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** ehe — _AB language_
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+  - **Old English:** ēge — _Anglian_
+    - **Middle English:** eye
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** e
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** ei
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eie
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eighe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eyghe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eyȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** iȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yȝe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** ye
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yë
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yghe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** yhe
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** eȝhe — _Ormulum_
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+    - **Middle English:** ehe — _AB language_
+      - **English:** eye
+      - **Middle Scots:** ee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** e
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** E — _mainly early_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ei
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eie
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eye — _after Early Modern English_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eae
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** eee
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Middle Scots:** ie — _rare_
+        - **Scots:** ee
+        - **Scots:** eh
+      - **Yola:** iee
+  - **Old Frisian:** āge
+    - **North Frisian:** uug — _Föhr-Amrum; Mooring_
+    - **North Frisian:** uuch — _Halligen_
+    - **North Frisian:** oog — _Heligoland_
+    - **North Frisian:** Oog — _Sylt_
+    - **Saterland Frisian:** Oge
+    - **Saterland Frisian:** Ooge
+    - **West Frisian:** each
+  - **Old Frisian:** āg
+    - **North Frisian:** uug — _Föhr-Amrum; Mooring_
+    - **North Frisian:** uuch — _Halligen_
+    - **North Frisian:** oog — _Heligoland_
+    - **North Frisian:** Oog — _Sylt_
+    - **Saterland Frisian:** Oge
+    - **Saterland Frisian:** Ooge
+    - **West Frisian:** each
+  - **Old Saxon:** ōga
+    - **Middle Low German:** ôge
+      - **Low German:** Oge
+        - **German Low German:** Oog
+      - **Plautdietsch:** Uag
+  - **Old Dutch:** ōga
+    - **Middle Dutch:** ôge
+      - **Dutch:** oog
+      - **Limburgish:** oug
+  - **Old Dutch:** ouga
+    - **Middle Dutch:** ôge
+      - **Dutch:** oog
+      - **Limburgish:** oug
+  - **Old High German:** ouga
+    - **Middle High German:** ouge
+      - **Alemannic German:** Aug
+        - **Swabian:** Aug
+      - **Bavarian:** Aug
+        - **Cimbrian:** óoge
+        - **Mòcheno:** ag
+      - **Central Franconian:** Ooch
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **Central Franconian:** Auch
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **Central Franconian:** Au
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **East Central German:** 
+        - **Upper Saxon German:** Ooche
+        - **Vilamovian:** aojg
+        - **Vilamovian:** aug
+        - **Vilamovian:** oüg
+      - **East Franconian:** 
+      - **German:** Auge
+      - **Rhine Franconian:** 
+        - **Palatine German:** Aag
+        - **Pennsylvania German:** Aag
+      - **Yiddish:** אויג
+  - **Old High German:** ouca
+    - **Middle High German:** ouge
+      - **Alemannic German:** Aug
+        - **Swabian:** Aug
+      - **Bavarian:** Aug
+        - **Cimbrian:** óoge
+        - **Mòcheno:** ag
+      - **Central Franconian:** Ooch
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **Central Franconian:** Auch
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **Central Franconian:** Au
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **East Central German:** 
+        - **Upper Saxon German:** Ooche
+        - **Vilamovian:** aojg
+        - **Vilamovian:** aug
+        - **Vilamovian:** oüg
+      - **East Franconian:** 
+      - **German:** Auge
+      - **Rhine Franconian:** 
+        - **Palatine German:** Aag
+        - **Pennsylvania German:** Aag
+      - **Yiddish:** אויג
+  - **Old High German:** auca
+    - **Middle High German:** ouge
+      - **Alemannic German:** Aug
+        - **Swabian:** Aug
+      - **Bavarian:** Aug
+        - **Cimbrian:** óoge
+        - **Mòcheno:** ag
+      - **Central Franconian:** Ooch
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **Central Franconian:** Auch
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **Central Franconian:** Au
+        - **Hunsrik:** Au
+        - **Kölsch:** Ouch
+        - **Luxembourgish:** A
+      - **East Central German:** 
+        - **Upper Saxon German:** Ooche
+        - **Vilamovian:** aojg
+        - **Vilamovian:** aug
+        - **Vilamovian:** oüg
+      - **East Franconian:** 
+      - **German:** Auge
+      - **Rhine Franconian:** 
+        - **Palatine German:** Aag
+        - **Pennsylvania German:** Aag
+      - **Yiddish:** אויג
+- **Proto-Norse:** *ᚨᚢᚷᛟ
+  - **Proto-Norse:** ᚨᚢᚷᛁᛉ — _reshaped by analogy or addition of morphemes_
+  - **Old Norse:** auga
+    - **Icelandic:** auga
+    - **Faroese:** eyga
+    - **Norwegian Nynorsk:** auga — _n_
+    - **Norwegian:** auga
+    - **Norwegian:** aua
+    - **Norwegian:** aue — _f or n_
+    - **Norwegian:** auwe
+    - **Norwegian:** ouwe
+    - **Norwegian:** ouga
+    - **Jamtish:** ouge
+    - **Elfdalian:** oga
+    - **Old Swedish:** ø̄gha
+      - **Swedish:** öga
+    - **Scanian:** yva
+    - **Old Danish:** ø̄ghæ
+      - **Danish:** øje
+        - **Norwegian Bokmål:** øye
+    - **Gutnish:** auge
+- **Gothic:** 𐌰𐌿𐌲𐍉
+- **Crimean Gothic:** oeghene

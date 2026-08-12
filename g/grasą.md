@@ -1,0 +1,598 @@
+# *grasą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/gras%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *grasą
+
+### Etymology
+
+A secondary zero-grade s-stem from the root of *grōaną and *grōniz, from Proto-Indo-European *gʰreh₁- (“to grow, become green”). It cannot be directly from *gʰr̥h₁-s-, where the syllabic sonorant would result in *gurs-.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *gʰreh₁-
+
+### Pronunciation
+
+- IPA: `/ˈɣrɑ.sɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ grass
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| grasą | nominative, singular |
+| grasō | nominative, plural |
+| grasą | singular, vocative |
+| grasō | plural, vocative |
+| grasą | accusative, singular |
+| grasō | accusative, plural |
+| grasas | genitive, singular |
+| grasis | genitive, singular |
+| grasǫ̂ | genitive, plural |
+| grasai | dative, singular |
+| grasamaz | dative, plural |
+| grasō | instrumental, singular |
+| grasamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *gras
+  - **Old English:** græs
+    - **Middle English:** gras
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grasse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gresse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gres
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gers
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grece
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** græs
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grace
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gars
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grys
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grisse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grese
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+  - **Old English:** gærs
+    - **Middle English:** gras
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grasse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gresse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gres
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gers
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grece
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** græs
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grace
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gars
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grys
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grisse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grese
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+  - **Old English:** gres — _late Kentish_
+    - **Middle English:** gras
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grasse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gresse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gres
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gers
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grece
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** græs
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grace
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gars
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grys
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grisse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grese
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+  - **Old English:** gers — _Vespasian Psalter Mercian; late Kentish_
+    - **Middle English:** gras
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grasse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gresse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gres
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gers
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grece
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** græs
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grace
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** gars
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grys
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grisse
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** grese
+      - **English:** grass
+      - **Scots:** gress
+      - **Scots:** gres
+      - **Scots:** grais
+      - **Scots:** graiss
+      - **Scots:** grase
+      - **Scots:** gers
+      - **Scots:** girs
+      - **Yola:** grass cock — _reshaped by analogy or addition of morphemes_
+  - **Old Frisian:** gers
+    - **North Frisian:** 
+    - **Saterland Frisian:** Gäärs
+    - **West Frisian:** gers
+    - **West Frisian:** gjers — _Wood_
+    - **West Frisian:** jers
+  - **Old Frisian:** gres
+    - **North Frisian:** 
+    - **Saterland Frisian:** Gäärs
+    - **West Frisian:** gers
+    - **West Frisian:** gjers — _Wood_
+    - **West Frisian:** jers
+  - **Old Saxon:** gras
+    - **Middle Low German:** gras
+      - **Dutch Low Saxon:** gras
+      - **German Low German:** Gras
+      - **Plautdietsch:** Grauss
+  - **Old Dutch:** *gras
+    - **Middle Dutch:** gras
+      - **Dutch:** gras
+        - **Afrikaans:** gras
+      - **Limburgish:** graas
+      - **West Flemish:** ges
+      - **West Flemish:** gas
+      - **Zealandic:** gos
+    - **Middle Dutch:** gars
+      - **Dutch:** gras
+        - **Afrikaans:** gras
+      - **Limburgish:** graas
+      - **West Flemish:** ges
+      - **West Flemish:** gas
+      - **Zealandic:** gos
+    - **Middle Dutch:** gers
+      - **Dutch:** gras
+        - **Afrikaans:** gras
+      - **Limburgish:** graas
+      - **West Flemish:** ges
+      - **West Flemish:** gas
+      - **Zealandic:** gos
+  - **Old High German:** gras
+    - **Middle High German:** gras
+      - **Alemannic German:** Gras
+      - **Bavarian:** 
+      - **Central Franconian:** 
+      - **East Central German:** 
+      - **East Franconian:** 
+      - **German:** Gras
+      - **Rhine Franconian:** Gras
+      - **Yiddish:** גראָז
+- **Old Norse:** gras
+  - **Icelandic:** gras
+  - **Faroese:** gras
+  - **Norwegian:** 
+    - **Bokmål:** gress
+    - **Bokmål:** gras
+    - **Norwegian Nynorsk:** gras
+  - **Old Swedish:** græs
+    - **Swedish:** gräs
+  - **Old Swedish:** gras — _hapax legomena_
+    - **Swedish:** gräs
+  - **Old Danish:** græs
+    - **Danish:** græs
+  - **Elfdalian:** gras
+  - **Gutnish:** gras
+- **Gothic:** 𐌲𐍂𐌰𐍃

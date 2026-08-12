@@ -1,0 +1,3211 @@
+# *farsī
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/fars%C4%AB)
+
+## Proto-Germanic
+
+**Reconstruction:** *farsī
+
+### Etymology
+
+From Proto-Indo-European *perh₃- (“to provide”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *perh₃-
+
+### Pronunciation
+
+- IPA: `/ˈɸɑr.siː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ cow; heifer
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ī/jō-stem | class |
+| farsī | nominative, singular |
+| farsijôz | nominative, plural |
+| farsī | singular, vocative |
+| farsijôz | plural, vocative |
+| farsijǭ | accusative, singular |
+| farsijōz | accusative, plural |
+| farsijōz | genitive, singular |
+| farsijǫ̂ | genitive, plural |
+| farsijōi | dative, singular |
+| farsijōmaz | dative, plural |
+| farsijō | instrumental, singular |
+| farsijōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *farsi
+  - **Old English:** *færu — _inherited; uncertain_
+    - **Old English:** hēahfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafaru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēahfru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfaro — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēffere — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfare — _reshaped by analogy or addition of morphemes; Northumbrian_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+  - **Old English:** *faro — _inherited; uncertain_
+    - **Old English:** hēahfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafaru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēahfru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfaro — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēffere — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfare — _reshaped by analogy or addition of morphemes; Northumbrian_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+  - **Old English:** *fore — _inherited; uncertain_
+    - **Old English:** hēahfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafaru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēahfru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfaro — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēffere — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfare — _reshaped by analogy or addition of morphemes; Northumbrian_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+  - **Old Saxon:** *fersia
+    - **Middle Low German:** ferse
+      - **German Low German:** Färs
+    - **Middle Low German:** verse
+      - **German Low German:** Färs
+  - **Old Dutch:** *fersa
+    - **Middle Dutch:** verse
+      - **Dutch:** vaars
+      - **Dutch:** veers — _dialectal_
+    - **Middle Dutch:** varse
+      - **Dutch:** vaars
+      - **Dutch:** veers — _dialectal_
+    - **Middle Dutch:** vaerse
+      - **Dutch:** vaars
+      - **Dutch:** veers — _dialectal_
+  - **Old High German:** *fersa — _inherited; uncertain_
+    - **Middle High German:** ferse
+      - **German:** Färse
+- **Proto-West Germanic:** *farsijā
+  - **Old English:** *færu — _inherited; uncertain_
+    - **Old English:** hēahfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafaru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēahfru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfaro — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēffere — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfare — _reshaped by analogy or addition of morphemes; Northumbrian_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+  - **Old English:** *faro — _inherited; uncertain_
+    - **Old English:** hēahfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafaru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēahfru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfaro — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēffere — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfare — _reshaped by analogy or addition of morphemes; Northumbrian_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+  - **Old English:** *fore — _inherited; uncertain_
+    - **Old English:** hēahfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafaru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēafru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēahfru — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfore — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfaro — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēffere — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+    - **Old English:** hēhfare — _reshaped by analogy or addition of morphemes; Northumbrian_
+      - **Middle English:** heyfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** haffer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hayfre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffere
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heffre
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfer
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfor
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heyfur
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** heekfar
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hefker
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfare
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfore — _with fortition_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hecfore
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+      - **Middle English:** hekfere — _Promptorium Parvulorum_
+        - **English:** heifer — _obsolete dialectal heckfer_
+          - **Scots:** heifer — _borrowed_
+        - **Yola:** hiver
+  - **Old Saxon:** *fersia
+    - **Middle Low German:** ferse
+      - **German Low German:** Färs
+    - **Middle Low German:** verse
+      - **German Low German:** Färs
+  - **Old Dutch:** *fersa
+    - **Middle Dutch:** verse
+      - **Dutch:** vaars
+      - **Dutch:** veers — _dialectal_
+    - **Middle Dutch:** varse
+      - **Dutch:** vaars
+      - **Dutch:** veers — _dialectal_
+    - **Middle Dutch:** vaerse
+      - **Dutch:** vaars
+      - **Dutch:** veers — _dialectal_
+  - **Old High German:** *fersa — _inherited; uncertain_
+    - **Middle High German:** ferse
+      - **German:** Färse

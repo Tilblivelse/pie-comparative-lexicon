@@ -1,0 +1,444 @@
+# *ahtōu
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/aht%C5%8Du)
+
+## Proto-Germanic
+
+**Reconstruction:** *ahtōu
+
+### Etymology
+
+From earlier *ohtṓw, from Proto-Indo-European *oḱtṓw (“eight”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *oḱtṓw
+
+### Pronunciation
+
+- IPA: `/ˈɑx.tɔːu̯/`
+
+### Numeral
+
+1. _(reconstruction)_ eight
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ahtō
+  - **Old English:** eahta
+    - **Middle English:** eighte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eight
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eyȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehhte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehte — _Early Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eot — _Late Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aghte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aucht
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aughte — _Northern_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+  - **Old English:** æhta — _Anglian_
+    - **Middle English:** eighte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eight
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eyȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehhte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehte — _Early Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eot — _Late Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aghte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aucht
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aughte — _Northern_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+  - **Old English:** ehta — _West Saxon_
+    - **Middle English:** eighte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eight
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eyȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehhte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehte — _Early Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eot — _Late Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aghte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aucht
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aughte — _Northern_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+  - **Old English:** ahta
+    - **Middle English:** eighte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eight
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eiȝte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eyȝt
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eahte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehhte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** ehte — _Early Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** eot — _Late Middle English_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aghte
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aucht
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+    - **Middle English:** aughte — _Northern_
+      - **English:** eight
+      - **Scots:** echt
+      - **Scots:** aucht
+      - **Yola:** ayght
+      - **Yola:** aught
+  - **Old Frisian:** achta
+    - **North Frisian:** aacht — _Föhr-Amrum; Wiedingharde_
+    - **North Frisian:** ach — _Heligoland_
+    - **North Frisian:** oocht — _Mooring_
+    - **North Frisian:** Aacht — _Sylt_
+    - **Saterland Frisian:** oachte
+    - **Saterland Frisian:** oacht
+    - **Saterland Frisian:** oage
+    - **Saterland Frisian:** oa — _in expressions_
+    - **West Frisian:** acht
+  - **Old Frisian:** echta
+    - **North Frisian:** aacht — _Föhr-Amrum; Wiedingharde_
+    - **North Frisian:** ach — _Heligoland_
+    - **North Frisian:** oocht — _Mooring_
+    - **North Frisian:** Aacht — _Sylt_
+    - **Saterland Frisian:** oachte
+    - **Saterland Frisian:** oacht
+    - **Saterland Frisian:** oage
+    - **Saterland Frisian:** oa — _in expressions_
+    - **West Frisian:** acht
+  - **Old Saxon:** ahto
+    - **Middle Low German:** achte
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+    - **Middle Low German:** acht
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+  - **Old Saxon:** achto
+    - **Middle Low German:** achte
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+    - **Middle Low German:** acht
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+  - **Old Saxon:** ahte
+    - **Middle Low German:** achte
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+    - **Middle Low German:** acht
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+  - **Old Saxon:** achte
+    - **Middle Low German:** achte
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+    - **Middle Low German:** acht
+      - **Low German:** acht
+        - **Dutch Low Saxon:** acht
+        - **German Low German:** acht
+  - **Old Dutch:** ahto
+    - **Middle Dutch:** achte
+      - **Dutch:** acht
+        - **Afrikaans:** agt
+        - **Afrikaans:** ag
+      - **Limburgish:** ach
+      - **Zealandic:** acht
+    - **Middle Dutch:** acht
+      - **Dutch:** acht
+        - **Afrikaans:** agt
+        - **Afrikaans:** ag
+      - **Limburgish:** ach
+      - **Zealandic:** acht
+  - **Old High German:** ahto
+    - **Middle High German:** ahte
+      - **Alemannic German:** acht
+      - **Alemannic German:** ocht
+      - **Alemannic German:** àcht
+      - **Bavarian:** achde
+      - **Central Franconian:** aach
+      - **Central Franconian:** aacht — _Moselle Franconian_
+      - **Central Franconian:** ach — _Limburgan Ripuarian_
+      - **East Central German:** achte
+      - **East Franconian:** 
+      - **German:** acht
+      - **Rhine Franconian:** acht
+      - **Yiddish:** אַכט
+      - **Zipser German:** åcht
+      - **Zipser German:** acht
+- **Old Norse:** átta
+  - **Icelandic:** átta
+  - **Faroese:** átta
+  - **Norwegian:** åtte
+  - **Old Swedish:** ātta
+    - **Swedish:** åtta
+  - **Old Swedish:** ata
+    - **Swedish:** åtta
+  - **Old Swedish:** āta
+    - **Swedish:** åtta
+  - **Old Danish:** attæ
+    - **Danish:** otte
+  - **Old Gutnish:** ǣt
+- **East Germanic:** 
+  - **Gothic:** 𐌰𐌷𐍄𐌰𐌿
+  - **Crimean Gothic:** athe

@@ -1,0 +1,516 @@
+# *jabai
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/jabai)
+
+## Proto-Germanic
+
+**Reconstruction:** *jabai
+
+### Etymology
+
+From *jabai (“on (the) condition”), dative case of *jabą (“condition, stipulation, hesitation, doubt”) (see that for etymology). Cognate with Lithuanian jei (“if, when”), Albanian po.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈjɑ.βɑi̯/`
+
+### Conjunction
+
+1. _(reconstruction)_ when, if
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| *ibai | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *jabē
+  - **Old English:** ġef
+    - **Middle English:** yef
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+    - **Middle English:** yif
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+  - **Old English:** ġif
+    - **Middle English:** yef
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+    - **Middle English:** yif
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+  - **Old English:** ġyfe
+    - **Middle English:** yef
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+    - **Middle English:** yif
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+  - **Old Frisian:** gef
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** ief
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** jef
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** jeft
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** ef
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** of
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** jof
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** if
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Saxon:** ef
+    - **Middle Low German:** jof
+      - **German Low German:** of
+    - **Middle Low German:** af
+      - **German Low German:** of
+    - **Middle Low German:** of
+      - **German Low German:** of
+    - **Middle Low German:** ef
+      - **German Low German:** of
+    - **Middle Low German:** if
+      - **German Low German:** of
+    - **Middle Low German:** ift
+      - **German Low German:** of
+    - **Middle Low German:** ifte
+      - **German Low German:** of
+    - **Middle Low German:** icht
+      - **German Low German:** of
+    - **Middle Low German:** ichte
+      - **German Low German:** of
+    - **Middle Low German:** eft
+      - **German Low German:** of
+    - **Middle Low German:** aft
+      - **German Low German:** of
+    - **Middle Low German:** oft
+      - **German Low German:** of
+  - **Old Saxon:** af
+    - **Middle Low German:** jof
+      - **German Low German:** of
+    - **Middle Low German:** af
+      - **German Low German:** of
+    - **Middle Low German:** of
+      - **German Low German:** of
+    - **Middle Low German:** ef
+      - **German Low German:** of
+    - **Middle Low German:** if
+      - **German Low German:** of
+    - **Middle Low German:** ift
+      - **German Low German:** of
+    - **Middle Low German:** ifte
+      - **German Low German:** of
+    - **Middle Low German:** icht
+      - **German Low German:** of
+    - **Middle Low German:** ichte
+      - **German Low German:** of
+    - **Middle Low German:** eft
+      - **German Low German:** of
+    - **Middle Low German:** aft
+      - **German Low German:** of
+    - **Middle Low German:** oft
+      - **German Low German:** of
+  - **Old Saxon:** of
+    - **Middle Low German:** jof
+      - **German Low German:** of
+    - **Middle Low German:** af
+      - **German Low German:** of
+    - **Middle Low German:** of
+      - **German Low German:** of
+    - **Middle Low German:** ef
+      - **German Low German:** of
+    - **Middle Low German:** if
+      - **German Low German:** of
+    - **Middle Low German:** ift
+      - **German Low German:** of
+    - **Middle Low German:** ifte
+      - **German Low German:** of
+    - **Middle Low German:** icht
+      - **German Low German:** of
+    - **Middle Low German:** ichte
+      - **German Low German:** of
+    - **Middle Low German:** eft
+      - **German Low German:** of
+    - **Middle Low German:** aft
+      - **German Low German:** of
+    - **Middle Low German:** oft
+      - **German Low German:** of
+  - **Old Dutch:** of
+    - **Middle Dutch:** of
+      - **Dutch:** of
+  - **Old High German:** ibu
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** oba
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** uba
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** ubi
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** upa
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** upi
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+- **Proto-West Germanic:** *jabu
+  - **Old English:** ġef
+    - **Middle English:** yef
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+    - **Middle English:** yif
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+  - **Old English:** ġif
+    - **Middle English:** yef
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+    - **Middle English:** yif
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+  - **Old English:** ġyfe
+    - **Middle English:** yef
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+    - **Middle English:** yif
+      - **Scots:** gif
+      - **Scots:** gyf
+      - **Scots:** gin
+      - **English:** if
+      - **English:** gin
+  - **Old Frisian:** gef
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** ief
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** jef
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** jeft
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** ef
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** of
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** jof
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Frisian:** if
+    - **Saterland Frisian:** af
+    - **Saterland Frisian:** of
+    - **West Frisian:** of
+  - **Old Saxon:** ef
+    - **Middle Low German:** jof
+      - **German Low German:** of
+    - **Middle Low German:** af
+      - **German Low German:** of
+    - **Middle Low German:** of
+      - **German Low German:** of
+    - **Middle Low German:** ef
+      - **German Low German:** of
+    - **Middle Low German:** if
+      - **German Low German:** of
+    - **Middle Low German:** ift
+      - **German Low German:** of
+    - **Middle Low German:** ifte
+      - **German Low German:** of
+    - **Middle Low German:** icht
+      - **German Low German:** of
+    - **Middle Low German:** ichte
+      - **German Low German:** of
+    - **Middle Low German:** eft
+      - **German Low German:** of
+    - **Middle Low German:** aft
+      - **German Low German:** of
+    - **Middle Low German:** oft
+      - **German Low German:** of
+  - **Old Saxon:** af
+    - **Middle Low German:** jof
+      - **German Low German:** of
+    - **Middle Low German:** af
+      - **German Low German:** of
+    - **Middle Low German:** of
+      - **German Low German:** of
+    - **Middle Low German:** ef
+      - **German Low German:** of
+    - **Middle Low German:** if
+      - **German Low German:** of
+    - **Middle Low German:** ift
+      - **German Low German:** of
+    - **Middle Low German:** ifte
+      - **German Low German:** of
+    - **Middle Low German:** icht
+      - **German Low German:** of
+    - **Middle Low German:** ichte
+      - **German Low German:** of
+    - **Middle Low German:** eft
+      - **German Low German:** of
+    - **Middle Low German:** aft
+      - **German Low German:** of
+    - **Middle Low German:** oft
+      - **German Low German:** of
+  - **Old Saxon:** of
+    - **Middle Low German:** jof
+      - **German Low German:** of
+    - **Middle Low German:** af
+      - **German Low German:** of
+    - **Middle Low German:** of
+      - **German Low German:** of
+    - **Middle Low German:** ef
+      - **German Low German:** of
+    - **Middle Low German:** if
+      - **German Low German:** of
+    - **Middle Low German:** ift
+      - **German Low German:** of
+    - **Middle Low German:** ifte
+      - **German Low German:** of
+    - **Middle Low German:** icht
+      - **German Low German:** of
+    - **Middle Low German:** ichte
+      - **German Low German:** of
+    - **Middle Low German:** eft
+      - **German Low German:** of
+    - **Middle Low German:** aft
+      - **German Low German:** of
+    - **Middle Low German:** oft
+      - **German Low German:** of
+  - **Old Dutch:** of
+    - **Middle Dutch:** of
+      - **Dutch:** of
+  - **Old High German:** ibu
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** oba
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** uba
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** ubi
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** upa
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+  - **Old High German:** upi
+    - **Middle High German:** obe
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** ob
+      - **German:** ob
+      - **Yiddish:** אויב
+    - **Middle High German:** op
+      - **German:** ob
+      - **Yiddish:** אויב
+- **Old Norse:** ef
+  - **Icelandic:** ef
+  - **Old Swedish:** ef
+    - **Swedish:** om
+    - **Norwegian:** 
+      - **Norwegian Nynorsk:** um — _influenced by um < umb_
+  - **Old Swedish:** em
+    - **Swedish:** om
+    - **Norwegian:** 
+      - **Norwegian Nynorsk:** um — _influenced by um < umb_
+  - **Old Swedish:** um
+    - **Swedish:** om
+    - **Norwegian:** 
+      - **Norwegian Nynorsk:** um — _influenced by um < umb_
+  - **Old Danish:** æf
+    - **Danish:** om
+      - **Norwegian Bokmål:** om
+        - **Norwegian Nynorsk:** om — _borrowed_
+  - **Old Danish:** æm
+    - **Danish:** om
+      - **Norwegian Bokmål:** om
+        - **Norwegian Nynorsk:** om — _borrowed_
+  - **Old Danish:** um
+    - **Danish:** om
+      - **Norwegian Bokmål:** om
+        - **Norwegian Nynorsk:** om — _borrowed_
+- **Old Norse:** if
+  - **Icelandic:** ef
+  - **Old Swedish:** ef
+    - **Swedish:** om
+    - **Norwegian:** 
+      - **Norwegian Nynorsk:** um — _influenced by um < umb_
+  - **Old Swedish:** em
+    - **Swedish:** om
+    - **Norwegian:** 
+      - **Norwegian Nynorsk:** um — _influenced by um < umb_
+  - **Old Swedish:** um
+    - **Swedish:** om
+    - **Norwegian:** 
+      - **Norwegian Nynorsk:** um — _influenced by um < umb_
+  - **Old Danish:** æf
+    - **Danish:** om
+      - **Norwegian Bokmål:** om
+        - **Norwegian Nynorsk:** om — _borrowed_
+  - **Old Danish:** æm
+    - **Danish:** om
+      - **Norwegian Bokmål:** om
+        - **Norwegian Nynorsk:** om — _borrowed_
+  - **Old Danish:** um
+    - **Danish:** om
+      - **Norwegian Bokmål:** om
+        - **Norwegian Nynorsk:** om — _borrowed_
+- **Gothic:** 𐌾𐌰𐌱𐌰𐌹
+  - **Gothic:** 𐌽𐌹𐌱𐌰 — _reshaped by analogy or addition of morphemes_
+  - **Gothic:** 𐌽𐌹𐌱𐌰𐌹 — _reshaped by analogy or addition of morphemes_
+- **Gothic:** 𐌹𐌱𐌰𐌹
+  - **Gothic:** 𐌽𐌹𐌱𐌰 — _reshaped by analogy or addition of morphemes_
+  - **Gothic:** 𐌽𐌹𐌱𐌰𐌹 — _reshaped by analogy or addition of morphemes_
+- **Gothic:** 𐌹𐌱𐌰
+  - **Gothic:** 𐌽𐌹𐌱𐌰 — _reshaped by analogy or addition of morphemes_
+  - **Gothic:** 𐌽𐌹𐌱𐌰𐌹 — _reshaped by analogy or addition of morphemes_

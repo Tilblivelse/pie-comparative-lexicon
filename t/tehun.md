@@ -1,0 +1,1105 @@
+# *tehun
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/tehun)
+
+## Proto-Germanic
+
+**Reconstruction:** *tehun
+
+### Etymology
+
+From Proto-Indo-European *déḱm̥ (“ten”), or alternatively from earlier *tehunt, from Proto-Indo-European *déḱm̥t.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *déḱm̥, *déḱm̥t
+
+### Pronunciation
+
+- IPA: `/ˈte.xun/`
+
+### Numeral
+
+1. _(reconstruction)_ ten
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *tehun
+  - **Old English:** tīen
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tēn — _Mercian_
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tȳn — _West Saxon_
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tēne
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tēa
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tīn
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old Frisian:** tiān
+    - **North Frisian:** 
+    - **Saterland Frisian:** tjoon
+    - **West Frisian:** tsien
+  - **Old Frisian:** tēne
+    - **North Frisian:** 
+    - **Saterland Frisian:** tjoon
+    - **West Frisian:** tsien
+  - **Old Frisian:** tīne
+    - **North Frisian:** 
+    - **Saterland Frisian:** tjoon
+    - **West Frisian:** tsien
+  - **Old Saxon:** tehan
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Saxon:** tehin
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Saxon:** tian
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Saxon:** tein
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Dutch:** *tian
+    - **Middle Dutch:** tien
+      - **Dutch:** tien
+        - **Afrikaans:** tien
+      - **Limburgish:** teen
+      - **Limburgish:** tieën
+      - **Zealandic:** tien
+  - **Old Dutch:** tēn
+    - **Middle Dutch:** tien
+      - **Dutch:** tien
+        - **Afrikaans:** tien
+      - **Limburgish:** teen
+      - **Limburgish:** tieën
+      - **Zealandic:** tien
+  - **Old High German:** zehan
+    - **Middle High German:** zëhen
+      - **Central Franconian:** zehn
+      - **Cimbrian:** sègane
+      - **Cimbrian:** zene — _Luserna_
+      - **German:** zehn
+      - **Luxembourgish:** zéng
+      - **Yiddish:** צען
+    - **Middle High German:** zēn
+      - **Central Franconian:** zehn
+      - **Cimbrian:** sègane
+      - **Cimbrian:** zene — _Luserna_
+      - **German:** zehn
+      - **Luxembourgish:** zéng
+      - **Yiddish:** צען
+- **Proto-West Germanic:** *tehan
+  - **Old English:** tīen
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tēn — _Mercian_
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tȳn — _West Saxon_
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tēne
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tēa
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old English:** tīn
+    - **Middle English:** ten
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+    - **Middle English:** tenne — _Late Middle English_
+      - **English:** ten
+      - **Scots:** ten
+      - **Yola:** dhen
+  - **Old Frisian:** tiān
+    - **North Frisian:** 
+    - **Saterland Frisian:** tjoon
+    - **West Frisian:** tsien
+  - **Old Frisian:** tēne
+    - **North Frisian:** 
+    - **Saterland Frisian:** tjoon
+    - **West Frisian:** tsien
+  - **Old Frisian:** tīne
+    - **North Frisian:** 
+    - **Saterland Frisian:** tjoon
+    - **West Frisian:** tsien
+  - **Old Saxon:** tehan
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Saxon:** tehin
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Saxon:** tian
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Saxon:** tein
+    - **Middle Low German:** tehen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tein
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tēn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīgen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīn
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+    - **Middle Low German:** tīen
+      - **Low German:** teihn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tein
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tehn
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Low German:** tien
+        - **German Low German:** teihn
+        - **German Low German:** tiehn
+        - **Westphalian:** 
+      - **Plautdietsch:** tieen
+  - **Old Dutch:** *tian
+    - **Middle Dutch:** tien
+      - **Dutch:** tien
+        - **Afrikaans:** tien
+      - **Limburgish:** teen
+      - **Limburgish:** tieën
+      - **Zealandic:** tien
+  - **Old Dutch:** tēn
+    - **Middle Dutch:** tien
+      - **Dutch:** tien
+        - **Afrikaans:** tien
+      - **Limburgish:** teen
+      - **Limburgish:** tieën
+      - **Zealandic:** tien
+  - **Old High German:** zehan
+    - **Middle High German:** zëhen
+      - **Central Franconian:** zehn
+      - **Cimbrian:** sègane
+      - **Cimbrian:** zene — _Luserna_
+      - **German:** zehn
+      - **Luxembourgish:** zéng
+      - **Yiddish:** צען
+    - **Middle High German:** zēn
+      - **Central Franconian:** zehn
+      - **Cimbrian:** sègane
+      - **Cimbrian:** zene — _Luserna_
+      - **German:** zehn
+      - **Luxembourgish:** zéng
+      - **Yiddish:** צען
+- **Old Norse:** tíu
+  - **Icelandic:** tíu
+  - **Faroese:** tíggju
+  - **Norn:** ti
+  - **Norwegian:** ti
+  - **Old Swedish:** tīo
+    - **Swedish:** tio
+  - **Old Swedish:** tīu
+    - **Swedish:** tio
+  - **Old Danish:** ti
+    - **Danish:** ti
+  - **Gutnish:** tei
+  - **Gutnish:** teiå
+  - **Gutnish:** teiu
+- **Gothic:** 𐍄𐌰𐌹𐌷𐌿𐌽

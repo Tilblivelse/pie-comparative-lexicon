@@ -1,0 +1,306 @@
+# *efþau
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ef%C3%BEau)
+
+## Proto-Germanic
+
+**Reconstruction:** *efþau
+
+### Etymology
+
+Ultimately thought to be a Germanic suffixed dual form of the base of if. See also Proto-Germanic *ehþau for an alternative reconstruction.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈeɸ.θɑu̯/`
+
+### Conjunction
+
+1. _(reconstruction)_ or
+
+### Germanic descendants
+
+- **Old English:** oþþe
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** oððe
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** oðþe
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** oþðe
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** oðþo
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** eþþa
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** ofþe
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** oþþon
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** oþþa — _Mercian_
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old English:** othte
+  - **Middle English:** oththe
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** other
+    - **English:** or
+    - **Scots:** or
+  - **Middle English:** or
+    - **English:** or
+    - **Scots:** or
+- **Old Frisian:** ieftha
+  - **Saterland Frisian:** af
+  - **Saterland Frisian:** of
+  - **West Frisian:** of
+- **Old Frisian:** ioftha
+  - **Saterland Frisian:** af
+  - **Saterland Frisian:** of
+  - **West Frisian:** of
+- **Old Frisian:** ofte
+  - **Saterland Frisian:** af
+  - **Saterland Frisian:** of
+  - **West Frisian:** of
+- **Old Frisian:** jova
+  - **Saterland Frisian:** af
+  - **Saterland Frisian:** of
+  - **West Frisian:** of
+- **Old Frisian:** jof
+  - **Saterland Frisian:** af
+  - **Saterland Frisian:** of
+  - **West Frisian:** of
+- **Old Frisian:** jef
+  - **Saterland Frisian:** af
+  - **Saterland Frisian:** of
+  - **West Frisian:** of
+- **Old Frisian:** of
+  - **Saterland Frisian:** af
+  - **Saterland Frisian:** of
+  - **West Frisian:** of
+- **Old Saxon:** eftha
+  - **Middle Low German:** efte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** afte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** ufte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uft
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uf
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** edder
+  - **Middle Low German:** odder
+- **Old Saxon:** eftho
+  - **Middle Low German:** efte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** afte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** ufte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uft
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uf
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** edder
+  - **Middle Low German:** odder
+- **Old Saxon:** efdo
+  - **Middle Low German:** efte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** afte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** ufte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uft
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uf
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** edder
+  - **Middle Low German:** odder
+- **Old Saxon:** ettho
+  - **Middle Low German:** efte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** afte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** ufte
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uft
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** uf
+    - **German Low German:** of — _Westmünsterlandisch_
+      - **Sauerland Low German:** of
+      - **Sauerland Low German:** o'
+  - **Middle Low German:** edder
+  - **Middle Low German:** odder
+- **Old Dutch:** *oftho
+  - **Middle Dutch:** ofte
+    - **Dutch:** ofte
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+    - **Dutch:** of
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+  - **Middle Dutch:** ochte
+    - **Dutch:** ofte
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+    - **Dutch:** of
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+- **Old Dutch:** *ofto
+  - **Middle Dutch:** ofte
+    - **Dutch:** ofte
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+    - **Dutch:** of
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+  - **Middle Dutch:** ochte
+    - **Dutch:** ofte
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+    - **Dutch:** of
+      - **Afrikaans:** ofte
+      - **Afrikaans:** of
+- **Old High German:** odo
+  - **Middle High German:** od
+  - **Middle High German:** ode
+  - **Old High German:** odar — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** oder
+      - **Cimbrian:** òdar
+      - **Cimbrian:** odar — _Luserna_
+      - **German:** oder
+      - **Luxembourgish:** oder
+      - **Yiddish:** אָדער
+  - **Old High German:** odor — _reshaped by analogy or addition of morphemes; in analogy with abur (“but”); wedar (“which”)_
+    - **Middle High German:** oder
+      - **Cimbrian:** òdar
+      - **Cimbrian:** odar — _Luserna_
+      - **German:** oder
+      - **Luxembourgish:** oder
+      - **Yiddish:** אָדער
+- **Old Norse:** eða
+  - **Icelandic:** eða
+  - **Icelandic:** eður
+  - **Old Danish:** æthæ
+  - **Old Danish:** eth
+  - **Old Gutnish:** eþa
+- **Old Norse:** eðr
+  - **Icelandic:** eða
+  - **Icelandic:** eður
+  - **Old Danish:** æthæ
+  - **Old Danish:** eth
+  - **Old Gutnish:** eþa
+- **Gothic:** 𐌰𐌹𐌸𐌸𐌰𐌿

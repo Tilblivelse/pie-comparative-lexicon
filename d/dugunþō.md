@@ -1,0 +1,1001 @@
+# *dugunþō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/dugun%C3%BE%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *dugunþō
+
+### Etymology
+
+From unattested *dugunþaz (“productive, useful, strong”) + *-ō, from Proto-Indo-European *dʰéwgʰ-ont-s ~ *dʰugʰ-n̥t-és, from *dʰewgʰ- (“to be productive, useful; to be strong”) + *-onts. See also *duganą (“to be fit, avail”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *-onts, *dʰewgʰ-, *dʰéwgʰ-ont-s ~ *dʰugʰ-n̥t-és
+
+### Pronunciation
+
+- IPA: `/ˈdu.ɣun.θɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ ability, usefulness, strength
+2. _(feminine, reconstruction)_ virtue, strength of character
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| dugunþō | nominative, singular |
+| dugunþôz | nominative, plural |
+| dugunþō | singular, vocative |
+| dugunþôz | plural, vocative |
+| dugunþǭ | accusative, singular |
+| dugunþōz | accusative, plural |
+| dugunþōz | genitive, singular |
+| dugunþǫ̂ | genitive, plural |
+| dugunþōi | dative, singular |
+| dugunþōmaz | dative, plural |
+| dugunþō | instrumental, singular |
+| dugunþōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *dugunþu
+  - **Old English:** duguþ
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old English:** dugeþ
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old English:** dugoþ
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old English:** duguð
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old Frisian:** dugethe
+    - **North Frisian:** döged
+    - **North Frisian:** dögd
+    - **Saterland Frisian:** Duugd
+    - **West Frisian:** deugd
+  - **Old Frisian:** dugede
+    - **North Frisian:** döged
+    - **North Frisian:** dögd
+    - **Saterland Frisian:** Duugd
+    - **West Frisian:** deugd
+  - **Old Saxon:** *dugund
+    - **Middle Low German:** dogent
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+    - **Middle Low German:** doget
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+  - **Old Saxon:** *dugunt
+    - **Middle Low German:** dogent
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+    - **Middle Low German:** doget
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+  - **Old Saxon:** *duguth
+    - **Middle Low German:** dogent
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+    - **Middle Low German:** doget
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+  - **Old Dutch:** *dugath
+    - **Middle Dutch:** doget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** doghet
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** duget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** dueget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+  - **Old Dutch:** *dugeth
+    - **Middle Dutch:** doget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** doghet
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** duget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** dueget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+  - **Old High German:** tungundi
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+  - **Old High German:** tugund
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+  - **Old High German:** tugind
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+  - **Old High German:** *dugud — _Central German_
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+- **Proto-West Germanic:** *dugunþi
+  - **Old English:** duguþ
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old English:** dugeþ
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old English:** dugoþ
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old English:** duguð
+    - **Middle English:** douthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douth
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** douþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duthe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** doȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** dugeð
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝde
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duȝeþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duheðe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duhþe
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+    - **Middle English:** duweðe — _Early Middle English_
+      - **English:** douth
+      - **Scots:** duthe
+      - **Scots:** douth
+  - **Old Frisian:** dugethe
+    - **North Frisian:** döged
+    - **North Frisian:** dögd
+    - **Saterland Frisian:** Duugd
+    - **West Frisian:** deugd
+  - **Old Frisian:** dugede
+    - **North Frisian:** döged
+    - **North Frisian:** dögd
+    - **Saterland Frisian:** Duugd
+    - **West Frisian:** deugd
+  - **Old Saxon:** *dugund
+    - **Middle Low German:** dogent
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+    - **Middle Low German:** doget
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+  - **Old Saxon:** *dugunt
+    - **Middle Low German:** dogent
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+    - **Middle Low German:** doget
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+  - **Old Saxon:** *duguth
+    - **Middle Low German:** dogent
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+    - **Middle Low German:** doget
+      - **German Low German:** Döögde
+      - **German Low German:** Döögte
+      - **German Low German:** Döögd
+      - **German Low German:** Döögt
+  - **Old Dutch:** *dugath
+    - **Middle Dutch:** doget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** doghet
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** duget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** dueget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+  - **Old Dutch:** *dugeth
+    - **Middle Dutch:** doget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** doghet
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** duget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+    - **Middle Dutch:** dueget
+      - **Dutch:** deugd
+        - **Afrikaans:** deug
+  - **Old High German:** tungundi
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+  - **Old High German:** tugund
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+  - **Old High German:** tugind
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+  - **Old High German:** *dugud — _Central German_
+    - **Middle High German:** tugende
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** tugent
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duget
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+    - **Middle High German:** duged — _Central German_
+      - **Alemannic German:** Tuugend
+      - **German:** Tugend
+        - **Central Franconian:** Dugend — _borrowed; uncertain_
+        - **Central Franconian:** Dujend — _borrowed; uncertain_
+        - **Central Franconian:** Tugend — _borrowed; uncertain_
+        - **Central Franconian:** Tuend — _borrowed; uncertain_
+        - **Luxembourgish:** Dugend — _borrowed; uncertain_
+      - **Rhine Franconian:** 
+        - **Palatine German:** Tugend
+      - **Vilamovian:** tūgyt
+      - **Yiddish:** טוגענד
+- **Proto-Norse:** *ᛞᚢᚷᛁᚦᛟ
+  - **Old Norse:** dygð
+    - **Icelandic:** dygð
+    - **Icelandic:** dyggð
+    - **Faroese:** dygd
+    - **Norwegian Nynorsk:** dygd
+      - **Norwegian Bokmål:** dygd — _borrowed_
+    - **Elfdalian:** dygd
+    - **Old Swedish:** dyghþ
+      - **Swedish:** dygd
+    - **Old Danish:** dyghth
+      - **Danish:** dyd
+        - **Norwegian Bokmål:** dyd
+          - **Norwegian Nynorsk:** dyd — _borrowed_
+    - **Gutnish:** dygd
+  - **Old Norse:** dyggð
+    - **Icelandic:** dygð
+    - **Icelandic:** dyggð
+    - **Faroese:** dygd
+    - **Norwegian Nynorsk:** dygd
+      - **Norwegian Bokmål:** dygd — _borrowed_
+    - **Elfdalian:** dygd
+    - **Old Swedish:** dyghþ
+      - **Swedish:** dygd
+    - **Old Danish:** dyghth
+      - **Danish:** dyd
+        - **Norwegian Bokmål:** dyd
+          - **Norwegian Nynorsk:** dyd — _borrowed_
+    - **Gutnish:** dygd

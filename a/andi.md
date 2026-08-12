@@ -1,0 +1,8120 @@
+# *andi
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/andi)
+
+## Proto-Germanic
+
+**Reconstruction:** *andi
+
+### Etymology
+
+From a full-grade form of Proto-Indo-European *h₂énti (“opposite, in front”), locative of *h₂ent- (“front, forehead”). West Germanic continues an enclitic variant. The forms in *u- may continue the zero grade (genitive singular *h₂n̥tés), but this is uncertain given the enclitic nature of the word and the virtually unlimited variety of attested vowels.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂ent-, *h₂énti
+
+### Pronunciation
+
+- IPA: `/ˈɑn.di/`
+
+### Conjunction
+
+1. _(reconstruction)_ in addition, furthermore, and
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *andi
+  - **Old English:** and
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** ond
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** end
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** ᚪᚾᛞ
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** ᛖᚾᛞ — _Franks Casket_
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old Frisian:** and
+    - **North Frisian:** än
+    - **Saterland Frisian:** un
+    - **West Frisian:** en
+    - **West Frisian:** in
+  - **Old Frisian:** ande
+    - **North Frisian:** än
+    - **Saterland Frisian:** un
+    - **West Frisian:** en
+    - **West Frisian:** in
+  - **Old Frisian:** ende
+    - **North Frisian:** än
+    - **Saterland Frisian:** un
+    - **West Frisian:** en
+    - **West Frisian:** in
+  - **Old Saxon:** endi
+    - **Middle Low German:** ende
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** end
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** en
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** unde
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** und
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** un — _western also_
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** inde
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** ind
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** in — _early_
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** ande
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+  - **Old Dutch:** ande
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** enda
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** in
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** indi
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** unde
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old High German:** unti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unta
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unte
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unda
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** undi
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unde
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** un
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** anti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** and
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** ande
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** enti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** endi
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** end
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** ende
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** inti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** indi
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** inte
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** int
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** in
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+- **Proto-West Germanic:** *and
+  - **Old English:** and
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** ond
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** end
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** ᚪᚾᛞ
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old English:** ᛖᚾᛞ — _Franks Casket_
+    - **Middle English:** and
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** annd
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ant
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** an
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** en
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** ⁊
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+    - **Middle English:** &
+      - **English:** and
+      - **Scots:** an
+      - **Yola:** an
+      - **Yola:** an'
+      - **Yola:** and
+  - **Old Frisian:** and
+    - **North Frisian:** än
+    - **Saterland Frisian:** un
+    - **West Frisian:** en
+    - **West Frisian:** in
+  - **Old Frisian:** ande
+    - **North Frisian:** än
+    - **Saterland Frisian:** un
+    - **West Frisian:** en
+    - **West Frisian:** in
+  - **Old Frisian:** ende
+    - **North Frisian:** än
+    - **Saterland Frisian:** un
+    - **West Frisian:** en
+    - **West Frisian:** in
+  - **Old Saxon:** endi
+    - **Middle Low German:** ende
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** end
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** en
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** unde
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** und
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** un — _western also_
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** inde
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** ind
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** in — _early_
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+    - **Middle Low German:** ande
+      - **Dutch Low Saxon:** en
+      - **Dutch Low Saxon:** in
+      - **German Low German:** un
+      - **German Low German:** on
+      - **Plautdietsch:** un
+      - **Plautdietsch:** en
+  - **Old Dutch:** ande
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** enda
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** in
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** indi
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old Dutch:** unde
+    - **Middle Dutch:** ende
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** en
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** end
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enn
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** enne — _early_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** inde — _very rare_
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** unde
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+    - **Middle Dutch:** ande
+      - **Dutch:** en
+        - **Afrikaans:** en
+      - **Dutch:** ende — _archaic_
+        - **Afrikaans:** en
+      - **Dutch:** enne
+        - **Afrikaans:** en
+      - **Dutch:** enneh — _informal; childish_
+        - **Afrikaans:** en
+      - **Limburgish:** ènde
+      - **Limburgish:** ènd
+      - **Limburgish:** èn
+      - **Limburgish:** è
+  - **Old High German:** unti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unta
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unte
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unda
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** undi
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** unde
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** un
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** anti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** and
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** ande
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** enti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** endi
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** end
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** ende
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** inti
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** indi
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** inte
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** int
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+  - **Old High German:** in
+    - **Middle High German:** unde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unt
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** und
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** unn
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** onde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** ont — _Central Franconian_
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+    - **Middle High German:** inde
+      - **Bavarian:** und
+        - **Cimbrian:** un
+        - **Mòcheno:** ont
+      - **Central Franconian:** en
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** an — _< inde_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** on
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **Central Franconian:** un — _< unde; now predominant; originally south-eastern_
+        - **Hunsrik:** un
+        - **Luxembourgish:** an
+      - **German:** und
+      - **Rhine Franconian:** un
+        - **Pennsylvania German:** un
+      - **Rhine Franconian:** on
+        - **Pennsylvania German:** un
+      - **Vilamovian:** an
+      - **Vilamovian:** ana
+      - **Yiddish:** און
+- **Proto-Norse:** 
+  - **Old Norse:** en
+    - **Icelandic:** en
+    - **Faroese:** enn
+    - **Norwegian Nynorsk:** enn
+    - **Norwegian Nynorsk:** en
+    - **Norwegian Bokmål:** enn
+    - **Old Swedish:** æn
+      - **Swedish:** än
+    - **Old Danish:** æn
+      - **Danish:** end
+  - **Old Norse:** enn
+    - **Icelandic:** enn
+    - **Faroese:** enn
+    - **Norwegian:** enn
+    - **Old Swedish:** æn
+      - **Swedish:** än
+    - **Danish:** end

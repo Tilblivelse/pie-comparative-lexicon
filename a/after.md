@@ -1,0 +1,1276 @@
+# *after
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/after)
+
+## Proto-Germanic
+
+**Reconstruction:** *after
+
+### Etymology
+
+From the locative form of Pre-Germanic *h₂ep(o)teros, from Proto-Indo-European *h₂epó (“away, off, from”) + *-teros.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂ep(o)teros, *h₂epó
+
+### Pronunciation
+
+- IPA: `/ˈɑɸ.ter/`
+
+### Adverb
+
+1. _(reconstruction)_ after, behind
+
+### Preposition
+
+1. _(reconstruction)_ after, behind
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *aftar
+  - **Old English:** æfter
+    - **Middle English:** æfter
+      - **Scots:** efter
+      - **English:** after
+    - **Middle English:** efter
+      - **Scots:** efter
+      - **English:** after
+    - **Middle English:** after
+      - **Scots:** efter
+      - **English:** after
+  - **Old Frisian:** efter
+    - **North Frisian:** efter
+    - **Saterland Frisian:** ätter
+    - **West Frisian:** efter
+    - **West Frisian:** after
+    - **West Frisian:** achter
+  - **Old Frisian:** after
+    - **North Frisian:** efter
+    - **Saterland Frisian:** ätter
+    - **West Frisian:** efter
+    - **West Frisian:** after
+    - **West Frisian:** achter
+  - **Old Saxon:** aftar
+    - **Middle Low German:** after
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** achter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** echter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+  - **Old Saxon:** after
+    - **Middle Low German:** after
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** achter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** echter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+  - **Old Dutch:** after
+    - **Middle Dutch:** after
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** affter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** achter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** echter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+  - **Old Dutch:** aftir
+    - **Middle Dutch:** after
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** affter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** achter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** echter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+  - **Old High German:** after
+    - **Middle High German:** after
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *ahter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *achter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+  - **Old High German:** aftar
+    - **Middle High German:** after
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *ahter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *achter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+  - **Old High German:** ahter — _northern_
+    - **Middle High German:** after
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *ahter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *achter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+- **Proto-West Germanic:** *after
+  - **Old English:** æfter
+    - **Middle English:** æfter
+      - **Scots:** efter
+      - **English:** after
+    - **Middle English:** efter
+      - **Scots:** efter
+      - **English:** after
+    - **Middle English:** after
+      - **Scots:** efter
+      - **English:** after
+  - **Old Frisian:** efter
+    - **North Frisian:** efter
+    - **Saterland Frisian:** ätter
+    - **West Frisian:** efter
+    - **West Frisian:** after
+    - **West Frisian:** achter
+  - **Old Frisian:** after
+    - **North Frisian:** efter
+    - **Saterland Frisian:** ätter
+    - **West Frisian:** efter
+    - **West Frisian:** after
+    - **West Frisian:** achter
+  - **Old Saxon:** aftar
+    - **Middle Low German:** after
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** achter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** echter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+  - **Old Saxon:** after
+    - **Middle Low German:** after
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** achter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+    - **Middle Low German:** echter
+      - **Low German:** achter
+      - **Low German:** aster
+      - **German Low German:** achter
+      - **German Low German:** ächter — _Münsterländisch & Paderbornisch_
+  - **Old Dutch:** after
+    - **Middle Dutch:** after
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** affter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** achter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** echter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+  - **Old Dutch:** aftir
+    - **Middle Dutch:** after
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** affter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** achter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+    - **Middle Dutch:** echter
+      - **Dutch:** achter
+        - **Afrikaans:** agter
+      - **Dutch:** after — _dialectal_
+        - **Afrikaans:** agter
+  - **Old High German:** after
+    - **Middle High German:** after
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *ahter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *achter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+  - **Old High German:** aftar
+    - **Middle High German:** after
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *ahter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *achter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+  - **Old High German:** ahter — _northern_
+    - **Middle High German:** after
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *ahter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+    - **Middle High German:** *achter
+      - **German:** after
+      - **German:** After
+      - **Luxembourgish:** uechter
+- **Proto-Norse:** ᚨᚠᛏᛖᚱ
+  - **Old Norse:** eptir
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ept
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** at
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛁᚠᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛁᚠᛏᛁᚱ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛁᛒᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛅᚠᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᚬᚠᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛅᛒᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+- **Proto-Norse:** ᛡᚠᚨᛏᛉ
+  - **Old Norse:** eptir
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ept
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** at
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛁᚠᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛁᚠᛏᛁᚱ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛁᛒᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛅᚠᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᚬᚠᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+  - **Old Norse:** ᛅᛒᛏᛁᛦ
+    - **Icelandic:** eftir
+    - **Faroese:** eftir
+    - **Norn:** efter
+    - **Middle Norwegian:** ettir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** iftir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Middle Norwegian:** ættir
+      - **Norwegian Nynorsk:** etter
+        - **Norwegian Bokmål:** etter — _borrowed_
+    - **Old Jamtish:** 
+      - **Jamtish:** ette
+    - **Elfdalian:** etter
+    - **Old Swedish:** æptir
+      - **Swedish:** efter
+    - **Old Swedish:** æftir
+      - **Swedish:** efter
+    - **Old Swedish:** ættir
+      - **Swedish:** efter
+    - **Old Danish:** æftær
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Danish:** æftir
+      - **Danish:** efter
+        - **Norwegian Bokmål:** efter — _unofficial; riksmål_
+      - **Scanian:** ætte
+    - **Old Gutnish:** eptir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** aktr
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** ebtir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** efter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** eftir
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_
+    - **Old Gutnish:** epter
+      - **Gutnish:** etta
+      - **Gutnish:** ettar
+      - **Gutnish:** yttur — _fårö_

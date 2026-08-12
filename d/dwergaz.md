@@ -1,0 +1,712 @@
+# *dwergaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/dwergaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *dwergaz
+
+### Etymology
+
+Uncertain. Sometimes compared with Sanskrit ध्वरस् (dhvaras, “demon”) or Lithuanian dvãsas (“spirit”). Kroonen instead suggests a derivation from strong verb *dwerganą (whence Middle High German zwergen (“to squeeze, press”)), albeit with no adduced cognates outside of Germanic.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈdwer.ɣɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ dwarf
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| dwergaz | nominative, singular |
+| dwergōz | nominative, plural |
+| dwergōs | nominative, plural |
+| dwerg | singular, vocative |
+| dwergōz | plural, vocative |
+| dwergōs | plural, vocative |
+| dwergą | accusative, singular |
+| dwerganz | accusative, plural |
+| dwergas | genitive, singular |
+| dwirgis | genitive, singular |
+| dwergǫ̂ | genitive, plural |
+| dwergai | dative, singular |
+| dwergamaz | dative, plural |
+| dwergō | instrumental, singular |
+| dwergamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *dwerg
+  - **Old English:** dweorg
+    - **Middle English:** dwergh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duarf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duerf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duerwe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarfe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarff
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarow
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarw
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerew
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerff
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerffe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerk
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerke
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dweruf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dweruȝ
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerw
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerwh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwery
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwæruh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dueorg — _Early Middle English_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarghe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerghe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerȝe — _Northern_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerowe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerwhe — _Promptorium Parvulorum_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+  - **Old English:** dweorh
+    - **Middle English:** dwergh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duarf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duerf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duerwe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarfe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarff
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarow
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarw
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerew
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerff
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerffe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerk
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerke
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dweruf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dweruȝ
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerw
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerwh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwery
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwæruh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dueorg — _Early Middle English_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarghe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerghe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerȝe — _Northern_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerowe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerwhe — _Promptorium Parvulorum_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+  - **Old English:** dwerg
+    - **Middle English:** dwergh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duarf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duerf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** duerwe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarfe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarff
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarow
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarw
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerew
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerff
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerffe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerk
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerke
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dweruf
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dweruȝ
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerw
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerwh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwery
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwæruh
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dueorg — _Early Middle English_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwarghe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerghe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerȝe — _Northern_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerowe
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+    - **Middle English:** dwerwhe — _Promptorium Parvulorum_
+      - **English:** dwarf
+      - **Scots:** droich
+      - **Scots:** droch
+      - **Scots:** dwerch
+      - **Scots:** duerch
+      - **Scots:** duerche
+      - **Scots:** dorche
+  - **Old Frisian:** dwerch
+    - **Saterland Frisian:** Dwärch
+    - **West Frisian:** dwerch
+  - **Old Saxon:** dwerg
+    - **Middle Low German:** dwerch
+      - **Low German:** Dwarg
+    - **Middle Low German:** dwarch
+      - **Low German:** Dwarg
+    - **Middle Low German:** dwark
+      - **Low German:** Dwarg
+  - **Old Dutch:** *dwerg
+    - **Middle Dutch:** dwerch
+      - **Dutch:** dwerg
+        - **Afrikaans:** dwerg
+  - **Old High German:** twërc
+    - **Middle High German:** twërc
+      - **German:** Zwerg
+      - **Luxembourgish:** Zwerg
+  - **Old High German:** twërg
+    - **Middle High German:** twërc
+      - **German:** Zwerg
+      - **Luxembourgish:** Zwerg
+- **Old Norse:** dvergr
+  - **Icelandic:** dvergur
+  - **Faroese:** dvørgur
+  - **Norwegian Nynorsk:** dverg — _dialectal_
+  - **Norwegian Nynorsk:** verg
+  - **Norwegian Nynorsk:** tverg
+  - **Old Swedish:** dværgher
+    - **Swedish:** dvärg
+  - **Danish:** dværg
+    - **Norwegian Bokmål:** dverg
+  - **Gutnish:** dvärg
+  - **Gutnish:** värg

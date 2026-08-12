@@ -1,0 +1,1000 @@
+# *sternǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/stern%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *sternǭ
+
+### Etymology
+
+From Proto-Indo-European *h₂stḗr (“star”). According to Kroonen, the word became an n-stem in Germanic, Pre-Germanic *h₂stérōn, gen. *h₂sternés, which gave rise to two stems, *ster- and *sterr-, the latter through Kluge's law. The forms showing *stern- have reintroduced the -n- from the cases where it had not been assimilated.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂stḗr
+
+### Pronunciation
+
+- IPA: `/ˈster.nɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ star
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| sternǭ | nominative, singular |
+| sternōniz | nominative, plural |
+| sternǭ | singular, vocative |
+| sternōniz | plural, vocative |
+| sternōnų | accusative, singular |
+| sternōnunz | accusative, plural |
+| sternōniz | genitive, singular |
+| sternōnǫ̂ | genitive, plural |
+| sternōni | dative, singular |
+| sternōmaz | dative, plural |
+| sternōnē | instrumental, singular |
+| sternōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *sternō
+  - **Old English:** steorra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** stearra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** stiorra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** styrra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** sterra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old Frisian:** stēra
+    - **North Frisian:** steer
+    - **West Frisian:** stjer
+  - **Old Saxon:** sterro
+    - **Middle Low German:** stērne
+      - **German Low German:** Steern
+      - **Plautdietsch:** Stiern
+      - **Saterland Frisian:** Stiern — _borrowed_
+    - **Middle Low German:** stērn
+      - **German Low German:** Steern
+      - **Plautdietsch:** Stiern
+      - **Saterland Frisian:** Stiern — _borrowed_
+  - **Old Dutch:** sterno
+    - **Middle Dutch:** sterre
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+    - **Middle Dutch:** sterne
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+  - **Old Dutch:** sterro
+    - **Middle Dutch:** sterre
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+    - **Middle Dutch:** sterne
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+  - **Old Dutch:** sterro
+    - **Middle Dutch:** sterre
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+    - **Middle Dutch:** sterne
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+  - **Old High German:** sterno
+    - **Middle High German:** stërne
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërre
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërn
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+  - **Old High German:** sterro
+    - **Middle High German:** stërne
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërre
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërn
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+  - **Old High German:** stern
+    - **Middle High German:** stërne
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërre
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërn
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+- **Proto-West Germanic:** *sterrō — _m_
+  - **Old English:** steorra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** stearra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** stiorra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** styrra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old English:** sterra
+    - **Middle English:** sterre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** star
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** starre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** ster
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sterrie
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** stoerre
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** sturre — _Southern; Southwest Midland_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** steorra
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+    - **Middle English:** storre — _Early Middle English_
+      - **English:** star
+      - **Scots:** ster
+      - **Yola:** starr
+      - **Yola:** steor
+      - **Yola:** steorr
+  - **Old Frisian:** stēra
+    - **North Frisian:** steer
+    - **West Frisian:** stjer
+  - **Old Saxon:** sterro
+    - **Middle Low German:** stērne
+      - **German Low German:** Steern
+      - **Plautdietsch:** Stiern
+      - **Saterland Frisian:** Stiern — _borrowed_
+    - **Middle Low German:** stērn
+      - **German Low German:** Steern
+      - **Plautdietsch:** Stiern
+      - **Saterland Frisian:** Stiern — _borrowed_
+  - **Old Dutch:** sterno
+    - **Middle Dutch:** sterre
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+    - **Middle Dutch:** sterne
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+  - **Old Dutch:** sterro
+    - **Middle Dutch:** sterre
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+    - **Middle Dutch:** sterne
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+  - **Old Dutch:** sterro
+    - **Middle Dutch:** sterre
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+    - **Middle Dutch:** sterne
+      - **Dutch:** ster
+        - **Afrikaans:** ster
+      - **Limburgish:** Schtar
+      - **Limburgish:** sjtar
+      - **West Flemish:** sterre
+  - **Old High German:** sterno
+    - **Middle High German:** stërne
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërre
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërn
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+  - **Old High German:** sterro
+    - **Middle High German:** stërne
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërre
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërn
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+  - **Old High German:** stern
+    - **Middle High German:** stërne
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërre
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+    - **Middle High German:** stërn
+      - **Alemannic German:** Stern
+      - **Bavarian:** Stean
+      - **Central Franconian:** Stään
+      - **Central Franconian:** Stär
+      - **Central Franconian:** Stären
+      - **Central Franconian:** Stern
+      - **German:** Stern
+      - **Vilamovian:** śtaom
+      - **Yiddish:** שטערן
+- **Old Norse:** stjarna
+  - **Icelandic:** stjarna
+  - **Faroese:** stjørna
+  - **Norn:** sterna
+  - **Norwegian Bokmål:** stjerne
+  - **Norwegian Nynorsk:** stjerne
+  - **Old Swedish:** stiærna
+    - **Swedish:** stjärna
+  - **Old Danish:** stiærnæ
+    - **Danish:** stjerne
+  - **Elfdalian:** stienna
+  - **Gutnish:** stjännå
+  - **Gutnish:** stjänne
+  - **Scanian:** stjærna
+  - **Middle English:** sterne — _borrowed_
+    - **English:** starn — _dialectal_
+    - **Middle Scots:** stern
+      - **Scots:** starn
+    - **Middle Scots:** starn
+      - **Scots:** starn
+  - **Middle English:** stern — _borrowed_
+    - **English:** starn — _dialectal_
+    - **Middle Scots:** stern
+      - **Scots:** starn
+    - **Middle Scots:** starn
+      - **Scots:** starn
+  - **Middle English:** starn — _borrowed_
+    - **English:** starn — _dialectal_
+    - **Middle Scots:** stern
+      - **Scots:** starn
+    - **Middle Scots:** starn
+      - **Scots:** starn
+  - **Middle English:** starne — _Northern; borrowed_
+    - **English:** starn — _dialectal_
+    - **Middle Scots:** stern
+      - **Scots:** starn
+    - **Middle Scots:** starn
+      - **Scots:** starn
+  - **Middle English:** steorrne — _borrowed_
+    - **English:** starn — _dialectal_
+    - **Middle Scots:** stern
+      - **Scots:** starn
+    - **Middle Scots:** starn
+      - **Scots:** starn
+  - **Middle English:** sterrne — _Ormulum; borrowed_
+    - **English:** starn — _dialectal_
+    - **Middle Scots:** stern
+      - **Scots:** starn
+    - **Middle Scots:** starn
+      - **Scots:** starn
+- **East Germanic:** 
+  - **Gothic:** 𐍃𐍄𐌰𐌹𐍂𐌽𐍉
+  - **Crimean Gothic:** stein

@@ -1,0 +1,1541 @@
+# *izweraz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/izweraz)
+
+## Proto-Germanic
+
+**Reconstruction:** *izweraz
+
+### Etymology
+
+Genitive form of *jūz.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈiz.we.rɑz/`
+
+### Determiner
+
+1. _(reconstruction)_ your; 2nd person plural possessive
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| izweraz | masculine, nominative, singular, strong |
+| izwerō | feminine, nominative, singular, strong |
+| izwerą | neuter, nominative, singular, strong |
+| -at | neuter, nominative, singular, strong |
+| -atō | neuter, nominative, singular, strong |
+| izwerai | masculine, nominative, plural, strong |
+| izwerôz | feminine, nominative, plural, strong |
+| izwerō | neuter, nominative, plural, strong |
+| izweranǭ | accusative, masculine, singular, strong |
+| izwerǭ | accusative, feminine, singular, strong |
+| izwerą | accusative, neuter, singular, strong |
+| -at | accusative, neuter, singular, strong |
+| -atō | accusative, neuter, singular, strong |
+| izweranz | accusative, masculine, plural, strong |
+| izwerōz | accusative, feminine, plural, strong |
+| izwerō | accusative, neuter, plural, strong |
+| izweras | genitive, masculine, singular, strong |
+| izwiris | genitive, masculine, singular, strong |
+| izweraizōz | feminine, genitive, singular, strong |
+| izweras | genitive, neuter, singular, strong |
+| izwiris | genitive, neuter, singular, strong |
+| izweraizǫ̂ | genitive, masculine, plural, strong |
+| izweraizǫ̂ | feminine, genitive, plural, strong |
+| izweraizǫ̂ | genitive, neuter, plural, strong |
+| izwerammai | dative, masculine, singular, strong |
+| izweraizōi | dative, feminine, singular, strong |
+| izwerammai | dative, neuter, singular, strong |
+| izweraimaz | dative, masculine, plural, strong |
+| izweraimaz | dative, feminine, plural, strong |
+| izweraimaz | dative, neuter, plural, strong |
+| izweranō | instrumental, masculine, singular, strong |
+| izweraizō | feminine, instrumental, singular, strong |
+| izweranō | instrumental, neuter, singular, strong |
+| izweraimiz | instrumental, masculine, plural, strong |
+| izweraimiz | feminine, instrumental, plural, strong |
+| izweraimiz | instrumental, neuter, plural, strong |
+| ek | first-person, nominative, personal, pronoun, singular |
+| unstressed *ik | first-person, nominative, personal, pronoun, singular |
+| mek | accusative, first-person, personal, pronoun, singular |
+| unstressed *mik | accusative, first-person, personal, pronoun, singular |
+| miz | dative, first-person, instrumental, personal, pronoun, singular |
+| mīnaz | first-person, personal, possessive, pronoun, singular |
+| þū | nominative, personal, pronoun, second-person, singular |
+| þek | accusative, personal, pronoun, second-person, singular |
+| unstressed *þik | accusative, personal, pronoun, second-person, singular |
+| þiz | dative, instrumental, personal, pronoun, second-person, singular |
+| þīnaz | personal, possessive, pronoun, second-person, singular |
+| wet | dual, first-person, nominative, personal, pronoun |
+| unstressed *wit | dual, first-person, nominative, personal, pronoun |
+| unk | accusative, dual, first-person, personal, pronoun |
+| unkiz | dative, dual, first-person, instrumental, personal, pronoun |
+| unkeraz | dual, first-person, personal, possessive, pronoun |
+| jut | dual, nominative, personal, pronoun, second-person |
+| jit | dual, nominative, personal, pronoun, second-person |
+| inkw | accusative, dual, personal, pronoun, second-person |
+| inkwiz | dative, dual, instrumental, personal, pronoun, second-person |
+| inkweraz | dual, personal, possessive, pronoun, second-person |
+| wīz | first-person, nominative, personal, plural, pronoun |
+| unstressed *wiz | first-person, nominative, personal, plural, pronoun |
+| uns | accusative, first-person, personal, plural, pronoun |
+| unsiz | dative, first-person, instrumental, personal, plural, pronoun |
+| unseraz | first-person, personal, plural, possessive, pronoun |
+| jūz | nominative, personal, plural, pronoun, second-person |
+| jīz | nominative, personal, plural, pronoun, second-person |
+| izwiz | accusative, personal, plural, pronoun, second-person |
+| izwiz | dative, instrumental, personal, plural, pronoun, second-person |
+| izweraz | personal, plural, possessive, pronoun, second-person |
+| *se- | nominative, personal, pronoun, reflexive |
+| sek | accusative, personal, pronoun, reflexive |
+| unstressed *sik | accusative, personal, pronoun, reflexive |
+| siz | dative, instrumental, personal, pronoun, reflexive |
+| sīnaz | personal, possessive, pronoun, reflexive |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *iuwar
+  - **Old English:** ēower
+    - **Middle English:** your
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** youre
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowr
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowre
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowyr
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yor
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yeur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yhure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yhour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yhoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝowyr
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝowur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝor
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝiore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝhour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝhoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝaure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝiure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝiwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeuer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeuwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝewer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝewere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** gur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** gure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giuor
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giuer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giuwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ihore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ihoire
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** iure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eouer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eouwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eouwere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eower
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eowwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** euwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** euwere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** our
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** oure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** or
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ouer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ouwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ouwere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ower
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** owur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** hour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** æure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+  - **Old English:** īower
+    - **Middle English:** your
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** youre
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowr
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowre
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowyr
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yowur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yor
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yeur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yhure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yhour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** yhoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝowyr
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝowur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝor
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝiore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝhour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝhoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝaure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝiure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝiwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeuer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝeuwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝewer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ȝewere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** gur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** gure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giuor
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giuer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giuwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** giwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ihore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ihoire
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** iure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eoure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eouer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eouwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eouwere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eower
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eowwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** eure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** euwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** euwere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** our
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** oure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** or
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ore
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ouer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ouwer
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ouwere
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** ower
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** owur
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** hour
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+    - **Middle English:** æure
+      - **English:** your
+      - **English:** ya
+      - **English:** yer
+      - **English:** yo
+      - **Scots:** your
+      - **Scots:** yer
+      - **Yola:** yer
+  - **Old Frisian:** jūwer
+    - **Saterland Frisian:** jou
+    - **West Frisian:** jim
+  - **Old Frisian:** jūwe
+    - **Saterland Frisian:** jou
+    - **West Frisian:** jim
+  - **Old Saxon:** iuwar
+    - **Middle Low German:** juwe
+      - **Low German:** ju
+      - **German Low German:** jo
+      - **German Low German:** jos
+      - **German Low German:** joon
+      - **German Low German:** juun
+      - **German Low German:** juuchen
+      - **German Low German:** jemme
+      - **German Low German:** juus
+      - **German Low German:** jüm
+  - **Old Saxon:** giuwar
+    - **Middle Low German:** juwe
+      - **Low German:** ju
+      - **German Low German:** jo
+      - **German Low German:** jos
+      - **German Low German:** joon
+      - **German Low German:** juun
+      - **German Low German:** juuchen
+      - **German Low German:** jemme
+      - **German Low German:** juus
+      - **German Low German:** jüm
+  - **Old Saxon:** euwar
+    - **Middle Low German:** juwe
+      - **Low German:** ju
+      - **German Low German:** jo
+      - **German Low German:** jos
+      - **German Low German:** joon
+      - **German Low German:** juun
+      - **German Low German:** juuchen
+      - **German Low German:** jemme
+      - **German Low German:** juus
+      - **German Low German:** jüm
+  - **Old Dutch:** iuwa
+    - **Middle Dutch:** uwe
+      - **Dutch:** uw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+      - **Dutch:** jouw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+    - **Middle Dutch:** juwe
+      - **Dutch:** uw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+      - **Dutch:** jouw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+    - **Middle Dutch:** jouwe
+      - **Dutch:** uw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+      - **Dutch:** jouw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+  - **Old Dutch:** *juwa
+    - **Middle Dutch:** uwe
+      - **Dutch:** uw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+      - **Dutch:** jouw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+    - **Middle Dutch:** juwe
+      - **Dutch:** uw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+      - **Dutch:** jouw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+    - **Middle Dutch:** jouwe
+      - **Dutch:** uw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+      - **Dutch:** jouw
+        - **Afrikaans:** u
+        - **Afrikaans:** jou
+  - **Old High German:** iuwar
+    - **Middle High German:** iuwer
+      - **Alemannic German:** öie
+      - **Cimbrian:** ôar
+      - **Central Franconian:** ühr
+        - **Luxembourgish:** är
+      - **Central Franconian:** ähr
+        - **Luxembourgish:** är
+      - **Central Franconian:** eier
+        - **Luxembourgish:** är
+      - **Central Franconian:** auer
+        - **Luxembourgish:** är
+      - **German:** euer
+      - **Yiddish:** אײַער
+    - **Middle High German:** iur
+      - **Alemannic German:** öie
+      - **Cimbrian:** ôar
+      - **Central Franconian:** ühr
+        - **Luxembourgish:** är
+      - **Central Franconian:** ähr
+        - **Luxembourgish:** är
+      - **Central Franconian:** eier
+        - **Luxembourgish:** är
+      - **Central Franconian:** auer
+        - **Luxembourgish:** är
+      - **German:** euer
+      - **Yiddish:** אײַער
+    - **Middle High German:** ūwer — _Central German also_
+      - **Alemannic German:** öie
+      - **Cimbrian:** ôar
+      - **Central Franconian:** ühr
+        - **Luxembourgish:** är
+      - **Central Franconian:** ähr
+        - **Luxembourgish:** är
+      - **Central Franconian:** eier
+        - **Luxembourgish:** är
+      - **Central Franconian:** auer
+        - **Luxembourgish:** är
+      - **German:** euer
+      - **Yiddish:** אײַער
+    - **Middle High German:** ūr
+      - **Alemannic German:** öie
+      - **Cimbrian:** ôar
+      - **Central Franconian:** ühr
+        - **Luxembourgish:** är
+      - **Central Franconian:** ähr
+        - **Luxembourgish:** är
+      - **Central Franconian:** eier
+        - **Luxembourgish:** är
+      - **Central Franconian:** auer
+        - **Luxembourgish:** är
+      - **German:** euer
+      - **Yiddish:** אײַער
+- **Proto-Norse:** *ᛁᛉᚹᚨᚱᚨᛉ
+  - **Old Norse:** yðvarr
+  - **Old Norse:** yðarr
+  - **Old Norse:** 
+    - **Icelandic:** yðar
+    - **Icelandic:** yðvar
+    - **Norwegian Nynorsk:** dør
+    - **Norwegian Nynorsk:** dår
+    - **Norwegian Nynorsk:** dor
+    - **Norwegian Nynorsk:** ørs
+    - **Norwegian Nynorsk:** ers — _dialectal_
+    - **Old Danish:** iþar
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** iþær
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** ithær
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** ether
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** ethers
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** edher
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** edhers
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** eder
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** eders
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Swedish:** ᛁᚦᛅᚱ
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** iþar
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** iþær
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** idhar
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** idhær
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** edher
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** edhers
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** eder
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** eders
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Scanian:** iþær
+- **Proto-Norse:** *ᛁᛞᚹᚨᚱᚨᛉ
+  - **Old Norse:** yðvarr
+  - **Old Norse:** yðarr
+  - **Old Norse:** 
+    - **Icelandic:** yðar
+    - **Icelandic:** yðvar
+    - **Norwegian Nynorsk:** dør
+    - **Norwegian Nynorsk:** dår
+    - **Norwegian Nynorsk:** dor
+    - **Norwegian Nynorsk:** ørs
+    - **Norwegian Nynorsk:** ers — _dialectal_
+    - **Old Danish:** iþar
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** iþær
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** ithær
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** ether
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** ethers
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** edher
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** edhers
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** eder
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Danish:** eders
+      - **Danish:** jeres
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+      - **Danish:** eders
+        - **Norwegian Nynorsk:** jers — _borrowed_
+        - **Norwegian Nynorsk:** jeres — _dialectal; borrowed_
+    - **Old Swedish:** ᛁᚦᛅᚱ
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** iþar
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** iþær
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** idhar
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** idhær
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** edher
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** edhers
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** eder
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Old Swedish:** eders
+      - **Swedish:** edar
+      - **Swedish:** eder
+      - **Swedish:** er
+    - **Scanian:** iþær
+- **Gothic:** 𐌹𐌶𐍅𐌰𐍂

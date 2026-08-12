@@ -1,0 +1,2598 @@
+# *kuningaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/kuningaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *kuningaz
+
+### Etymology
+
+From *kunją (“clan”) + *-ingaz (“suffix of belonging”), with semantic shift from "someone of the family" > "someone that inherits (from their family)" > "king".
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *ǵenh₁-
+
+### Pronunciation
+
+- IPA: `/ˈku.niŋ.ɡɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ king
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| kuningaz | nominative, singular |
+| kuningōz | nominative, plural |
+| kuningōs | nominative, plural |
+| kuning | singular, vocative |
+| kuningōz | plural, vocative |
+| kuningōs | plural, vocative |
+| kuningą | accusative, singular |
+| kuninganz | accusative, plural |
+| kuningas | genitive, singular |
+| kuningis | genitive, singular |
+| kuningǫ̂ | genitive, plural |
+| kuningai | dative, singular |
+| kuningamaz | dative, plural |
+| kuningō | instrumental, singular |
+| kuningamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *kuning
+  - **Old English:** cyning
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cing
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cining
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cyng
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cyneg
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cynig
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cuning
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** kyning
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** kining
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** king
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** kuning
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cyncg
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cyngc
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** kyningc
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** kung — _Northumbrian_
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old English:** cening — _late Kentish_
+    - **Middle English:** king
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kenin
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kening
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kinig — _toponymic; in compounds_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** gug
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kug — _in compounds; influenced by Old Norse (see etymology)_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** knyng — _transmission error_
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** chinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** cinȝ
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** ging
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keing
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** keng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingk
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kingue
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kining
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kink
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kyng
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **Middle English:** kynge
+      - **English:** king
+      - **Scots:** keeng
+      - **Scots:** king
+      - **Yola:** kinge
+      - **Yola:** king
+    - **English:** cyning — _learned borrowing; learned_
+  - **Old Frisian:** kening
+    - **North Frisian:** köning
+    - **North Frisian:** kining — _Mooring_
+    - **North Frisian:** Köning — _Sylt_
+    - **Saterland Frisian:** Kening
+    - **West Frisian:** kening
+  - **Old Frisian:** kining
+    - **North Frisian:** köning
+    - **North Frisian:** kining — _Mooring_
+    - **North Frisian:** Köning — _Sylt_
+    - **Saterland Frisian:** Kening
+    - **West Frisian:** kening
+  - **Old Frisian:** kinig
+    - **North Frisian:** köning
+    - **North Frisian:** kining — _Mooring_
+    - **North Frisian:** Köning — _Sylt_
+    - **Saterland Frisian:** Kening
+    - **West Frisian:** kening
+  - **Old Frisian:** keneng
+    - **North Frisian:** köning
+    - **North Frisian:** kining — _Mooring_
+    - **North Frisian:** Köning — _Sylt_
+    - **Saterland Frisian:** Kening
+    - **West Frisian:** kening
+  - **Old Frisian:** koning
+    - **North Frisian:** köning
+    - **North Frisian:** kining — _Mooring_
+    - **North Frisian:** Köning — _Sylt_
+    - **Saterland Frisian:** Kening
+    - **West Frisian:** kening
+  - **Old Saxon:** kuning
+    - **Middle Low German:** könink
+      - **Low German:** Köning
+        - **Dutch Low Saxon:** koaning
+        - **Dutch Low Saxon:** könning
+        - **German Low German:** Koning
+          - **Plautdietsch:** Kjennich
+        - **German Low German:** Köning
+          - **Plautdietsch:** Kjennich
+        - **German Low German:** Keunig
+          - **Plautdietsch:** Kjennich
+      - **Saterland Frisian:** König — _borrowed_
+      - **Saterland Frisian:** Köänig — _borrowed_
+      - **West Frisian:** keuning — _borrowed_
+    - **Middle Low German:** könnink
+      - **Low German:** Köning
+        - **Dutch Low Saxon:** koaning
+        - **Dutch Low Saxon:** könning
+        - **German Low German:** Koning
+          - **Plautdietsch:** Kjennich
+        - **German Low German:** Köning
+          - **Plautdietsch:** Kjennich
+        - **German Low German:** Keunig
+          - **Plautdietsch:** Kjennich
+      - **Saterland Frisian:** König — _borrowed_
+      - **Saterland Frisian:** Köänig — _borrowed_
+      - **West Frisian:** keuning — _borrowed_
+    - **Middle Low German:** kunig
+      - **Low German:** Köning
+        - **Dutch Low Saxon:** koaning
+        - **Dutch Low Saxon:** könning
+        - **German Low German:** Koning
+          - **Plautdietsch:** Kjennich
+        - **German Low German:** Köning
+          - **Plautdietsch:** Kjennich
+        - **German Low German:** Keunig
+          - **Plautdietsch:** Kjennich
+      - **Saterland Frisian:** König — _borrowed_
+      - **Saterland Frisian:** Köänig — _borrowed_
+      - **West Frisian:** keuning — _borrowed_
+  - **Old Dutch:** cuninc
+    - **Middle Dutch:** cōninc
+      - **Dutch:** koning
+        - **Afrikaans:** koning
+      - **Limburgish:** keuning
+  - **Old High German:** kuning
+    - **Middle High German:** künic
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+    - **Middle High German:** künec
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+  - **Old High German:** cuning
+    - **Middle High German:** künic
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+    - **Middle High German:** künec
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+  - **Old High German:** chuninc
+    - **Middle High German:** künic
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+    - **Middle High German:** künec
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+  - **Old High German:** chuning
+    - **Middle High German:** künic
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+    - **Middle High German:** künec
+      - **Alemannic German:** Künig
+      - **Alemannic German:** Chüng
+      - **Alemannic German:** Keenig
+      - **Bavarian:** Kine
+      - **Bavarian:** Kini
+      - **Bavarian:** Kenig
+      - **Bavarian:** Kineng
+      - **Central Franconian:** Kinnik
+      - **Central Franconian:** Künning
+      - **Central Franconian:** Künnik
+      - **Cimbrian:** khuuneg
+      - **German:** König
+      - **Luxembourgish:** Kinnek
+      - **Rhine Franconian:** 
+      - **Vilamovian:** kyng
+      - **Yiddish:** קיניג
+      - **Yiddish:** קעניג
+- **Old Norse:** konungr
+  - **Icelandic:** konungur
+  - **Icelandic:** kóngur
+  - **Faroese:** kongur
+  - **Faroese:** konungur
+  - **Norn:** konung
+  - **Norwegian Nynorsk:** konge
+  - **Norwegian Nynorsk:** kong
+  - **Norwegian Nynorsk:** konung — _dialectal_
+  - **Norwegian Nynorsk:** kung
+  - **Norwegian Nynorsk:** kunge
+  - **Norwegian Nynorsk:** kunnje
+  - **Norwegian Nynorsk:** kång
+  - **Jamtish:** kung
+  - **Elfdalian:** kunungg
+  - **Old Swedish:** konunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kununger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Danish:** kung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Danish:** konung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Gutnish:** kunungr
+    - **Gutnish:** kuningg
+    - **Gutnish:** kungg
+- **Old Norse:** kongr — _later form_
+  - **Icelandic:** konungur
+  - **Icelandic:** kóngur
+  - **Faroese:** kongur
+  - **Faroese:** konungur
+  - **Norn:** konung
+  - **Norwegian Nynorsk:** konge
+  - **Norwegian Nynorsk:** kong
+  - **Norwegian Nynorsk:** konung — _dialectal_
+  - **Norwegian Nynorsk:** kung
+  - **Norwegian Nynorsk:** kunge
+  - **Norwegian Nynorsk:** kunnje
+  - **Norwegian Nynorsk:** kång
+  - **Jamtish:** kung
+  - **Elfdalian:** kunungg
+  - **Old Swedish:** konunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kununger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Danish:** kung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Danish:** konung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Gutnish:** kunungr
+    - **Gutnish:** kuningg
+    - **Gutnish:** kungg
+- **Old Norse:** ᚴᚢᚾᚢᚴᛁ — _dative singular_
+  - **Icelandic:** konungur
+  - **Icelandic:** kóngur
+  - **Faroese:** kongur
+  - **Faroese:** konungur
+  - **Norn:** konung
+  - **Norwegian Nynorsk:** konge
+  - **Norwegian Nynorsk:** kong
+  - **Norwegian Nynorsk:** konung — _dialectal_
+  - **Norwegian Nynorsk:** kung
+  - **Norwegian Nynorsk:** kunge
+  - **Norwegian Nynorsk:** kunnje
+  - **Norwegian Nynorsk:** kång
+  - **Jamtish:** kung
+  - **Elfdalian:** kunungg
+  - **Old Swedish:** konunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kununger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Danish:** kung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Danish:** konung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Gutnish:** kunungr
+    - **Gutnish:** kuningg
+    - **Gutnish:** kungg
+- **Old Norse:** ᚴᚢᚾᚢᚴᛋ — _genitive singular_
+  - **Icelandic:** konungur
+  - **Icelandic:** kóngur
+  - **Faroese:** kongur
+  - **Faroese:** konungur
+  - **Norn:** konung
+  - **Norwegian Nynorsk:** konge
+  - **Norwegian Nynorsk:** kong
+  - **Norwegian Nynorsk:** konung — _dialectal_
+  - **Norwegian Nynorsk:** kung
+  - **Norwegian Nynorsk:** kunge
+  - **Norwegian Nynorsk:** kunnje
+  - **Norwegian Nynorsk:** kång
+  - **Jamtish:** kung
+  - **Elfdalian:** kunungg
+  - **Old Swedish:** konunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kununger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Danish:** kung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Danish:** konung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Gutnish:** kunungr
+    - **Gutnish:** kuningg
+    - **Gutnish:** kungg
+- **Old Norse:** ᚴᚢᚾᚢᚴᛅᛦ
+  - **Icelandic:** konungur
+  - **Icelandic:** kóngur
+  - **Faroese:** kongur
+  - **Faroese:** konungur
+  - **Norn:** konung
+  - **Norwegian Nynorsk:** konge
+  - **Norwegian Nynorsk:** kong
+  - **Norwegian Nynorsk:** konung — _dialectal_
+  - **Norwegian Nynorsk:** kung
+  - **Norwegian Nynorsk:** kunge
+  - **Norwegian Nynorsk:** kunnje
+  - **Norwegian Nynorsk:** kång
+  - **Jamtish:** kung
+  - **Elfdalian:** kunungg
+  - **Old Swedish:** konunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kununger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Danish:** kung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Danish:** konung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Gutnish:** kunungr
+    - **Gutnish:** kuningg
+    - **Gutnish:** kungg
+- **Old Norse:** ᚴᚢᚿᚢᚴᛆᛧ — _nominative plural_
+  - **Icelandic:** konungur
+  - **Icelandic:** kóngur
+  - **Faroese:** kongur
+  - **Faroese:** konungur
+  - **Norn:** konung
+  - **Norwegian Nynorsk:** konge
+  - **Norwegian Nynorsk:** kong
+  - **Norwegian Nynorsk:** konung — _dialectal_
+  - **Norwegian Nynorsk:** kung
+  - **Norwegian Nynorsk:** kunge
+  - **Norwegian Nynorsk:** kunnje
+  - **Norwegian Nynorsk:** kång
+  - **Jamtish:** kung
+  - **Elfdalian:** kunungg
+  - **Old Swedish:** konunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kununger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Swedish:** kunger
+    - **Swedish:** konung
+    - **Swedish:** kung
+    - **Swedish:** kong
+  - **Old Danish:** kung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Danish:** konung
+    - **Scanian:** káng
+    - **Danish:** konge
+      - **Norwegian Bokmål:** konge
+    - **Danish:** kong
+      - **Norwegian Bokmål:** konge
+    - **Danish:** konning
+      - **Norwegian Bokmål:** konge
+  - **Old Gutnish:** kunungr
+    - **Gutnish:** kuningg
+    - **Gutnish:** kungg

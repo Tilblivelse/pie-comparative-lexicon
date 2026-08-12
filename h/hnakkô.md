@@ -1,0 +1,493 @@
+# *hnakkô
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hnakk%C3%B4)
+
+## Proto-Germanic
+
+**Reconstruction:** *hnakkô
+
+### Etymology
+
+Traditionally derived from Proto-Indo-European *knog-, *kneg- (“back of the head, nape, neck”), from *ken- (“to press, pinch, buckle, kink”).
+Kroonen reconstructs an etymon Proto-Indo-European *knékō, which he connects with Tocharian A kñuk (“neck”). German Hunke (“hillock”) might retain a trace of the original genitive. Compare Proto-Celtic *knukkos (“protuberance; hill”), which Kroonen suggests is borrowed from Germanic.
+Compare also the suffix *-kô, found in names of several other body parts.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *knog-, *knékō
+
+### Pronunciation
+
+- IPA: `/ˈxnɑk.kɔːː/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ the back of the neck; nape
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| hnakkô | nominative, singular |
+| hnakkaniz | nominative, plural |
+| hnakkô | singular, vocative |
+| hnakkaniz | plural, vocative |
+| hnakkanų | accusative, singular |
+| hnakkanunz | accusative, plural |
+| hnakkiniz | genitive, singular |
+| hnakkanǫ̂ | genitive, plural |
+| hnakkini | dative, singular |
+| hnakkammaz | dative, plural |
+| hnakkinē | instrumental, singular |
+| hnakkammiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hnakkō
+  - **Old English:** *hnæcca
+    - **Middle English:** nekke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nake
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nec
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** necke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nek
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** neke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nhicke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nykke — _Kent_
+      - **English:** neck
+      - **Scots:** neck
+  - **Old English:** hnecca
+    - **Middle English:** nekke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nake
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nec
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** necke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nek
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** neke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nhicke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nykke — _Kent_
+      - **English:** neck
+      - **Scots:** neck
+  - **Old Frisian:** hnekka
+    - **North Frisian:** neek
+    - **North Frisian:** neeke
+    - **North Frisian:** Nak
+    - **Saterland Frisian:** Näcke
+    - **Saterland Frisian:** Näkke
+    - **West Frisian:** nekke
+  - **Old Frisian:** nekke
+    - **North Frisian:** neek
+    - **North Frisian:** neeke
+    - **North Frisian:** Nak
+    - **Saterland Frisian:** Näcke
+    - **Saterland Frisian:** Näkke
+    - **West Frisian:** nekke
+  - **Old Saxon:** *hnakko
+    - **Middle Low German:** nacke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+    - **Middle Low German:** nëcke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+  - **Old Saxon:** *hnekko
+    - **Middle Low German:** nacke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+    - **Middle Low German:** nëcke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+  - **Old Dutch:** *nakko
+    - **Middle Dutch:** nacke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nac
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** necke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nack
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** neck
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nick
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Limburgish:** nak
+  - **Old Dutch:** nekko
+    - **Middle Dutch:** nacke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nac
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** necke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nack
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** neck
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nick
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Limburgish:** nak
+  - **Old High German:** *hnahho
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** hnach-
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** hnacch-
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** hnac
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** nach
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** nac
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** nak
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+- **Proto-West Germanic:** *hnekkō
+  - **Old English:** *hnæcca
+    - **Middle English:** nekke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nake
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nec
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** necke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nek
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** neke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nhicke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nykke — _Kent_
+      - **English:** neck
+      - **Scots:** neck
+  - **Old English:** hnecca
+    - **Middle English:** nekke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nake
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nec
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** necke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nek
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** neke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nhicke
+      - **English:** neck
+      - **Scots:** neck
+    - **Middle English:** nykke — _Kent_
+      - **English:** neck
+      - **Scots:** neck
+  - **Old Frisian:** hnekka
+    - **North Frisian:** neek
+    - **North Frisian:** neeke
+    - **North Frisian:** Nak
+    - **Saterland Frisian:** Näcke
+    - **Saterland Frisian:** Näkke
+    - **West Frisian:** nekke
+  - **Old Frisian:** nekke
+    - **North Frisian:** neek
+    - **North Frisian:** neeke
+    - **North Frisian:** Nak
+    - **Saterland Frisian:** Näcke
+    - **Saterland Frisian:** Näkke
+    - **West Frisian:** nekke
+  - **Old Saxon:** *hnakko
+    - **Middle Low German:** nacke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+    - **Middle Low German:** nëcke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+  - **Old Saxon:** *hnekko
+    - **Middle Low German:** nacke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+    - **Middle Low German:** nëcke
+      - **German Low German:** Nacke
+      - **German Low German:** Nack
+      - **Low German:** nakke
+      - **Plautdietsch:** Jenekj
+  - **Old Dutch:** *nakko
+    - **Middle Dutch:** nacke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nac
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** necke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nack
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** neck
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nick
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Limburgish:** nak
+  - **Old Dutch:** nekko
+    - **Middle Dutch:** nacke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nac
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** necke
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nack
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** neck
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Middle Dutch:** nick
+      - **Dutch:** nek
+        - **Afrikaans:** nek
+    - **Limburgish:** nak
+  - **Old High German:** *hnahho
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** hnach-
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** hnacch-
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** hnac
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** nach
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** nac
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+  - **Old High German:** nak
+    - **Middle High German:** knac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nacke
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+    - **Middle High German:** nac
+      - **German:** Nacken
+      - **Vilamovian:** naoka
+      - **Yiddish:** נאַקן
+- **Old Norse:** hnakki
+  - **Icelandic:** hnakki
+  - **Faroese:** nakki
+  - **Norwegian:** nakke
+  - **Old Swedish:** nakke
+    - **Swedish:** nacke
+  - **Old Danish:** nakkæ
+    - **Danish:** nakke

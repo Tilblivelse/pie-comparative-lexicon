@@ -1,0 +1,27261 @@
+# *erþō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/er%C3%BE%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *erþō
+
+### Etymology
+
+From Proto-Indo-European *h₁érteh₂ (“earth”). Related to *erwǭ (“sand, soil”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₁er-, *h₁érteh₂
+
+### Pronunciation
+
+- IPA: `/ˈer.θɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ earth
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| erþō | nominative, singular |
+| erþôz | nominative, plural |
+| erþō | singular, vocative |
+| erþôz | plural, vocative |
+| erþǭ | accusative, singular |
+| erþōz | accusative, plural |
+| erþōz | genitive, singular |
+| erþǫ̂ | genitive, plural |
+| erþōi | dative, singular |
+| erþōmaz | dative, plural |
+| erþō | instrumental, singular |
+| erþōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *erþu
+  - **Old English:** eorþe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** earþe — _Northumbrian_
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** iorþe — _Kentish_
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** erðe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** yrþ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorðe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþo
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþu
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþæ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** heorþe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** heordæ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorda
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eordæ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorða
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old Frisian:** erthe
+    - **North Frisian:** eerd — _Föhr-Amrum_
+    - **North Frisian:** eerde
+    - **North Frisian:** iarde — _Halligen_
+    - **North Frisian:** iir — _Heligoland_
+    - **North Frisian:** jard — _Mooring_
+    - **North Frisian:** Iart
+    - **North Frisian:** Öört — _Sylt_
+    - **North Frisian:** örd — _Wiedingharde_
+    - **Saterland Frisian:** Äide
+    - **Saterland Frisian:** Idde
+    - **Saterland Frisian:** Äid
+    - **West Frisian:** ierde
+  - **Old Frisian:** erde
+    - **North Frisian:** eerd — _Föhr-Amrum_
+    - **North Frisian:** eerde
+    - **North Frisian:** iarde — _Halligen_
+    - **North Frisian:** iir — _Heligoland_
+    - **North Frisian:** jard — _Mooring_
+    - **North Frisian:** Iart
+    - **North Frisian:** Öört — _Sylt_
+    - **North Frisian:** örd — _Wiedingharde_
+    - **Saterland Frisian:** Äide
+    - **Saterland Frisian:** Idde
+    - **Saterland Frisian:** Äid
+    - **West Frisian:** ierde
+  - **Old Frisian:** irthe
+    - **North Frisian:** eerd — _Föhr-Amrum_
+    - **North Frisian:** eerde
+    - **North Frisian:** iarde — _Halligen_
+    - **North Frisian:** iir — _Heligoland_
+    - **North Frisian:** jard — _Mooring_
+    - **North Frisian:** Iart
+    - **North Frisian:** Öört — _Sylt_
+    - **North Frisian:** örd — _Wiedingharde_
+    - **Saterland Frisian:** Äide
+    - **Saterland Frisian:** Idde
+    - **Saterland Frisian:** Äid
+    - **West Frisian:** ierde
+  - **Old Saxon:** ertha
+    - **Middle Low German:** ērde
+      - **Low German:** Erde
+        - **Dutch Low Saxon:** eerde
+        - **German Low German:** Eer
+        - **German Low German:** Eerd
+        - **German Low German:** Eerde
+        - **German Low German:** Ier
+        - **German Low German:** Ierd
+        - **German Low German:** Ierde
+        - **Westphalian:** 
+      - **Plautdietsch:** Ead
+      - **Plautdietsch:** Ieed
+  - **Old Saxon:** erda
+    - **Middle Low German:** ērde
+      - **Low German:** Erde
+        - **Dutch Low Saxon:** eerde
+        - **German Low German:** Eer
+        - **German Low German:** Eerd
+        - **German Low German:** Eerde
+        - **German Low German:** Ier
+        - **German Low German:** Ierd
+        - **German Low German:** Ierde
+        - **Westphalian:** 
+      - **Plautdietsch:** Ead
+      - **Plautdietsch:** Ieed
+  - **Old Dutch:** ertha
+    - **Middle Dutch:** erde
+      - **Dutch:** aarde
+        - **Afrikaans:** aarde
+      - **Dutch:** aard
+        - **Afrikaans:** aarde
+      - **Limburgish:** aerd
+      - **Limburgish:** aerj
+  - **Old High German:** ërda
+    - **Middle High German:** ërde
+      - **Alemannic German:** Ëërde
+      - **Bavarian:** Erd
+        - **Cimbrian:** èerda
+      - **Bavarian:** Erdn
+        - **Cimbrian:** èerda
+      - **Central Franconian:** Ääd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Erd — _Moselle Franconian_
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Äerd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **German:** Erde
+      - **Rhine Franconian:** Erd
+        - **Pennsylvania German:** Erd
+        - **Pennsylvania German:** Aerd
+        - **Pennsylvania German:** Eaht
+      - **Vilamovian:** Ād
+      - **Yiddish:** ערד
+  - **Old High German:** haerda
+    - **Middle High German:** ërde
+      - **Alemannic German:** Ëërde
+      - **Bavarian:** Erd
+        - **Cimbrian:** èerda
+      - **Bavarian:** Erdn
+        - **Cimbrian:** èerda
+      - **Central Franconian:** Ääd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Erd — _Moselle Franconian_
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Äerd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **German:** Erde
+      - **Rhine Franconian:** Erd
+        - **Pennsylvania German:** Erd
+        - **Pennsylvania German:** Aerd
+        - **Pennsylvania German:** Eaht
+      - **Vilamovian:** Ād
+      - **Yiddish:** ערד
+- **Proto-West Germanic:** *erþā — _weak declension_
+  - **Old English:** eorþe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** earþe — _Northumbrian_
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** iorþe — _Kentish_
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** erðe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** yrþ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorðe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþo
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþu
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorþæ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** heorþe
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** heordæ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorda
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eordæ
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old English:** eorða
+    - **Middle English:** erthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erde
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ereth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** earþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** erðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** herðe — _Early Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horðe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** horþe — _Early Middle English; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** ȝerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** irthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerth
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yerthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** yrþe — _Late Middle English_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** orþe — _Kent_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eirthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eyrthe — _Northern; Northwest Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorthe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** eorþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urþe
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** urthe — _Southern; West Midland_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþ
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+    - **Middle English:** oerþe — _Herebert_
+      - **English:** earth
+      - **English:** Earth
+      - **Middle Scots:** erd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** erde
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝerd
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Middle Scots:** ȝeird — _influenced by erd_
+        - **Scots:** erd
+        - **Scots:** yerd
+        - **Scots:** yird
+        - **Scots:** yirth
+        - **Scots:** Yird
+      - **Yola:** erth
+      - **Yola:** eart
+      - **Yola:** eard
+      - **Yola:** eord
+      - **Yola:** eorth
+  - **Old Frisian:** erthe
+    - **North Frisian:** eerd — _Föhr-Amrum_
+    - **North Frisian:** eerde
+    - **North Frisian:** iarde — _Halligen_
+    - **North Frisian:** iir — _Heligoland_
+    - **North Frisian:** jard — _Mooring_
+    - **North Frisian:** Iart
+    - **North Frisian:** Öört — _Sylt_
+    - **North Frisian:** örd — _Wiedingharde_
+    - **Saterland Frisian:** Äide
+    - **Saterland Frisian:** Idde
+    - **Saterland Frisian:** Äid
+    - **West Frisian:** ierde
+  - **Old Frisian:** erde
+    - **North Frisian:** eerd — _Föhr-Amrum_
+    - **North Frisian:** eerde
+    - **North Frisian:** iarde — _Halligen_
+    - **North Frisian:** iir — _Heligoland_
+    - **North Frisian:** jard — _Mooring_
+    - **North Frisian:** Iart
+    - **North Frisian:** Öört — _Sylt_
+    - **North Frisian:** örd — _Wiedingharde_
+    - **Saterland Frisian:** Äide
+    - **Saterland Frisian:** Idde
+    - **Saterland Frisian:** Äid
+    - **West Frisian:** ierde
+  - **Old Frisian:** irthe
+    - **North Frisian:** eerd — _Föhr-Amrum_
+    - **North Frisian:** eerde
+    - **North Frisian:** iarde — _Halligen_
+    - **North Frisian:** iir — _Heligoland_
+    - **North Frisian:** jard — _Mooring_
+    - **North Frisian:** Iart
+    - **North Frisian:** Öört — _Sylt_
+    - **North Frisian:** örd — _Wiedingharde_
+    - **Saterland Frisian:** Äide
+    - **Saterland Frisian:** Idde
+    - **Saterland Frisian:** Äid
+    - **West Frisian:** ierde
+  - **Old Saxon:** ertha
+    - **Middle Low German:** ērde
+      - **Low German:** Erde
+        - **Dutch Low Saxon:** eerde
+        - **German Low German:** Eer
+        - **German Low German:** Eerd
+        - **German Low German:** Eerde
+        - **German Low German:** Ier
+        - **German Low German:** Ierd
+        - **German Low German:** Ierde
+        - **Westphalian:** 
+      - **Plautdietsch:** Ead
+      - **Plautdietsch:** Ieed
+  - **Old Saxon:** erda
+    - **Middle Low German:** ērde
+      - **Low German:** Erde
+        - **Dutch Low Saxon:** eerde
+        - **German Low German:** Eer
+        - **German Low German:** Eerd
+        - **German Low German:** Eerde
+        - **German Low German:** Ier
+        - **German Low German:** Ierd
+        - **German Low German:** Ierde
+        - **Westphalian:** 
+      - **Plautdietsch:** Ead
+      - **Plautdietsch:** Ieed
+  - **Old Dutch:** ertha
+    - **Middle Dutch:** erde
+      - **Dutch:** aarde
+        - **Afrikaans:** aarde
+      - **Dutch:** aard
+        - **Afrikaans:** aarde
+      - **Limburgish:** aerd
+      - **Limburgish:** aerj
+  - **Old High German:** ërda
+    - **Middle High German:** ërde
+      - **Alemannic German:** Ëërde
+      - **Bavarian:** Erd
+        - **Cimbrian:** èerda
+      - **Bavarian:** Erdn
+        - **Cimbrian:** èerda
+      - **Central Franconian:** Ääd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Erd — _Moselle Franconian_
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Äerd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **German:** Erde
+      - **Rhine Franconian:** Erd
+        - **Pennsylvania German:** Erd
+        - **Pennsylvania German:** Aerd
+        - **Pennsylvania German:** Eaht
+      - **Vilamovian:** Ād
+      - **Yiddish:** ערד
+  - **Old High German:** haerda
+    - **Middle High German:** ërde
+      - **Alemannic German:** Ëërde
+      - **Bavarian:** Erd
+        - **Cimbrian:** èerda
+      - **Bavarian:** Erdn
+        - **Cimbrian:** èerda
+      - **Central Franconian:** Ääd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Erd — _Moselle Franconian_
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **Central Franconian:** Äerd
+        - **Hunsrik:** Äerd
+        - **Kölsch:** Äd
+        - **Luxembourgish:** Äerd
+      - **German:** Erde
+      - **Rhine Franconian:** Erd
+        - **Pennsylvania German:** Erd
+        - **Pennsylvania German:** Aerd
+        - **Pennsylvania German:** Eaht
+      - **Vilamovian:** Ād
+      - **Yiddish:** ערד
+- **Proto-Norse:** *ᛖᚱᚦᚢ
+  - **Old Norse:** jǫrð
+    - **Icelandic:** jörð
+    - **Faroese:** jørð
+    - **Norn:** yurn — _< jǫrðin_
+    - **Norwegian Nynorsk:** jord — _f_
+    - **Jamtish:** jórð
+    - **Elfdalian:** juord
+    - **Old Swedish:** iorþ
+      - **Swedish:** jord
+    - **Old Swedish:** iordh
+      - **Swedish:** jord
+    - **Old Danish:** iorþ
+      - **Danish:** jord
+        - **Norwegian Bokmål:** jord — _m or f_
+      - **Scanian:** jorð
+    - **Old Danish:** iorth
+      - **Danish:** jord
+        - **Norwegian Bokmål:** jord — _m or f_
+      - **Scanian:** jorð
+    - **Old Danish:** ᛁᚮᚱᚦ
+      - **Danish:** jord
+        - **Norwegian Bokmål:** jord — _m or f_
+      - **Scanian:** jorð
+    - **Old Gutnish:** iorþ
+      - **Gutnish:** jård
+  - **Old Norse:** jorð
+    - **Icelandic:** jörð
+    - **Faroese:** jørð
+    - **Norn:** yurn — _< jǫrðin_
+    - **Norwegian Nynorsk:** jord — _f_
+    - **Jamtish:** jórð
+    - **Elfdalian:** juord
+    - **Old Swedish:** iorþ
+      - **Swedish:** jord
+    - **Old Swedish:** iordh
+      - **Swedish:** jord
+    - **Old Danish:** iorþ
+      - **Danish:** jord
+        - **Norwegian Bokmål:** jord — _m or f_
+      - **Scanian:** jorð
+    - **Old Danish:** iorth
+      - **Danish:** jord
+        - **Norwegian Bokmål:** jord — _m or f_
+      - **Scanian:** jorð
+    - **Old Danish:** ᛁᚮᚱᚦ
+      - **Danish:** jord
+        - **Norwegian Bokmål:** jord — _m or f_
+      - **Scanian:** jorð
+    - **Old Gutnish:** iorþ
+      - **Gutnish:** jård
+- **Gothic:** 𐌰𐌹𐍂𐌸𐌰

@@ -1,0 +1,2253 @@
+# *ek
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ek)
+
+## Proto-Germanic
+
+**Reconstruction:** *ek
+
+### Etymology
+
+From earlier *eka, from Proto-Indo-European *eǵh₂óm.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *eǵh₂óm
+
+### Pronunciation
+
+- IPA: `/ek/`
+
+### Pronoun
+
+1. _(reconstruction)_ I
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ek | first-person, nominative, personal, pronoun, singular |
+| unstressed *ik | first-person, nominative, personal, pronoun, singular |
+| mek | accusative, first-person, personal, pronoun, singular |
+| unstressed *mik | accusative, first-person, personal, pronoun, singular |
+| miz | dative, first-person, instrumental, personal, pronoun, singular |
+| mīnaz | first-person, personal, possessive, pronoun, singular |
+| þū | nominative, personal, pronoun, second-person, singular |
+| þek | accusative, personal, pronoun, second-person, singular |
+| unstressed *þik | accusative, personal, pronoun, second-person, singular |
+| þiz | dative, instrumental, personal, pronoun, second-person, singular |
+| þīnaz | personal, possessive, pronoun, second-person, singular |
+| wet | dual, first-person, nominative, personal, pronoun |
+| unstressed *wit | dual, first-person, nominative, personal, pronoun |
+| unk | accusative, dual, first-person, personal, pronoun |
+| unkiz | dative, dual, first-person, instrumental, personal, pronoun |
+| unkeraz | dual, first-person, personal, possessive, pronoun |
+| jut | dual, nominative, personal, pronoun, second-person |
+| jit | dual, nominative, personal, pronoun, second-person |
+| inkw | accusative, dual, personal, pronoun, second-person |
+| inkwiz | dative, dual, instrumental, personal, pronoun, second-person |
+| inkweraz | dual, personal, possessive, pronoun, second-person |
+| wīz | first-person, nominative, personal, plural, pronoun |
+| unstressed *wiz | first-person, nominative, personal, plural, pronoun |
+| uns | accusative, first-person, personal, plural, pronoun |
+| unsiz | dative, first-person, instrumental, personal, plural, pronoun |
+| unseraz | first-person, personal, plural, possessive, pronoun |
+| jūz | nominative, personal, plural, pronoun, second-person |
+| jīz | nominative, personal, plural, pronoun, second-person |
+| izwiz | accusative, personal, plural, pronoun, second-person |
+| izwiz | dative, instrumental, personal, plural, pronoun, second-person |
+| izweraz | personal, plural, possessive, pronoun, second-person |
+| *se- | nominative, personal, pronoun, reflexive |
+| sek | accusative, personal, pronoun, reflexive |
+| unstressed *sik | accusative, personal, pronoun, reflexive |
+| siz | dative, instrumental, personal, pronoun, reflexive |
+| sīnaz | personal, possessive, pronoun, reflexive |
+| *eka | alternative |
+| *ik | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ik
+  - **Old English:** iċ
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old English:** ih — _Northumbrian_
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old English:** iċċ
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old English:** hiċ
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old English:** ich
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old English:** yċ
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old English:** ᛁᚳ — _Ruthwell Cross_
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old English:** ᛁᚴ
+    - **Southern Middle English:** ich
+      - **English:** ich — _obsolete since 19th century_
+      - **Yola:** ich — _revived_
+    - **Northern Middle English:** ik
+      - **Scots:** Ik — _rare_
+    - **Later Middle English:** I
+      - **English:** I
+      - **Scots:** A
+      - **Scots:** I
+  - **Old Frisian:** ik
+    - **North Frisian:** ick
+    - **North Frisian:** ik
+    - **North Frisian:** 'k
+    - **Saterland Frisian:** iek
+    - **West Frisian:** ik
+  - **Old Saxon:** ik
+    - **Middle Low German:** ik
+      - **Low German:** ik
+        - **German Low German:** ik
+        - **German Low German:** ek
+      - **Plautdietsch:** ekj
+    - **Middle Low German:** ek
+      - **Low German:** ik
+        - **German Low German:** ik
+        - **German Low German:** ek
+      - **Plautdietsch:** ekj
+  - **Old Dutch:** ic
+    - **Middle Dutch:** ic
+      - **Dutch:** ik
+        - **Afrikaans:** ek
+      - **Dutch:** ick
+        - **Afrikaans:** ek
+      - **Dutch:** ikke — _informal or childish_
+        - **Afrikaans:** ek
+    - **Middle Dutch:** icke
+      - **Dutch:** ik
+        - **Afrikaans:** ek
+      - **Dutch:** ick
+        - **Afrikaans:** ek
+      - **Dutch:** ikke — _informal or childish_
+        - **Afrikaans:** ek
+  - **Old Dutch:** ik
+    - **Middle Dutch:** ic
+      - **Dutch:** ik
+        - **Afrikaans:** ek
+      - **Dutch:** ick
+        - **Afrikaans:** ek
+      - **Dutch:** ikke — _informal or childish_
+        - **Afrikaans:** ek
+    - **Middle Dutch:** icke
+      - **Dutch:** ik
+        - **Afrikaans:** ek
+      - **Dutch:** ick
+        - **Afrikaans:** ek
+      - **Dutch:** ikke — _informal or childish_
+        - **Afrikaans:** ek
+  - **Old High German:** ih
+    - **Middle High German:** ich
+      - **Alemannic German:** ich
+        - **Sensler:** 
+        - **Swabian:** i
+          - **Sathmar Swabian:** i
+      - **Alemannic German:** ig
+        - **Sensler:** 
+        - **Swabian:** i
+          - **Sathmar Swabian:** i
+      - **Alemannic German:** i
+        - **Sensler:** 
+        - **Swabian:** i
+          - **Sathmar Swabian:** i
+      - **Bavarian:** i
+        - **Cimbrian:** ich — _Setti Comuni_
+        - **Cimbrian:** i — _Luserna_
+        - **Gottscheerish:** iχ
+        - **Gottscheerish:** ī
+        - **Gottscheerish:** i — _unstressed_
+        - **Gottscheerish:** iχχe — _emphatic_
+        - **Mòcheno:** i
+      - **Central Franconian:** ich
+        - **Hunsrückisch:** äijsch
+          - **Hunsrik:** ich
+        - **Kölsch:** ich
+      - **Central Franconian:** eich
+        - **Hunsrückisch:** äijsch
+          - **Hunsrik:** ich
+        - **Kölsch:** ich
+      - **Central Franconian:** ech
+        - **Hunsrückisch:** äijsch
+          - **Hunsrik:** ich
+        - **Kölsch:** ich
+      - **East Central German:** 
+        - **Erzgebirgisch:** iech
+        - **Silesian East Central German:** iech
+        - **Upper Saxon German:** isch
+        - **Upper Saxon German:** ische
+      - **East Franconian:** i
+      - **East Franconian:** iech
+      - **German:** ich
+      - **Luxembourgish:** ech
+      - **Rhine Franconian:** 
+        - **Hessian:** aisch
+        - **Pennsylvania German:** ich
+      - **Vilamovian:** ych
+      - **Yiddish:** איך
+    - **Middle High German:** ig
+      - **Alemannic German:** ich
+        - **Sensler:** 
+        - **Swabian:** i
+          - **Sathmar Swabian:** i
+      - **Alemannic German:** ig
+        - **Sensler:** 
+        - **Swabian:** i
+          - **Sathmar Swabian:** i
+      - **Alemannic German:** i
+        - **Sensler:** 
+        - **Swabian:** i
+          - **Sathmar Swabian:** i
+      - **Bavarian:** i
+        - **Cimbrian:** ich — _Setti Comuni_
+        - **Cimbrian:** i — _Luserna_
+        - **Gottscheerish:** iχ
+        - **Gottscheerish:** ī
+        - **Gottscheerish:** i — _unstressed_
+        - **Gottscheerish:** iχχe — _emphatic_
+        - **Mòcheno:** i
+      - **Central Franconian:** ich
+        - **Hunsrückisch:** äijsch
+          - **Hunsrik:** ich
+        - **Kölsch:** ich
+      - **Central Franconian:** eich
+        - **Hunsrückisch:** äijsch
+          - **Hunsrik:** ich
+        - **Kölsch:** ich
+      - **Central Franconian:** ech
+        - **Hunsrückisch:** äijsch
+          - **Hunsrik:** ich
+        - **Kölsch:** ich
+      - **East Central German:** 
+        - **Erzgebirgisch:** iech
+        - **Silesian East Central German:** iech
+        - **Upper Saxon German:** isch
+        - **Upper Saxon German:** ische
+      - **East Franconian:** i
+      - **East Franconian:** iech
+      - **German:** ich
+      - **Luxembourgish:** ech
+      - **Rhine Franconian:** 
+        - **Hessian:** aisch
+        - **Pennsylvania German:** ich
+      - **Vilamovian:** ych
+      - **Yiddish:** איך
+    - **Limburgish:** ich — _borrowed_
+    - **Limburgish:** iech — _borrowed_
+    - **Limburgish:** ik — _borrowed_
+    - **Limburgish:** iich — _borrowed; Eupen_
+    - **Limburgish:** ech — _borrowed; Southeast Limburgish_
+- **Proto-Norse:** ᛖᚲ
+  - **Old Norse:** ek
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** iak — _Old East Norse_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** -k — _enclitic_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+- **Proto-Norse:** ᛖᚲᚨ
+  - **Old Norse:** ek
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** iak — _Old East Norse_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** -k — _enclitic_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+- **Proto-Norse:** ᛖᚴᛡ
+  - **Old Norse:** ek
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** iak — _Old East Norse_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** -k — _enclitic_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+- **Proto-Norse:** -ᚲᚨ
+  - **Old Norse:** ek
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** iak — _Old East Norse_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** -k — _enclitic_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+- **Proto-Norse:** -ᚳᚨ
+  - **Old Norse:** ek
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** iak — _Old East Norse_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** -k — _enclitic_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+- **Proto-Norse:** -ᚴᛡ — _enclitic_
+  - **Old Norse:** ek
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** iak — _Old East Norse_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+  - **Old Norse:** -k — _enclitic_
+    - **Icelandic:** ek
+    - **Icelandic:** eg
+    - **Icelandic:** ég
+    - **Faroese:** eg
+    - **Faroese:** jeg
+    - **Norn:** yach — _dialectal_
+    - **Norwegian:** ej
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** é
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** eig
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** í
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æg
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æj
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** æ
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** je
+      - **Norwegian Nynorsk:** eg
+    - **Norwegian:** jæj — _dialectal_
+      - **Norwegian Nynorsk:** eg
+    - **Jamtish:** jeg
+    - **Dalian:** 
+      - **Elfdalian:** ig
+    - **Old Swedish:** iak
+      - **Swedish:** jag
+    - **Old Swedish:** iæk
+      - **Swedish:** jag
+    - **Old Swedish:** iag
+      - **Swedish:** jag
+    - **Old Swedish:** iagh
+      - **Swedish:** jag
+    - **Old Swedish:** iach — _late_
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛆᚴ
+      - **Swedish:** jag
+    - **Old Swedish:** ᛁᛅᚴ — _Runic_
+      - **Swedish:** jag
+    - **Old Danish:** iak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iæk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** iægh
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** æk
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Danish:** ak
+      - **Danish:** jeg
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** a
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** æ
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** ja
+        - **Norwegian Bokmål:** jeg
+      - **Danish:** jæ — _dialectal_
+        - **Norwegian Bokmål:** jeg
+      - **Scanian:** jağ
+      - **Jutish:** æ
+    - **Old Gutnish:** iek
+- **Gothic:** 𐌹𐌺
+- **Crimean Gothic:** ich
+- **Vandalic:** *ic

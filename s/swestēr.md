@@ -1,0 +1,1372 @@
+# *swestēr
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/swest%C4%93r)
+
+## Proto-Germanic
+
+**Reconstruction:** *swestēr
+
+### Etymology
+
+Remodeled based on analogy with *-tēr kinship words, from Proto-Indo-European *swésōr. This may well have been triggered by the insertion of *-t- in the cluster *-sr- that arose in several oblique case forms, a change which is also found in *þimstr (“dark, dusky”) and *Austrǭ (“springtime, Easter; a goddess of spring and fertility”) and is therefore likely a regular sound change in Proto-Germanic.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *swésōr
+
+### Pronunciation
+
+- IPA: `/ˈswes.tɛːr/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ sister
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| r-stem | class |
+| swestēr | nominative, singular |
+| swistriz | nominative, plural |
+| swester | singular, vocative |
+| swistriz | plural, vocative |
+| swesterų | accusative, singular |
+| swestrunz | accusative, plural |
+| swesturz | genitive, singular |
+| swestrǫ̂ | genitive, plural |
+| swistri | dative, singular |
+| swestrumaz | dative, plural |
+| swestrē | instrumental, singular |
+| swestrumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *swester
+  - **Old English:** sweostor
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swustor — _Mercian_
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swester
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** suoester
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** soester — _Northumbrian_
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swuster — _West Saxon_
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swæstar
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swestar
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swystor
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swystar — _Anglian_
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** sweoster
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swostur
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swustur
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swystar
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old English:** swyster
+    - **Middle English:** suster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** cystyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** scyster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sister
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sistir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** soster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** souster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** syster
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systir
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** systyr
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** swuster — _Early Middle English_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sussterr — _Ormulum_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** zoster — _Kent_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+    - **Middle English:** sustur — _Shropshire; some forms influenced by Old Norse_
+      - **English:** sister
+      - **Scots:** sister
+      - **Scots:** syster
+      - **Yola:** zister
+  - **Old Frisian:** swester
+    - **North Frisian:** saster — _Föhr-Amrum_
+    - **North Frisian:** Söster — _Heligoland_
+    - **North Frisian:** süster — _Mooring_
+    - **North Frisian:** Sester — _Sylt_
+    - **Saterland Frisian:** Suster
+    - **West Frisian:** suster
+  - **Old Saxon:** swestar
+    - **Middle Low German:** süster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** suster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** syster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** söster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** swester
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+  - **Old Saxon:** sustar
+    - **Middle Low German:** süster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** suster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** syster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** söster
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+    - **Middle Low German:** swester
+      - **Low German:** Swester
+      - **Low German:** Süster
+      - **Plautdietsch:** Sesta
+  - **Old Dutch:** swester
+    - **Middle Dutch:** suster
+      - **Dutch:** zuster
+        - **Afrikaans:** suster
+      - **Limburgish:** zöster
+  - **Old High German:** swester
+    - **Middle High German:** swëster
+      - **Alemannic German:** Schwöschter
+      - **Bavarian:** 
+      - **Central Franconian:** Sester
+      - **Central Franconian:** Söster — _obsolete_
+      - **German:** Schwester
+        - **Central Franconian:** Schwester — _borrowed_
+        - **Luxembourgish:** Schwëster — _borrowed_
+      - **Hunsrik:** Schwesder
+      - **Luxembourgish:** Sëschter — _archaic_
+      - **Pennsylvania German:** Schweschder
+      - **Vilamovian:** syster
+      - **Yiddish:** שוועסטער
+    - **Middle High German:** suster
+      - **Alemannic German:** Schwöschter
+      - **Bavarian:** 
+      - **Central Franconian:** Sester
+      - **Central Franconian:** Söster — _obsolete_
+      - **German:** Schwester
+        - **Central Franconian:** Schwester — _borrowed_
+        - **Luxembourgish:** Schwëster — _borrowed_
+      - **Hunsrik:** Schwesder
+      - **Luxembourgish:** Sëschter — _archaic_
+      - **Pennsylvania German:** Schweschder
+      - **Vilamovian:** syster
+      - **Yiddish:** שוועסטער
+    - **Middle High German:** süster
+      - **Alemannic German:** Schwöschter
+      - **Bavarian:** 
+      - **Central Franconian:** Sester
+      - **Central Franconian:** Söster — _obsolete_
+      - **German:** Schwester
+        - **Central Franconian:** Schwester — _borrowed_
+        - **Luxembourgish:** Schwëster — _borrowed_
+      - **Hunsrik:** Schwesder
+      - **Luxembourgish:** Sëschter — _archaic_
+      - **Pennsylvania German:** Schweschder
+      - **Vilamovian:** syster
+      - **Yiddish:** שוועסטער
+- **Proto-Norse:** ᛊᚹᛖᛊᛏᚨᚱ
+  - **Old Norse:** systir
+    - **Icelandic:** systir
+    - **Faroese:** systir
+    - **Norwegian Bokmål:** søster
+    - **Norwegian Nynorsk:** syster
+    - **Old Swedish:** systir
+      - **Swedish:** syster
+    - **Old Danish:** systær
+      - **Danish:** søster
+    - **Old Gutnish:** systir
+      - **Gutnish:** systar
+- **East Germanic:** 
+  - **Gothic:** 𐍃𐍅𐌹𐍃𐍄𐌰𐍂
+  - **Crimean Gothic:** schwester

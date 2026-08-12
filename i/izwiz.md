@@ -1,0 +1,501 @@
+# *izwiz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/izwiz)
+
+## Proto-Germanic
+
+**Reconstruction:** *izwiz
+
+### Etymology
+
+Probably derived from Proto-Indo-European *uswé, an oblique form of *yúHs, but further details are uncertain. According to Don Ringe, the instrumental plural in *-is may have formed on the model of the 1pl. *unsiz. He describes two possibilities to explain the initial *i-:
+* Citing Katz (1998), *uswé underwent apheresis to *swé, which he argues was a common phenomenon with other early Indo-European pronouns, and in turn a prop vowel *i- was added to create *iswé, with further changes and analogies leading to hypothetical accusative *is and dative-instrumental *izwiz, with the latter eventually replacing the former in form. Still, he regards the origin of *izwiz as “entirely opaque”.
+* Citing Michael Weiss (p.c.), dissimilation to *iswé took place.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *uswé
+
+### Pronunciation
+
+- IPA: `/ˈiz.wiz/`
+
+### Pronoun
+
+1. _(accusative, dative, form-of, instrumental, reconstruction)_ accusative/dative/instrumental of *jūz
+
+### Germanic descendants
+
+- **West Germanic:** *iwwi
+  - **Old English:** ēow
+    - **Middle English:** yow
+      - **English:** you
+      - **Middle Scots:** ȝow
+        - **Scots:** you
+  - **Old Frisian:** jū
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Frisian:** iu
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Frisian:** jō
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Frisian:** io
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Saxon:** iu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Saxon:** eu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Saxon:** iuu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Saxon:** giu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Dutch:** iu
+    - **Middle Dutch:** u
+      - **Dutch:** u
+    - **Middle Dutch:** ju
+      - **Dutch:** u
+  - **Old Dutch:** *jū
+    - **Middle Dutch:** jou
+      - **Dutch:** jou
+        - **Afrikaans:** jou
+      - **Dutch:** a — _Brabant_
+        - **Afrikaans:** jou
+  - **Old High German:** iu
+    - **Middle High German:** iu
+      - **Alemannic German:** öi
+  - **Proto-West Germanic:** *iwwik — _reshaped by analogy or addition of morphemes_
+    - **Old English:** ēowiċ — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īouh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īuh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īucgh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old Saxon:** *iuwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *euwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iuk
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old High German:** iuwih — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** iuch
+        - **Alemannic German:** üüch
+        - **Cimbrian:** òich
+        - **German:** euch
+        - **Luxembourgish:** iech
+        - **Yiddish:** אײַך
+  - **Proto-West Germanic:** *iuwik — _reshaped by analogy or addition of morphemes_
+    - **Old English:** ēowiċ — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īouh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īuh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īucgh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old Saxon:** *iuwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *euwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iuk
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old High German:** iuwih — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** iuch
+        - **Alemannic German:** üüch
+        - **Cimbrian:** òich
+        - **German:** euch
+        - **Luxembourgish:** iech
+        - **Yiddish:** אײַך
+- **West Germanic:** *jīz
+  - **Old English:** ēow
+    - **Middle English:** yow
+      - **English:** you
+      - **Middle Scots:** ȝow
+        - **Scots:** you
+  - **Old Frisian:** jū
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Frisian:** iu
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Frisian:** jō
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Frisian:** io
+    - **North Frisian:** juu
+    - **Saterland Frisian:** jou
+    - **Saterland Frisian:** Jou
+    - **West Frisian:** jo
+  - **Old Saxon:** iu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Saxon:** eu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Saxon:** iuu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Saxon:** giu
+    - **Middle Low German:** jû
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+    - **Middle Low German:** jûw
+      - **Low German:** ju
+      - **Low German:** jug
+      - **Low German:** jo
+      - **Low German:** jau
+      - **Low German:** u
+      - **Low German:** ugg
+  - **Old Dutch:** iu
+    - **Middle Dutch:** u
+      - **Dutch:** u
+    - **Middle Dutch:** ju
+      - **Dutch:** u
+  - **Old Dutch:** *jū
+    - **Middle Dutch:** jou
+      - **Dutch:** jou
+        - **Afrikaans:** jou
+      - **Dutch:** a — _Brabant_
+        - **Afrikaans:** jou
+  - **Old High German:** iu
+    - **Middle High German:** iu
+      - **Alemannic German:** öi
+  - **Proto-West Germanic:** *iwwik — _reshaped by analogy or addition of morphemes_
+    - **Old English:** ēowiċ — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īouh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īuh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īucgh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old Saxon:** *iuwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *euwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iuk
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old High German:** iuwih — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** iuch
+        - **Alemannic German:** üüch
+        - **Cimbrian:** òich
+        - **German:** euch
+        - **Luxembourgish:** iech
+        - **Yiddish:** אײַך
+  - **Proto-West Germanic:** *iuwik — _reshaped by analogy or addition of morphemes_
+    - **Old English:** ēowiċ — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īouh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īuh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old English:** īucgh — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ȝouȝ
+      - **Middle English:** ȝehw
+      - **Middle English:** euwȝ
+      - **Middle English:** ȝogh
+    - **Old Saxon:** *iuwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *euwik
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old Saxon:** *iuk
+      - **Middle Low German:** iok
+        - **German Low German:** jöck
+      - **Middle Low German:** jök
+        - **German Low German:** jöck
+      - **Middle Low German:** jöck
+        - **German Low German:** jöck
+    - **Old High German:** iuwih — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** iuch
+        - **Alemannic German:** üüch
+        - **Cimbrian:** òich
+        - **German:** euch
+        - **Luxembourgish:** iech
+        - **Yiddish:** אײַך
+- **Old West Norse:** yðr
+  - **Icelandic:** yður
+  - **Danish:** eder
+  - **Danish:** jer
+  - **Norwegian Nynorsk:** øder — _dialectal_
+  - **Norwegian Nynorsk:** ør
+  - **Norwegian Nynorsk:** dør
+  - **Norwegian Nynorsk:** døre
+  - **Norwegian Nynorsk:** dø
+- **Old West Norse:** iðʀ — _Old East Norse_
+  - **Icelandic:** yður
+  - **Danish:** eder
+  - **Danish:** jer
+  - **Norwegian Nynorsk:** øder — _dialectal_
+  - **Norwegian Nynorsk:** ør
+  - **Norwegian Nynorsk:** dør
+  - **Norwegian Nynorsk:** døre
+  - **Norwegian Nynorsk:** dø
+- **Old East Norse:** iðʀ
+  - **Old Swedish:** iþer
+    - **Swedish:** eder
+    - **Swedish:** er
+  - **Old Swedish:** idher
+    - **Swedish:** eder
+    - **Swedish:** er
+  - **Danish:** eder
+    - **Norwegian Bokmål:** eder
+  - **Danish:** jer
+    - **Norwegian Bokmål:** eder
+  - **Norwegian:** der — _borrowed_
+    - **Norwegian Bokmål:** dere — _borrowed_
+  - **Norwegian:** dere — _borrowed_
+    - **Norwegian Bokmål:** dere — _borrowed_
+- **Old East Norse:** yðr — _Old West Norse_
+  - **Old Swedish:** iþer
+    - **Swedish:** eder
+    - **Swedish:** er
+  - **Old Swedish:** idher
+    - **Swedish:** eder
+    - **Swedish:** er
+  - **Danish:** eder
+    - **Norwegian Bokmål:** eder
+  - **Danish:** jer
+    - **Norwegian Bokmål:** eder
+  - **Norwegian:** der — _borrowed_
+    - **Norwegian Bokmål:** dere — _borrowed_
+  - **Norwegian:** dere — _borrowed_
+    - **Norwegian Bokmål:** dere — _borrowed_
+- **Gothic:** 𐌹𐌶𐍅𐌹𐍃

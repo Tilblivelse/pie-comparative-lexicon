@@ -1,0 +1,535 @@
+# *ubiswō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ubisw%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *ubiswō
+
+### Etymology
+
+A close relative of *upp.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈu.βi.swɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ eaves
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| ubiswō | nominative, singular |
+| ubiswôz | nominative, plural |
+| ubiswō | singular, vocative |
+| ubiswôz | plural, vocative |
+| ubiswǭ | accusative, singular |
+| ubiswōz | accusative, plural |
+| ubiswōz | genitive, singular |
+| ubiswǫ̂ | genitive, plural |
+| ubiswōi | dative, singular |
+| ubiswōmaz | dative, plural |
+| ubiswō | instrumental, singular |
+| ubiswōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ubisu
+  - **Old English:** œfis
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** efis
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** yfes
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** *ofes
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** efes
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old Frisian:** ōse
+    - **North Frisian:** ose
+    - **Saterland Frisian:** Ouse
+    - **West Frisian:** oes
+  - **Old Saxon:** *ovisa
+    - **Middle Low German:** ȫvese
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫsene
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫsen
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫse
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫze
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+  - **Old Dutch:** *uvisa
+    - **Middle Dutch:** ōvese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** uevese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** oyse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōsie
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+  - **Old Dutch:** *ovisa
+    - **Middle Dutch:** ōvese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** uevese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** oyse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōsie
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** obisa
+    - **Middle High German:** obese
+      - **Bavarian:** Obesen
+    - **Middle High German:** obse
+      - **Bavarian:** Obesen
+  - **Old High German:** obasa
+    - **Middle High German:** obese
+      - **Bavarian:** Obesen
+    - **Middle High German:** obse
+      - **Bavarian:** Obesen
+- **Proto-West Germanic:** *obisu
+  - **Old English:** œfis
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** efis
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** yfes
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** *ofes
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old English:** efes
+    - **Middle English:** eves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+    - **Middle English:** oves
+      - **English:** eaves
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+      - **English:** eave
+        - **Middle English:** *eves-wall — _reshaped by analogy or addition of morphemes_
+          - **English:** eaves-wall
+          - **Scots:** easwas
+          - **Scots:** easle
+          - **Scots:** eazle
+          - **Scots:** aisywaas
+  - **Old Frisian:** ōse
+    - **North Frisian:** ose
+    - **Saterland Frisian:** Ouse
+    - **West Frisian:** oes
+  - **Old Saxon:** *ovisa
+    - **Middle Low German:** ȫvese
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫsene
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫsen
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫse
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+    - **Middle Low German:** ȫze
+      - **Low German:** Öse
+      - **Low German:** Ese
+      - **Middle Low German:** ovesval — _reshaped by analogy or addition of morphemes_
+      - **Middle Low German:** ȫvesval — _reshaped by analogy or addition of morphemes_
+  - **Old Dutch:** *uvisa
+    - **Middle Dutch:** ōvese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** uevese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** oyse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōsie
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+  - **Old Dutch:** *ovisa
+    - **Middle Dutch:** ōvese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** uevese
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** oyse
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+    - **Middle Dutch:** ōsie
+      - **Dutch:** ozie
+      - **Dutch:** euzie
+      - **Dutch:** ozing — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** obisa
+    - **Middle High German:** obese
+      - **Bavarian:** Obesen
+    - **Middle High German:** obse
+      - **Bavarian:** Obesen
+  - **Old High German:** obasa
+    - **Middle High German:** obese
+      - **Bavarian:** Obesen
+    - **Middle High German:** obse
+      - **Bavarian:** Obesen
+- **Old Norse:** ups
+  - **Old Swedish:** ops
+    - **Swedish:** ofs
+    - **Swedish:** öfs
+    - **Swedish:** hofs
+    - **Swedish:** höfs
+  - **Old Swedish:** ups
+    - **Swedish:** ofs
+    - **Swedish:** öfs
+    - **Swedish:** hofs
+    - **Swedish:** höfs
+- **Gothic:** 𐌿𐌱𐌹𐌶𐍅𐌰

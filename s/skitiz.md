@@ -1,0 +1,1492 @@
+# *skitiz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/skitiz)
+
+## Proto-Germanic
+
+**Reconstruction:** *skitiz
+
+### Etymology
+
+Nominal formation from *skītaną (“to shit”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈski.tiz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ excrement; feces; shit
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| i-stem | class |
+| skitiz | nominative, singular |
+| skitīz | nominative, plural |
+| skiti | singular, vocative |
+| skitīz | plural, vocative |
+| skitį | accusative, singular |
+| skitinz | accusative, plural |
+| skitīz | genitive, singular |
+| skitjǫ̂ | genitive, plural |
+| skitī | dative, singular |
+| skitimaz | dative, plural |
+| skitī | instrumental, singular |
+| skitimiz | instrumental, plural |
+| *skītaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *skiti
+  - **Old English:** *sċite
+    - **Middle English:** schite
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** Schit
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** schute
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** schyt
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Old English:** sċitel — _reshaped by analogy or addition of morphemes_
+    - **Old English:** sċytel — _reshaped by analogy or addition of morphemes_
+  - **Old Frisian:** *skite
+    - **North Frisian:** skitj
+    - **Saterland Frisian:** Skiete
+    - **Saterland Frisian:** Skiet — _m_
+    - **West Frisian:** skyt
+  - **Old Saxon:** *skiti
+    - **Middle Low German:** schite
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schît
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schîte
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schete
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schēte
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+  - **Old Dutch:** *skiti
+    - **Middle Dutch:** scite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schete
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+  - **Old Dutch:** scite
+    - **Middle Dutch:** scite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schete
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+  - **Old High German:** *skizi
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+  - **Old High German:** *skizzi
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+  - **Old High German:** *skīz
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+- **Proto-West Germanic:** *skīt
+  - **Old English:** *sċite
+    - **Middle English:** schite
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** Schit
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** schute
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** schyt
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Old English:** sċitel — _reshaped by analogy or addition of morphemes_
+    - **Old English:** sċytel — _reshaped by analogy or addition of morphemes_
+  - **Old Frisian:** *skite
+    - **North Frisian:** skitj
+    - **Saterland Frisian:** Skiete
+    - **Saterland Frisian:** Skiet — _m_
+    - **West Frisian:** skyt
+  - **Old Saxon:** *skiti
+    - **Middle Low German:** schite
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schît
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schîte
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schete
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schēte
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+  - **Old Dutch:** *skiti
+    - **Middle Dutch:** scite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schete
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+  - **Old Dutch:** scite
+    - **Middle Dutch:** scite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schete
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+  - **Old High German:** *skizi
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+  - **Old High German:** *skizzi
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+  - **Old High German:** *skīz
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+- **Proto-West Germanic:** *skīti
+  - **Old English:** *sċite
+    - **Middle English:** schite
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** Schit
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** schute
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Middle English:** schyt
+      - **English:** shite
+      - **English:** shit
+      - **Scots:** schit
+      - **Scots:** shit
+    - **Old English:** sċitel — _reshaped by analogy or addition of morphemes_
+    - **Old English:** sċytel — _reshaped by analogy or addition of morphemes_
+  - **Old Frisian:** *skite
+    - **North Frisian:** skitj
+    - **Saterland Frisian:** Skiete
+    - **Saterland Frisian:** Skiet — _m_
+    - **West Frisian:** skyt
+  - **Old Saxon:** *skiti
+    - **Middle Low German:** schite
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schît
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schîte
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schete
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+    - **Middle Low German:** schēte
+      - **German Low German:** Schitte
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiete
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **German Low German:** Schiet
+        - **German:** Schitte — _borrowed_
+        - **German:** Schiet- — _borrowed_
+        - **German:** Schietwetter — _borrowed_
+        - **Early Modern Danish:** schijt — _borrowed_
+          - **Danish:** skidt
+            - **Norwegian Bokmål:** skitt
+      - **Plautdietsch:** Schiet
+  - **Old Dutch:** *skiti
+    - **Middle Dutch:** scite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schete
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+  - **Old Dutch:** scite
+    - **Middle Dutch:** scite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schite
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+    - **Middle Dutch:** schete
+      - **Dutch:** schijt
+      - **Dutch:** schit — _dialectal_
+  - **Old High German:** *skizi
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+  - **Old High German:** *skizzi
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+  - **Old High German:** *skīz
+    - **Middle High German:** schīze
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+    - **Middle High German:** schīz
+      - **Alemannic German:** Schiss
+        - **Swabian:** Scheiß
+      - **Bavarian:** Scheissa
+      - **Bavarian:** Scheißn
+      - **Bavarian:** Schaisn
+      - **Bavarian:** Schaisa
+      - **Central Franconian:** Schiss
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schess
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schass
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Scheß
+        - **Hunsrik:** Scheis
+      - **Central Franconian:** Schet
+        - **Hunsrik:** Scheis
+      - **German:** Schiss
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiße
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **German:** Scheiß
+        - **Danish:** scheisse — _borrowed_
+        - **English:** scheisse — _borrowed_
+        - **English:** Scheiss — _borrowed_
+        - **English:** Scheisse — _borrowed_
+        - **English:** Scheiße — _borrowed_
+        - **English:** scheiss — _borrowed_
+        - **English:** scheiße — _borrowed_
+        - **English:** shize — _borrowed_
+      - **Luxembourgish:** Schäiss
+      - **Pennsylvania German:** Schiss
+      - **Rhine Franconian:** Schiss
+        - **Palatine German:** Schiss
+        - **Palatine German:** Schisse
+      - **Vilamovian:** śajs
+- **Old Norse:** skítr
+  - **Icelandic:** skítur
+  - **Faroese:** skítur
+  - **Norwegian Nynorsk:** skit
+  - **Norwegian Nynorsk:** skitt
+  - **Norwegian Bokmål:** skitt
+  - **Swedish:** skit
+  - **Danish:** skid
+  - **Middle English:** skyt — _borrowed_
+    - **English:** skite
+    - **Scots:** skyte
+    - **Scots:** skite
+  - **Middle English:** skytte — _borrowed_
+    - **English:** skite
+    - **Scots:** skyte
+    - **Scots:** skite
+  - **Middle English:** skytt — _borrowed_
+    - **English:** skite
+    - **Scots:** skyte
+    - **Scots:** skite
+- **Old Norse:** *skītaz
+  - **Icelandic:** skítur
+  - **Faroese:** skítur
+  - **Norwegian Nynorsk:** skit
+  - **Norwegian Nynorsk:** skitt
+  - **Norwegian Bokmål:** skitt
+  - **Swedish:** skit
+  - **Danish:** skid
+  - **Middle English:** skyt — _borrowed_
+    - **English:** skite
+    - **Scots:** skyte
+    - **Scots:** skite
+  - **Middle English:** skytte — _borrowed_
+    - **English:** skite
+    - **Scots:** skyte
+    - **Scots:** skite
+  - **Middle English:** skytt — _borrowed_
+    - **English:** skite
+    - **Scots:** skyte
+    - **Scots:** skite

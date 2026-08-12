@@ -1,0 +1,1467 @@
+# *alizō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/aliz%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *alizō
+
+### Etymology
+
+From Proto-Indo-European *h₂élis- (“alder”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂élis-
+
+### Pronunciation
+
+- IPA: `/ˈɑ.li.zɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ alder
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| alizō | nominative, singular |
+| alizôz | nominative, plural |
+| alizō | singular, vocative |
+| alizôz | plural, vocative |
+| alizǭ | accusative, singular |
+| alizōz | accusative, plural |
+| alizōz | genitive, singular |
+| alizǫ̂ | genitive, plural |
+| alizōi | dative, singular |
+| alizōmaz | dative, plural |
+| alizō | instrumental, singular |
+| alizōmiz | instrumental, plural |
+| *alisō | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *aliʀu
+  - **Old English:** alor
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** aler
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** alr
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** alrr
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old Dutch:** *alisa
+    - **Middle Dutch:** else
+      - **Dutch:** els
+        - **Afrikaans:** els
+  - **Old High German:** alar
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** erila
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** elira
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** *alisa
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** *elisa
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+- **Proto-West Germanic:** *alisu
+  - **Old English:** alor
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** aler
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** alr
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** alrr
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old Dutch:** *alisa
+    - **Middle Dutch:** else
+      - **Dutch:** els
+        - **Afrikaans:** els
+  - **Old High German:** alar
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** erila
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** elira
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** *alisa
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** *elisa
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+- **Proto-West Germanic:** *aluʀu
+  - **Old English:** alor
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** aler
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** alr
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old English:** alrr
+    - **Middle English:** aldre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alder
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldur
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aldyr
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aleyre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** aller
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** alre
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** althir
+      - **English:** alder
+      - **Scots:** aller
+    - **Middle English:** olr — _Early Middle English_
+      - **English:** alder
+      - **Scots:** aller
+  - **Old Dutch:** *alisa
+    - **Middle Dutch:** else
+      - **Dutch:** els
+        - **Afrikaans:** els
+  - **Old High German:** alar
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** erila
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** elira
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** *alisa
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+  - **Old High German:** *elisa
+    - **Middle High German:** alze
+      - **German:** Erle
+    - **Middle High German:** els
+      - **German:** Erle
+    - **Middle High German:** eller
+      - **German:** Erle
+    - **Middle High German:** elre
+      - **German:** Erle
+- **Old Norse:** alr
+  - **Old East Norse:** alr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old East Norse:** *aldr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old West Norse:** ǫlr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old West Norse:** *ǫldr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old Norse:** alri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+  - **Old Norse:** *aldri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+- **Old Norse:** *aldr — _East Norse; West Norse ablaut_
+  - **Old East Norse:** alr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old East Norse:** *aldr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old West Norse:** ǫlr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old West Norse:** *ǫldr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old Norse:** alri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+  - **Old Norse:** *aldri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+- **Old Norse:** ǫlr
+  - **Old East Norse:** alr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old East Norse:** *aldr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old West Norse:** ǫlr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old West Norse:** *ǫldr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old Norse:** alri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+  - **Old Norse:** *aldri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+- **Old Norse:** *ǫldr
+  - **Old East Norse:** alr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old East Norse:** *aldr
+    - **Old Danish:** al
+      - **Danish:** all
+      - **Danish:** al
+    - **Old Swedish:** al
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** all
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+    - **Old Swedish:** alder
+      - **Swedish:** al
+      - **Swedish:** all — _dialectal_
+      - **Swedish:** arr
+      - **Swedish:** ål — _åł_
+      - **Swedish:** årr
+      - **Swedish:** ålder
+      - **Swedish:** alder
+      - **Swedish:** arder
+      - **Swedish:** ard
+  - **Old West Norse:** ǫlr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old West Norse:** *ǫldr
+    - **Faroese:** ølur
+    - **Icelandic:** ölur
+    - **Norwegian Bokmål:** older — _m or f_
+    - **Norwegian Bokmål:** or — _m or f_
+    - **Norwegian Nynorsk:** older
+    - **Norwegian Nynorsk:** order — _m or f_
+    - **Norwegian Nynorsk:** or
+    - **Norwegian Nynorsk:** orr — _m or f_
+  - **Old Norse:** alri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+  - **Old Norse:** *aldri — _reshaped by analogy or addition of morphemes_
+    - **Old East Norse:** *æli
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old East Norse:** *ældri
+      - **Old Danish:** *æle
+        - **Danish:** el
+        - **Danish:** elle
+      - **Old Swedish:** æle
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *aldre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+      - **Old Swedish:** *ardre
+        - **Swedish:** ale
+        - **Swedish:** alle — _dialectal_
+        - **Swedish:** arre
+        - **Swedish:** årre
+        - **Swedish:** ärre
+    - **Old West Norse:** elri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** elrir — _ablaut_
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** *ǫldri
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+    - **Old West Norse:** órir
+      - **Faroese:** elri
+      - **Icelandic:** elri
+      - **Norwegian:** erre — _ablaut_
+      - **Norwegian:** oldre
+      - **Norwegian:** ordre
+      - **Norwegian:** orre
+- **Gothic:** *𐌰𐌻𐌹𐍃𐌰

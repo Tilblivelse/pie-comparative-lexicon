@@ -1,0 +1,569 @@
+# *wambō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/wamb%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *wambō
+
+### Etymology
+
+Disputed; two competing hypotheses are:
+* From Proto-Indo-European *wamp- (“membrane (of bowels), intestines, womb”) and cognate with Old Welsh gumbelauc (“womb”), Breton gwamm (“woman, wife”), Sanskrit वपा (vapā́, “the skin or membrane lining the intestines or parts of the viscera, the caul or omentum”).
+* From a root *gʷʰembʰ- (“womb”) whence also Sanskrit गभ (gabhá, “vagina”). (See also *wībą (“woman, wife”).)
+The latter etymology assumes that Germanic *w is the expected outcome of PIE *gʷʰ, but this is debated; see *warmaz for discussion.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *wamp-
+
+### Pronunciation
+
+- IPA: `/ˈwɑm.bɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ belly, stomach, abdomen
+2. _(feminine, reconstruction)_ womb
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| wambō | nominative, singular |
+| wambôz | nominative, plural |
+| wambō | singular, vocative |
+| wambôz | plural, vocative |
+| wambǭ | accusative, singular |
+| wambōz | accusative, plural |
+| wambōz | genitive, singular |
+| wambǫ̂ | genitive, plural |
+| wambōi | dative, singular |
+| wambōmaz | dative, plural |
+| wambō | instrumental, singular |
+| wambōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *wambu
+  - **Old English:** wamb
+    - **Middle English:** wombe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** uombe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** womb
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wome
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** woombe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wompe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wamb
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wame — _Northern_
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wambe — _Early Middle English or Northern_
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+  - **Old English:** womb
+    - **Middle English:** wombe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** uombe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** womb
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wome
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** woombe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wompe
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wamb
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wame — _Northern_
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+    - **Middle English:** wambe — _Early Middle English or Northern_
+      - **English:** womb
+      - **Scots:** wame
+      - **Scots:** wam
+  - **Old Frisian:** wamme
+  - **Old Frisian:** womme
+  - **Old Saxon:** wamba
+    - **Middle Low German:** wamme
+      - **German Low German:** Wamme
+  - **Old Dutch:** wamba
+    - **Middle Dutch:** wamme
+      - **Dutch:** wam
+    - **Middle Dutch:** wam
+      - **Dutch:** wam
+  - **Old High German:** wamba
+    - **Middle High German:** wambe
+      - **German:** Wamme
+        - **Saterland Frisian:** Wampe — _borrowed_
+      - **German:** Wampe
+        - **Saterland Frisian:** Wampe — _borrowed_
+      - **Bavarian:** Wampn
+    - **Middle High German:** wampe
+      - **German:** Wamme
+        - **Saterland Frisian:** Wampe — _borrowed_
+      - **German:** Wampe
+        - **Saterland Frisian:** Wampe — _borrowed_
+      - **Bavarian:** Wampn
+    - **Middle High German:** wamme
+      - **German:** Wamme
+        - **Saterland Frisian:** Wampe — _borrowed_
+      - **German:** Wampe
+        - **Saterland Frisian:** Wampe — _borrowed_
+      - **Bavarian:** Wampn
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+  - **Middle English:** gambeson — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle English:** gambison — _borrowed_ — _through a non-Germanic route_
+    - **English:** gambeson
+    - **English:** gambison
+  - **Middle Low German:** wambois — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambōs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambūs — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wambes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wammes — _borrowed_ — _through a non-Germanic route_
+  - **Middle Low German:** wams — _borrowed_ — _through a non-Germanic route_
+  - **Middle Dutch:** wambaes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambois — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wambuus — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle Dutch:** wammes — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** wambuis
+      - **West Frisian:** wammes — _borrowed_
+    - **Dutch:** wammes
+      - **West Frisian:** wammes — _borrowed_
+  - **Middle High German:** wambeis — _borrowed_ — _through a non-Germanic route_
+    - **German:** Wams
+      - **Saterland Frisian:** Wams — _borrowed_
+- **Old Norse:** vǫmb
+  - **Icelandic:** vömb
+  - **Faroese:** vomb
+  - **Norwegian Bokmål:** vom
+  - **Norwegian Nynorsk:** vom
+  - **Jamtish:** vamb
+  - **Elfdalian:** uomb
+  - **Old Swedish:** vāmb
+    - **Swedish:** våm
+  - **Old Danish:** wāmb
+    - **Scanian:** vám
+    - **Danish:** vom
+  - **Gutnish:** vamb
+- **Gothic:** 𐍅𐌰𐌼𐌱𐌰

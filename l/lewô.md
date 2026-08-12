@@ -1,0 +1,1642 @@
+# *lewô
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/lew%C3%B4)
+
+## Proto-Germanic
+
+**Reconstruction:** *lewô
+
+### Etymology
+
+From Proto-Indo-European *léwh₁-on-, from *lewh₁- (“to cut off, loosen”). Particularly close cognate semantically with Sanskrit लवित्र (lavítra, “sickle”), and additionally related to Proto-Germanic *leusaną (“to lose”); see the latter for more cognates.
+
+From Latin leō. This form can be reconstructed from the Gothic and West Germanic forms. Old Norse seems to have re-borrowed the term from a Romance language, and the expected form *lé is not attested. Most West Germanic languages lengthened the first vowel, yielding *lēwō, althought both forms can be reconstructed.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *léwh₁-on-
+
+### Pronunciation
+
+- IPA: `/ˈle.wɔːː/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ scythe
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| lewô | nominative, singular |
+| lewaniz | nominative, plural |
+| lewô | singular, vocative |
+| lewaniz | plural, vocative |
+| lewanų | accusative, singular |
+| lewanunz | accusative, plural |
+| liwiniz | genitive, singular |
+| lewanǫ̂ | genitive, plural |
+| liwini | dative, singular |
+| lewammaz | dative, plural |
+| liwinē | instrumental, singular |
+| lewammiz | instrumental, plural |
+
+</details>
+
+### Noun 2
+
+1. _(masculine, reconstruction)_ lion
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| lewô | nominative, singular |
+| lewaniz | nominative, plural |
+| lewô | singular, vocative |
+| lewaniz | plural, vocative |
+| lewanų | accusative, singular |
+| lewanunz | accusative, plural |
+| liwiniz | genitive, singular |
+| lewanǫ̂ | genitive, plural |
+| liwini | dative, singular |
+| lewammaz | dative, plural |
+| liwinē | instrumental, singular |
+| lewammiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *lewō
+  - **Old Saxon:** *lewo
+    - **Middle Low German:** lē
+      - **Northern Low Saxon:** ley
+      - **Northern Low Saxon:** Lee
+    - **Middle Low German:** lēhe
+      - **Northern Low Saxon:** ley
+      - **Northern Low Saxon:** Lee
+- **Old Norse:** lé
+  - **Icelandic:** ljár
+  - **Faroese:** líggi
+  - **Norwegian:** ljå
+  - **Old Swedish:** līe
+    - **Swedish:** lie
+    - **Swedish:** le
+  - **Old Swedish:** lē
+    - **Swedish:** lie
+    - **Swedish:** le
+  - **Old Danish:** lē
+    - **Danish:** le
+    - **Danish:** ljå
+  - **Elfdalian:** ljå
+  - **Gutnish:** leie
+- **Proto-West Germanic:** *lewō
+  - **Old English:** lēo
+  - **Old Frisian:** *lēwa
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Frisian:** *lēu
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Frisian:** *lāwa
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Frisian:** *lāu
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Saxon:** *lewo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lēwo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lēo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lāwo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lāo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Dutch:** lēwo
+    - **Middle Dutch:** lêwe
+      - **Dutch:** leeuw
+        - **Afrikaans:** leeu
+      - **Limburgish:** lieëf
+      - **Limburgish:** liew
+      - **West Flemish:** lêeuw
+  - **Old High German:** lewo
+    - **Middle High German:** lewe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** lebe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** löuwe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+  - **Old High German:** lēo
+    - **Middle High German:** lewe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** lebe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** löuwe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+- **Proto-West Germanic:** *lēwō
+  - **Old English:** lēo
+  - **Old Frisian:** *lēwa
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Frisian:** *lēu
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Frisian:** *lāwa
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Frisian:** *lāu
+    - **North Frisian:** lau
+    - **North Frisian:** lööw
+    - **Saterland Frisian:** Leeuwe
+    - **West Frisian:** liuw
+  - **Old Saxon:** *lewo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lēwo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lēo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lāwo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Saxon:** *lāo
+    - **Middle Low German:** löuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lowe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lou
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** löe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** louwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lauwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** lewe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+    - **Middle Low German:** leuwe
+      - **German Low German:** 
+        - **Low Prussian:** Lau
+        - **Plautdietsch:** Leiw
+        - **Westphalian:** 
+          - **Sauerländisch:** Loiwe
+          - **Sauerländisch:** Loibe
+          - **Sauerländisch:** Löwe
+          - **Sauerländisch:** Löüwe
+          - **East Westphalian:** Löwen
+          - **East Westphalian:** Lȫwe
+      - **Danish:** løve — _borrowed_
+      - **Faroese:** leyva — _borrowed_
+      - **Faroese:** løva — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** løve
+  - **Old Dutch:** lēwo
+    - **Middle Dutch:** lêwe
+      - **Dutch:** leeuw
+        - **Afrikaans:** leeu
+      - **Limburgish:** lieëf
+      - **Limburgish:** liew
+      - **West Flemish:** lêeuw
+  - **Old High German:** lewo
+    - **Middle High German:** lewe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** lebe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** löuwe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+  - **Old High German:** lēo
+    - **Middle High German:** lewe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** lebe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+    - **Middle High German:** löuwe
+      - **Alemannic German:** Leew
+      - **Alemannic German:** Löi
+      - **Bavarian:** 
+      - **Central Franconian:** 
+        - **Hunsrik:** Leeb
+        - **Luxembourgish:** Léiw
+      - **East Central German:** 
+        - **Upper Saxon German:** 
+        - **Vilamovian:** ływ
+      - **East Franconian:** 
+      - **German:** Löwe
+      - **Rhine Franconian:** Leeb
+        - **Pennsylvania German:** Leeb
+      - **Yiddish:** לייב
+      - **Kölsch:** Löv
+- **Gothic:** 𐌻𐌰𐌹𐍅𐌰

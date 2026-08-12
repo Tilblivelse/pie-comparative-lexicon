@@ -1,0 +1,1028 @@
+# *þai
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BEai)
+
+## Proto-Germanic
+
+**Reconstruction:** *þai
+
+### Etymology
+
+From demonstrative root *þa- with plural suffix *-i, inherited from Proto-Indo-European *tóy. Compare *twai (“two”), from Proto-Indo-European *dwóh₁ with same suffix.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dwóh₁, *tóy
+
+### Pronunciation
+
+- IPA: `/θɑi̯/`
+
+### Determiner
+
+1. _(reconstruction)_ they; those; nominative plural masculine of *sa
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *þai
+  - **Old English:** þā
+    - **Middle English:** tha
+      - **Scots:** tha
+      - **Scots:** thai
+      - **Scots:** thais
+      - **English:** tho
+      - **English:** those
+    - **Middle English:** tho
+      - **Scots:** tha
+      - **Scots:** thai
+      - **Scots:** thais
+      - **English:** tho
+      - **English:** those
+    - **Middle English:** thas
+      - **Scots:** tha
+      - **Scots:** thai
+      - **Scots:** thais
+      - **English:** tho
+      - **English:** those
+    - **Middle English:** thos
+      - **Scots:** tha
+      - **Scots:** thai
+      - **Scots:** thais
+      - **English:** tho
+      - **English:** those
+  - **Old Frisian:** thā
+    - **Saterland Frisian:** do
+    - **West Frisian:** dy
+  - **Old Saxon:** thē
+    - **Middle Low German:** dê
+      - **German Low German:** de
+  - **Old Dutch:** thie
+    - **Middle Dutch:** die
+      - **Dutch:** die
+  - **Old High German:** dē
+    - **Middle High German:** dē
+      - **German:** die
+    - **Middle High German:** die
+      - **German:** die
+  - **Old High German:** dea
+    - **Middle High German:** dē
+      - **German:** die
+    - **Middle High German:** die
+      - **German:** die
+  - **Old High German:** dia
+    - **Middle High German:** dē
+      - **German:** die
+    - **Middle High German:** die
+      - **German:** die
+  - **Old High German:** die
+    - **Middle High German:** dē
+      - **German:** die
+    - **Middle High German:** die
+      - **German:** die
+- **Proto-Norse:** *ᚦᚨᛁᛉ
+  - **Old Norse:** þeir
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛅᛁᛦ — _early Common Nordic_
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛅᛁᚱ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᛁᚱ — _after merger of r and ʀ; occurring by the 800s in West Norse and late 1000s in East Norse_
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᚱ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᛦ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛁᚱ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛁᛦ — _after East Norse monophthongization; starting in the mid 900s in Denmark_
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛅᛁᛘ — _Common Nordic_
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᛁᛘ — _after invention of stung runes_
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᛘ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛁᛘ — _after East Norse monophthongization_
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛅᛁᚱᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛅᛁᛦᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᛁᚱᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᛁᛦᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᚱᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛂᛦᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛁᚱᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+  - **Old Norse:** ᚦᛁᛦᛅ
+    - **Icelandic:** þeir
+    - **Faroese:** teir
+    - **Norwegian Nynorsk:** dei
+    - **Jamtish:** di
+    - **Elfdalian:** dier
+    - **Old Swedish:** þēr
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** the
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** þir
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Swedish:** thi
+      - **Swedish:** de
+      - **Swedish:** the — _archaic_
+      - **Swedish:** dhe — _dialectal_
+      - **Swedish:** di
+      - **Swedish:** da
+    - **Old Danish:** þhe
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Danish:** the
+      - **Danish:** de
+      - **Norwegian Bokmål:** de
+    - **Old Gutnish:** þar
+      - **Gutnish:** dair
+      - **Gutnish:** di
+    - **Middle English:** thei — _borrowed_
+      - **Scots:** they
+      - **English:** they
+    - **Middle English:** they — _borrowed_
+      - **Scots:** they
+      - **English:** they
+- **Gothic:** 𐌸𐌰𐌹

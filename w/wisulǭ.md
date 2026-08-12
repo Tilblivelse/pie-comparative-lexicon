@@ -1,0 +1,980 @@
+# *wisulǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/wisul%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *wisulǭ
+
+### Etymology
+
+A diminutive of a word *wisō- (“European polecat, Mustela putorius”). From the root Proto-Indo-European *weys- (“to ooze, stink”), compare *wisundz (“bison”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *weys-
+
+### Pronunciation
+
+- IPA: `/ˈwi.su.lɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ weasel
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| wisulǭ | nominative, singular |
+| wisulōniz | nominative, plural |
+| wisulǭ | singular, vocative |
+| wisulōniz | plural, vocative |
+| wisulōnų | accusative, singular |
+| wisulōnunz | accusative, plural |
+| wisulōniz | genitive, singular |
+| wisulōnǫ̂ | genitive, plural |
+| wisulōni | dative, singular |
+| wisulōmaz | dative, plural |
+| wisulōnē | instrumental, singular |
+| wisulōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *wisulā
+  - **Old English:** weosule
+    - **Middle English:** wesele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wassele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesel
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesil
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesile
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wezele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wasyll
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weysyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weesylle
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** whesille — _Late Middle English_
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+  - **Old English:** wesle
+    - **Middle English:** wesele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wassele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesel
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesil
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesile
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wezele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wasyll
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weysyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weesylle
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** whesille — _Late Middle English_
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+  - **Old English:** uuesulae
+    - **Middle English:** wesele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wassele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesel
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesil
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesile
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wezele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wasyll
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weysyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weesylle
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** whesille — _Late Middle English_
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+  - **Old English:** uuesole — _early_
+    - **Middle English:** wesele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wassele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesel
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesil
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesile
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wezele
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wasyll
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** wesyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weysyl
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** weesylle
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+    - **Middle English:** whesille — _Late Middle English_
+      - **English:** weasel
+      - **Middle Scots:** quhasill
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+      - **Middle Scots:** wasyll
+        - **Scots:** whaisle
+        - **Scots:** whaisel
+        - **Scots:** whaizle
+        - **Scots:** wheesel
+        - **Scots:** weasel — _associated with whaisle "to wheeze"_
+  - **Old Frisian:** *wisele
+    - **Saterland Frisian:** Wiezelke
+    - **West Frisian:** wezeling
+  - **Old Saxon:** *wisula
+    - **Middle Low German:** wēsel
+      - **Low German:** Wessel
+      - **Low German:** Wissel
+      - **Plautdietsch:** Wäsel
+    - **Middle Low German:** wesele
+      - **Low German:** Wessel
+      - **Low German:** Wissel
+      - **Plautdietsch:** Wäsel
+  - **Old Dutch:** *wisala
+    - **Middle Dutch:** wēsel
+      - **Dutch:** wezel
+        - **Afrikaans:** wesel
+      - **Limburgish:** wezel
+      - **Limburgish:** wieëzel
+  - **Old High German:** wisula
+    - **Middle High German:** wisele
+      - **German:** Wiesel
+      - **Luxembourgish:** Wisel
+      - **Yiddish:** וויזל
+  - **Old High German:** wisala
+    - **Middle High German:** wisele
+      - **German:** Wiesel
+      - **Luxembourgish:** Wisel
+      - **Yiddish:** וויזל
+- **Old Norse:** visla
+  - **Icelandic:** hreysivisla
+  - **Faroese:** vesla
+  - **Norwegian:** vesel
+  - **Old Swedish:** visla
+    - **Swedish:** vessla
+  - **Old Danish:** wæslæ
+    - **Danish:** væsel
+  - **Gutnish:** vissle
+  - **Gutnish:** visslå
+- **Old Norse:** hreysivisla
+  - **Icelandic:** hreysivisla
+  - **Faroese:** vesla
+  - **Norwegian:** vesel
+  - **Old Swedish:** visla
+    - **Swedish:** vessla
+  - **Old Danish:** wæslæ
+    - **Danish:** væsel
+  - **Gutnish:** vissle
+  - **Gutnish:** visslå

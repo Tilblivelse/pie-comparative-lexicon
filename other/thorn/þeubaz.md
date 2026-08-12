@@ -1,0 +1,577 @@
+# *þeubaz
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BEeubaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *þeubaz
+
+### Etymology
+
+From Pre-Proto-Germanic *tewpós, further origin is unknown. Probably related to Lithuanian tupė́ti (“to crouch, cower, squat”) (from Proto-Indo-European *tewp- (“to get down, conceal oneself”)). Alternatively, borrowed from a non-Indo-European substrate.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *tewp-
+
+### Pronunciation
+
+- IPA: `/ˈθeu̯.βɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ thief
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| þeubaz | nominative, singular |
+| þeubōz | nominative, plural |
+| þeubōs | nominative, plural |
+| þeub | singular, vocative |
+| þeubōz | plural, vocative |
+| þeubōs | plural, vocative |
+| þeubą | accusative, singular |
+| þeubanz | accusative, plural |
+| þeubas | genitive, singular |
+| þiubis | genitive, singular |
+| þeubǫ̂ | genitive, plural |
+| þeubai | dative, singular |
+| þeubamaz | dative, plural |
+| þeubō | instrumental, singular |
+| þeubamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *þeub
+  - **Old English:** þēof
+    - **Middle English:** thef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** theef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þeef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þeof
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** thief
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þief
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þyef — _Kent; Essex_
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** thefe
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** theff
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** thyef — _Late Middle English_
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+  - **Old English:** ðīof
+    - **Middle English:** thef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** theef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þeef
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þeof
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** thief
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þief
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** þyef — _Kent; Essex_
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** thefe
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** theff
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+    - **Middle English:** thyef — _Late Middle English_
+      - **English:** thief
+      - **Middle Scots:** theif
+        - **Scots:** thief
+      - **Middle Scots:** theef
+        - **Scots:** thief
+      - **Middle Scots:** theeff
+        - **Scots:** thief
+      - **Middle Scots:** theiff
+        - **Scots:** thief
+      - **Middle Scots:** theiffe
+        - **Scots:** thief
+      - **Middle Scots:** thef — _early_
+        - **Scots:** thief
+      - **Middle Scots:** thief — _Anglicised_
+        - **Scots:** thief
+      - **Middle Scots:** teif
+        - **Scots:** thief
+      - **Middle Scots:** tyif — _Galloway_
+        - **Scots:** thief
+  - **Old Frisian:** thiāf
+    - **North Frisian:** 
+    - **Saterland Frisian:** Tjoof
+    - **West Frisian:** tsjeaf
+  - **Old Frisian:** tiēf
+    - **North Frisian:** 
+    - **Saterland Frisian:** Tjoof
+    - **West Frisian:** tsjeaf
+  - **Old Saxon:** thiof
+    - **Middle Low German:** dêf
+      - **German Low German:** Deef
+      - **German Low German:** Deev
+      - **German Low German:** Deew
+      - **German Low German:** Deiw
+      - **Plautdietsch:** Deef
+      - **Plautdietsch:** Deiw
+      - **Saterland Frisian:** Däif — _borrowed_
+    - **Middle Low German:** dief
+      - **German Low German:** Deef
+      - **German Low German:** Deev
+      - **German Low German:** Deew
+      - **German Low German:** Deiw
+      - **Plautdietsch:** Deef
+      - **Plautdietsch:** Deiw
+      - **Saterland Frisian:** Däif — _borrowed_
+  - **Old Dutch:** *thiof
+    - **Middle Dutch:** dief
+      - **Dutch:** dief
+        - **Afrikaans:** dief
+      - **Limburgish:** deef
+  - **Old High German:** diob
+    - **Middle High German:** diup
+      - **Cimbrian:** diip
+      - **German:** Dieb
+      - **Luxembourgish:** Déif
+      - **Pennsylvania German:** Dieb
+      - **Vilamovian:** dīb
+    - **Middle High German:** diep
+      - **Cimbrian:** diip
+      - **German:** Dieb
+      - **Luxembourgish:** Déif
+      - **Pennsylvania German:** Dieb
+      - **Vilamovian:** dīb
+- **Proto-Norse:** *ᚦᛖᚢᛒᚨᛉ
+- **Proto-Norse:** ᛗᚨᚱᛁᚦᛖᚢᛒᚨᛉ
+- **Proto-Norse:** 
+  - **Old West Norse:** þjófr
+    - **Icelandic:** þjófur
+    - **Faroese:** tjóvur
+    - **Norwegian Nynorsk:** tjov
+      - **Norwegian Bokmål:** tjuv — _borrowed_
+    - **Norwegian Nynorsk:** tjuv — _dialectal_
+      - **Norwegian Bokmål:** tjuv — _borrowed_
+    - **Norwegian Nynorsk:** tjóv’e
+      - **Norwegian Bokmål:** tjuv — _borrowed_
+    - **Norwegian Nynorsk:** tju
+      - **Norwegian Bokmål:** tjuv — _borrowed_
+    - **Norwegian Nynorsk:** tjyv
+      - **Norwegian Bokmål:** tjuv — _borrowed_
+  - **Old East Norse:** *þiūβʀ
+    - **Elfdalian:** tjuov
+    - **Old Swedish:** þiūver
+      - **Swedish:** tjuv
+      - **Swedish:** tjuf — _archaic or obsolete_
+      - **Swedish:** tiuf
+    - **Old Swedish:** þiuuær
+      - **Swedish:** tjuv
+      - **Swedish:** tjuf — _archaic or obsolete_
+      - **Swedish:** tiuf
+    - **Old Swedish:** þiuvær
+      - **Swedish:** tjuv
+      - **Swedish:** tjuf — _archaic or obsolete_
+      - **Swedish:** tiuf
+    - **Old Danish:** thiūf
+      - **Scanian:** tjúv
+      - **Danish:** tyv
+        - **Norwegian Bokmål:** tyv
+    - **Old Danish:** þiufær — _Scanian_
+      - **Scanian:** tjúv
+      - **Danish:** tyv
+        - **Norwegian Bokmål:** tyv
+  - **Old Gutnish:** þiaufr
+    - **Gutnish:** töiv
+- **Gothic:** 𐌸𐌹𐌿𐍆𐍃

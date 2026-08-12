@@ -1,0 +1,973 @@
+# *ōþalą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C5%8D%C3%BEal%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *ōþalą
+
+### Etymology
+
+Vṛddhi derivative of *aþalą (“nature; nobility”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈɔː.θɑ.lɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ ancestral land, the land owned by one's kin
+2. _(broadly, neuter, reconstruction)_ one's property, inheritance
+3. _(neuter, reconstruction)_ name of the rune ᛟ (o)
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| ōþalą | nominative, singular |
+| ōþalō | nominative, plural |
+| ōþalą | singular, vocative |
+| ōþalō | plural, vocative |
+| ōþalą | accusative, singular |
+| ōþalō | accusative, plural |
+| ōþalas | genitive, singular |
+| ōþalis | genitive, singular |
+| ōþalǫ̂ | genitive, plural |
+| ōþalai | dative, singular |
+| ōþalamaz | dative, plural |
+| ōþalō | instrumental, singular |
+| ōþalamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ōþil
+  - **Old English:** ēþel
+  - **Old English:** œ̄þel
+  - **Old English:** œ̄ðel — _Anglian_
+  - **Old English:** ǣþel
+  - **Old English:** ēðel
+  - **Old English:** ēþl
+  - **Old English:** ōðel
+  - **Old Frisian:** ēthel
+  - **Old Saxon:** ōthil
+  - **Old Saxon:** ōðil
+  - **Old High German:** uodil
+    - **Old High German:** heimōdil
+      - **Bavarian:** Hoamatl
+  - **Old High German:** uodal
+    - **Old High German:** heimōdil
+      - **Bavarian:** Hoamatl
+  - **Old High German:** ōdil
+    - **Old High German:** heimōdil
+      - **Bavarian:** Hoamatl
+- **Proto-Norse:** *ᛟᚦᚨᛚᚨ
+  - **Old Norse:** *ōðala
+    - **Old Swedish:** *odhala
+      - **Late Old Swedish:** ødalla
+  - **Old Norse:** óðal
+    - **Faroese:** óðal
+    - **Icelandic:** óðal
+    - **Norwegian Nynorsk:** odal
+    - **Old Danish:** othæl
+      - **Danish:** odel
+        - **Norwegian Bokmål:** odel
+        - **Norwegian Nynorsk:** odel — _borrowed; Danicised form of odal_
+    - **Old Swedish:** ōþol
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+    - **Old Swedish:** ōþal
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+    - **Old Swedish:** ōþil
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+  - **Old Norse:** ᚢᚦᛅᛚ
+    - **Faroese:** óðal
+    - **Icelandic:** óðal
+    - **Norwegian Nynorsk:** odal
+    - **Old Danish:** othæl
+      - **Danish:** odel
+        - **Norwegian Bokmål:** odel
+        - **Norwegian Nynorsk:** odel — _borrowed; Danicised form of odal_
+    - **Old Swedish:** ōþol
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+    - **Old Swedish:** ōþal
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+    - **Old Swedish:** ōþil
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+  - **Old Norse:** ōðal
+    - **Faroese:** óðal
+    - **Icelandic:** óðal
+    - **Norwegian Nynorsk:** odal
+    - **Old Danish:** othæl
+      - **Danish:** odel
+        - **Norwegian Bokmål:** odel
+        - **Norwegian Nynorsk:** odel — _borrowed; Danicised form of odal_
+    - **Old Swedish:** ōþol
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+    - **Old Swedish:** ōþal
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+    - **Old Swedish:** ōþil
+      - **Late Old Swedish:** ōdhol
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhal
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhil
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdhel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ōdel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+      - **Late Old Swedish:** ødel
+        - **Swedish:** odal
+        - **Swedish:** odel — _dialectal_
+        - **Swedish:** oel
+        - **Swedish:** ol
+        - **Swedish:** ole
+        - **Swedish:** odol — _historical_
+        - **Swedish:** odahl
+        - **Swedish:** odall
+        - **Swedish:** odill
+        - **Swedish:** odell
+        - **Swedish:** odhal
+        - **Swedish:** odhil
+        - **Swedish:** odhel
+        - **Swedish:** ådel
+        - **Swedish:** ödel
+- **Gothic:** *𐍉𐌸𐌰𐌻 — _recorded as “utal” in the 8th c._
+  - **Gothic:** *𐍉𐌸𐌻𐌹 — _reshaped by analogy or addition of morphemes_

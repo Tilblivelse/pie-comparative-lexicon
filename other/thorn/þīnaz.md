@@ -1,0 +1,848 @@
+# *þīnaz
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BE%C4%ABnaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *þīnaz
+
+### Etymology
+
+From Proto-Indo-European *téynos.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *téynos
+
+### Pronunciation
+
+- IPA: `/ˈθiː.nɑz/`
+
+### Determiner
+
+1. _(reconstruction)_ your, yours (thy, thine); 2nd person singular possessive
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| þīnaz | masculine, nominative, singular, strong |
+| þīnō | feminine, nominative, singular, strong |
+| þīną | neuter, nominative, singular, strong |
+| -at | neuter, nominative, singular, strong |
+| -atō | neuter, nominative, singular, strong |
+| þīnai | masculine, nominative, plural, strong |
+| þīnôz | feminine, nominative, plural, strong |
+| þīnō | neuter, nominative, plural, strong |
+| þīnanǭ | accusative, masculine, singular, strong |
+| þīnǭ | accusative, feminine, singular, strong |
+| þīną | accusative, neuter, singular, strong |
+| -at | accusative, neuter, singular, strong |
+| -atō | accusative, neuter, singular, strong |
+| þīnanz | accusative, masculine, plural, strong |
+| þīnōz | accusative, feminine, plural, strong |
+| þīnō | accusative, neuter, plural, strong |
+| þīnas | genitive, masculine, singular, strong |
+| þīnis | genitive, masculine, singular, strong |
+| þīnaizōz | feminine, genitive, singular, strong |
+| þīnas | genitive, neuter, singular, strong |
+| þīnis | genitive, neuter, singular, strong |
+| þīnaizǫ̂ | genitive, masculine, plural, strong |
+| þīnaizǫ̂ | feminine, genitive, plural, strong |
+| þīnaizǫ̂ | genitive, neuter, plural, strong |
+| þīnammai | dative, masculine, singular, strong |
+| þīnaizōi | dative, feminine, singular, strong |
+| þīnammai | dative, neuter, singular, strong |
+| þīnaimaz | dative, masculine, plural, strong |
+| þīnaimaz | dative, feminine, plural, strong |
+| þīnaimaz | dative, neuter, plural, strong |
+| þīnanō | instrumental, masculine, singular, strong |
+| þīnaizō | feminine, instrumental, singular, strong |
+| þīnanō | instrumental, neuter, singular, strong |
+| þīnaimiz | instrumental, masculine, plural, strong |
+| þīnaimiz | feminine, instrumental, plural, strong |
+| þīnaimiz | instrumental, neuter, plural, strong |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *þīn
+  - **Old English:** þīn
+    - **Middle English:** þin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þine
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þyn
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þyne
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thine
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thyn
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thyne
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þinne
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thyen
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** theyn
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** tin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** tine
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** yin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+  - **Old English:** ðīn
+    - **Middle English:** þin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þine
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þyn
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þyne
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thine
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thyn
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thyne
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** þinne
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** thyen
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** theyn
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** tin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** tine
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+    - **Middle English:** yin
+      - **English:** thine — _determiner_
+      - **Middle English:** þi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** they — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** thy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ti — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** ty — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þei — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þey — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þhi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** þy — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yi — _reshaped by analogy or addition of morphemes_
+        - **English:** thy
+      - **Middle English:** yhi — _reshaped by analogy or addition of morphemes; apocopated variant_
+        - **English:** thy
+  - **Old Frisian:** thīn
+    - **West Frisian:** dyn
+  - **Old Saxon:** thīn
+  - **Old Dutch:** thīn
+    - **Middle Dutch:** dijn
+      - **Dutch:** dijn
+      - **Limburgish:** dien
+  - **Old High German:** dīn
+    - **Middle High German:** dīn
+      - **Alemannic German:** diin
+      - **Alemannic German:** dyn
+      - **Bavarian:** dei
+      - **Cimbrian:** dain
+      - **Cimbrian:** doi — _Luserna_
+      - **German:** dein
+      - **Hunsrik:** dein
+      - **Luxembourgish:** däin
+      - **Yiddish:** דײַן
+  - **Old High German:** thīn
+    - **Middle High German:** dīn
+      - **Alemannic German:** diin
+      - **Alemannic German:** dyn
+      - **Bavarian:** dei
+      - **Cimbrian:** dain
+      - **Cimbrian:** doi — _Luserna_
+      - **German:** dein
+      - **Hunsrik:** dein
+      - **Luxembourgish:** däin
+      - **Yiddish:** דײַן
+- **Old Norse:** þínn
+  - **Icelandic:** þinn
+  - **Icelandic:** þín
+  - **Faroese:** tín
+  - **Norwegian:** din
+  - **Old Swedish:** þīn
+    - **Swedish:** din
+  - **Danish:** din
+- **Old Norse:** þinn
+  - **Icelandic:** þinn
+  - **Icelandic:** þín
+  - **Faroese:** tín
+  - **Norwegian:** din
+  - **Old Swedish:** þīn
+    - **Swedish:** din
+  - **Danish:** din
+- **Gothic:** 𐌸𐌴𐌹𐌽𐍃

@@ -1,0 +1,811 @@
+# *sebun
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/sebun)
+
+## Proto-Germanic
+
+**Reconstruction:** *sebun
+
+### Etymology
+
+From earlier *sebunt, from Pre-Germanic *sepḿ̥t, a dissimilatory alteration of *septḿ̥t (“seven”), from Proto-Indo-European *septḿ̥ (“seven”), with -t added through influence of *newun (“nine”) and *tehun (“ten”). An alternative theory posits that the -t is due to the influence of Proto-Indo-European *septm̥th₂ós (“seventh”) (compare Lithuanian septiñtas, Sanskrit सप्तथ (saptatha)).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *septm̥th₂ós, *septḿ̥
+
+### Pronunciation
+
+- IPA: `/ˈse.βun/`
+
+### Numeral
+
+1. _(reconstruction)_ seven
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *sebun
+  - **Old English:** seofon
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old English:** sufon
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old English:** syfon — _Late West Saxon_
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old English:** siofun
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old English:** seofun — _Mercian_
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old English:** seofo
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old English:** siofu
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old English:** sifu — _Northumbrian_
+    - **Middle English:** seven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** ceven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seofen
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** seoven
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevene
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sevyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** sewyn
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+    - **Middle English:** zeven — _Kent_
+      - **English:** seven
+      - **Middle Scots:** sevin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Middle Scots:** sewin
+        - **Scots:** seiven
+        - **Scots:** seeven
+      - **Yola:** zeven
+  - **Old Frisian:** siūgun
+    - **Saterland Frisian:** sogen
+    - **West Frisian:** sân
+  - **Old Frisian:** sigun
+    - **Saterland Frisian:** sogen
+    - **West Frisian:** sân
+  - **Old Frisian:** sogen
+    - **Saterland Frisian:** sogen
+    - **West Frisian:** sân
+  - **Old Frisian:** soven
+    - **Saterland Frisian:** sogen
+    - **West Frisian:** sân
+  - **Old Frisian:** saven
+    - **Saterland Frisian:** sogen
+    - **West Frisian:** sân
+  - **Old Frisian:** savn
+    - **Saterland Frisian:** sogen
+    - **West Frisian:** sân
+  - **Old Saxon:** sivun
+    - **Middle Low German:** sēven
+      - **Low German:** söven
+        - **German Low German:** sëwe
+        - **German Low German:** sëwen
+        - **German Low German:** sæwen
+        - **German Low German:** sæben
+        - **German Low German:** söven
+        - **German Low German:** söben
+        - **Dutch Low Saxon:** söben
+        - **Dutch Low Saxon:** söven
+        - **Dutch Low Saxon:** seben
+        - **Dutch Low Saxon:** seven
+      - **Low German:** sieven
+        - **German Low German:** sëwe
+        - **German Low German:** sëwen
+        - **German Low German:** sæwen
+        - **German Low German:** sæben
+        - **German Low German:** söven
+        - **German Low German:** söben
+        - **Dutch Low Saxon:** söben
+        - **Dutch Low Saxon:** söven
+        - **Dutch Low Saxon:** seben
+        - **Dutch Low Saxon:** seven
+      - **Low German:** seven
+        - **German Low German:** sëwe
+        - **German Low German:** sëwen
+        - **German Low German:** sæwen
+        - **German Low German:** sæben
+        - **German Low German:** söven
+        - **German Low German:** söben
+        - **Dutch Low Saxon:** söben
+        - **Dutch Low Saxon:** söven
+        - **Dutch Low Saxon:** seben
+        - **Dutch Low Saxon:** seven
+      - **Plautdietsch:** säwen
+      - **North Frisian:** sööwen — _borrowed_
+      - **North Frisian:** soowen — _borrowed_
+  - **Old Saxon:** sivon
+    - **Middle Low German:** sēven
+      - **Low German:** söven
+        - **German Low German:** sëwe
+        - **German Low German:** sëwen
+        - **German Low German:** sæwen
+        - **German Low German:** sæben
+        - **German Low German:** söven
+        - **German Low German:** söben
+        - **Dutch Low Saxon:** söben
+        - **Dutch Low Saxon:** söven
+        - **Dutch Low Saxon:** seben
+        - **Dutch Low Saxon:** seven
+      - **Low German:** sieven
+        - **German Low German:** sëwe
+        - **German Low German:** sëwen
+        - **German Low German:** sæwen
+        - **German Low German:** sæben
+        - **German Low German:** söven
+        - **German Low German:** söben
+        - **Dutch Low Saxon:** söben
+        - **Dutch Low Saxon:** söven
+        - **Dutch Low Saxon:** seben
+        - **Dutch Low Saxon:** seven
+      - **Low German:** seven
+        - **German Low German:** sëwe
+        - **German Low German:** sëwen
+        - **German Low German:** sæwen
+        - **German Low German:** sæben
+        - **German Low German:** söven
+        - **German Low German:** söben
+        - **Dutch Low Saxon:** söben
+        - **Dutch Low Saxon:** söven
+        - **Dutch Low Saxon:** seben
+        - **Dutch Low Saxon:** seven
+      - **Plautdietsch:** säwen
+      - **North Frisian:** sööwen — _borrowed_
+      - **North Frisian:** soowen — _borrowed_
+  - **Old Dutch:** sivon
+    - **Middle Dutch:** sēven
+      - **Dutch:** zeven
+        - **Afrikaans:** sewe
+      - **Dutch:** zeuven
+        - **Afrikaans:** sewe
+      - **Limburgish:** zeve
+      - **West Flemish:** zēvne
+      - **Zealandic:** zeven
+  - **Old High German:** sibun
+    - **Middle High German:** siben
+      - **Alemannic German:** sibe
+      - **Alemannic German:** sibä
+      - **Alemannic German:** siebë
+      - **Alemannic German:** siibe
+      - **Bavarian:** 
+      - **Central Franconian:** sibbe
+      - **Central Franconian:** sivve — _Moselle Franconian; westernmost and easternmost Ripuarian_
+      - **East Central German:** 
+      - **German:** sieben
+      - **Rhine Franconian:** siewe
+      - **Rhine Franconian:** siwwe
+      - **Yiddish:** זיבן
+    - **Middle High German:** siven
+      - **Alemannic German:** sibe
+      - **Alemannic German:** sibä
+      - **Alemannic German:** siebë
+      - **Alemannic German:** siibe
+      - **Bavarian:** 
+      - **Central Franconian:** sibbe
+      - **Central Franconian:** sivve — _Moselle Franconian; westernmost and easternmost Ripuarian_
+      - **East Central German:** 
+      - **German:** sieben
+      - **Rhine Franconian:** siewe
+      - **Rhine Franconian:** siwwe
+      - **Yiddish:** זיבן
+    - **Middle High German:** seben
+      - **Alemannic German:** sibe
+      - **Alemannic German:** sibä
+      - **Alemannic German:** siebë
+      - **Alemannic German:** siibe
+      - **Bavarian:** 
+      - **Central Franconian:** sibbe
+      - **Central Franconian:** sivve — _Moselle Franconian; westernmost and easternmost Ripuarian_
+      - **East Central German:** 
+      - **German:** sieben
+      - **Rhine Franconian:** siewe
+      - **Rhine Franconian:** siwwe
+      - **Yiddish:** זיבן
+    - **Middle High German:** suben
+      - **Alemannic German:** sibe
+      - **Alemannic German:** sibä
+      - **Alemannic German:** siebë
+      - **Alemannic German:** siibe
+      - **Bavarian:** 
+      - **Central Franconian:** sibbe
+      - **Central Franconian:** sivve — _Moselle Franconian; westernmost and easternmost Ripuarian_
+      - **East Central German:** 
+      - **German:** sieben
+      - **Rhine Franconian:** siewe
+      - **Rhine Franconian:** siwwe
+      - **Yiddish:** זיבן
+    - **Middle High German:** söben
+      - **Alemannic German:** sibe
+      - **Alemannic German:** sibä
+      - **Alemannic German:** siebë
+      - **Alemannic German:** siibe
+      - **Bavarian:** 
+      - **Central Franconian:** sibbe
+      - **Central Franconian:** sivve — _Moselle Franconian; westernmost and easternmost Ripuarian_
+      - **East Central German:** 
+      - **German:** sieben
+      - **Rhine Franconian:** siewe
+      - **Rhine Franconian:** siwwe
+      - **Yiddish:** זיבן
+- **Old Norse:** sjau
+- **Old Norse:** *seaβu
+- **Old Norse:** *seaβun
+- **Old Norse:** 
+  - **Icelandic:** sjö
+  - **Icelandic:** sjau — _obsolete_
+  - **Faroese:** sjey
+  - **Norn:** sju
+  - **Norwegian:** sju
+    - **Danish:** sju — _borrowed; Norway_
+      - **Norwegian Bokmål:** sju
+  - **Norwegian:** sjau — _dialectal_
+    - **Danish:** sju — _borrowed; Norway_
+      - **Norwegian Bokmål:** sju
+  - **Norwegian:** sjaug
+    - **Danish:** sju — _borrowed; Norway_
+      - **Norwegian Bokmål:** sju
+  - **Norwegian:** sjøg
+    - **Danish:** sju — _borrowed; Norway_
+      - **Norwegian Bokmål:** sju
+  - **Old Swedish:** siū
+    - **Swedish:** sju
+  - **Old Swedish:** syū
+    - **Swedish:** sju
+  - **Old Danish:** siu
+    - **Danish:** syv
+      - **Norwegian Bokmål:** syv
+  - **Old Gutnish:** siau
+    - **Gutnish:** sjau
+    - **Gutnish:** sjavv
+- **Gothic:** 𐍃𐌹𐌱𐌿𐌽

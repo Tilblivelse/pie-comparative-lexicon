@@ -1,0 +1,275 @@
+# *þat
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BEat)
+
+## Proto-Germanic
+
+**Reconstruction:** *þat
+
+### Etymology
+
+From earlier *þód, from Proto-Indo-European *tód (“that”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *tód
+
+### Pronunciation
+
+- IPA: `/θɑt/`
+
+### Determiner
+
+1. _(accusative, form-of, neuter, nominative, reconstruction, singular)_ nominative/accusative singular neuter of *sa
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *þat
+  - **Old English:** þæt
+    - **Middle English:** that
+      - **English:** that
+      - **Scots:** that
+      - **Yola:** at
+      - **Yola:** et
+      - **Yola:** thet
+      - **Yola:** that
+      - **Yola:** th'
+      - **Yola:** y'at
+  - **Old Frisian:** thet
+    - **Saterland Frisian:** dät
+    - **West Frisian:** dat
+  - **Old Saxon:** that
+    - **Middle Low German:** dat
+      - **Low German:** dat
+      - **Low German:** datt
+  - **Old Dutch:** that
+    - **Middle Dutch:** dat
+      - **Dutch:** dat
+        - **Afrikaans:** dat
+      - **Dutch:** het
+        - **Afrikaans:** dat
+      - **Limburgish:** det
+  - **Old High German:** daȥ
+    - **Middle High German:** daȥ
+      - **Alemannic German:** ds
+      - **Alemannic German:** s
+      - **Bavarian:** 
+      - **German:** das
+      - **German:** dass
+      - **Hessian:** dès
+      - **Luxembourgish:** dass
+      - **Silesian East Central German:** doas
+      - **Yiddish:** דאָס
+  - **Old High German:** thaȥ — _Upper Franconian_
+    - **Middle High German:** daȥ
+      - **Alemannic German:** ds
+      - **Alemannic German:** s
+      - **Bavarian:** 
+      - **German:** das
+      - **German:** dass
+      - **Hessian:** dès
+      - **Luxembourgish:** dass
+      - **Silesian East Central German:** doas
+      - **Yiddish:** דאָס
+  - **Old High German:** that
+    - **Middle High German:** daȥ
+      - **Alemannic German:** ds
+      - **Alemannic German:** s
+      - **Bavarian:** 
+      - **German:** das
+      - **German:** dass
+      - **Hessian:** dès
+      - **Luxembourgish:** dass
+      - **Silesian East Central German:** doas
+      - **Yiddish:** דאָס
+  - **Old High German:** dat — _northern_
+    - **Middle High German:** daȥ
+      - **Alemannic German:** ds
+      - **Alemannic German:** s
+      - **Bavarian:** 
+      - **German:** das
+      - **German:** dass
+      - **Hessian:** dès
+      - **Luxembourgish:** dass
+      - **Silesian East Central German:** doas
+      - **Yiddish:** דאָס
+  - **Old High German:** dat
+    - **Middle High German:** dat
+      - **German:** dat
+      - **Central Franconian:** dat
+      - **Central Franconian:** datt
+      - **Luxembourgish:** dat
+      - **Luxembourgish:** datt
+  - **Old High German:** that
+    - **Middle High German:** dat
+      - **German:** dat
+      - **Central Franconian:** dat
+      - **Central Franconian:** datt
+      - **Luxembourgish:** dat
+      - **Luxembourgish:** datt
+  - **Old High German:** daʒ
+    - **Middle High German:** dat
+      - **German:** dat
+      - **Central Franconian:** dat
+      - **Central Franconian:** datt
+      - **Luxembourgish:** dat
+      - **Luxembourgish:** datt
+  - **Old High German:** thaʒ
+    - **Middle High German:** dat
+      - **German:** dat
+      - **Central Franconian:** dat
+      - **Central Franconian:** datt
+      - **Luxembourgish:** dat
+      - **Luxembourgish:** datt
+- **Proto-Norse:** ᚦᚨᛏ
+  - **Old Norse:** þat
+    - **Icelandic:** það
+    - **Faroese:** tað
+    - **Faroese:** hað
+    - **Norn:** da
+    - **Norn:** dat
+    - **Norn:** de
+    - **Norwegian:** 
+      - **Norwegian Bokmål:** det
+      - **Norwegian Nynorsk:** det
+      - **Norwegian Nynorsk:** dat
+    - **Jamtish:** deð
+    - **Jamtish:** heð
+    - **Old Swedish:** þæt
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** þet
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** thæt
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** thet
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** thz
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Danish:** thet
+      - **Danish:** det
+- **Proto-Norse:** ᚦᛡᛏ
+  - **Old Norse:** þat
+    - **Icelandic:** það
+    - **Faroese:** tað
+    - **Faroese:** hað
+    - **Norn:** da
+    - **Norn:** dat
+    - **Norn:** de
+    - **Norwegian:** 
+      - **Norwegian Bokmål:** det
+      - **Norwegian Nynorsk:** det
+      - **Norwegian Nynorsk:** dat
+    - **Jamtish:** deð
+    - **Jamtish:** heð
+    - **Old Swedish:** þæt
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** þet
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** thæt
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** thet
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Swedish:** thz
+      - **Swedish:** det
+      - **Swedish:** thet — _obsolete_
+      - **Swedish:** dhet
+    - **Old Danish:** thet
+      - **Danish:** det
+- **Gothic:** 𐌸𐌰𐍄𐌰
+- **unknown:** *þes-
+  - **Proto-West Germanic:** 
+    - **Old English:** þes
+      - **Middle English:** þes
+        - **English:** these
+        - **Middle Scots:** thais
+        - **Middle Scots:** thois
+        - **Middle Scots:** theis
+    - **Old Frisian:** 
+      - **Saterland Frisian:** disse
+      - **West Frisian:** dizze
+    - **Old Saxon:** these
+      - **Low German:** düsse
+      - **Low German:** disse
+    - **Old Dutch:** these
+      - **Middle Dutch:** dēse
+        - **Dutch:** deze
+        - **Dutch:** dit
+        - **Limburgish:** deze
+      - **Middle Dutch:** deze
+        - **Dutch:** deze
+        - **Dutch:** dit
+        - **Limburgish:** deze
+    - **Old High German:** dese
+      - **Cimbrian:** diiza
+      - **German:** diese
+    - **Old High German:** these
+      - **Cimbrian:** diiza
+      - **German:** diese
+  - **Old Norse:** sjá
+    - **Icelandic:** þessi — _m or f_
+    - **Icelandic:** þetta — _n_
+    - **Faroese:** hesin — _m_
+    - **Faroese:** henda — _f_
+    - **Faroese:** hetta — _n_
+    - **Norwegian Nynorsk:** denne — _m or f; -nn- from the accusative_
+    - **Norwegian Nynorsk:** dette — _n_
+    - **Norwegian Nynorsk:** desse — _pl_
+    - **Old Swedish:** þænni
+      - **Swedish:** denna — _c_
+      - **Swedish:** detta — _n_
+      - **Swedish:** dessa — _pl_
+    - **Danish:** denne — _c_
+      - **Norwegian Bokmål:** denne — _c_
+      - **Norwegian Bokmål:** dette — _n_
+      - **Norwegian Bokmål:** disse — _pl_
+    - **Danish:** dette — _n_
+      - **Norwegian Bokmål:** denne — _c_
+      - **Norwegian Bokmål:** dette — _n_
+      - **Norwegian Bokmål:** disse — _pl_
+    - **Danish:** disse — _pl_
+      - **Norwegian Bokmål:** denne — _c_
+      - **Norwegian Bokmål:** dette — _n_
+      - **Norwegian Bokmål:** disse — _pl_
+  - **Old Norse:** þessi
+    - **Icelandic:** þessi — _m or f_
+    - **Icelandic:** þetta — _n_
+    - **Faroese:** hesin — _m_
+    - **Faroese:** henda — _f_
+    - **Faroese:** hetta — _n_
+    - **Norwegian Nynorsk:** denne — _m or f; -nn- from the accusative_
+    - **Norwegian Nynorsk:** dette — _n_
+    - **Norwegian Nynorsk:** desse — _pl_
+    - **Old Swedish:** þænni
+      - **Swedish:** denna — _c_
+      - **Swedish:** detta — _n_
+      - **Swedish:** dessa — _pl_
+    - **Danish:** denne — _c_
+      - **Norwegian Bokmål:** denne — _c_
+      - **Norwegian Bokmål:** dette — _n_
+      - **Norwegian Bokmål:** disse — _pl_
+    - **Danish:** dette — _n_
+      - **Norwegian Bokmål:** denne — _c_
+      - **Norwegian Bokmål:** dette — _n_
+      - **Norwegian Bokmål:** disse — _pl_
+    - **Danish:** disse — _pl_
+      - **Norwegian Bokmål:** denne — _c_
+      - **Norwegian Bokmål:** dette — _n_
+      - **Norwegian Bokmål:** disse — _pl_

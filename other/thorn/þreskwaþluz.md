@@ -1,0 +1,648 @@
+# *þreskwaþluz
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BEreskwa%C3%BEluz)
+
+## Proto-Germanic
+
+**Reconstruction:** *þreskwaþluz
+
+### Etymology
+
+Derived from *þreskaną, *þreskwaną (“to thresh”), whose original meaning must have been “to tread”. The second element is uncertain. One possibility is that it is a metathetic alteration of *walþuz. Alternatively, it may represent an instrument suffix *-þl- from PIE *-tl-.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈθres.kʷɑθ.luz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ threshold
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| þreskwaþluz | nominative, singular |
+| þreskwaþliwiz | nominative, plural |
+| þreskwaþlu | singular, vocative |
+| þreskwaþliwiz | plural, vocative |
+| þreskwaþlų | accusative, singular |
+| þreskwaþlunz | accusative, plural |
+| þreskwaþlauz | genitive, singular |
+| þreskwaþliwǫ̂ | genitive, plural |
+| þreskwaþliwi | dative, singular |
+| þreskwaþlumaz | dative, plural |
+| þreskwaþlū | instrumental, singular |
+| þreskwaþlumiz | instrumental, plural |
+| *þreskūþluz | alternative |
+| *þreskūþlijaz | alternative |
+| *þreskudlaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** þreskwaþlu
+  - **Old English:** þersċweald
+    - **Middle English:** threschwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þreschwald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshewold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þrexwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throschfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throsfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** threswald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+  - **Old English:** þyrsċweald
+    - **Middle English:** threschwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þreschwald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshewold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þrexwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throschfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throsfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** threswald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+  - **Old English:** þrexwold
+    - **Middle English:** threschwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þreschwald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshewold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þrexwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throschfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throsfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** threswald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+  - **Old English:** þersċold
+    - **Middle English:** threschwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þreschwald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshewold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þrexwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throschfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throsfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** threswald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+  - **Old English:** þresċold
+    - **Middle English:** threschwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þreschwald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshewold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þrexwolde
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throschfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** throsfold
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** þresshald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+    - **Middle English:** threswald
+      - **English:** threshold
+      - **Middle Scots:** threschald
+        - **Scots:** thraswald
+        - **Scots:** thrashold
+        - **Scots:** thrashol
+        - **Scots:** thrashal
+        - **Scots:** thrashel
+        - **Scots:** threshal
+        - **Scots:** threshwart
+        - **Scots:** threshwort
+  - **Old Saxon:** *thriskūvli
+    - **Middle Low German:** dreskelef
+      - **Low German:** Drüssel
+      - **Low German:** Dörsel
+      - **Low German:** Dössel
+  - **Old Saxon:** *thriskilfi
+    - **Middle Low German:** dreskelef
+      - **Low German:** Drüssel
+      - **Low German:** Dörsel
+      - **Low German:** Dössel
+  - **Old High German:** driskufli
+    - **Middle High German:** drischūvel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+    - **Middle High German:** drischūfel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+    - **Middle High German:** drischübel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+  - **Old High German:** driscufli
+    - **Middle High German:** drischūvel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+    - **Middle High German:** drischūfel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+    - **Middle High German:** drischübel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+  - **Old High German:** driskubli
+    - **Middle High German:** drischūvel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+    - **Middle High German:** drischūfel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+    - **Middle High German:** drischübel
+      - **German:** Drischaufel
+      - **German:** Drissufle
+      - **German:** Trüschübel
+- **Old Norse:** þreskǫldr
+  - **Icelandic:** þröskuldur
+  - **Norwegian Nynorsk:** treskald
+  - **Old Swedish:** þriskuldi
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Old Swedish:** þriskulde
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Danish:** tærskel
+    - **Norwegian Bokmål:** terskel
+      - **Norwegian Nynorsk:** terskel — _borrowed_
+- **Old Norse:** þreskjǫldr
+  - **Icelandic:** þröskuldur
+  - **Norwegian Nynorsk:** treskald
+  - **Old Swedish:** þriskuldi
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Old Swedish:** þriskulde
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Danish:** tærskel
+    - **Norwegian Bokmål:** terskel
+      - **Norwegian Nynorsk:** terskel — _borrowed_
+- **Old Norse:** þrøskǫldr
+  - **Icelandic:** þröskuldur
+  - **Norwegian Nynorsk:** treskald
+  - **Old Swedish:** þriskuldi
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Old Swedish:** þriskulde
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Danish:** tærskel
+    - **Norwegian Bokmål:** terskel
+      - **Norwegian Nynorsk:** terskel — _borrowed_
+- **Old Norse:** þrepskǫldr
+  - **Icelandic:** þröskuldur
+  - **Norwegian Nynorsk:** treskald
+  - **Old Swedish:** þriskuldi
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Old Swedish:** þriskulde
+    - **Swedish:** tröskel
+    - **Swedish:** träskvald
+  - **Danish:** tærskel
+    - **Norwegian Bokmål:** terskel
+      - **Norwegian Nynorsk:** terskel — _borrowed_

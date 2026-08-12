@@ -1,0 +1,1313 @@
+# *ainalif
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ainalif)
+
+## Proto-Germanic
+
+**Reconstruction:** *ainalif
+
+### Etymology
+
+Compound of *ainaz (“one”) and *-lif (“left over”), from *lībaną (“to remain, be left”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈɑi̯.nɑ.liɸ/`
+
+### Numeral
+
+1. _(reconstruction)_ eleven
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ainalif
+  - **Old English:** endleofan
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old English:** enlefen — _Mercian_
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old English:** endlufon — _West Saxon_
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old Frisian:** andlova
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Frisian:** alleva
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Frisian:** elleva
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Saxon:** ellevan
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Saxon:** elevan
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Saxon:** elleven
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Dutch:** *ellef
+    - **Middle Dutch:** ellef
+      - **Dutch:** elf
+        - **Afrikaans:** elf
+    - **Middle Dutch:** elf
+      - **Dutch:** elf
+        - **Afrikaans:** elf
+  - **Old High German:** einlif
+    - **Middle High German:** einlif
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** einlef
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilif
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilef
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilf
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+- **Proto-West Germanic:** *ainalifan
+  - **Old English:** endleofan
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old English:** enlefen — _Mercian_
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old English:** endlufon — _West Saxon_
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old Frisian:** andlova
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Frisian:** alleva
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Frisian:** elleva
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Saxon:** ellevan
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Saxon:** elevan
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Saxon:** elleven
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Dutch:** *ellef
+    - **Middle Dutch:** ellef
+      - **Dutch:** elf
+        - **Afrikaans:** elf
+    - **Middle Dutch:** elf
+      - **Dutch:** elf
+        - **Afrikaans:** elf
+  - **Old High German:** einlif
+    - **Middle High German:** einlif
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** einlef
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilif
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilef
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilf
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+- **Proto-West Germanic:** *ainalifun — _North Sea Germanic; with ending taken from *tehan/*tehun_
+  - **Old English:** endleofan
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old English:** enlefen — _Mercian_
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old English:** endlufon — _West Saxon_
+    - **Middle English:** elleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** enleven
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** ellevyn — _Northern_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** eleivan
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+    - **Middle English:** elleyven — _Northwest Midland_
+      - **English:** eleven
+      - **Middle Scots:** ane-levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** alevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** ellevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** elevin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+      - **Middle Scots:** levin
+        - **Scots:** eleiven
+        - **Scots:** eleeven
+  - **Old Frisian:** andlova
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Frisian:** alleva
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Frisian:** elleva
+    - **North Frisian:** elwen — _Föhr-Amrum_
+    - **North Frisian:** alwen — _Mooring_
+    - **North Frisian:** elev — _Sylt_
+    - **Saterland Frisian:** alwen
+    - **West Frisian:** alve
+  - **Old Saxon:** ellevan
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Saxon:** elevan
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Saxon:** elleven
+    - **Middle Low German:** elvene
+      - **Low German:** 
+        - **Dutch Low Saxon:** elf
+        - **German Low German:** elf
+        - **German Low German:** eleve
+        - **German Low German:** ölve
+        - **German Low German:** ölven
+        - **Westphalian:** 
+      - **Plautdietsch:** alf
+  - **Old Dutch:** *ellef
+    - **Middle Dutch:** ellef
+      - **Dutch:** elf
+        - **Afrikaans:** elf
+    - **Middle Dutch:** elf
+      - **Dutch:** elf
+        - **Afrikaans:** elf
+  - **Old High German:** einlif
+    - **Middle High German:** einlif
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** einlef
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilif
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilef
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+    - **Middle High German:** eilf
+      - **Alemannic German:** eintlef
+      - **Alemannic German:** einlef
+      - **Bavarian:** 
+      - **Central Franconian:** ellef
+      - **German:** elf
+      - **Luxembourgish:** eelef
+      - **Rhine Franconian:** 
+      - **Vilamovian:** alf
+      - **Yiddish:** עלף
+- **Old Norse:** ellifu
+  - **Icelandic:** ellefu
+  - **Faroese:** ellivu
+  - **Norwegian:** elleve
+  - **Jamtish:** elluv
+  - **Elfdalian:** ellåv
+  - **Old Swedish:** ællivu
+    - **Swedish:** elva
+    - **Swedish:** ellova — _archaic or dialectal_
+  - **Old Swedish:** ællivo
+    - **Swedish:** elva
+    - **Swedish:** ellova — _archaic or dialectal_
+  - **Old Swedish:** ællevo
+    - **Swedish:** elva
+    - **Swedish:** ellova — _archaic or dialectal_
+  - **Old Swedish:** ælleve
+    - **Swedish:** elva
+    - **Swedish:** ellova — _archaic or dialectal_
+  - **Old Swedish:** ælleva
+    - **Swedish:** elva
+    - **Swedish:** ellova — _archaic or dialectal_
+  - **Old Swedish:** ællovo
+    - **Swedish:** elva
+    - **Swedish:** ellova — _archaic or dialectal_
+  - **Old Swedish:** ællova
+    - **Swedish:** elva
+    - **Swedish:** ellova — _archaic or dialectal_
+  - **Old Danish:** ællifu
+    - **Danish:** elleve
+  - **Old Danish:** ællæuæ
+    - **Danish:** elleve
+  - **Old Danish:** ælløuæ
+    - **Danish:** elleve
+  - **Old Danish:** ællefue
+    - **Danish:** elleve
+  - **Gutnish:** elve
+  - **Gutnish:** elvå
+  - **Gutnish:** elvu
+- **Gothic:** 𐌰𐌹𐌽𐌻𐌹𐍆

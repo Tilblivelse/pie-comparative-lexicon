@@ -1,0 +1,1054 @@
+# *tahrą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/tahr%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *tahrą
+
+### Etymology
+
+From Proto-Indo-European *dáḱru-.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dáḱru-
+
+### Pronunciation
+
+- IPA: `/ˈtɑx.rɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ tear (eye liquid)
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| tahrą | nominative, singular |
+| tagrō | nominative, plural |
+| tahrą | singular, vocative |
+| tagrō | plural, vocative |
+| tahrą | accusative, singular |
+| tagrō | accusative, plural |
+| tahras | genitive, singular |
+| tahris | genitive, singular |
+| tagrǫ̂ | genitive, plural |
+| tahrai | dative, singular |
+| tagramaz | dative, plural |
+| tahrō | instrumental, singular |
+| tagramiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *tahr
+  - **Old English:** tēar
+    - **Middle English:** teer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** teere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** ter
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tær
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tear — _Early Middle English_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyear
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyar — _Kent_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+  - **Old English:** tæher
+    - **Middle English:** teer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** teere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** ter
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tær
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tear — _Early Middle English_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyear
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyar — _Kent_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+  - **Old English:** tǣr
+    - **Middle English:** teer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** teere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** ter
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tær
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tear — _Early Middle English_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyear
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyar — _Kent_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+  - **Old English:** teagor
+    - **Middle English:** teer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** teere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** ter
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tere
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tær
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tear — _Early Middle English_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyer
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyear
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+    - **Middle English:** tyar — _Kent_
+      - **English:** tear
+      - **Middle Scots:** tear
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tere
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** teir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tichwr
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+      - **Middle Scots:** tychir
+        - **Scots:** tear
+        - **Scots:** taer
+        - **Scots:** tare
+        - **Scots:** teir
+  - **Old Frisian:** tār
+  - **Old High German:** zahar
+    - **Middle High German:** zahar
+    - **Middle High German:** zeher
+    - **Central Middle High German:** zār
+      - **German:** Zähre — _sg_
+    - **Central Middle High German:** zære — _reshaped by analogy or addition of morphemes; pl_
+      - **German:** Zähre — _sg_
+    - **Middle Low German:** zâhē — _borrowed_
+    - **Middle Low German:** zaahe — _borrowed_
+  - **Old High German:** zahhar
+    - **Middle High German:** zahar
+    - **Middle High German:** zeher
+    - **Central Middle High German:** zār
+      - **German:** Zähre — _sg_
+    - **Central Middle High German:** zære — _reshaped by analogy or addition of morphemes; pl_
+      - **German:** Zähre — _sg_
+    - **Middle Low German:** zâhē — _borrowed_
+    - **Middle Low German:** zaahe — _borrowed_
+- **Old Norse:** tár
+  - **Icelandic:** tár
+  - **Faroese:** tár
+  - **Norwegian Bokmål:** tåre
+  - **Norwegian Nynorsk:** tåre
+  - **Old Swedish:** tār
+    - **Swedish:** tår
+  - **Danish:** tåre
+  - **Danish:** tår
+- **Gothic:** 𐍄𐌰𐌲𐍂

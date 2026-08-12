@@ -1,0 +1,972 @@
+# *skuflō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/skufl%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *skuflō
+
+### Etymology
+
+From earlier *skublō, *skūblō (of uncertain formation), though apparently related to *skeubaną (“to push, shove”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈskuɸ.lɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ shovel
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| skuflō | nominative, singular |
+| skuflôz | nominative, plural |
+| skuflō | singular, vocative |
+| skuflôz | plural, vocative |
+| skuflǭ | accusative, singular |
+| skuflōz | accusative, plural |
+| skuflōz | genitive, singular |
+| skuflǫ̂ | genitive, plural |
+| skuflōi | dative, singular |
+| skuflōmaz | dative, plural |
+| skuflō | instrumental, singular |
+| skuflōmiz | instrumental, plural |
+| *skūflō | alternative |
+| *skūblō | alternative |
+| *skublō | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Old English:** sċofl
+  - **Middle English:** schovele
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schoffle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schofylle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schole
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** scholve
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schovel
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shole
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** sholve
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shovele
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shovill
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shovylle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** sovyll — _East Anglia_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shevell
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schowulle — _Northeast Midland_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schowelle — _Promptorium Parvulorum_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schovle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schovyl
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** showell
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** ssofle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** ssovele — _Southern; Southwest Midland_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schoyll — _Northern_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schoil
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schul
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schule
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schuyll — _Early Scots_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+- **Old English:** sċobl
+  - **Middle English:** schovele
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schoffle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schofylle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schole
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** scholve
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schovel
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shole
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** sholve
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shovele
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shovill
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shovylle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** sovyll — _East Anglia_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** shevell
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schowulle — _Northeast Midland_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schowelle — _Promptorium Parvulorum_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schovle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schovyl
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** showell
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** ssofle
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** ssovele — _Southern; Southwest Midland_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schoyll — _Northern_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schoil
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schul
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schule
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+  - **Middle English:** schuyll — _Early Scots_
+    - **English:** shovel — _dialectal shool; shulve_
+      - **Middle Scots:** schufill — _borrowed; uncertain_
+        - **Scots:** shuffle
+    - **Middle Scots:** schole
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schoull
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schule
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Middle Scots:** schuill
+      - **Scots:** shule
+      - **Scots:** shuil
+    - **Yola:** shule
+- **Old Frisian:** *skofl
+  - **Saterland Frisian:** Sköifel
+  - **West Frisian:** skoffel
+  - **West Frisian:** schoffel
+- **Old Frisian:** *skūfl
+  - **Saterland Frisian:** Sköifel
+  - **West Frisian:** skoffel
+  - **West Frisian:** schoffel
+- **Old Saxon:** skūfla
+  - **Middle Low German:** schûfele
+    - **Low German:** Schüffel
+    - **Low German:** Schüfel
+    - **Low German:** Schuffel
+    - **Plautdietsch:** Scheffel
+    - **Swedish:** skyffel — _borrowed_
+  - **Middle Low German:** schûfle
+    - **Low German:** Schüffel
+    - **Low German:** Schüfel
+    - **Low German:** Schuffel
+    - **Plautdietsch:** Scheffel
+    - **Swedish:** skyffel — _borrowed_
+  - **Middle Low German:** schuffele
+    - **Low German:** Schüffel
+    - **Low German:** Schüfel
+    - **Low German:** Schuffel
+    - **Plautdietsch:** Scheffel
+    - **Swedish:** skyffel — _borrowed_
+  - **Middle Low German:** schüffel
+    - **Low German:** Schüffel
+    - **Low German:** Schüfel
+    - **Low German:** Schuffel
+    - **Plautdietsch:** Scheffel
+    - **Swedish:** skyffel — _borrowed_
+- **Old Dutch:** *skufla
+  - **Middle Dutch:** schuffel
+    - **Dutch:** schoffel
+  - **Middle Dutch:** schofel
+    - **Dutch:** schoffel
+  - **Middle Dutch:** schoefel
+    - **Dutch:** schoffel
+- **Old Dutch:** *skofla
+  - **Middle Dutch:** schuffel
+    - **Dutch:** schoffel
+  - **Middle Dutch:** schofel
+    - **Dutch:** schoffel
+  - **Middle Dutch:** schoefel
+    - **Dutch:** schoffel
+- **Old High German:** scūbla
+  - **Middle High German:** schūfele
+    - **German:** Schaufel
+  - **Middle High German:** schūfel
+    - **German:** Schaufel
+- **Old High German:** scūfla
+  - **Middle High German:** schūfele
+    - **German:** Schaufel
+  - **Middle High German:** schūfel
+    - **German:** Schaufel
+- **Old High German:** scūvala
+  - **Middle High German:** schūfele
+    - **German:** Schaufel
+  - **Middle High German:** schūfel
+    - **German:** Schaufel
+- **Old Norse:** *skofl
+  - **Icelandic:** skófla
+  - **Faroese:** skupla
+  - **Norwegian:** skuffel
+  - **Norwegian:** skuffe
+  - **Old Swedish:** skofl
+    - **Swedish:** skovel
+  - **Danish:** skovl

@@ -1,0 +1,996 @@
+# *pāwô
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/p%C4%81w%C3%B4)
+
+## Proto-Germanic
+
+**Reconstruction:** *pāwô
+
+### Etymology
+
+Borrowed from Latin pāvō (“peacock”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈpɑː.wɔːː/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ peacock, peafowl
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| pāwô | nominative, singular |
+| pāwaniz | nominative, plural |
+| pāwô | singular, vocative |
+| pāwaniz | plural, vocative |
+| pāwanų | accusative, singular |
+| pāwanunz | accusative, plural |
+| pāwiniz | genitive, singular |
+| pāwanǫ̂ | genitive, plural |
+| pāwini | dative, singular |
+| pāwammaz | dative, plural |
+| pāwinē | instrumental, singular |
+| pāwammiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *pāwō — _m_
+  - **Old English:** pāwa
+    - **Middle English:** po
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pe
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poo
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+  - **Old English:** pēa — _m_
+    - **Middle English:** po
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pe
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poo
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+  - **Old English:** pāwe — _f_
+    - **Middle English:** po
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pe
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poo
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+  - **Old Frisian:** *pāwa
+    - **Saterland Frisian:** Pau
+    - **West Frisian:** pau
+  - **Old Frisian:** *pāu
+    - **Saterland Frisian:** Pau
+    - **West Frisian:** pau
+  - **Old Saxon:** pāo
+    - **Middle Low German:** pâwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pauwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pâw
+      - **German Low German:** Pau
+  - **Old Saxon:** *pāwo
+    - **Middle Low German:** pâwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pauwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pâw
+      - **German Low German:** Pau
+  - **Old Dutch:** *pāwo
+    - **Middle Dutch:** pau
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pawe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pauwe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+  - **Old Dutch:** *pāo
+    - **Middle Dutch:** pau
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pawe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pauwe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+  - **Old High German:** pfāwo
+    - **Middle High German:** pfāwe
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Middle High German:** pfā
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Yiddish:** פּאַווע
+  - **Old High German:** pfāwa
+    - **Middle High German:** pfāwe
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Middle High German:** pfā
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Yiddish:** פּאַווע
+- **Proto-West Germanic:** *pāwā — _f_
+  - **Old English:** pāwa
+    - **Middle English:** po
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pe
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poo
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+  - **Old English:** pēa — _m_
+    - **Middle English:** po
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pe
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poo
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+  - **Old English:** pāwe — _f_
+    - **Middle English:** po
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paa
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** paue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** pe
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poo
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+    - **Middle English:** poue
+      - **English:** pea
+      - **English:** po — _archaic_
+      - **Middle English:** pecok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pocok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+      - **Middle English:** pacok — _reshaped by analogy or addition of morphemes_
+        - **English:** peacock
+          - **English:** pikake — _borrowed_ — _through a non-Germanic route_
+        - **Scots:** pacok
+        - **Scots:** pecok
+  - **Old Frisian:** *pāwa
+    - **Saterland Frisian:** Pau
+    - **West Frisian:** pau
+  - **Old Frisian:** *pāu
+    - **Saterland Frisian:** Pau
+    - **West Frisian:** pau
+  - **Old Saxon:** pāo
+    - **Middle Low German:** pâwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pauwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pâw
+      - **German Low German:** Pau
+  - **Old Saxon:** *pāwo
+    - **Middle Low German:** pâwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pauwe
+      - **German Low German:** Pau
+    - **Middle Low German:** pâw
+      - **German Low German:** Pau
+  - **Old Dutch:** *pāwo
+    - **Middle Dutch:** pau
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pawe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pauwe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+  - **Old Dutch:** *pāo
+    - **Middle Dutch:** pau
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pawe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+    - **Middle Dutch:** pauwe
+      - **Dutch:** pauw
+        - **Afrikaans:** pou
+  - **Old High German:** pfāwo
+    - **Middle High German:** pfāwe
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Middle High German:** pfā
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Yiddish:** פּאַווע
+  - **Old High German:** pfāwa
+    - **Middle High German:** pfāwe
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Middle High German:** pfā
+      - **German:** Pfau — _m_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **German:** Pfaue — _chiefly Austria; f_
+        - **German:** Pfauhahn — _reshaped by analogy or addition of morphemes; f_
+      - **Middle High German:** *pfāwelīn — _reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Middle High German:** *pfāuwelīn — _diminutive; reshaped by analogy or addition of morphemes_
+        - **German:** Pfäulein — _archaic_
+      - **Rhine Franconian:** Fau
+      - **Rhine Franconian:** Pau
+    - **Yiddish:** פּאַווע
+- **Old Norse:** pái
+  - **Old Norse:** páfugl — _reshaped by analogy or addition of morphemes_
+    - **Icelandic:** páfugl
+    - **Faroese:** páfuglur
+    - **Norwegian:** påfugl
+    - **Swedish:** påfågel
+    - **Danish:** påfugl
+    - **Gutnish:** påfågel
+    - **Gutnish:** pafäugl

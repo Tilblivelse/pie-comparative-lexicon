@@ -1,0 +1,519 @@
+# *smakkuz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/smakkuz)
+
+## Proto-Germanic
+
+**Reconstruction:** *smakkuz
+
+### Etymology
+
+From Proto-Indo-European *smeg- (“taste”). Cognate with Lithuanian smagùs (“fun, jolly, pleasant”), Lithuanian smaguris (“a foodie, gourmand”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *smeg-
+
+### Pronunciation
+
+- IPA: `/ˈsmɑk.kuz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ taste, savour, smatch, flavour
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| smakkuz | nominative, singular |
+| smakkiwiz | nominative, plural |
+| smakku | singular, vocative |
+| smakkiwiz | plural, vocative |
+| smakkų | accusative, singular |
+| smakkunz | accusative, plural |
+| smakkauz | genitive, singular |
+| smakkiwǫ̂ | genitive, plural |
+| smakkiwi | dative, singular |
+| smakkumaz | dative, plural |
+| smakkū | instrumental, singular |
+| smakkumiz | instrumental, plural |
+| *smakkaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *smakku
+  - **Old English:** smæċ
+    - **Middle English:** smak
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smac
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smach
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** ssmak
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smacche
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smake
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smatche — _Late Middle English_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smech — _AB language_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smacc — _Ormulum_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old Frisian:** *smak
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Frisian:** smekk
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Frisian:** smek
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Saxon:** *smakk
+    - **Middle Low German:** smak
+      - **German Low German:** Smakk
+      - **German Low German:** Smack
+      - **Danish:** smag — _borrowed_
+      - **Norwegian Bokmål:** smak — _borrowed_
+      - **Swedish:** smak — _borrowed_
+      - **Faroese:** smakkur — _borrowed; uncertain_
+  - **Old Saxon:** *smak
+    - **Middle Low German:** smak
+      - **German Low German:** Smakk
+      - **German Low German:** Smack
+      - **Danish:** smag — _borrowed_
+      - **Norwegian Bokmål:** smak — _borrowed_
+      - **Swedish:** smak — _borrowed_
+      - **Faroese:** smakkur — _borrowed; uncertain_
+  - **Old Dutch:** smak
+    - **Middle Dutch:** smac
+      - **Dutch:** smaak
+  - **Old High German:** smak
+    - **Middle High German:** smac
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Middle High German:** smach
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Old High German:** gismac — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+    - **Old High German:** gismah — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+  - **Old High German:** smac
+    - **Middle High German:** smac
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Middle High German:** smach
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Old High German:** gismac — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+    - **Old High German:** gismah — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+- **Proto-West Germanic:** *smak
+  - **Old English:** smæċ
+    - **Middle English:** smak
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smac
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smach
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** ssmak
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smacche
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smake
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smatche — _Late Middle English_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smech — _AB language_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smacc — _Ormulum_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old Frisian:** *smak
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Frisian:** smekk
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Frisian:** smek
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Saxon:** *smakk
+    - **Middle Low German:** smak
+      - **German Low German:** Smakk
+      - **German Low German:** Smack
+      - **Danish:** smag — _borrowed_
+      - **Norwegian Bokmål:** smak — _borrowed_
+      - **Swedish:** smak — _borrowed_
+      - **Faroese:** smakkur — _borrowed; uncertain_
+  - **Old Saxon:** *smak
+    - **Middle Low German:** smak
+      - **German Low German:** Smakk
+      - **German Low German:** Smack
+      - **Danish:** smag — _borrowed_
+      - **Norwegian Bokmål:** smak — _borrowed_
+      - **Swedish:** smak — _borrowed_
+      - **Faroese:** smakkur — _borrowed; uncertain_
+  - **Old Dutch:** smak
+    - **Middle Dutch:** smac
+      - **Dutch:** smaak
+  - **Old High German:** smak
+    - **Middle High German:** smac
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Middle High German:** smach
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Old High German:** gismac — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+    - **Old High German:** gismah — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+  - **Old High German:** smac
+    - **Middle High German:** smac
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Middle High German:** smach
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Old High German:** gismac — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+    - **Old High German:** gismah — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+- **Proto-West Germanic:** *smakk
+  - **Old English:** smæċ
+    - **Middle English:** smak
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smac
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smach
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** ssmak
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smacche
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smake
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smatche — _Late Middle English_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smech — _AB language_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** smacc — _Ormulum_
+      - **English:** smack
+      - **Scots:** smack
+        - **Scots:** smick — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old Frisian:** *smak
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Frisian:** smekk
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Frisian:** smek
+    - **Saterland Frisian:** Smoak
+    - **West Frisian:** smaak
+  - **Old Saxon:** *smakk
+    - **Middle Low German:** smak
+      - **German Low German:** Smakk
+      - **German Low German:** Smack
+      - **Danish:** smag — _borrowed_
+      - **Norwegian Bokmål:** smak — _borrowed_
+      - **Swedish:** smak — _borrowed_
+      - **Faroese:** smakkur — _borrowed; uncertain_
+  - **Old Saxon:** *smak
+    - **Middle Low German:** smak
+      - **German Low German:** Smakk
+      - **German Low German:** Smack
+      - **Danish:** smag — _borrowed_
+      - **Norwegian Bokmål:** smak — _borrowed_
+      - **Swedish:** smak — _borrowed_
+      - **Faroese:** smakkur — _borrowed; uncertain_
+  - **Old Dutch:** smak
+    - **Middle Dutch:** smac
+      - **Dutch:** smaak
+  - **Old High German:** smak
+    - **Middle High German:** smac
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Middle High German:** smach
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Old High German:** gismac — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+    - **Old High German:** gismah — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+  - **Old High German:** smac
+    - **Middle High German:** smac
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Middle High German:** smach
+      - **German:** Schmack
+      - **Yiddish:** שמעק
+    - **Old High German:** gismac — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+    - **Old High German:** gismah — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** gesmac
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+      - **Middle High German:** gesmacke
+        - **Bavarian:** Gschmåckn
+        - **Bavarian:** Gschmåch
+        - **Bavarian:** Gschmåcha
+        - **Bavarian:** Gschmo
+        - **Cimbrian:** gasmékh
+        - **German:** Geschmack
+        - **German:** Geschmeck
+        - **Luxembourgish:** Geschmaach
+- **Old Norse:** smekkr — _inherited; uncertain_
+  - **Icelandic:** smekkur
+- **Gothic:** 𐍃𐌼𐌰𐌺𐌺𐌰 — _reshaped by analogy or addition of morphemes; uncertain_

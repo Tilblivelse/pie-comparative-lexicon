@@ -1,0 +1,1074 @@
+# *laiwazikǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/laiwazik%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *laiwazikǭ
+
+### Etymology
+
+Likely related to Proto-Finnic *lëivo (“lark”), perhaps both from Proto-Germanic *laiwaz, ultimately of uncertain origin. Alternatively, both borrowed from a substrate language, perhaps alongside Latin alauda (“lark”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈlɑi̯.wɑ.ri.kɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ lark
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| laiwazikǭ | nominative, singular |
+| laiwazikōniz | nominative, plural |
+| laiwazikǭ | singular, vocative |
+| laiwazikōniz | plural, vocative |
+| laiwazikōnų | accusative, singular |
+| laiwazikōnunz | accusative, plural |
+| laiwazikōniz | genitive, singular |
+| laiwazikōnǫ̂ | genitive, plural |
+| laiwazikōni | dative, singular |
+| laiwazikōmaz | dative, plural |
+| laiwazikōnē | instrumental, singular |
+| laiwazikōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *laiwaʀikā
+  - **Old English:** lāwerce
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old English:** lǣwerce
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old English:** lāwriċe
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old English:** lāferċe
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old Frisian:** *lēwerke
+    - **North Frisian:** lāsk — _<? *laiwaʀikā_
+    - **Saterland Frisian:** Läiverke
+    - **Saterland Frisian:** Leeuwerke — _Skäddel_
+    - **West Frisian:** lartse
+    - **West Frisian:** larts
+    - **West Frisian:** lerts
+  - **Old Frisian:** *lēwertze
+    - **North Frisian:** lāsk — _<? *laiwaʀikā_
+    - **Saterland Frisian:** Läiverke
+    - **Saterland Frisian:** Leeuwerke — _Skäddel_
+    - **West Frisian:** lartse
+    - **West Frisian:** larts
+    - **West Frisian:** lerts
+  - **Old Frisian:** *lertze
+    - **North Frisian:** lāsk — _<? *laiwaʀikā_
+    - **Saterland Frisian:** Läiverke
+    - **Saterland Frisian:** Leeuwerke — _Skäddel_
+    - **West Frisian:** lartse
+    - **West Frisian:** larts
+    - **West Frisian:** lerts
+  - **Old Saxon:** lēwerka
+    - **Middle Low German:** lêwerike
+      - **German Low German:** Lewark
+      - **German Low German:** Leverke
+      - **German Low German:** Levark
+      - **German Low German:** Leerk
+      - **Plautdietsch:** Leewoakj
+      - **Norwegian:** lerke — _borrowed_
+    - **Middle Low German:** lêwerke
+      - **German Low German:** Lewark
+      - **German Low German:** Leverke
+      - **German Low German:** Levark
+      - **German Low German:** Leerk
+      - **Plautdietsch:** Leewoakj
+      - **Norwegian:** lerke — _borrowed_
+    - **Middle Low German:** lêrke
+      - **German Low German:** Lewark
+      - **German Low German:** Leverke
+      - **German Low German:** Levark
+      - **German Low German:** Leerk
+      - **Plautdietsch:** Leewoakj
+      - **Norwegian:** lerke — _borrowed_
+  - **Old Dutch:** *leiwerka
+    - **Middle Dutch:** lewerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** leeuwerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** liewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerijck
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+  - **Old Dutch:** *lēwerka
+    - **Middle Dutch:** lewerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** leeuwerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** liewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerijck
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+  - **Old High German:** lērihha
+    - **Middle High German:** lērche
+      - **German:** Lerche
+      - **Luxembourgish:** Léierchen
+    - **Middle High German:** lërche
+      - **German:** Lerche
+      - **Luxembourgish:** Léierchen
+    - **Middle High German:** lērhe
+      - **German:** Lerche
+      - **Luxembourgish:** Léierchen
+- **Proto-West Germanic:** *laiwarikā
+  - **Old English:** lāwerce
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old English:** lǣwerce
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old English:** lāwriċe
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old English:** lāferċe
+    - **Middle English:** larke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laveroc
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** leverock
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lerke
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** livroche
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** laverok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+    - **Middle English:** lavercok
+      - **English:** lark
+      - **English:** laverock
+      - **English:** lavrock
+      - **Scots:** lark
+      - **Scots:** lork
+      - **Scots:** laveirk
+      - **Scots:** laverok
+      - **Yola:** lereke
+      - **Yola:** lerock
+  - **Old Frisian:** *lēwerke
+    - **North Frisian:** lāsk — _<? *laiwaʀikā_
+    - **Saterland Frisian:** Läiverke
+    - **Saterland Frisian:** Leeuwerke — _Skäddel_
+    - **West Frisian:** lartse
+    - **West Frisian:** larts
+    - **West Frisian:** lerts
+  - **Old Frisian:** *lēwertze
+    - **North Frisian:** lāsk — _<? *laiwaʀikā_
+    - **Saterland Frisian:** Läiverke
+    - **Saterland Frisian:** Leeuwerke — _Skäddel_
+    - **West Frisian:** lartse
+    - **West Frisian:** larts
+    - **West Frisian:** lerts
+  - **Old Frisian:** *lertze
+    - **North Frisian:** lāsk — _<? *laiwaʀikā_
+    - **Saterland Frisian:** Läiverke
+    - **Saterland Frisian:** Leeuwerke — _Skäddel_
+    - **West Frisian:** lartse
+    - **West Frisian:** larts
+    - **West Frisian:** lerts
+  - **Old Saxon:** lēwerka
+    - **Middle Low German:** lêwerike
+      - **German Low German:** Lewark
+      - **German Low German:** Leverke
+      - **German Low German:** Levark
+      - **German Low German:** Leerk
+      - **Plautdietsch:** Leewoakj
+      - **Norwegian:** lerke — _borrowed_
+    - **Middle Low German:** lêwerke
+      - **German Low German:** Lewark
+      - **German Low German:** Leverke
+      - **German Low German:** Levark
+      - **German Low German:** Leerk
+      - **Plautdietsch:** Leewoakj
+      - **Norwegian:** lerke — _borrowed_
+    - **Middle Low German:** lêrke
+      - **German Low German:** Lewark
+      - **German Low German:** Leverke
+      - **German Low German:** Levark
+      - **German Low German:** Leerk
+      - **Plautdietsch:** Leewoakj
+      - **Norwegian:** lerke — _borrowed_
+  - **Old Dutch:** *leiwerka
+    - **Middle Dutch:** lewerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** leeuwerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** liewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerijck
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+  - **Old Dutch:** *lēwerka
+    - **Middle Dutch:** lewerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** leeuwerke
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** liewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerijck
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+    - **Middle Dutch:** lewerick
+      - **Dutch:** leeuwerik
+        - **Afrikaans:** lewerkie — _reshaped by analogy or addition of morphemes_
+      - **West Frisian:** ljurk — _borrowed_
+      - **West Frisian:** ljurts — _borrowed_
+  - **Old High German:** lērihha
+    - **Middle High German:** lērche
+      - **German:** Lerche
+      - **Luxembourgish:** Léierchen
+    - **Middle High German:** lërche
+      - **German:** Lerche
+      - **Luxembourgish:** Léierchen
+    - **Middle High German:** lērhe
+      - **German:** Lerche
+      - **Luxembourgish:** Léierchen
+- **Old Norse:** lævirki — _m_
+  - **Icelandic:** lævirki
+  - **Faroese:** lerkur
+  - **Norwegian:** lerke
+  - **Old Swedish:** lærikia
+    - **Swedish:** lärka
+  - **Danish:** lærke

@@ -1,0 +1,480 @@
+# *hwehwlą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hwehwl%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *hwehwlą
+
+### Etymology
+
+From Proto-Indo-European *kʷékʷlom (“wheel”). The plural *hweulō is from the Proto-Indo-European collective *kʷekʷléh₂ (“wheels”), and the neuter gender was likely back-formed from that.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *kʷékʷlom, *kʷékʷlos
+
+### Pronunciation
+
+- IPA: `/ˈxʷe.xʷlɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ wheel
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| hwehwlą | nominative, singular |
+| hweulō | nominative, plural |
+| hwehwlą | singular, vocative |
+| hweulō | plural, vocative |
+| hwehwlą | accusative, singular |
+| hweulō | accusative, plural |
+| hwehwlas | genitive, singular |
+| hwihwlis | genitive, singular |
+| hweulǫ̂ | genitive, plural |
+| hwehwlai | dative, singular |
+| hweulamaz | dative, plural |
+| hwehwlō | instrumental, singular |
+| hweulamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hwehwl
+  - **Old English:** 
+    - **Old English:** hweogl
+    - **Old English:** hweogol
+    - **Old English:** hweohl
+    - **Old English:** hweowl
+    - **Old English:** hweowol
+    - **Old English:** hwēol
+      - **Middle English:** whel
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** ȝweol
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** hwel
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** qweel
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** qwel
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** qwele
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** qwell
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** qweyll
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** wele
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** wheel
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** wheele
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** whele
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** whelle
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** wheol
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** wheyle
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+      - **Middle English:** wheylle
+        - **English:** wheel
+        - **Middle Scots:** quhel
+          - **Scots:** wheel
+        - **Middle Scots:** quhele
+          - **Scots:** wheel
+        - **Middle Scots:** quheil
+          - **Scots:** wheel
+        - **Middle Scots:** quheile
+          - **Scots:** wheel
+        - **Yola:** wheel
+  - **Old Frisian:** hwēl
+    - **North Frisian:** weyel
+    - **North Frisian:** weel
+    - **Saterland Frisian:** Wäil
+    - **Saterland Frisian:** Jool
+    - **West Frisian:** 
+      - **West Frisian:** weeile
+      - **West Frisian:** weyl
+      - **West Frisian:** fjil
+      - **West Frisian:** tsjil
+      - **West Frisian:** tsjel
+  - **Old Frisian:** fiāl
+    - **North Frisian:** weyel
+    - **North Frisian:** weel
+    - **Saterland Frisian:** Wäil
+    - **Saterland Frisian:** Jool
+    - **West Frisian:** 
+      - **West Frisian:** weeile
+      - **West Frisian:** weyl
+      - **West Frisian:** fjil
+      - **West Frisian:** tsjil
+      - **West Frisian:** tsjel
+  - **Old Frisian:** tziāl
+    - **North Frisian:** weyel
+    - **North Frisian:** weel
+    - **Saterland Frisian:** Wäil
+    - **Saterland Frisian:** Jool
+    - **West Frisian:** 
+      - **West Frisian:** weeile
+      - **West Frisian:** weyl
+      - **West Frisian:** fjil
+      - **West Frisian:** tsjil
+      - **West Frisian:** tsjel
+  - **Old Saxon:** hwiol
+    - **Middle Low German:** wêl
+      - **German Low German:** Weel
+    - **Middle Low German:** wiel
+      - **German Low German:** Weel
+  - **Old Dutch:** *wiol
+    - **Middle Dutch:** wiel
+      - **Dutch:** wiel
+        - **Afrikaans:** wiel
+      - **Limburgish:** weel
+      - **Old Frisian:** wēl — _borrowed_
+        - **West Frisian:** wiele
+    - **Middle Dutch:** weel
+      - **Dutch:** wiel
+        - **Afrikaans:** wiel
+      - **Limburgish:** weel
+      - **Old Frisian:** wēl — _borrowed_
+        - **West Frisian:** wiele
+  - **Old High German:** *wihil
+    - **Middle High German:** *wihel — _inherited; uncertain_
+      - **German:** Wiel — _inherited; uncertain_
+      - **German:** Wiele — _inherited; uncertain_
+    - **Old High German:** wihilstein — _reshaped by analogy or addition of morphemes_
+      - **German:** wihelstein
+        - **German:** Wielstein
+        - **German:** Wielesche
+      - **German:** *wihelesche
+        - **German:** Wielstein
+        - **German:** Wielesche
+    - **Old High German:** *wihilasca — _reshaped by analogy or addition of morphemes_
+      - **German:** wihelstein
+        - **German:** Wielstein
+        - **German:** Wielesche
+      - **German:** *wihelesche
+        - **German:** Wielstein
+        - **German:** Wielesche
+- **Old Norse:** 
+  - **Old Norse:** hvél
+    - **Faroese:** hvæl
+    - **Icelandic:** hvel
+    - **Norwegian Nynorsk:** kvel
+    - **Old Danish:** væle — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** vele — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** velge — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Swedish:** vele — _inherited; uncertain; later intermixed with Middle Low German dwēle; Middle High German twēle; dwēle (“towel”)_
+      - **Swedish:** vele
+        - **Swedish:** hvela
+      - **Swedish:** vel
+        - **Swedish:** hvela
+      - **Swedish:** hvel
+        - **Swedish:** hvela
+      - **Swedish:** hwel
+        - **Swedish:** hvela
+      - **Swedish:** hveel
+        - **Swedish:** hvela
+      - **Swedish:** hweel
+        - **Swedish:** hvela
+      - **Swedish:** hvehl
+        - **Swedish:** hvela
+      - **Swedish:** hwehl
+        - **Swedish:** hvela
+      - **Swedish:** hveehl
+        - **Swedish:** hvela
+      - **Swedish:** hweehl
+        - **Swedish:** hvela
+      - **Swedish:** hvel — _dialectal_
+        - **Swedish:** hvela
+      - **Swedish:** hvell
+        - **Swedish:** hvela
+  - **Old Norse:** hvel
+    - **Faroese:** hvæl
+    - **Icelandic:** hvel
+    - **Norwegian Nynorsk:** kvel
+    - **Old Danish:** væle — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** vele — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** velge — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Swedish:** vele — _inherited; uncertain; later intermixed with Middle Low German dwēle; Middle High German twēle; dwēle (“towel”)_
+      - **Swedish:** vele
+        - **Swedish:** hvela
+      - **Swedish:** vel
+        - **Swedish:** hvela
+      - **Swedish:** hvel
+        - **Swedish:** hvela
+      - **Swedish:** hwel
+        - **Swedish:** hvela
+      - **Swedish:** hveel
+        - **Swedish:** hvela
+      - **Swedish:** hweel
+        - **Swedish:** hvela
+      - **Swedish:** hvehl
+        - **Swedish:** hvela
+      - **Swedish:** hwehl
+        - **Swedish:** hvela
+      - **Swedish:** hveehl
+        - **Swedish:** hvela
+      - **Swedish:** hweehl
+        - **Swedish:** hvela
+      - **Swedish:** hvel — _dialectal_
+        - **Swedish:** hvela
+      - **Swedish:** hvell
+        - **Swedish:** hvela
+  - **Old Norse:** huel
+    - **Faroese:** hvæl
+    - **Icelandic:** hvel
+    - **Norwegian Nynorsk:** kvel
+    - **Old Danish:** væle — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** vele — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** velge — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Swedish:** vele — _inherited; uncertain; later intermixed with Middle Low German dwēle; Middle High German twēle; dwēle (“towel”)_
+      - **Swedish:** vele
+        - **Swedish:** hvela
+      - **Swedish:** vel
+        - **Swedish:** hvela
+      - **Swedish:** hvel
+        - **Swedish:** hvela
+      - **Swedish:** hwel
+        - **Swedish:** hvela
+      - **Swedish:** hveel
+        - **Swedish:** hvela
+      - **Swedish:** hweel
+        - **Swedish:** hvela
+      - **Swedish:** hvehl
+        - **Swedish:** hvela
+      - **Swedish:** hwehl
+        - **Swedish:** hvela
+      - **Swedish:** hveehl
+        - **Swedish:** hvela
+      - **Swedish:** hweehl
+        - **Swedish:** hvela
+      - **Swedish:** hvel — _dialectal_
+        - **Swedish:** hvela
+      - **Swedish:** hvell
+        - **Swedish:** hvela
+  - **Old Norse:** hvǽl
+    - **Faroese:** hvæl
+    - **Icelandic:** hvel
+    - **Norwegian Nynorsk:** kvel
+    - **Old Danish:** væle — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** vele — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Danish:** velge — _inherited; uncertain_
+      - **Danish:** væle
+      - **Danish:** vælle — _†_
+      - **Danish:** væl
+    - **Old Swedish:** vele — _inherited; uncertain; later intermixed with Middle Low German dwēle; Middle High German twēle; dwēle (“towel”)_
+      - **Swedish:** vele
+        - **Swedish:** hvela
+      - **Swedish:** vel
+        - **Swedish:** hvela
+      - **Swedish:** hvel
+        - **Swedish:** hvela
+      - **Swedish:** hwel
+        - **Swedish:** hvela
+      - **Swedish:** hveel
+        - **Swedish:** hvela
+      - **Swedish:** hweel
+        - **Swedish:** hvela
+      - **Swedish:** hvehl
+        - **Swedish:** hvela
+      - **Swedish:** hwehl
+        - **Swedish:** hvela
+      - **Swedish:** hveehl
+        - **Swedish:** hvela
+      - **Swedish:** hweehl
+        - **Swedish:** hvela
+      - **Swedish:** hvel — _dialectal_
+        - **Swedish:** hvela
+      - **Swedish:** hvell
+        - **Swedish:** hvela
+  - **Old Norse:** hjól
+    - **Danish:** hjul
+    - **Faroese:** hjól
+    - **Icelandic:** hjól
+    - **Norn:** hurl
+    - **Norwegian:** 
+      - **Norwegian Bokmål:** hjul
+      - **Norwegian Nynorsk:** hjul
+    - **Old Swedish:** hiūl
+      - **Elfdalian:** juol
+      - **Swedish:** hjul
+    - **Old Swedish:** hiughl
+      - **Elfdalian:** juol
+      - **Swedish:** hjul

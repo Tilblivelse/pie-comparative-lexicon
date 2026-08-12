@@ -1,0 +1,577 @@
+# *Sigiwarduz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/Sigiwarduz)
+
+## Proto-Germanic
+
+**Reconstruction:** *Sigiwarduz
+
+### Etymology
+
+From *sigiz (“victory”) + *warduz (“guard”).
+
+### Proto-Indo-European ancestry
+
+**PIE form(s) resolved through Proto-Germanic components:** *wer-, *wor-tús
+
+### Pronunciation
+
+- IPA: `/ˈsi.ɣi.ˌwɑr.ðuz/`
+
+### Proper noun
+
+1. _(masculine, reconstruction)_ a male given name
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| Sigiwarduz | nominative, singular |
+| Sigiwardu | singular, vocative |
+| Sigiwardų | accusative, singular |
+| Sigiwardauz | genitive, singular |
+| Sigiwardū | instrumental, singular |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *Sigiwardu
+  - **Old English:** Siġeweard
+    - **Middle English:** Seward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Seyward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Siward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Siuward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Suward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Syward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+  - **Old English:** Sīweard
+    - **Middle English:** Seward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Seyward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Siward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Siuward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Suward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+    - **Middle English:** Syward
+      - **English:** Seward — _surname; conflated with reflexes of Old English Sǣweard_
+      - **English:** Siward
+      - **Middle Scots:** Sewart
+        - **Scots:** Sewart
+        - **English:** Sewart — _borrowed_
+  - **Old Frisian:** 
+    - **West Frisian:** Sieuwerd
+      - **Dutch:** Sjoerd
+      - **Dutch:** Sjoert
+  - **Old High German:** Sigiwart
+    - **German:** Siegwart
+- **Old Norse:** Sigurðr
+  - **Old Faroese:** Siurðr
+    - **Faroese:** Sjúrður
+  - **Old Faroese:** Sjurðr
+    - **Faroese:** Sjúrður
+  - **Old Faroese:** Sjúrðr
+    - **Faroese:** Sjúrður
+  - **Icelandic:** Sigurður
+  - **Norwegian:** Sjurd
+  - **Old Swedish:** Siughurðr
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Siughurdh
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Sighurdh
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Sighurd — _Sigvard_
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Sighvardh
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Norwegian:** Sigurd — _borrowed_
+  - **Faroese:** Sigurð — _borrowed_
+  - **Swedish:** Sigurd — _borrowed_
+  - **Danish:** Sigurd — _borrowed_
+- **Old Norse:** Sigvarðr
+  - **Old Faroese:** Siurðr
+    - **Faroese:** Sjúrður
+  - **Old Faroese:** Sjurðr
+    - **Faroese:** Sjúrður
+  - **Old Faroese:** Sjúrðr
+    - **Faroese:** Sjúrður
+  - **Icelandic:** Sigurður
+  - **Norwegian:** Sjurd
+  - **Old Swedish:** Siughurðr
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Siughurdh
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Sighurdh
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Sighurd — _Sigvard_
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Old Swedish:** Sighvardh
+    - **Late Old Swedish:** Siwrdh — _1505_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siwrd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjurd
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siur
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Sjur — _1434_
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+    - **Late Old Swedish:** Siuhl
+      - **Swedish:** Sjurd
+      - **Swedish:** Sjur
+      - **Swedish:** Sjul
+      - **Swedish:** Siurd
+      - **Jamtish:** Sjúł
+  - **Norwegian:** Sigurd — _borrowed_
+  - **Faroese:** Sigurð — _borrowed_
+  - **Swedish:** Sigurd — _borrowed_
+  - **Danish:** Sigurd — _borrowed_

@@ -1,0 +1,571 @@
+# *wikǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/wik%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *wikǭ
+
+### Etymology
+
+From Proto-Indo-European *weyg- (“to bend, wind, turn, yield”), with semantic shift "to bend, give way" > "to shift" > "sequence, week". See also *wīkwaną (“to yield, retreat”) and *waikwaz (“pliable, weak”). The concept of a week was borrowed by the Germanic peoples from the Romans around the 1st century.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *weyg-
+
+### Pronunciation
+
+- IPA: `/ˈwi.kɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ sequence
+2. _(feminine, reconstruction)_ week
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| wikǭ | nominative, singular |
+| wikōniz | nominative, plural |
+| wikǭ | singular, vocative |
+| wikōniz | plural, vocative |
+| wikōnų | accusative, singular |
+| wikōnunz | accusative, plural |
+| wikōniz | genitive, singular |
+| wikōnǫ̂ | genitive, plural |
+| wikōni | dative, singular |
+| wikōmaz | dative, plural |
+| wikōnē | instrumental, singular |
+| wikōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *wikā
+  - **Old English:** wiċe
+    - **Middle English:** wyke
+      - **English:** week
+        - **Middle Scots:** weik — _borrowed_
+          - **Scots:** week
+      - **Middle Scots:** wouk
+        - **Scots:** ouk — _obsolete_
+      - **Middle Scots:** ouk
+        - **Scots:** ouk — _obsolete_
+      - **Yola:** wick
+      - **Yola:** wik
+  - **Old English:** wicu
+    - **Middle English:** wyke
+      - **English:** week
+        - **Middle Scots:** weik — _borrowed_
+          - **Scots:** week
+      - **Middle Scots:** wouk
+        - **Scots:** ouk — _obsolete_
+      - **Middle Scots:** ouk
+        - **Scots:** ouk — _obsolete_
+      - **Yola:** wick
+      - **Yola:** wik
+  - **Old English:** wucu
+    - **Middle English:** wyke
+      - **English:** week
+        - **Middle Scots:** weik — _borrowed_
+          - **Scots:** week
+      - **Middle Scots:** wouk
+        - **Scots:** ouk — _obsolete_
+      - **Middle Scots:** ouk
+        - **Scots:** ouk — _obsolete_
+      - **Yola:** wick
+      - **Yola:** wik
+  - **Old English:** wuce
+    - **Middle English:** wyke
+      - **English:** week
+        - **Middle Scots:** weik — _borrowed_
+          - **Scots:** week
+      - **Middle Scots:** wouk
+        - **Scots:** ouk — _obsolete_
+      - **Middle Scots:** ouk
+        - **Scots:** ouk — _obsolete_
+      - **Yola:** wick
+      - **Yola:** wik
+  - **Old English:** wiece
+    - **Middle English:** wyke
+      - **English:** week
+        - **Middle Scots:** weik — _borrowed_
+          - **Scots:** week
+      - **Middle Scots:** wouk
+        - **Scots:** ouk — _obsolete_
+      - **Middle Scots:** ouk
+        - **Scots:** ouk — _obsolete_
+      - **Yola:** wick
+      - **Yola:** wik
+  - **Old English:** weoce
+    - **Middle English:** wyke
+      - **English:** week
+        - **Middle Scots:** weik — _borrowed_
+          - **Scots:** week
+      - **Middle Scots:** wouk
+        - **Scots:** ouk — _obsolete_
+      - **Middle Scots:** ouk
+        - **Scots:** ouk — _obsolete_
+      - **Yola:** wick
+      - **Yola:** wik
+  - **Old Frisian:** wike
+    - **North Frisian:** 
+    - **Saterland Frisian:** Wíek
+    - **West Frisian:** wike
+  - **Old Saxon:** wika
+    - **Middle Low German:** wēke
+      - **Low German:** Week
+      - **Low German:** Weke
+      - **Low German:** Wääk
+      - **Low German:** Wäke — _Westphalian_
+      - **Low German:** Wiäke
+      - **Low German:** Weake
+      - **Plautdietsch:** Wäakj
+  - **Old Saxon:** *weka — _required by the Westphalian form_
+    - **Middle Low German:** wēke
+      - **Low German:** Week
+      - **Low German:** Weke
+      - **Low German:** Wääk
+      - **Low German:** Wäke — _Westphalian_
+      - **Low German:** Wiäke
+      - **Low German:** Weake
+      - **Plautdietsch:** Wäakj
+  - **Old Dutch:** *wica ~ *weca
+    - **Middle Dutch:** wēke
+      - **Dutch:** week
+        - **Afrikaans:** week
+      - **Limburgish:** waek
+  - **Old High German:** wëhha
+    - **Middle High German:** woche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wuche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wëche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+  - **Old High German:** wëcha
+    - **Middle High German:** woche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wuche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wëche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+  - **Old High German:** wohha
+    - **Middle High German:** woche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wuche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wëche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+  - **Old High German:** wocha
+    - **Middle High German:** woche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wuche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+    - **Middle High German:** wëche
+      - **Alemannic German:** Wuche
+        - **Italian Walser:** bòchò
+        - **Italian Walser:** wuchu
+        - **Italian Walser:** wucha
+        - **Italian Walser:** wucchu
+      - **Bavarian:** Woch
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wocha
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Bavarian:** Wochn
+        - **Cimbrian:** bòcha
+        - **Cimbrian:** boch — _Luserna_
+        - **Mòcheno:** boch
+      - **Central Franconian:** Woch
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wech
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **Central Franconian:** Wääch — _Ripuarian; now widely obsolete_
+        - **Hunsrik:** Woch
+        - **Luxembourgish:** Woch
+      - **German:** Woche
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Woch
+      - **Vilamovian:** woch
+      - **Yiddish:** וואָך
+- **Old Norse:** vika
+  - **Icelandic:** vika
+  - **Faroese:** vika
+  - **Norn:** voga
+  - **Norwegian Nynorsk:** veke
+  - **Norwegian Nynorsk:** vika
+  - **Norwegian Nynorsk:** viku — _dialectal_
+  - **Norwegian Nynorsk:** vyku
+  - **Norwegian Nynorsk:** vuku
+  - **Norwegian Nynorsk:** væka
+  - **Norwegian Nynorsk:** vekke
+  - **Norwegian Nynorsk:** vikke
+  - **Jamtish:** vuku
+  - **Elfdalian:** wiku
+  - **Elfdalian:** wikå
+  - **Old Swedish:** vika
+    - **Swedish:** vecka
+  - **Old Danish:** uka
+    - **Scanian:** uga
+    - **Danish:** uge
+      - **Norwegian Bokmål:** uke — _dialectal_
+      - **Norwegian Bokmål:** uge
+      - **Norwegian Bokmål:** uga
+  - **Old Danish:** uku
+    - **Scanian:** uga
+    - **Danish:** uge
+      - **Norwegian Bokmål:** uke — _dialectal_
+      - **Norwegian Bokmål:** uge
+      - **Norwegian Bokmål:** uga
+  - **Old Danish:** wiku
+    - **Scanian:** uga
+    - **Danish:** uge
+      - **Norwegian Bokmål:** uke — _dialectal_
+      - **Norwegian Bokmål:** uge
+      - **Norwegian Bokmål:** uga
+  - **Old Gutnish:** wika
+    - **Gutnish:** vike
+    - **Gutnish:** vika
+    - **Gutnish:** viku
+    - **Gutnish:** vikå
+- **Gothic:** 𐍅𐌹𐌺𐍉

@@ -1,0 +1,2428 @@
+# *kwemaną
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/kweman%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *kwemaną
+
+### Etymology
+
+From the aorist subjunctive of Proto-Indo-European *gʷémt (“to take a step, arrive”), from *gʷem- (“to step”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *gʷémt
+
+### Pronunciation
+
+- IPA: `/ˈkʷe.mɑ.nɑ̃/`
+
+### Verb
+
+1. _(reconstruction)_ to come
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| 4 | class |
+| kwemō | active, first-person, indicative, singular |
+| kwemaų | active, first-person, singular, subjunctive |
+| - | active, first-person, imperative, singular |
+| kwemai | first-person, indicative, passive, singular |
+| - | first-person, passive, singular, subjunctive |
+| kwimizi | active, indicative, second-person, singular |
+| kwemaiz | active, second-person, singular, subjunctive |
+| kwem | active, imperative, second-person, singular |
+| kwemazai | indicative, passive, second-person, singular |
+| kwemaizau | passive, second-person, singular, subjunctive |
+| kwimidi | active, indicative, singular, third-person |
+| kwemai | active, singular, subjunctive, third-person |
+| kwemadau | active, imperative, singular, third-person |
+| kwemadai | indicative, passive, singular, third-person |
+| kwemaidau | passive, singular, subjunctive, third-person |
+| kwemōz | active, dual, first-person, indicative |
+| kwemaiw | active, dual, first-person, subjunctive |
+| - | active, dual, first-person, imperative |
+| - | dual, first-person, indicative, passive |
+| - | dual, first-person, passive, subjunctive |
+| kwemadiz | active, dual, indicative, second-person |
+| kwemaidiz | active, dual, second-person, subjunctive |
+| kwemadiz | active, dual, imperative, second-person |
+| - | dual, indicative, passive, second-person |
+| - | dual, passive, second-person, subjunctive |
+| kwemamaz | active, first-person, indicative, plural |
+| kwemaim | active, first-person, plural, subjunctive |
+| - | active, first-person, imperative, plural |
+| kwemandai | first-person, indicative, passive, plural |
+| kwemaindau | first-person, passive, plural, subjunctive |
+| kwimid | active, indicative, plural, second-person |
+| kwemaid | active, plural, second-person, subjunctive |
+| kwimid | active, imperative, plural, second-person |
+| kwemandai | indicative, passive, plural, second-person |
+| kwemaindau | passive, plural, second-person, subjunctive |
+| kwemandi | active, indicative, plural, third-person |
+| kwemain | active, plural, subjunctive, third-person |
+| kwemandau | active, imperative, plural, third-person |
+| kwemandai | indicative, passive, plural, third-person |
+| kwemaindau | passive, plural, subjunctive, third-person |
+| kwam | active, first-person, indicative, singular |
+| kwēmį̄ | active, first-person, singular, subjunctive |
+| kwamt | active, indicative, second-person, singular |
+| kwēmīz | active, second-person, singular, subjunctive |
+| kwam | active, indicative, singular, third-person |
+| kwēmī | active, singular, subjunctive, third-person |
+| kwēmū | active, dual, first-person, indicative |
+| kwēmīw | active, dual, first-person, subjunctive |
+| kwēmudiz | active, dual, indicative, second-person |
+| kwēmīdiz | active, dual, second-person, subjunctive |
+| kwēmum | active, first-person, indicative, plural |
+| kwēmīm | active, first-person, plural, subjunctive |
+| kwēmud | active, indicative, plural, second-person |
+| kwēmīd | active, plural, second-person, subjunctive |
+| kwēmun | active, indicative, plural, third-person |
+| kwēmīn | active, plural, subjunctive, third-person |
+| kwemandz | active, participle, present |
+| kumanaz | active, participle, past, subjunctive |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *kweman
+  - **Old English:** cuman
+    - **Middle English:** comen
+      - **English:** come
+      - **English:** cum
+      - **Scots:** cum
+      - **Yola:** coome
+      - **Yola:** come
+      - **Yola:** cum
+    - **Middle English:** cumen
+      - **English:** come
+      - **English:** cum
+      - **Scots:** cum
+      - **Yola:** coome
+      - **Yola:** come
+      - **Yola:** cum
+  - **Old Frisian:** koma
+    - **North Frisian:** kem — _Föhr-Amrum_
+    - **North Frisian:** kååme — _Goesharde_
+    - **North Frisian:** kame — _Halligen_
+    - **North Frisian:** Keem — _Heligoland_
+    - **North Frisian:** Kum — _Sylt_
+    - **North Frisian:** kaame — _Mooring_
+    - **North Frisian:** käme — _Wiedingharde_
+    - **Saterland Frisian:** kume
+    - **Saterland Frisian:** kuume
+    - **West Frisian:** komme
+  - **Old Saxon:** kuman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Saxon:** queman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Saxon:** cuman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Dutch:** kuman
+    - **Middle Dutch:** cōmen
+      - **Dutch:** komen
+        - **Afrikaans:** kom
+      - **Dutch:** kommen
+        - **Afrikaans:** kom
+      - **Limburgish:** kómme
+  - **Old Dutch:** cuman
+    - **Middle Dutch:** cōmen
+      - **Dutch:** komen
+        - **Afrikaans:** kom
+      - **Dutch:** kommen
+        - **Afrikaans:** kom
+      - **Limburgish:** kómme
+  - **Old High German:** quëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** kwëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** chuëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** kuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** cuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** chuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+- **Proto-West Germanic:** *kwuman
+  - **Old English:** cuman
+    - **Middle English:** comen
+      - **English:** come
+      - **English:** cum
+      - **Scots:** cum
+      - **Yola:** coome
+      - **Yola:** come
+      - **Yola:** cum
+    - **Middle English:** cumen
+      - **English:** come
+      - **English:** cum
+      - **Scots:** cum
+      - **Yola:** coome
+      - **Yola:** come
+      - **Yola:** cum
+  - **Old Frisian:** koma
+    - **North Frisian:** kem — _Föhr-Amrum_
+    - **North Frisian:** kååme — _Goesharde_
+    - **North Frisian:** kame — _Halligen_
+    - **North Frisian:** Keem — _Heligoland_
+    - **North Frisian:** Kum — _Sylt_
+    - **North Frisian:** kaame — _Mooring_
+    - **North Frisian:** käme — _Wiedingharde_
+    - **Saterland Frisian:** kume
+    - **Saterland Frisian:** kuume
+    - **West Frisian:** komme
+  - **Old Saxon:** kuman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Saxon:** queman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Saxon:** cuman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Dutch:** kuman
+    - **Middle Dutch:** cōmen
+      - **Dutch:** komen
+        - **Afrikaans:** kom
+      - **Dutch:** kommen
+        - **Afrikaans:** kom
+      - **Limburgish:** kómme
+  - **Old Dutch:** cuman
+    - **Middle Dutch:** cōmen
+      - **Dutch:** komen
+        - **Afrikaans:** kom
+      - **Dutch:** kommen
+        - **Afrikaans:** kom
+      - **Limburgish:** kómme
+  - **Old High German:** quëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** kwëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** chuëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** kuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** cuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** chuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+- **Proto-West Germanic:** *kuman — _late_
+  - **Old English:** cuman
+    - **Middle English:** comen
+      - **English:** come
+      - **English:** cum
+      - **Scots:** cum
+      - **Yola:** coome
+      - **Yola:** come
+      - **Yola:** cum
+    - **Middle English:** cumen
+      - **English:** come
+      - **English:** cum
+      - **Scots:** cum
+      - **Yola:** coome
+      - **Yola:** come
+      - **Yola:** cum
+  - **Old Frisian:** koma
+    - **North Frisian:** kem — _Föhr-Amrum_
+    - **North Frisian:** kååme — _Goesharde_
+    - **North Frisian:** kame — _Halligen_
+    - **North Frisian:** Keem — _Heligoland_
+    - **North Frisian:** Kum — _Sylt_
+    - **North Frisian:** kaame — _Mooring_
+    - **North Frisian:** käme — _Wiedingharde_
+    - **Saterland Frisian:** kume
+    - **Saterland Frisian:** kuume
+    - **West Frisian:** komme
+  - **Old Saxon:** kuman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Saxon:** queman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Saxon:** cuman
+    - **Middle Low German:** kōmen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kommen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+    - **Middle Low German:** kamen
+      - **Low German:** kamen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+      - **Low German:** kuemen
+        - **Dutch Low Saxon:** kommen
+        - **Dutch Low Saxon:** kåmen
+        - **German Low German:** komen
+          - **Plautdietsch:** kome
+  - **Old Dutch:** kuman
+    - **Middle Dutch:** cōmen
+      - **Dutch:** komen
+        - **Afrikaans:** kom
+      - **Dutch:** kommen
+        - **Afrikaans:** kom
+      - **Limburgish:** kómme
+  - **Old Dutch:** cuman
+    - **Middle Dutch:** cōmen
+      - **Dutch:** komen
+        - **Afrikaans:** kom
+      - **Dutch:** kommen
+        - **Afrikaans:** kom
+      - **Limburgish:** kómme
+  - **Old High German:** quëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** kwëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** chuëman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** kuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** cuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+  - **Old High German:** chuman
+    - **Middle High German:** quëmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** këmen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kümen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** kumen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+    - **Middle High German:** komen
+      - **Alemannic German:** choo
+      - **Alemannic German:** cho
+      - **Alemannic German:** cha
+      - **Bavarian:** kemman
+      - **Bavarian:** kumman
+      - **Central Franconian:** komme
+      - **Central Franconian:** kumme — _some Ripuarian dialects; including Kölsch_
+      - **Central Franconian:** kun
+      - **Central Franconian:** kunn
+      - **Central Franconian:** konn — _Ripuarian; some Moselle Franconian dialects; chiefly dated_
+      - **Central Franconian:** kunn
+      - **Central Franconian:** kuun
+      - **Central Franconian:** konn
+      - **Central Franconian:** kumme
+      - **Central Franconian:** komme
+      - **German:** kommen
+      - **Luxembourgish:** kommen
+      - **Rhine Franconian:** 
+      - **Yiddish:** קומען
+- **Old Norse:** koma
+  - **Icelandic:** koma
+  - **Faroese:** koma
+  - **Norn:** cumma
+  - **Norwegian Nynorsk:** koma
+  - **Norwegian Nynorsk:** komma — _dialectal_
+  - **Norwegian Nynorsk:** kobma
+  - **Norwegian Nynorsk:** købma
+  - **Norwegian Nynorsk:** kåmå
+  - **Norwegian Nynorsk:** kømø
+  - **Jamtish:** kuma
+  - **Elfdalian:** kumå
+  - **Old Swedish:** koma
+    - **Swedish:** komma
+  - **Old Swedish:** kuma
+    - **Swedish:** komma
+  - **Old Danish:** komæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kumæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kommæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kummæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kumbæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Gutnish:** kumme
+  - **Gutnish:** kumbe
+- **Old Norse:** kuma
+  - **Icelandic:** koma
+  - **Faroese:** koma
+  - **Norn:** cumma
+  - **Norwegian Nynorsk:** koma
+  - **Norwegian Nynorsk:** komma — _dialectal_
+  - **Norwegian Nynorsk:** kobma
+  - **Norwegian Nynorsk:** købma
+  - **Norwegian Nynorsk:** kåmå
+  - **Norwegian Nynorsk:** kømø
+  - **Jamtish:** kuma
+  - **Elfdalian:** kumå
+  - **Old Swedish:** koma
+    - **Swedish:** komma
+  - **Old Swedish:** kuma
+    - **Swedish:** komma
+  - **Old Danish:** komæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kumæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kommæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kummæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Old Danish:** kumbæ
+    - **Scanian:** komma
+    - **Danish:** komme
+      - **Norwegian Bokmål:** komme
+        - **Norwegian Nynorsk:** komme — _borrowed_
+  - **Gutnish:** kumme
+  - **Gutnish:** kumbe
+- **Crimean Gothic:** kommen
+- **Gothic:** 𐌵𐌹𐌼𐌰𐌽

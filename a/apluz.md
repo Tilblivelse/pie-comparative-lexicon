@@ -1,0 +1,969 @@
+# *apluz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/apluz)
+
+## Proto-Germanic
+
+**Reconstruction:** *apluz
+
+### Etymology
+
+From Proto-Indo-European *h₂ébōl (“apple, apple tree”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂ébōl
+
+### Pronunciation
+
+- IPA: `/ˈɑp.luz/`
+
+### Noun
+
+1. _(Germanic, West, alt-of, alternative, masculine, reconstruction)_ alternative form of *aplaz
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| apluz | nominative, singular |
+| apliwiz | nominative, plural |
+| aplu | singular, vocative |
+| apliwiz | plural, vocative |
+| aplų | accusative, singular |
+| aplunz | accusative, plural |
+| aplauz | genitive, singular |
+| apliwǫ̂ | genitive, plural |
+| apliwi | dative, singular |
+| aplumaz | dative, plural |
+| aplū | instrumental, singular |
+| aplumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *applu
+  - **Old English:** æppel
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old English:** apl
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old English:** appel
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old English:** æppyl
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old Frisian:** appel
+    - **North Frisian:** aapel — _Föhr-Amrum; Halligen_
+    - **North Frisian:** Oapel — _Heligoland_
+    - **North Frisian:** ååpel — _Mooring_
+    - **North Frisian:** Aapel — _Sylt_
+    - **Saterland Frisian:** Apel
+    - **Saterland Frisian:** Appel
+    - **West Frisian:** apel
+    - **West Frisian:** appel
+  - **Old Saxon:** appel
+    - **Middle Low German:** appel
+      - **German Low German:** Appel
+        - **German:** Appel — _colloquial; regional; borrowed_
+      - **Plautdietsch:** Aupel
+  - **Old Saxon:** appul
+    - **Middle Low German:** appel
+      - **German Low German:** Appel
+        - **German:** Appel — _colloquial; regional; borrowed_
+      - **Plautdietsch:** Aupel
+  - **Old Saxon:** apl
+    - **Middle Low German:** appel
+      - **German Low German:** Appel
+        - **German:** Appel — _colloquial; regional; borrowed_
+      - **Plautdietsch:** Aupel
+  - **Old Dutch:** *appel
+    - **Middle Dutch:** appel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+    - **Middle Dutch:** āpel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+  - **Old Dutch:** ephela
+    - **Middle Dutch:** appel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+    - **Middle Dutch:** āpel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+  - **Old Dutch:** apheles
+    - **Middle Dutch:** appel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+    - **Middle Dutch:** āpel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+  - **Old High German:** apful
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** aphul
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** apfol
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** afful
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** *appul — _central_
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+- **Proto-West Germanic:** *apl
+  - **Old English:** æppel
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old English:** apl
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old English:** appel
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old English:** æppyl
+    - **Middle English:** appel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** apple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyl
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appyll
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appil
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appill
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appell
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appul
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appull
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** appulle
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æppel
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** æpple
+      - **English:** apple
+      - **Scots:** aipple
+    - **Middle English:** eappel — _Early Middle English_
+      - **English:** apple
+      - **Scots:** aipple
+  - **Old Frisian:** appel
+    - **North Frisian:** aapel — _Föhr-Amrum; Halligen_
+    - **North Frisian:** Oapel — _Heligoland_
+    - **North Frisian:** ååpel — _Mooring_
+    - **North Frisian:** Aapel — _Sylt_
+    - **Saterland Frisian:** Apel
+    - **Saterland Frisian:** Appel
+    - **West Frisian:** apel
+    - **West Frisian:** appel
+  - **Old Saxon:** appel
+    - **Middle Low German:** appel
+      - **German Low German:** Appel
+        - **German:** Appel — _colloquial; regional; borrowed_
+      - **Plautdietsch:** Aupel
+  - **Old Saxon:** appul
+    - **Middle Low German:** appel
+      - **German Low German:** Appel
+        - **German:** Appel — _colloquial; regional; borrowed_
+      - **Plautdietsch:** Aupel
+  - **Old Saxon:** apl
+    - **Middle Low German:** appel
+      - **German Low German:** Appel
+        - **German:** Appel — _colloquial; regional; borrowed_
+      - **Plautdietsch:** Aupel
+  - **Old Dutch:** *appel
+    - **Middle Dutch:** appel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+    - **Middle Dutch:** āpel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+  - **Old Dutch:** ephela
+    - **Middle Dutch:** appel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+    - **Middle Dutch:** āpel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+  - **Old Dutch:** apheles
+    - **Middle Dutch:** appel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+    - **Middle Dutch:** āpel
+      - **Dutch:** appel
+      - **Limburgish:** Ape̩l
+      - **Limburgish:** appel
+  - **Old High German:** apful
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** aphul
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** apfol
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** afful
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+  - **Old High German:** *appul — _central_
+    - **Middle High German:** apfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** epfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** öpfel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל
+    - **Middle High German:** appel
+      - **Alemannic German:** Öpfel
+      - **Alemannic German:** Apfel
+      - **Bavarian:** Åpfe
+      - **Central Franconian:** Appel
+        - **Hunsrik:** Eppel
+        - **Luxembourgish:** Apel
+      - **East Central German:** 
+      - **German:** Apfel
+      - **Rhine Franconian:** 
+      - **Yiddish:** עפּל

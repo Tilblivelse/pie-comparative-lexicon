@@ -1,0 +1,749 @@
+# *ahaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ahaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *ahaz
+
+### Etymology
+
+From Proto-Indo-European *h₂éḱos, from Proto-Indo-European *h₂eḱ- (“sharp”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂eḱ-, *h₂éḱos
+
+### Pronunciation
+
+- IPA: `/ˈɑ.xɑz/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ ear (of grain)
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| z-stem | class |
+| ahaz | nominative, singular |
+| ahizō | nominative, plural |
+| ahaz | singular, vocative |
+| ahizō | plural, vocative |
+| ahaz | accusative, singular |
+| ahizō | accusative, plural |
+| ahiziz | genitive, singular |
+| ahizǫ̂ | genitive, plural |
+| ahizi | dative, singular |
+| ahizumaz | dative, plural |
+| ahizē | instrumental, singular |
+| ahizumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ahaʀ
+  - **Old English:** ēar
+    - **Middle English:** er
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eyre
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ȝer
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ner
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ear — _AB language_
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+  - **Old English:** æhher — _Northumbrian_
+    - **Middle English:** er
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eyre
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ȝer
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ner
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ear — _AB language_
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+  - **Old Frisian:** *ēr
+    - **Saterland Frisian:** Iere
+    - **West Frisian:** ier
+  - **Old Saxon:** ahar
+    - **Middle Low German:** ār
+      - **Low German:** Ahr
+      - **Plautdietsch:** Oa
+  - **Old Saxon:** ahir
+    - **Middle Low German:** ār
+      - **Low German:** Ahr
+      - **Plautdietsch:** Oa
+  - **Old Saxon:** ehir
+    - **Middle Low German:** ār
+      - **Low German:** Ahr
+      - **Plautdietsch:** Oa
+  - **Old Dutch:** *ār
+    - **Middle Dutch:** aer
+      - **Dutch:** aar
+        - **Afrikaans:** aar
+  - **Old High German:** ahir
+    - **Middle High German:** eher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+    - **Middle High German:** äher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+  - **Old High German:** ahar
+    - **Middle High German:** eher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+    - **Middle High German:** äher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+  - **Old High German:** ehir
+    - **Middle High German:** eher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+    - **Middle High German:** äher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+- **Proto-West Germanic:** *ahiʀ
+  - **Old English:** ēar
+    - **Middle English:** er
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eyre
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ȝer
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ner
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ear — _AB language_
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+  - **Old English:** æhher — _Northumbrian_
+    - **Middle English:** er
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ere
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** eyre
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ȝer
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ner
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+    - **Middle English:** ear — _AB language_
+      - **English:** ear
+      - **Middle Scots:** eichyr
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+      - **Middle Scots:** ekir
+        - **Scots:** aicher
+        - **Scots:** aiker
+        - **Scots:** icker
+        - **Shetland:** acker
+        - **Shetland:** aker
+        - **Shetland:** akker
+  - **Old Frisian:** *ēr
+    - **Saterland Frisian:** Iere
+    - **West Frisian:** ier
+  - **Old Saxon:** ahar
+    - **Middle Low German:** ār
+      - **Low German:** Ahr
+      - **Plautdietsch:** Oa
+  - **Old Saxon:** ahir
+    - **Middle Low German:** ār
+      - **Low German:** Ahr
+      - **Plautdietsch:** Oa
+  - **Old Saxon:** ehir
+    - **Middle Low German:** ār
+      - **Low German:** Ahr
+      - **Plautdietsch:** Oa
+  - **Old Dutch:** *ār
+    - **Middle Dutch:** aer
+      - **Dutch:** aar
+        - **Afrikaans:** aar
+  - **Old High German:** ahir
+    - **Middle High German:** eher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+    - **Middle High German:** äher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+  - **Old High German:** ahar
+    - **Middle High German:** eher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+    - **Middle High German:** äher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+  - **Old High German:** ehir
+    - **Middle High German:** eher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer
+    - **Middle High German:** äher
+      - **Alemannic German:** Äli
+      - **Central Franconian:** Ohr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Öhr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähr
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Ähjer
+        - **Luxembourgish:** Éi
+      - **Central Franconian:** Iehr
+        - **Luxembourgish:** Éi
+      - **German:** Ähre
+      - **German:** Äher — _n_
+      - **German:** Eher — _n_
+      - **German:** Ehre — _obsolete; f_
+      - **Vilamovian:** yjer

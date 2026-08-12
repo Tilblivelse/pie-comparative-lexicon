@@ -1,0 +1,1959 @@
+# *jehwlą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/jehwl%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *jehwlą
+
+### Etymology
+
+Unknown; suggested to be connected to Latin iocus (“a joke, jest”), itself thought to be from Proto-Indo-European *yek- (“to speak”), yet this is semantically unconvincing.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *yek-
+
+### Pronunciation
+
+- IPA: `/ˈjexʷ.lɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ festivity, celebration
+2. _(in-plural, neuter, reconstruction)_ Yule, literally, “the festivities”
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| jehwlą | nominative, singular |
+| jeulō | nominative, plural |
+| jehwlą | singular, vocative |
+| jeulō | plural, vocative |
+| jehwlą | accusative, singular |
+| jeulō | accusative, plural |
+| jehwlas | genitive, singular |
+| jihwlis | genitive, singular |
+| jeulǫ̂ | genitive, plural |
+| jehwlai | dative, singular |
+| jeulamaz | dative, plural |
+| jehwlō | instrumental, singular |
+| jeulamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *jehwl
+  - **Old English:** ġēol
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġehhol
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġehhel
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġēohol
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġēohel
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġēohhel
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** iūl
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġiūl
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** iōl
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġeohhel
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġeochol
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġeohhol
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+  - **Old English:** ġeohol
+    - **Middle English:** yol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝeolue
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yiol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝol
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yoil
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** yolde
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoul
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝowl
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** ȝoule
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** Yhole
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+    - **Middle English:** youle
+      - **English:** Yule
+      - **Middle Scots:** Yule
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝule
+        - **Scots:** Yule
+      - **Middle Scots:** Yuill
+        - **Scots:** Yule
+      - **Middle Scots:** Ȝuill
+        - **Scots:** Yule
+- **Proto-Norse:** *ᛃᛖᚢᛚᚢ
+  - **Old Norse:** jól
+    - **Icelandic:** jól
+    - **Faroese:** jól
+    - **Norwegian Nynorsk:** jol
+    - **Old Swedish:** iūl
+      - **Swedish:** jul
+    - **Old Danish:** iūl
+      - **Danish:** jul
+        - **Norwegian Bokmål:** jul
+          - **Norwegian Nynorsk:** jul — _borrowed; partially from an earlier East Nordic borrowing_
+        - **German:** Jul — _borrowed_
+          - **Dutch:** joel — _borrowed_
+          - **German:** Julfest — _reshaped by analogy or addition of morphemes_
+            - **Dutch:** joelfeest — _borrowed_
+    - **Old Gutnish:** iaul
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+  - **Old Norse:** *iūl — _Old East Norse_
+    - **Icelandic:** jól
+    - **Faroese:** jól
+    - **Norwegian Nynorsk:** jol
+    - **Old Swedish:** iūl
+      - **Swedish:** jul
+    - **Old Danish:** iūl
+      - **Danish:** jul
+        - **Norwegian Bokmål:** jul
+          - **Norwegian Nynorsk:** jul — _borrowed; partially from an earlier East Nordic borrowing_
+        - **German:** Jul — _borrowed_
+          - **Dutch:** joel — _borrowed_
+          - **German:** Julfest — _reshaped by analogy or addition of morphemes_
+            - **Dutch:** joelfeest — _borrowed_
+    - **Old Gutnish:** iaul
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+- **Proto-Norse:** *ᛖᚢᛚᚢ — _n pl_
+  - **Old Norse:** jól
+    - **Icelandic:** jól
+    - **Faroese:** jól
+    - **Norwegian Nynorsk:** jol
+    - **Old Swedish:** iūl
+      - **Swedish:** jul
+    - **Old Danish:** iūl
+      - **Danish:** jul
+        - **Norwegian Bokmål:** jul
+          - **Norwegian Nynorsk:** jul — _borrowed; partially from an earlier East Nordic borrowing_
+        - **German:** Jul — _borrowed_
+          - **Dutch:** joel — _borrowed_
+          - **German:** Julfest — _reshaped by analogy or addition of morphemes_
+            - **Dutch:** joelfeest — _borrowed_
+    - **Old Gutnish:** iaul
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+  - **Old Norse:** *iūl — _Old East Norse_
+    - **Icelandic:** jól
+    - **Faroese:** jól
+    - **Norwegian Nynorsk:** jol
+    - **Old Swedish:** iūl
+      - **Swedish:** jul
+    - **Old Danish:** iūl
+      - **Danish:** jul
+        - **Norwegian Bokmål:** jul
+          - **Norwegian Nynorsk:** jul — _borrowed; partially from an earlier East Nordic borrowing_
+        - **German:** Jul — _borrowed_
+          - **Dutch:** joel — _borrowed_
+          - **German:** Julfest — _reshaped by analogy or addition of morphemes_
+            - **Dutch:** joelfeest — _borrowed_
+    - **Old Gutnish:** iaul
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** golli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yoli — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** yolie — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolif — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolife — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** jolef — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly
+    - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
+      - **English:** jolly

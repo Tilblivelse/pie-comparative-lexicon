@@ -1,0 +1,1154 @@
+# *īsarną
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C4%ABsarn%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *īsarną
+
+### Etymology
+
+Borrowed from Proto-Celtic *īsarnom, from Proto-Indo-European *h₁ésh₂r̥ (“blood”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₁ésh₂r̥
+
+### Pronunciation
+
+- IPA: `/ˈiː.sɑr.nɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ iron
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| īsarną | nominative, singular |
+| īsarnō | nominative, plural |
+| īsarną | singular, vocative |
+| īsarnō | plural, vocative |
+| īsarną | accusative, singular |
+| īsarnō | accusative, plural |
+| īsarnas | genitive, singular |
+| īsarnis | genitive, singular |
+| īsarnǫ̂ | genitive, plural |
+| īsarnai | dative, singular |
+| īsarnamaz | dative, plural |
+| īsarnō | instrumental, singular |
+| īsarnamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *īsarn
+  - **Old English:** īsern
+    - **Middle English:** iren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irin
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iron
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irne
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrne
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** eren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** heren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** heyron
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** hyrone
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ieren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yeren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrin — _Late Middle English_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iryn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iryne — _Northern_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yirn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrun
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yryn — _especially East Anglia_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** hire
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ire
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yre — _Southern; South Midland_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yse
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ysen — _Middlesex_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yzen — _Kent_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+  - **Old English:** īren
+    - **Middle English:** iren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irin
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iron
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irne
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrne
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** eren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** heren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** heyron
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** hyrone
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ieren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yeren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrin — _Late Middle English_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iryn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iryne — _Northern_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yirn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrun
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yryn — _especially East Anglia_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** hire
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ire
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yre — _Southern; South Midland_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yse
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ysen — _Middlesex_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yzen — _Kent_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+  - **Old English:** īsen
+    - **Middle English:** iren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irin
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iron
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** irne
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrne
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** eren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** heren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** heyron
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** hyrone
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ieren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yeren
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrin — _Late Middle English_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iryn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** iryne — _Northern_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yirn
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yrun
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yryn — _especially East Anglia_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** hire
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ire
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yre — _Southern; South Midland_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yse
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** ysen — _Middlesex_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+    - **Middle English:** yzen — _Kent_
+      - **English:** iron
+      - **Middle Scots:** irne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Middle Scots:** yrne
+        - **Scots:** airn
+        - **Scots:** ern
+        - **Scots:** irne
+      - **Yola:** eeren
+  - **Old Frisian:** īsern
+    - **North Frisian:** jaarn
+    - **Saterland Frisian:** Iersen
+    - **West Frisian:** izer
+  - **Old Saxon:** īsarn
+    - **Middle Low German:** îsen
+      - **German Low German:** Iesen
+        - **German Low German:** Iesder — _reshaped by analogy or addition of morphemes_
+      - **Low German:** Isen
+      - **Plautdietsch:** Iesa
+    - **Middle Low German:** îsern
+      - **German Low German:** Iesen
+        - **German Low German:** Iesder — _reshaped by analogy or addition of morphemes_
+      - **Low German:** Isen
+      - **Plautdietsch:** Iesa
+    - **Middle Low German:** îseren
+      - **German Low German:** Iesen
+        - **German Low German:** Iesder — _reshaped by analogy or addition of morphemes_
+      - **Low German:** Isen
+      - **Plautdietsch:** Iesa
+  - **Old Dutch:** *īsarn
+    - **Middle Dutch:** iser
+      - **Dutch:** ijzer
+        - **Afrikaans:** yster
+      - **Limburgish:** iezer
+      - **West Flemish:** yzer
+  - **Old High German:** īsarn
+    - **Middle High German:** īsern
+      - **Alemannic German:** Ise
+      - **Bavarian:** Eisn
+      - **Central Franconian:** Ieser
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **Central Franconian:** Iese
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **Central Franconian:** Eise
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **German:** Eisen
+      - **German:** Eiser
+      - **Vilamovian:** ȧjza
+      - **Yiddish:** אײַזן
+    - **Middle High German:** īser
+      - **Alemannic German:** Ise
+      - **Bavarian:** Eisn
+      - **Central Franconian:** Ieser
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **Central Franconian:** Iese
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **Central Franconian:** Eise
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **German:** Eisen
+      - **German:** Eiser
+      - **Vilamovian:** ȧjza
+      - **Yiddish:** אײַזן
+    - **Middle High German:** īsen
+      - **Alemannic German:** Ise
+      - **Bavarian:** Eisn
+      - **Central Franconian:** Ieser
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **Central Franconian:** Iese
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **Central Franconian:** Eise
+        - **Hunsrik:** Eise
+        - **Luxembourgish:** Eisen
+      - **German:** Eisen
+      - **German:** Eiser
+      - **Vilamovian:** ȧjza
+      - **Yiddish:** אײַזן
+- **Old Norse:** járn
+  - **Icelandic:** járn
+  - **Faroese:** jarn
+  - **Norwegian Nynorsk:** jarn
+  - **Norwegian Nynorsk:** jern
+  - **Norwegian Nynorsk:** jønn
+  - **Jamtish:** járn
+  - **Jamtish:** jáðn
+  - **Elfdalian:** ienn
+  - **Old Swedish:** iærn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Swedish:** iarn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Danish:** jarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iærn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Gutnish:** jan
+- **Old Norse:** ísarn
+  - **Icelandic:** járn
+  - **Faroese:** jarn
+  - **Norwegian Nynorsk:** jarn
+  - **Norwegian Nynorsk:** jern
+  - **Norwegian Nynorsk:** jønn
+  - **Jamtish:** járn
+  - **Jamtish:** jáðn
+  - **Elfdalian:** ienn
+  - **Old Swedish:** iærn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Swedish:** iarn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Danish:** jarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iærn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Gutnish:** jan
+- **Old Norse:** jarn
+  - **Icelandic:** járn
+  - **Faroese:** jarn
+  - **Norwegian Nynorsk:** jarn
+  - **Norwegian Nynorsk:** jern
+  - **Norwegian Nynorsk:** jønn
+  - **Jamtish:** járn
+  - **Jamtish:** jáðn
+  - **Elfdalian:** ienn
+  - **Old Swedish:** iærn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Swedish:** iarn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Danish:** jarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iærn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Gutnish:** jan
+- **Old Norse:** éarn
+  - **Icelandic:** járn
+  - **Faroese:** jarn
+  - **Norwegian Nynorsk:** jarn
+  - **Norwegian Nynorsk:** jern
+  - **Norwegian Nynorsk:** jønn
+  - **Jamtish:** járn
+  - **Jamtish:** jáðn
+  - **Elfdalian:** ienn
+  - **Old Swedish:** iærn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Swedish:** iarn
+    - **Swedish:** jern
+    - **Swedish:** jaͤrn
+    - **Swedish:** järn
+  - **Old Danish:** jarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iærn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Old Danish:** iarn
+    - **Danish:** jern
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Danish:** jærn
+      - **Norwegian Bokmål:** jern
+        - **Norwegian Nynorsk:** jern — _borrowed; partially from dialects with j-umlaut_
+    - **Scanian:** jærn
+  - **Gutnish:** jan
+- **Gothic:** 𐌴𐌹𐍃𐌰𐍂𐌽

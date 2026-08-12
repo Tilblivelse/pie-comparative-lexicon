@@ -1,0 +1,489 @@
+# *mahtiz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/mahtiz)
+
+## Proto-Germanic
+
+**Reconstruction:** *mahtiz
+
+### Etymology
+
+From *maganą + *-þiz, corresponding to Proto-Indo-European *mógʰtis < *megʰ-.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *megʰ-, *mógʰtis
+
+### Pronunciation
+
+- IPA: `/ˈmɑx.tiz/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ power, ability
+2. _(feminine, reconstruction)_ strength, force
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| i-stem | class |
+| mahtiz | nominative, singular |
+| mahtīz | nominative, plural |
+| mahti | singular, vocative |
+| mahtīz | plural, vocative |
+| mahtį | accusative, singular |
+| mahtinz | accusative, plural |
+| mahtīz | genitive, singular |
+| mahtijǫ̂ | genitive, plural |
+| mahtī | dative, singular |
+| mahtimaz | dative, plural |
+| mahtī | instrumental, singular |
+| mahtimiz | instrumental, plural |
+| *mahtuz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *mahti
+  - **Old English:** miht
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** maht — _early_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** meaht — _breaking before -ht_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** mæht — _Anglian_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** meht — _late West Saxon_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** mieht
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** myht
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old Frisian:** mecht
+    - **North Frisian:** macht
+    - **Saterland Frisian:** Macht
+    - **West Frisian:** macht
+  - **Old Frisian:** macht
+    - **North Frisian:** macht
+    - **Saterland Frisian:** Macht
+    - **West Frisian:** macht
+  - **Old Saxon:** maht
+    - **Middle Low German:** macht
+      - **German Low German:** Macht
+      - **Dutch Low Saxon:** macht
+      - **Plautdietsch:** Macht
+      - **Norwegian:** makt — _borrowed_
+      - **Swedish:** makt — _borrowed_
+      - **Danish:** magt — _borrowed_
+      - **Gutnish:** mäkt — _borrowed_
+  - **Old Dutch:** *maht
+    - **Middle Dutch:** macht
+      - **Dutch:** macht
+        - **Afrikaans:** mag
+      - **Dutch:** magt — _obsolete_
+        - **Afrikaans:** mag
+      - **Limburgish:** mach
+  - **Old High German:** maht
+    - **Middle High German:** maht
+      - **German:** Macht
+      - **Luxembourgish:** Muecht
+      - **Yiddish:** מאַכט
+    - **Middle High German:** macht
+      - **German:** Macht
+      - **Luxembourgish:** Muecht
+      - **Yiddish:** מאַכט
+- **Proto-West Germanic:** *mahtu
+  - **Old English:** miht
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** maht — _early_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** meaht — _breaking before -ht_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** mæht — _Anglian_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** meht — _late West Saxon_
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** mieht
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old English:** myht
+    - **Middle English:** myght
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** maught
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** might
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** myghte
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+    - **Middle English:** miȝt
+      - **English:** might
+      - **Scots:** micht
+      - **Scots:** maucht
+      - **Yola:** mought
+  - **Old Frisian:** mecht
+    - **North Frisian:** macht
+    - **Saterland Frisian:** Macht
+    - **West Frisian:** macht
+  - **Old Frisian:** macht
+    - **North Frisian:** macht
+    - **Saterland Frisian:** Macht
+    - **West Frisian:** macht
+  - **Old Saxon:** maht
+    - **Middle Low German:** macht
+      - **German Low German:** Macht
+      - **Dutch Low Saxon:** macht
+      - **Plautdietsch:** Macht
+      - **Norwegian:** makt — _borrowed_
+      - **Swedish:** makt — _borrowed_
+      - **Danish:** magt — _borrowed_
+      - **Gutnish:** mäkt — _borrowed_
+  - **Old Dutch:** *maht
+    - **Middle Dutch:** macht
+      - **Dutch:** macht
+        - **Afrikaans:** mag
+      - **Dutch:** magt — _obsolete_
+        - **Afrikaans:** mag
+      - **Limburgish:** mach
+  - **Old High German:** maht
+    - **Middle High German:** maht
+      - **German:** Macht
+      - **Luxembourgish:** Muecht
+      - **Yiddish:** מאַכט
+    - **Middle High German:** macht
+      - **German:** Macht
+      - **Luxembourgish:** Muecht
+      - **Yiddish:** מאַכט
+- **Proto-Norse:** 
+  - **Old Norse:** máttr
+    - **Icelandic:** máttur
+    - **Faroese:** máttur
+    - **Norwegian Nynorsk:** mått
+    - **Scots:** maucht — _borrowed_
+    - **Swedish:** mått
+- **Gothic:** 𐌼𐌰𐌷𐍄𐍃

@@ -1,0 +1,784 @@
+# *dauþuz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/dau%C3%BEuz)
+
+## Proto-Germanic
+
+**Reconstruction:** *dauþuz
+
+### Etymology
+
+From Proto-Indo-European *dʰówtus, equivalent to *dawjaną + *-þuz.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dʰówtus
+
+### Pronunciation
+
+- IPA: `/ˈdɑu̯.θuz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ death
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| dauþuz | nominative, singular |
+| dauþiwiz | nominative, plural |
+| dauþu | singular, vocative |
+| dauþiwiz | plural, vocative |
+| dauþų | accusative, singular |
+| dauþunz | accusative, plural |
+| dauþauz | genitive, singular |
+| dauþiwǫ̂ | genitive, plural |
+| dauþiwi | dative, singular |
+| dauþumaz | dative, plural |
+| dauþū | instrumental, singular |
+| dauþumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *dauþu
+  - **Old English:** dēaþ
+    - **Middle English:** deth
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deeth
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deeþ
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dethe
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deþ
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deþe
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deð
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dæð
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dæþ — _Early Middle English_
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** diath
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dyaþ — _Kent_
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+  - **Old English:** dǣþ
+    - **Middle English:** deth
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deeth
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deeþ
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dethe
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deþ
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deþe
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deð
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dæð
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dæþ — _Early Middle English_
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** diath
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dyaþ — _Kent_
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+  - **Old English:** dēað
+    - **Middle English:** deth
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deeth
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deeþ
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dethe
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deþ
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deþe
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** deð
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dæð
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dæþ — _Early Middle English_
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** diath
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+    - **Middle English:** dyaþ — _Kent_
+      - **English:** death — _obsolete deth_
+      - **Middle Scots:** dethe
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deith
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+      - **Middle Scots:** deth
+        - **Scots:** daeth
+        - **Scots:** daith
+        - **Scots:** death
+        - **Scots:** deeth
+        - **Scots:** deith
+  - **Old Frisian:** dāth
+    - **North Frisian:** duas — _Föhr-Amrum_
+    - **North Frisian:** düüs — _Mooring_
+    - **North Frisian:** Duar — _Sylt_
+    - **Saterland Frisian:** Dood
+    - **West Frisian:** dea
+  - **Old Frisian:** dād
+    - **North Frisian:** duas — _Föhr-Amrum_
+    - **North Frisian:** düüs — _Mooring_
+    - **North Frisian:** Duar — _Sylt_
+    - **Saterland Frisian:** Dood
+    - **West Frisian:** dea
+  - **Old Frisian:** dāt
+    - **North Frisian:** duas — _Föhr-Amrum_
+    - **North Frisian:** düüs — _Mooring_
+    - **North Frisian:** Duar — _Sylt_
+    - **Saterland Frisian:** Dood
+    - **West Frisian:** dea
+  - **Old Saxon:** dōth
+    - **Middle Low German:** dōt
+      - **German Low German:** Dood
+      - **Westphalian:** 
+      - **Plautdietsch:** Doot
+    - **Middle Low German:** dōd
+      - **German Low German:** Dood
+      - **Westphalian:** 
+      - **Plautdietsch:** Doot
+  - **Old Dutch:** dōt
+    - **Middle Dutch:** dôot
+      - **Dutch:** dood
+        - **Afrikaans:** dood
+      - **Limburgish:** doead
+  - **Old Dutch:** dōth
+    - **Middle Dutch:** dôot
+      - **Dutch:** dood
+        - **Afrikaans:** dood
+      - **Limburgish:** doead
+  - **Old High German:** tōd
+    - **Middle High German:** tōt
+      - **Alemannic German:** 
+      - **Central Franconian:** 
+      - **German:** Tod
+      - **German:** Todt
+      - **Luxembourgish:** Doud
+      - **Yiddish:** טויט
+  - **Old High German:** dot
+    - **Middle High German:** tōt
+      - **Alemannic German:** 
+      - **Central Franconian:** 
+      - **German:** Tod
+      - **German:** Todt
+      - **Luxembourgish:** Doud
+      - **Yiddish:** טויט
+  - **Old High German:** doth
+    - **Middle High German:** tōt
+      - **Alemannic German:** 
+      - **Central Franconian:** 
+      - **German:** Tod
+      - **German:** Todt
+      - **Luxembourgish:** Doud
+      - **Yiddish:** טויט
+- **Proto-Norse:** *ᛞᚨᚢᚦᚢᛉ
+  - **Old Norse:** dauðr
+    - **Icelandic:** dauði
+    - **Faroese:** deyði
+    - **Norwegian Nynorsk:** daude
+    - **Old Swedish:** dø̄þer
+      - **Swedish:** död
+    - **Old Danish:** døth
+      - **Danish:** død
+        - **Norwegian Bokmål:** død
+          - **Norwegian Nynorsk:** død — _borrowed_
+- **Gothic:** 𐌳𐌰𐌿𐌸𐌿𐍃

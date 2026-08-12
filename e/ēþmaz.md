@@ -1,0 +1,610 @@
+# *ēþmaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C4%93%C3%BEmaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *ēþmaz
+
+### Etymology
+
+From Proto-Indo-European *h₁eh₁tmén (“breath”). Compare Sanskrit आत्मन् (ātmán, “soul, self, breath”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₁eh₁t-, *h₁eh₁tmén
+
+### Pronunciation
+
+- IPA: `/ˈɛːθ.mɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ breath, breathing
+2. _(masculine, reconstruction)_ spirit
+3. _(masculine, reconstruction)_ breeze
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| ēþmaz | nominative, singular |
+| ēþmōz | nominative, plural |
+| ēþmōs | nominative, plural |
+| ēþm | singular, vocative |
+| ēþmōz | plural, vocative |
+| ēþmōs | plural, vocative |
+| ēþmą | accusative, singular |
+| ēþmanz | accusative, plural |
+| ēþmas | genitive, singular |
+| ēþmis | genitive, singular |
+| ēþmǫ̂ | genitive, plural |
+| ēþmai | dative, singular |
+| ēþmamaz | dative, plural |
+| ēþmō | instrumental, singular |
+| ēþmamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *āþm
+  - **Old English:** ǣþm
+    - **Middle English:** ethem
+  - **Old English:** ǣðm
+    - **Middle English:** ethem
+  - **Old English:** ēþm
+    - **Middle English:** ethem
+  - **Old English:** ēðm
+    - **Middle English:** ethem
+  - **Old Frisian:** *āthma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** *āmma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** ēthma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** ādema — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** amma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** omma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Saxon:** āthom
+    - **Middle Low German:** âdem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtmen
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âdam
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+  - **Old Saxon:** āthum
+    - **Middle Low German:** âdem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtmen
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âdam
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+  - **Old Dutch:** *āthom
+    - **Middle Dutch:** âdem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âessem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âsem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+  - **Old Dutch:** *āththem
+    - **Middle Dutch:** âdem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âessem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âsem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+  - **Old High German:** ātum
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ātam
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ātem
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ātim
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ādum
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ādom
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ādem
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** hātam
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+- **Proto-West Germanic:** ādm
+  - **Old English:** ǣþm
+    - **Middle English:** ethem
+  - **Old English:** ǣðm
+    - **Middle English:** ethem
+  - **Old English:** ēþm
+    - **Middle English:** ethem
+  - **Old English:** ēðm
+    - **Middle English:** ethem
+  - **Old Frisian:** *āthma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** *āmma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** ēthma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** ādema — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** amma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Frisian:** omma — _reshaped by analogy or addition of morphemes; uncertain_
+    - **North Frisian:** ome
+    - **Saterland Frisian:** Omme
+    - **West Frisian:** amme
+  - **Old Saxon:** āthom
+    - **Middle Low German:** âdem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtmen
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âdam
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+  - **Old Saxon:** āthum
+    - **Middle Low German:** âdem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtem
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âtmen
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+    - **Middle Low German:** âdam
+      - **German Low German:** Aam
+      - **German Low German:** Aten
+  - **Old Dutch:** *āthom
+    - **Middle Dutch:** âdem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âessem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âsem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+  - **Old Dutch:** *āththem
+    - **Middle Dutch:** âdem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âessem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+    - **Middle Dutch:** âsem
+      - **Dutch:** adem
+        - **Afrikaans:** asem
+      - **Dutch:** asem
+        - **Afrikaans:** asem
+      - **Limburgish:** aom
+      - **Limburgish:** aosem
+  - **Old High German:** ātum
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ātam
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ātem
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ātim
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ādum
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ādom
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** ādem
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+  - **Old High German:** hātam
+    - **Middle High German:** ātem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** ādem
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם
+    - **Middle High German:** āten
+      - **Bavarian:** Åtem
+      - **Cimbrian:** aatom
+      - **German:** Atem
+      - **German:** Odem — _influenced by Low German_
+      - **Hunsrik:** Ochtem
+      - **Yiddish:** אָטעם

@@ -1,0 +1,605 @@
+# *nebulaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/nebulaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *nebulaz
+
+### Etymology
+
+Derived from Proto-Indo-European *nébʰos (“cloud”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *nebʰ-, *nébʰos
+
+### Pronunciation
+
+- IPA: `/ˈne.βu.lɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ fog, mist
+2. _(masculine, reconstruction)_ darkness
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| nebulaz | nominative, singular |
+| nebulōz | nominative, plural |
+| nebulōs | nominative, plural |
+| nebul | singular, vocative |
+| nebulōz | plural, vocative |
+| nebulōs | plural, vocative |
+| nebulą | accusative, singular |
+| nebulanz | accusative, plural |
+| nebulas | genitive, singular |
+| nebulis | genitive, singular |
+| nebulǫ̂ | genitive, plural |
+| nebulai | dative, singular |
+| nebulamaz | dative, plural |
+| nebulō | instrumental, singular |
+| nebulamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Old English:** nifol
+- **Old Frisian:** neval
+- **Old Saxon:** nebal
+  - **Middle Low German:** nēvel
+    - **Low German:** Nevel
+    - **Low German:** Nävel
+    - **Low German:** Niëwel — _Westphalian_
+    - **Low German:** Niewel — _Westphalian form requires Old Saxon /i/ or /e/_
+- **Old Saxon:** neval
+  - **Middle Low German:** nēvel
+    - **Low German:** Nevel
+    - **Low German:** Nävel
+    - **Low German:** Niëwel — _Westphalian_
+    - **Low German:** Niewel — _Westphalian form requires Old Saxon /i/ or /e/_
+- **Old Dutch:** *neval
+  - **Middle Dutch:** nēvel
+    - **Dutch:** nevel
+    - **Limburgish:** naevel
+- **Old High German:** nëbul
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+- **Old High German:** nëbal
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+- **Old High German:** nëbel
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+- **Old High German:** nëbil
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+- **Old High German:** nëbl
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+- **Old High German:** nëbol
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+- **Old High German:** nëpol
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+- **Old High German:** *nëvul — _Central Franconian_
+  - **Middle High German:** nëbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëbbel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל
+  - **Middle High German:** nëvel
+    - **Central Franconian:** Nevvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Nivvel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Näwel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Neawel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Newel
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **Central Franconian:** Niewel — _some forms require MHG -i-_
+      - **Hunsrik:** Newel
+      - **Luxembourgish:** Niwwel
+    - **German:** Nebel
+    - **Vilamovian:** naowuł
+    - **Yiddish:** נעפּל

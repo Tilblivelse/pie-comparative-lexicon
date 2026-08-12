@@ -1,0 +1,524 @@
+# *hertô
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hert%C3%B4)
+
+## Proto-Germanic
+
+**Reconstruction:** *hertô
+
+### Etymology
+
+From Proto-Indo-European *ḱérd (“heart”), reanalyzed as a neuter an-stem.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *ḱerd-, *ḱérd
+
+### Pronunciation
+
+- IPA: `/ˈxer.tɔːː/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ heart
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| hertô | nominative, singular |
+| hertōnō | nominative, plural |
+| hertô | singular, vocative |
+| hertōnō | plural, vocative |
+| hertô | accusative, singular |
+| hertōnō | accusative, plural |
+| hirtiniz | genitive, singular |
+| hertanǫ̂ | genitive, plural |
+| hirtini | dative, singular |
+| hertammaz | dative, plural |
+| hirtinē | instrumental, singular |
+| hertammiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hertā
+  - **Old English:** heorte
+    - **Middle English:** herte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hert
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hertt
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hirte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heortæ
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hierte — _Early Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hart
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** harte — _Late Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** herrte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorrte — _Ormulum_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** horte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** huerte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hurte — _Southern; West Midland_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+  - **Old English:** herte — _Northumbrian_
+    - **Middle English:** herte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hert
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hertt
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hirte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heortæ
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hierte — _Early Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hart
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** harte — _Late Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** herrte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorrte — _Ormulum_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** horte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** huerte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hurte — _Southern; West Midland_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+  - **Old English:** hearte
+    - **Middle English:** herte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hert
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hertt
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hirte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heortæ
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hierte — _Early Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hart
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** harte — _Late Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** herrte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorrte — _Ormulum_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** horte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** huerte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hurte — _Southern; West Midland_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+  - **Old English:** hiorte
+    - **Middle English:** herte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hert
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hertt
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hirte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heortæ
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hierte — _Early Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hart
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** harte — _Late Middle English_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** herrte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorrte — _Ormulum_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** heorte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** horte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** huerte
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+    - **Middle English:** hurte — _Southern; West Midland_
+      - **English:** heart
+      - **Scots:** hert
+      - **Scots:** hart
+      - **Scots:** hairt
+      - **Yola:** hearth
+      - **Yola:** hart
+  - **Old Frisian:** herte
+    - **North Frisian:** hart — _Föhr-Amrum; Heligoland; Mooring_
+    - **North Frisian:** härt — _Halligen_
+    - **North Frisian:** Hart — _Sylt_
+    - **Saterland Frisian:** Haat
+    - **West Frisian:** hert
+  - **Old Frisian:** hirte
+    - **North Frisian:** hart — _Föhr-Amrum; Heligoland; Mooring_
+    - **North Frisian:** härt — _Halligen_
+    - **North Frisian:** Hart — _Sylt_
+    - **Saterland Frisian:** Haat
+    - **West Frisian:** hert
+  - **Old Saxon:** herta
+    - **Middle Low German:** herte
+      - **Low German:** Hart
+      - **Low German:** Hiärt
+      - **Low German:** Hert
+      - **German Low German:** Hart
+      - **Plautdietsch:** Hoat
+    - **Middle Low German:** harte
+      - **Low German:** Hart
+      - **Low German:** Hiärt
+      - **Low German:** Hert
+      - **German Low German:** Hart
+      - **Plautdietsch:** Hoat
+  - **Old Dutch:** herta
+    - **Middle Dutch:** herte
+      - **Dutch:** hart
+        - **Afrikaans:** hart
+      - **Limburgish:** hert
+      - **West Flemish:** erte
+    - **Middle Dutch:** harte
+      - **Dutch:** hart
+        - **Afrikaans:** hart
+      - **Limburgish:** hert
+      - **West Flemish:** erte
+  - **Old High German:** hërza
+    - **Middle High German:** hërze
+      - **Alemannic German:** Härz
+      - **Bavarian:** 
+      - **Central Franconian:** Hätz
+      - **Central Franconian:** Hetz — _variant spelling_
+      - **Central Franconian:** Hatz — _Ripuarian_
+      - **Central Franconian:** Herz — _Ripuarian variant_
+      - **Central Franconian:** Hearz — _Moselle Franconian variant_
+      - **Central Franconian:** Häerz
+      - **German:** Herz
+      - **Luxembourgish:** Häerz
+      - **Silesian East Central German:** Herze / Härze (Breslauisch) / Harze — _n_
+        - **Silesian East Central German:** / harzlich — _reshaped by analogy or addition of morphemes_
+      - **Vilamovian:** haoc
+      - **Yiddish:** האַרץ
+- **Old Norse:** hjarta
+  - **Icelandic:** hjarta
+  - **Faroese:** hjarta
+  - **Norn:** hjarta
+  - **Norwegian Nynorsk:** hjarta
+  - **Norwegian Nynorsk:** hjarte — _dialectal_
+  - **Norwegian Nynorsk:** hjerta
+  - **Norwegian Nynorsk:** hjerte
+  - **Jamtish:** hjarte
+  - **Elfdalian:** järta
+  - **Old Swedish:** hiærta
+    - **Swedish:** hjärta
+    - **Swedish:** hjerta
+    - **Swedish:** järta — _obsolete_
+  - **Old Danish:** hiartæ
+    - **Scanian:** hjarta
+    - **Danish:** hjerte
+      - **Norwegian Bokmål:** hjerte
+        - **Norwegian Nynorsk:** hjerte — _borrowed_
+    - **Jutish:** jaart
+  - **Old Danish:** hiærtæ
+    - **Scanian:** hjarta
+    - **Danish:** hjerte
+      - **Norwegian Bokmål:** hjerte
+        - **Norwegian Nynorsk:** hjerte — _borrowed_
+    - **Jutish:** jaart
+  - **Gutnish:** hjärte
+- **Gothic:** 𐌷𐌰𐌹𐍂𐍄𐍉

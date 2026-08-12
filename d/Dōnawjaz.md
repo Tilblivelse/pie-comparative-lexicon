@@ -1,0 +1,380 @@
+# *Dōnawjaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/D%C5%8Dnawjaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *Dōnawjaz
+
+### Etymology
+
+Borrowed from Proto-Celtic *Dānowyos (“Danube”). Parralel borrowing with Latin Dānuvius, Dānubius, Ancient Greek Δανούιος (Danoúios), Δανούβιος (Danoúbios).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈdɔː.ˌnɑu̯.jɑz/`
+
+### Proper noun
+
+1. _(masculine, reconstruction)_ Danube
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ja-stem | class |
+| Dōnawjaz | nominative, singular |
+| Dōnawjai | dative, singular |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *Dōnauwjā
+  - **Old English:** Dōnua
+  - **Old Saxon:** *Dōnūa
+    - **Middle Low German:** Dônouw
+    - **Middle Low German:** Dônouwe
+    - **Middle Low German:** Dunouw
+    - **Middle Low German:** Dunouwe
+    - **Old Norse:** Dónua — _borrowed_
+  - **Old Dutch:** *Donouwa
+    - **Middle Dutch:** Danouwe
+    - **Middle Dutch:** Dunouwe
+    - **Middle Dutch:** Denouwe
+  - **Old High German:** Tuonouwa
+    - **Middle High German:** Tuonouwe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonowe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonawe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tunaw
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+  - **Old High German:** Duonowa
+    - **Middle High German:** Tuonouwe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonowe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonawe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tunaw
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+  - **Old High German:** Tuonouwe
+    - **Middle High German:** Tuonouwe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonowe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonawe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tunaw
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+- **Proto-West Germanic:** *Dōnauwju
+  - **Old English:** Dōnua
+  - **Old Saxon:** *Dōnūa
+    - **Middle Low German:** Dônouw
+    - **Middle Low German:** Dônouwe
+    - **Middle Low German:** Dunouw
+    - **Middle Low German:** Dunouwe
+    - **Old Norse:** Dónua — _borrowed_
+  - **Old Dutch:** *Donouwa
+    - **Middle Dutch:** Danouwe
+    - **Middle Dutch:** Dunouwe
+    - **Middle Dutch:** Denouwe
+  - **Old High German:** Tuonouwa
+    - **Middle High German:** Tuonouwe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonowe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonawe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tunaw
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+  - **Old High German:** Duonowa
+    - **Middle High German:** Tuonouwe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonowe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonawe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tunaw
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+  - **Old High German:** Tuonouwe
+    - **Middle High German:** Tuonouwe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonowe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tuonawe
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+    - **Middle High German:** Tunaw
+      - **German:** Donau
+      - **German:** Dunau
+      - **German:** Tonau
+      - **German:** Dhonau
+      - **German:** Thonau
+      - **German:** Donaw
+      - **German:** Dunaw
+      - **German:** Dhonaw
+      - **German:** Tonaw
+      - **German:** Tunaw
+      - **German:** Thonaw
+      - **German:** Thunaw — _obsolete_
+- **Gothic:** *𐌳𐍉𐌽𐌰𐍅𐌹

@@ -1,0 +1,522 @@
+# *fiskaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/fiskaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *fiskaz
+
+### Etymology
+
+From Proto-Indo-European *pisk-ó-s.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *pisk-ó-s, *péysks
+
+### Pronunciation
+
+- IPA: `/ˈɸis.kɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ fish
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| fiskaz | nominative, singular |
+| fiskōz | nominative, plural |
+| fiskōs | nominative, plural |
+| fisk | singular, vocative |
+| fiskōz | plural, vocative |
+| fiskōs | plural, vocative |
+| fiską | accusative, singular |
+| fiskanz | accusative, plural |
+| fiskas | genitive, singular |
+| fiskis | genitive, singular |
+| fiskǫ̂ | genitive, plural |
+| fiskai | dative, singular |
+| fiskamaz | dative, plural |
+| fiskō | instrumental, singular |
+| fiskamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *fisk
+  - **Old English:** fisċ
+    - **Middle English:** fisch
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fysshe
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fysch
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fish
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fische
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fis
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fyshe
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fissh
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** vish
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fissk — _Ormulum_
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+  - **Old English:** fix
+    - **Middle English:** fisch
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fysshe
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fysch
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fish
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fische
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fis
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fyshe
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fissh
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** vish
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fissk — _Ormulum_
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+  - **Old English:** ᚠᛁᛋᚳ — _Runic_
+    - **Middle English:** fisch
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fysshe
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fysch
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fish
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fische
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fis
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fyshe
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fissh
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** vish
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+    - **Middle English:** fissk — _Ormulum_
+      - **English:** fish
+      - **Scots:** fish
+      - **Scots:** fysch
+      - **Scots:** fisch
+      - **Yola:** wish
+  - **Old Frisian:** fisk
+    - **North Frisian:** fask — _Föhr-Amrum_
+    - **North Frisian:** fesk — _Heligoland_
+    - **North Frisian:** fasch — _Mooring_
+    - **North Frisian:** Fesk — _Sylt_
+    - **Saterland Frisian:** Fisk
+    - **West Frisian:** fisk
+  - **Old Saxon:** fisk
+    - **Middle Low German:** visch
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+    - **Middle Low German:** vis
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+  - **Old Saxon:** fisc
+    - **Middle Low German:** visch
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+    - **Middle Low German:** vis
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+  - **Old Saxon:** visk
+    - **Middle Low German:** visch
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+    - **Middle Low German:** vis
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+  - **Old Saxon:** visc
+    - **Middle Low German:** visch
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+    - **Middle Low German:** vis
+      - **Low German:** Fisch
+      - **Plautdietsch:** Fesch
+  - **Old Dutch:** fisc
+    - **Middle Dutch:** visch
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** visc
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** vis
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** vesch
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** fisch
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** fisc
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+  - **Old Dutch:** visc
+    - **Middle Dutch:** visch
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** visc
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** vis
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** vesch
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** fisch
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+    - **Middle Dutch:** fisc
+      - **Dutch:** vis
+        - **Afrikaans:** vis
+      - **Dutch:** visch — _before 1934_
+        - **Afrikaans:** vis
+      - **Limburgish:** visj
+      - **Limburgish:** vèsj
+      - **West Flemish:** vissch
+  - **Old High German:** fisk
+    - **Middle High German:** visch
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+    - **Middle High German:** fisch
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+    - **Middle High German:** visc
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+    - **Middle High German:** vesc
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+  - **Old High German:** fisc
+    - **Middle High German:** visch
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+    - **Middle High German:** fisch
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+    - **Middle High German:** visc
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+    - **Middle High German:** vesc
+      - **Bavarian:** Fiisch
+        - **Cimbrian:** viss
+        - **Cimbrian:** biss
+        - **Cimbrian:** visch
+        - **Mòcheno:** visch
+      - **Central Franconian:** Fesch
+        - **Hunsrik:** Fisch
+        - **Luxembourgish:** Fësch
+        - **Transylvanian Saxon:** Fäsch
+      - **German:** Fisch
+      - **Rhine Franconian:** 
+        - **Palatine German:** Fusch
+        - **Palatine German:** Fisch
+        - **Pennsylvania German:** Fisch
+      - **Vilamovian:** fejś
+      - **Yiddish:** פֿיש
+- **Old Norse:** fiskr
+  - **Icelandic:** fiskur
+  - **Faroese:** fiskur
+  - **Norn:** fisk
+  - **Norwegian Bokmål:** fisk
+  - **Norwegian Nynorsk:** fisk
+  - **Elfdalian:** fisk
+  - **Old Swedish:** fisker
+    - **Swedish:** fisk
+  - **Old Swedish:** ᚠᛁᛋᚴᚽᚱ
+    - **Swedish:** fisk
+  - **Old Danish:** fisk
+    - **Danish:** fisk
+  - **Old Gutnish:** *fiskr
+    - **Gutnish:** fisk
+- **Gothic:** 𐍆𐌹𐍃𐌺𐍃
+- **Crimean Gothic:** fisct

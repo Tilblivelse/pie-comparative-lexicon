@@ -1,0 +1,1148 @@
+# *aldaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/aldaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *aldaz
+
+### Etymology
+
+From Proto-Indo-European *h₂eltós, from *h₂el- (“to grow, nourish”); equivalent to the old past participle of *alaną (“to grow”). Compare Latin altus (“tall, high”) with a similar origin.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂eltós
+
+### Pronunciation
+
+- IPA: `/ˈɑl.dɑz/`
+
+### Adjective
+
+1. _(reconstruction)_ old, grown up
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| alþizô | comparative |
+| alþistaz | superlative |
+| a-stem | class |
+| aldaz | masculine, nominative, singular, strong |
+| aldō | feminine, nominative, singular, strong |
+| aldą | neuter, nominative, singular, strong |
+| -atō | neuter, nominative, singular, strong |
+| aldai | masculine, nominative, plural, strong |
+| aldôz | feminine, nominative, plural, strong |
+| aldō | neuter, nominative, plural, strong |
+| aldanǭ | accusative, masculine, singular, strong |
+| aldǭ | accusative, feminine, singular, strong |
+| aldą | accusative, neuter, singular, strong |
+| -atō | accusative, neuter, singular, strong |
+| aldanz | accusative, masculine, plural, strong |
+| aldōz | accusative, feminine, plural, strong |
+| aldō | accusative, neuter, plural, strong |
+| aldas | genitive, masculine, singular, strong |
+| -is | genitive, masculine, singular, strong |
+| aldaizōz | feminine, genitive, singular, strong |
+| aldas | genitive, neuter, singular, strong |
+| -is | genitive, neuter, singular, strong |
+| aldaizǫ̂ | genitive, masculine, plural, strong |
+| aldaizǫ̂ | feminine, genitive, plural, strong |
+| aldaizǫ̂ | genitive, neuter, plural, strong |
+| aldammai | dative, masculine, singular, strong |
+| aldaizōi | dative, feminine, singular, strong |
+| aldammai | dative, neuter, singular, strong |
+| aldaimaz | dative, masculine, plural, strong |
+| aldaimaz | dative, feminine, plural, strong |
+| aldaimaz | dative, neuter, plural, strong |
+| aldanō | instrumental, masculine, singular, strong |
+| aldaizō | feminine, instrumental, singular, strong |
+| aldanō | instrumental, neuter, singular, strong |
+| aldaimiz | instrumental, masculine, plural, strong |
+| aldaimiz | feminine, instrumental, plural, strong |
+| aldaimiz | instrumental, neuter, plural, strong |
+| aldô | masculine, nominative, singular, weak |
+| aldǭ | feminine, nominative, singular, weak |
+| aldô | neuter, nominative, singular, weak |
+| aldaniz | masculine, nominative, plural, weak |
+| aldōniz | feminine, nominative, plural, weak |
+| aldōnō | neuter, nominative, plural, weak |
+| aldanų | accusative, masculine, singular, weak |
+| aldōnų | accusative, feminine, singular, weak |
+| aldô | accusative, neuter, singular, weak |
+| aldanunz | accusative, masculine, plural, weak |
+| aldōnunz | accusative, feminine, plural, weak |
+| aldōnō | accusative, neuter, plural, weak |
+| aldiniz | genitive, masculine, singular, weak |
+| aldōniz | feminine, genitive, singular, weak |
+| aldiniz | genitive, neuter, singular, weak |
+| aldanǫ̂ | genitive, masculine, plural, weak |
+| aldōnǫ̂ | feminine, genitive, plural, weak |
+| aldanǫ̂ | genitive, neuter, plural, weak |
+| aldini | dative, masculine, singular, weak |
+| aldōni | dative, feminine, singular, weak |
+| aldini | dative, neuter, singular, weak |
+| aldammaz | dative, masculine, plural, weak |
+| aldōmaz | dative, feminine, plural, weak |
+| aldammaz | dative, neuter, plural, weak |
+| aldinē | instrumental, masculine, singular, weak |
+| aldōnē | feminine, instrumental, singular, weak |
+| aldinē | instrumental, neuter, singular, weak |
+| aldammiz | instrumental, masculine, plural, weak |
+| aldōmiz | feminine, instrumental, plural, weak |
+| aldammiz | instrumental, neuter, plural, weak |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ald
+  - **Old English:** eald
+    - **Middle English:** old
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eeld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eelde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** elde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** holde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** oold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** olde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** wolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** ald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** awlde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eild — _Northern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yalde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yealde — _Kent_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yhold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolle — _Southwestern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+  - **Old English:** ald — _Anglian_
+    - **Middle English:** old
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eeld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eelde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** elde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** holde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** oold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** olde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** wolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** ald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** awlde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eild — _Northern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yalde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yealde — _Kent_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yhold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolle — _Southwestern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+  - **Old English:** eold
+    - **Middle English:** old
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eeld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eelde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** elde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** holde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** oold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** olde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** wolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** ald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** awlde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eild — _Northern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yalde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yealde — _Kent_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yhold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolle — _Southwestern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+  - **Old English:** æld
+    - **Middle English:** old
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eeld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eelde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** elde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** holde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** oold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** olde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** wolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** ald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** awlde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eild — _Northern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yalde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yealde — _Kent_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yhold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolle — _Southwestern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+  - **Old English:** eld
+    - **Middle English:** old
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eeld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eelde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eld
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** elde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** holde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** oold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** olde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** wolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** ald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** awlde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eild — _Northern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** eald
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yalde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yealde — _Kent_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolde
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yhold
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+    - **Middle English:** yolle — _Southwestern_
+      - **English:** old — _dialectal ole; ould; wold_
+      - **Scots:** aald
+      - **Scots:** auld
+      - **Yola:** yole
+      - **Yola:** yold
+      - **Yola:** yola
+      - **Yola:** yoella
+      - **Yola:** yolaw
+  - **Old Frisian:** ald
+    - **North Frisian:** 
+    - **Saterland Frisian:** oold
+    - **West Frisian:** âld
+  - **Old Saxon:** ald
+    - **Middle Low German:** olt
+      - **Low German:** old
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** oold
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** ol
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** oll
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** olt
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** oolt
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Plautdietsch:** oolt
+    - **Middle Low German:** old
+      - **Low German:** old
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** oold
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** ol
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** oll
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** olt
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Low German:** oolt
+        - **German:** oll — _borrowed_
+        - **German Low German:** old
+          - **German:** oll — _borrowed_
+        - **German Low German:** oold
+          - **German:** oll — _borrowed_
+        - **German Low German:** ol
+          - **German:** oll — _borrowed_
+        - **German Low German:** oll
+          - **German:** oll — _borrowed_
+        - **German Low German:** olt
+          - **German:** oll — _borrowed_
+        - **German Low German:** oolt
+          - **German:** oll — _borrowed_
+      - **Plautdietsch:** oolt
+  - **Old Dutch:** alt
+    - **Middle Dutch:** out
+      - **Dutch:** oud
+        - **Afrikaans:** ou
+        - **Afrikaans:** oud
+        - **West Flemish:** elde
+      - **Dutch:** oudt — _obsolete_
+        - **Afrikaans:** ou
+        - **Afrikaans:** oud
+        - **West Flemish:** elde
+      - **Limburgish:** aad
+  - **Old Dutch:** ald
+    - **Middle Dutch:** out
+      - **Dutch:** oud
+        - **Afrikaans:** ou
+        - **Afrikaans:** oud
+        - **West Flemish:** elde
+      - **Dutch:** oudt — _obsolete_
+        - **Afrikaans:** ou
+        - **Afrikaans:** oud
+        - **West Flemish:** elde
+      - **Limburgish:** aad
+  - **Old High German:** alt
+    - **Middle High German:** alt
+      - **Alemannic German:** altu
+      - **Alemannic German:** oalt
+      - **Alemannic German:** oalts
+      - **Alemannic German:** olt
+      - **Alemannic German:** àltà — _Italian Walser_
+      - **Bavarian:** old
+      - **Central Franconian:** alt
+      - **German:** alt
+      - **Rhine Franconian:** alt
+      - **Rhine Franconian:** all
+      - **Vilamovian:** aołd
+      - **Yiddish:** אַלט
+  - **Old High German:** ald — _northern_
+    - **Middle High German:** alt
+      - **Alemannic German:** altu
+      - **Alemannic German:** oalt
+      - **Alemannic German:** oalts
+      - **Alemannic German:** olt
+      - **Alemannic German:** àltà — _Italian Walser_
+      - **Bavarian:** old
+      - **Central Franconian:** alt
+      - **German:** alt
+      - **Rhine Franconian:** alt
+      - **Rhine Franconian:** all
+      - **Vilamovian:** aołd
+      - **Yiddish:** אַלט
+- **Old Norse:** aldinn
+  - **Icelandic:** aldinn
+- **Gothic:** 𐌰𐌻𐌸𐌴𐌹𐍃
+- **Crimean Gothic:** alt

@@ -1,0 +1,703 @@
+# *rakintǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/rakint%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *rakintǭ
+
+### Etymology
+
+From Proto-Indo-European *reǵ- (“to bind”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *reǵ-
+
+### Pronunciation
+
+- IPA: `/ˈrɑ.kin.tɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ fetter, shackle, bond
+2. _(feminine, reconstruction)_ link; (in the plural) chain
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| rakintǭ | nominative, singular |
+| rakintōniz | nominative, plural |
+| rakintǭ | singular, vocative |
+| rakintōniz | plural, vocative |
+| rakintōnų | accusative, singular |
+| rakintōnunz | accusative, plural |
+| rakintōniz | genitive, singular |
+| rakintōnǫ̂ | genitive, plural |
+| rakintōni | dative, singular |
+| rakintōmaz | dative, plural |
+| rakintōnē | instrumental, singular |
+| rakintōmiz | instrumental, plural |
+| *rakuntǭ | alternative |
+| *rakantǭ | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *rakintā
+  - **Old English:** racente
+    - **Middle English:** rakente
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** racand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakynt
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekanth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekenth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** recawnt — _conflated with Old Norse rekendr; rekendi_
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+  - **Old English:** racete
+    - **Middle English:** rakente
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** racand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakynt
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekanth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekenth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** recawnt — _conflated with Old Norse rekendr; rekendi_
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+  - **Old Saxon:** *rekinta
+    - **Middle Low German:** rekente
+  - **Old High German:** rahhenza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+  - **Old High German:** rachenza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+  - **Old High German:** rahhinza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+- **Proto-West Germanic:** *rakuntā
+  - **Old English:** racente
+    - **Middle English:** rakente
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** racand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakynt
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekanth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekenth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** recawnt — _conflated with Old Norse rekendr; rekendi_
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+  - **Old English:** racete
+    - **Middle English:** rakente
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** racand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakynt
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekanth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekenth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** recawnt — _conflated with Old Norse rekendr; rekendi_
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+  - **Old Saxon:** *rekinta
+    - **Middle Low German:** rekente
+  - **Old High German:** rahhenza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+  - **Old High German:** rachenza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+  - **Old High German:** rahhinza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+- **Proto-West Germanic:** *rakantā
+  - **Old English:** racente
+    - **Middle English:** rakente
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** racand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakynt
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekanth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekenth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** recawnt — _conflated with Old Norse rekendr; rekendi_
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+  - **Old English:** racete
+    - **Middle English:** rakente
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** racand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rakynt
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekand
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekanth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** rekenth
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+    - **Middle English:** recawnt — _conflated with Old Norse rekendr; rekendi_
+      - **English:** rackan
+      - **English:** racon
+      - **English:** rackin
+      - **English:** racken
+      - **English:** reckan
+      - **English:** recon
+      - **English:** reckin
+      - **English:** reckon
+  - **Old Saxon:** *rekinta
+    - **Middle Low German:** rekente
+  - **Old High German:** rahhenza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+  - **Old High German:** rachenza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+  - **Old High German:** rahhinza
+    - **Old Saxon:** rakinza — _borrowed_
+    - **Old Dutch:** rakinza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+    - **Old Dutch:** *rakiza — _borrowed_
+      - **Middle Dutch:** raecse — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** raecks — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+      - **Middle Dutch:** reecs — _inherited; uncertain_
+        - **Dutch:** raaks
+        - **Dutch:** reeks
+- **Old Norse:** rekendr — _f_
+  - **Icelandic:** rekendur
+  - **Icelandic:** rekendi
+  - **Icelandic:** rekindi
+- **Old Norse:** rekendi — _n_
+  - **Icelandic:** rekendur
+  - **Icelandic:** rekendi
+  - **Icelandic:** rekindi

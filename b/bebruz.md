@@ -1,0 +1,1404 @@
+# *bebruz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/bebruz)
+
+## Proto-Germanic
+
+**Reconstruction:** *bebruz
+
+### Etymology
+
+From Proto-Indo-European *bʰébʰrus.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *bʰébʰrus
+
+### Pronunciation
+
+- IPA: `/ˈbe.βruz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ beaver
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| bebruz | nominative, singular |
+| bibriwiz | nominative, plural |
+| bebru | singular, vocative |
+| bibriwiz | plural, vocative |
+| bebrų | accusative, singular |
+| bebrunz | accusative, plural |
+| bebrauz | genitive, singular |
+| bibriwǫ̂ | genitive, plural |
+| bibriwi | dative, singular |
+| bebrumaz | dative, plural |
+| bebrū | instrumental, singular |
+| bebrumiz | instrumental, plural |
+| *beburaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *bebru
+  - **Old English:** befer
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** beofor
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** byfor
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** bebr
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** bebir
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** beber
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** befor
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** beofer
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old English:** beuer
+    - **Middle English:** bever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beever
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beuver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevere
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bewer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** byvre
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beauver
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** befer
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** beofer — _Early Middle English_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevir
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyr
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+    - **Middle English:** bevyre — _East Anglia or Northern_
+      - **English:** beaver
+      - **Middle Scots:** baver
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bever
+        - **Scots:** beaver
+        - **Scots:** baiver
+      - **Middle Scots:** bevir
+        - **Scots:** beaver
+        - **Scots:** baiver
+  - **Old Frisian:** *bever
+    - **North Frisian:** biiber — _or from German?_
+    - **West Frisian:** bever
+  - **Old Saxon:** biƀar
+    - **Middle Low German:** bēver
+      - **Low German:** Bever
+      - **Plautdietsch:** Bieba — _or from German?_
+      - **Faroese:** bævur — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** bever
+        - **Norwegian Nynorsk:** bever
+      - **Old Swedish:** bæver — _borrowed_
+        - **Swedish:** bäver
+      - **Old Danish:** biauær — _borrowed_
+        - **Danish:** bæver
+        - **Icelandic:** bifur — _borrowed_
+      - **Elfdalian:** bäver — _borrowed_
+      - **Gutnish:** bävar — _borrowed_
+  - **Old Saxon:** biƀor
+    - **Middle Low German:** bēver
+      - **Low German:** Bever
+      - **Plautdietsch:** Bieba — _or from German?_
+      - **Faroese:** bævur — _borrowed_
+      - **Norwegian:**  — _borrowed_
+        - **Norwegian Bokmål:** bever
+        - **Norwegian Nynorsk:** bever
+      - **Old Swedish:** bæver — _borrowed_
+        - **Swedish:** bäver
+      - **Old Danish:** biauær — _borrowed_
+        - **Danish:** bæver
+        - **Icelandic:** bifur — _borrowed_
+      - **Elfdalian:** bäver — _borrowed_
+      - **Gutnish:** bävar — _borrowed_
+  - **Old Dutch:** *bevar
+    - **Middle Dutch:** bēver
+      - **Dutch:** bever
+        - **Afrikaans:** bewer
+      - **Limburgish:** baever
+  - **Old High German:** bibar
+    - **Middle High German:** biber
+      - **German:** Biber
+        - **Luxembourgish:** Biber — _borrowed_
+      - **Hunsrik:** Biver
+      - **Yiddish:** ביבער
+  - **Old High German:** bibur
+    - **Middle High German:** biber
+      - **German:** Biber
+        - **Luxembourgish:** Biber — _borrowed_
+      - **Hunsrik:** Biver
+      - **Yiddish:** ביבער
+- **Old Norse:** bjórr
+  - **Icelandic:** bjór
+  - **Norwegian Bokmål:** bjor
+  - **Norwegian Nynorsk:** bjor
+  - **Old Swedish:** biūr
+    - **Swedish:** bjur — _obsolete_
+    - **Elfdalian:** biuor
+  - **Old Danish:** biūr
+  - **Old Danish:** bifær

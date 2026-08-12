@@ -1,0 +1,469 @@
+# *nabalô
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/nabal%C3%B4)
+
+## Proto-Germanic
+
+**Reconstruction:** *nabalô
+
+### Etymology
+
+From Proto-Indo-European *h₃nóbʰol-ō ~ *h₃m̥bʰl̥-nés, from *h₃nóbʰōl.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₃nóbʰol-ō ~ *h₃m̥bʰl̥-nés
+
+### Pronunciation
+
+- IPA: `/ˈnɑ.βɑ.lɔːː/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ navel
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| an-stem | class |
+| nabalô | nominative, singular |
+| nabalaniz | nominative, plural |
+| nabalô | singular, vocative |
+| nabalaniz | plural, vocative |
+| nabalanų | accusative, singular |
+| nabalanunz | accusative, plural |
+| nabaliniz | genitive, singular |
+| nabalanǫ̂ | genitive, plural |
+| nabalini | dative, singular |
+| nabalammaz | dative, plural |
+| nabalinē | instrumental, singular |
+| nabalammiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *nabulō
+  - **Old English:** nafola
+    - **Middle English:** navele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navel
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyl
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** neavele — _AB language_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novyl — _Promptorium Parvulorum_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowil
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowle — _East Anglia_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novel — _East Saxon_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navill
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll — _West Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawyll — _Northern_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** naule — _Northwest Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+  - **Old English:** nabula
+    - **Middle English:** navele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navel
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyl
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** neavele — _AB language_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novyl — _Promptorium Parvulorum_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowil
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowle — _East Anglia_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novel — _East Saxon_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navill
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll — _West Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawyll — _Northern_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** naule — _Northwest Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+  - **Old English:** nafela
+    - **Middle English:** navele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navel
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyl
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** neavele — _AB language_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novyl — _Promptorium Parvulorum_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowil
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowle — _East Anglia_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novel — _East Saxon_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navill
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll — _West Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawyll — _Northern_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** naule — _Northwest Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+  - **Old English:** navela
+    - **Middle English:** navele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navel
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyl
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** neavele — _AB language_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novyl — _Promptorium Parvulorum_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novle
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowele
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowil
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nowle — _East Anglia_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** novel — _East Saxon_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navill
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll — _West Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** navyll
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** nawyll — _Northern_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+    - **Middle English:** naule — _Northwest Midland_
+      - **English:** navel
+      - **Middle Scots:** navill
+        - **Scots:** navel
+        - **Scots:** nyle
+  - **Old Frisian:** navla
+    - **North Frisian:** nawel
+    - **Saterland Frisian:** Nauel
+    - **West Frisian:** nâle
+  - **Old Saxon:** *navalo
+    - **Middle Low German:** nâvel
+      - **German Low German:** Naffel
+      - **Plautdietsch:** Nowel
+  - **Old Dutch:** navalo
+    - **Middle Dutch:** navele
+      - **Dutch:** navel
+        - **Afrikaans:** nawel
+        - **Afrikaans:** nauel
+      - **Limburgish:** navel
+    - **Middle Dutch:** navel
+      - **Dutch:** navel
+        - **Afrikaans:** nawel
+        - **Afrikaans:** nauel
+      - **Limburgish:** navel
+  - **Old High German:** nabalo
+    - **Middle High German:** nabele
+      - **German:** Nabel
+      - **Hunsrik:** Nawel
+      - **Luxembourgish:** Nuebel
+      - **Vilamovian:** nowuł
+      - **Yiddish:** נאָפּל
+    - **Middle High German:** nabel
+      - **German:** Nabel
+      - **Hunsrik:** Nawel
+      - **Luxembourgish:** Nuebel
+      - **Vilamovian:** nowuł
+      - **Yiddish:** נאָפּל
+  - **Old High German:** nabulo
+    - **Middle High German:** nabele
+      - **German:** Nabel
+      - **Hunsrik:** Nawel
+      - **Luxembourgish:** Nuebel
+      - **Vilamovian:** nowuł
+      - **Yiddish:** נאָפּל
+    - **Middle High German:** nabel
+      - **German:** Nabel
+      - **Hunsrik:** Nawel
+      - **Luxembourgish:** Nuebel
+      - **Vilamovian:** nowuł
+      - **Yiddish:** נאָפּל
+- **Old Norse:** nafli
+  - **Icelandic:** nafli
+  - **Faroese:** nalvi
+  - **Norwegian:** navle
+  - **Old Swedish:** nafle
+    - **Swedish:** navel
+  - **Old Danish:** navle
+    - **Danish:** navle
+  - **Elfdalian:** navel
+  - **Gutnish:** navel
+  - **Gutnish:** navle
+  - **Gutnish:** navli

@@ -1,0 +1,896 @@
+# *murginaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/murginaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *murginaz
+
+### Etymology
+
+From Proto-Indo-European *merkʷ- (“to flicker, twinkle, darken”). Cognate with Lithuanian mérkti (“to wink”), Russian мрак (mrak, “gloom, darkness, shadow”), Sanskrit मर्क (marká, “solar eclipse”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *merkʷ-
+
+### Pronunciation
+
+- IPA: `/ˈmur.ɣi.naz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ morning
+2. _(masculine, reconstruction)_ tomorrow
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| murginaz | nominative, singular |
+| murginōz | nominative, plural |
+| murginōs | nominative, plural |
+| murgin | singular, vocative |
+| murginōz | plural, vocative |
+| murginōs | plural, vocative |
+| murginą | accusative, singular |
+| murginanz | accusative, plural |
+| murginas | genitive, singular |
+| murginis | genitive, singular |
+| murginǫ̂ | genitive, plural |
+| murginai | dative, singular |
+| murginamaz | dative, plural |
+| murginō | instrumental, singular |
+| murginamiz | instrumental, plural |
+| *murganaz | alternative |
+| *murgunaz | alternative |
+| *marganaz | alternative |
+| *marginaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *morgin
+  - **Old English:** morgen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** margen — _Mercian_
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** merġen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** mergen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** meriġen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** merien
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** myrġen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old Frisian:** morgen
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Frisian:** mergen
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Frisian:** morn
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Frisian:** mern
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Saxon:** morgan
+    - **Middle Low German:** morgen
+      - **German Low German:** Mörgen
+      - **German Low German:** Morgen
+      - **German Low German:** Morrn
+      - **Dutch Low Saxon:** morgen
+      - **Dutch Low Saxon:** morren
+  - **Old Dutch:** morgan
+    - **Middle Dutch:** morgen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** morghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** margen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** marghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** mergen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+  - **Old Dutch:** *margan
+    - **Middle Dutch:** morgen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** morghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** margen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** marghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** mergen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+  - **Old Dutch:** *mergin
+    - **Middle Dutch:** morgen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** morghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** margen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** marghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** mergen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+  - **Old High German:** morgan
+    - **Middle High German:** morgen
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+    - **Middle High German:** morn
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+  - **Old High German:** morcan
+    - **Middle High German:** morgen
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+    - **Middle High German:** morn
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+- **Proto-West Germanic:** *morgan
+  - **Old English:** morgen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** margen — _Mercian_
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** merġen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** mergen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** meriġen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** merien
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old English:** myrġen
+    - **Middle English:** morwe
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morȝen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morwen
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+    - **Middle English:** morn
+      - **English:** morrow
+      - **English:** morn
+      - **Scots:** morrow
+      - **Scots:** morra
+      - **Scots:** morn
+  - **Old Frisian:** morgen
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Frisian:** mergen
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Frisian:** morn
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Frisian:** mern
+    - **North Frisian:** miern
+    - **Saterland Frisian:** Mäiden
+    - **West Frisian:** moarn
+  - **Old Saxon:** morgan
+    - **Middle Low German:** morgen
+      - **German Low German:** Mörgen
+      - **German Low German:** Morgen
+      - **German Low German:** Morrn
+      - **Dutch Low Saxon:** morgen
+      - **Dutch Low Saxon:** morren
+  - **Old Dutch:** morgan
+    - **Middle Dutch:** morgen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** morghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** margen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** marghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** mergen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+  - **Old Dutch:** *margan
+    - **Middle Dutch:** morgen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** morghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** margen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** marghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** mergen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+  - **Old Dutch:** *mergin
+    - **Middle Dutch:** morgen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** morghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** margen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** marghen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+    - **Middle Dutch:** mergen
+      - **Dutch:** morgen
+        - **Afrikaans:** môre
+      - **Dutch:** mogge
+        - **Afrikaans:** môre
+      - **Dutch:** mogguh — _eye dialect_
+        - **Afrikaans:** môre
+  - **Old High German:** morgan
+    - **Middle High German:** morgen
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+    - **Middle High German:** morn
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+  - **Old High German:** morcan
+    - **Middle High German:** morgen
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+    - **Middle High German:** morn
+      - **Alemannic German:** moorn
+      - **Alemannic German:** moore — _Glarus; Uri; Unterwalden_
+      - **Alemannic German:** mooru — _Valais_
+      - **Alemannic German:** moore
+      - **Bavarian:** Morgen
+      - **Bavarian:** Muagn
+      - **Bavarian:** Muang
+      - **Central Franconian:** 
+      - **German:** Morgen
+        - **English:** morgen — _borrowed_
+      - **Hessian:** Mojje
+      - **Vilamovian:** miügia
+      - **Yiddish:** מאָרגן
+- **Old Norse:** morginn
+  - **Icelandic:** morgunn
+  - **Faroese:** morgun
+  - **Norwegian Nynorsk:** morgon
+  - **Jamtish:** morgę
+  - **Elfdalian:** morgun
+  - **Old Swedish:** morghin
+    - **Swedish:** morgon
+  - **Old Swedish:** morghon
+    - **Swedish:** morgon
+  - **Old Swedish:** morghan
+    - **Swedish:** morgon
+  - **Old Danish:** morghæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Old Danish:** morwæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Gutnish:** mårgen
+  - **Gutnish:** mårren
+- **Old Norse:** morgunn
+  - **Icelandic:** morgunn
+  - **Faroese:** morgun
+  - **Norwegian Nynorsk:** morgon
+  - **Jamtish:** morgę
+  - **Elfdalian:** morgun
+  - **Old Swedish:** morghin
+    - **Swedish:** morgon
+  - **Old Swedish:** morghon
+    - **Swedish:** morgon
+  - **Old Swedish:** morghan
+    - **Swedish:** morgon
+  - **Old Danish:** morghæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Old Danish:** morwæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Gutnish:** mårgen
+  - **Gutnish:** mårren
+- **Old Norse:** merginn
+  - **Icelandic:** morgunn
+  - **Faroese:** morgun
+  - **Norwegian Nynorsk:** morgon
+  - **Jamtish:** morgę
+  - **Elfdalian:** morgun
+  - **Old Swedish:** morghin
+    - **Swedish:** morgon
+  - **Old Swedish:** morghon
+    - **Swedish:** morgon
+  - **Old Swedish:** morghan
+    - **Swedish:** morgon
+  - **Old Danish:** morghæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Old Danish:** morwæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Gutnish:** mårgen
+  - **Gutnish:** mårren
+- **Old Norse:** myrginn
+  - **Icelandic:** morgunn
+  - **Faroese:** morgun
+  - **Norwegian Nynorsk:** morgon
+  - **Jamtish:** morgę
+  - **Elfdalian:** morgun
+  - **Old Swedish:** morghin
+    - **Swedish:** morgon
+  - **Old Swedish:** morghon
+    - **Swedish:** morgon
+  - **Old Swedish:** morghan
+    - **Swedish:** morgon
+  - **Old Danish:** morghæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Old Danish:** morwæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Gutnish:** mårgen
+  - **Gutnish:** mårren
+- **Old Norse:** myrgunn
+  - **Icelandic:** morgunn
+  - **Faroese:** morgun
+  - **Norwegian Nynorsk:** morgon
+  - **Jamtish:** morgę
+  - **Elfdalian:** morgun
+  - **Old Swedish:** morghin
+    - **Swedish:** morgon
+  - **Old Swedish:** morghon
+    - **Swedish:** morgon
+  - **Old Swedish:** morghan
+    - **Swedish:** morgon
+  - **Old Danish:** morghæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Old Danish:** morwæn
+    - **Danish:** morgen
+      - **Norwegian Bokmål:** morgen
+    - **Scanian:** marğen
+  - **Gutnish:** mårgen
+  - **Gutnish:** mårren
+- **Gothic:** 𐌼𐌰𐌿𐍂𐌲𐌹𐌽𐍃

@@ -1,0 +1,692 @@
+# *ankulaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ankulaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *ankulaz
+
+### Etymology
+
+From Proto-Indo-European *h₂eng- (“joint; to bend”) + *-ulaz. Particularly close cognate with Sanskrit अङ्गुरि (aṅgúri, “finger, toe, digit”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂eng-
+
+### Noun
+
+1. _(masculine, reconstruction)_ ankle
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| ankulaz | nominative, singular |
+| ankulōz | nominative, plural |
+| ankulōs | nominative, plural |
+| ankul | singular, vocative |
+| ankulōz | plural, vocative |
+| ankulōs | plural, vocative |
+| ankulą | accusative, singular |
+| ankulanz | accusative, plural |
+| ankulas | genitive, singular |
+| ankulis | genitive, singular |
+| ankulǫ̂ | genitive, plural |
+| ankulai | dative, singular |
+| ankulamaz | dative, plural |
+| ankulō | instrumental, singular |
+| ankulamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ankul
+  - **Old English:** *ancol
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old English:** *ancel
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old English:** anclēo
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old English:** anclēow
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old Frisian:** onkel
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Frisian:** anckel
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Frisian:** inzil
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Frisian:** onklef
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Saxon:** enkel
+    - **Middle Low German:** ankel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** enkel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** anclef
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antcleve
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antclau — _n_
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+  - **Old Saxon:** ankel
+    - **Middle Low German:** ankel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** enkel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** anclef
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antcleve
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antclau — _n_
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+  - **Old Dutch:** *enklow
+    - **Middle Dutch:** enkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** ankel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enklauw
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enclau
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** anclief
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inclouwe
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+  - **Old Dutch:** *enkle
+    - **Middle Dutch:** enkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** ankel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enklauw
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enclau
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** anclief
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inclouwe
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+  - **Old Dutch:** *ankel
+    - **Middle Dutch:** enkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** ankel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enklauw
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enclau
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** anclief
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inclouwe
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+  - **Old High German:** enkil
+    - **Middle High German:** enkel
+      - **German:** Enkel
+  - **Old High German:** ankala — _f_
+    - **Middle High German:** enkel
+      - **German:** Enkel
+  - **Old High German:** anchlāo — _n_
+    - **Middle High German:** enkel
+      - **German:** Enkel
+- **Proto-West Germanic:** *ankil
+  - **Old English:** *ancol
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old English:** *ancel
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old English:** anclēo
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old English:** anclēow
+    - **Middle English:** ankel
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankyll
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ancle
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** ankne
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+    - **Middle English:** anknee
+      - **English:** ankle
+      - **Scots:** ankleth
+      - **Scots:** anklet
+  - **Old Frisian:** onkel
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Frisian:** anckel
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Frisian:** inzil
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Frisian:** onklef
+    - **North Frisian:** onkel
+    - **Saterland Frisian:** Onkel
+    - **Saterland Frisian:** Oankel — _n_
+    - **West Frisian:** ankel
+  - **Old Saxon:** enkel
+    - **Middle Low German:** ankel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** enkel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** anclef
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antcleve
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antclau — _n_
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+  - **Old Saxon:** ankel
+    - **Middle Low German:** ankel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** enkel
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** anclef
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antcleve
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+    - **Middle Low German:** antclau — _n_
+      - **German Low German:** Enkel
+      - **Low German:** Enkel
+      - **Norwegian Bokmål:** ankel — _borrowed_
+      - **Swedish:** ankel — _borrowed_
+      - **Danish:** ankel — _borrowed_
+      - **Gutnish:** ankel — _borrowed_
+      - **Gutnish:** ankul — _borrowed_
+      - **Gutnish:** ankål — _borrowed_
+  - **Old Dutch:** *enklow
+    - **Middle Dutch:** enkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** ankel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enklauw
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enclau
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** anclief
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inclouwe
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+  - **Old Dutch:** *enkle
+    - **Middle Dutch:** enkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** ankel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enklauw
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enclau
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** anclief
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inclouwe
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+  - **Old Dutch:** *ankel
+    - **Middle Dutch:** enkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** ankel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inkel
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enklauw
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** enclau
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** anclief
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+    - **Middle Dutch:** inclouwe
+      - **Dutch:** enkel
+        - **Afrikaans:** enkel
+      - **Dutch:** enklauw
+        - **Afrikaans:** enkel
+  - **Old High German:** enkil
+    - **Middle High German:** enkel
+      - **German:** Enkel
+  - **Old High German:** ankala — _f_
+    - **Middle High German:** enkel
+      - **German:** Enkel
+  - **Old High German:** anchlāo — _n_
+    - **Middle High German:** enkel
+      - **German:** Enkel
+- **Old Norse:** ǫkkla
+  - **Icelandic:** ökla
+  - **Icelandic:** ökli
+  - **Icelandic:** ökkli
+  - **Faroese:** økil
+  - **Faroese:** økul
+- **Old Norse:** ǫkla — _f_
+  - **Icelandic:** ökla
+  - **Icelandic:** ökli
+  - **Icelandic:** ökkli
+  - **Faroese:** økil
+  - **Faroese:** økul
+- **Old Norse:** ǫkli — _m_
+  - **Icelandic:** ökla
+  - **Icelandic:** ökli
+  - **Icelandic:** ökkli
+  - **Faroese:** økil
+  - **Faroese:** økul

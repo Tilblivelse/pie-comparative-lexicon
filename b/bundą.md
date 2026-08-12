@@ -1,0 +1,635 @@
+# *bundą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/bund%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *bundą
+
+### Etymology
+
+From Proto-Indo-European *bʰendʰ- (“to tie; bind”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *bʰendʰ-
+
+### Noun
+
+1. _(neuter, reconstruction)_ bundle
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| bundą | nominative, singular |
+| bundō | nominative, plural |
+| bundą | singular, vocative |
+| bundō | plural, vocative |
+| bundą | accusative, singular |
+| bundō | accusative, plural |
+| bundas | genitive, singular |
+| bundis | genitive, singular |
+| bundǫ̂ | genitive, plural |
+| bundai | dative, singular |
+| bundamaz | dative, plural |
+| bundō | instrumental, singular |
+| bundamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Old English:** bund
+  - **Middle English:** *bund
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** *bound
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bonde
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bundel
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+- **Old English:** byndelle
+  - **Middle English:** *bund
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** *bound
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bonde
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bundel
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+- **Old English:** byndele
+  - **Middle English:** *bund
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** *bound
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bonde
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bundel
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+- **Old English:** bindele
+  - **Middle English:** *bund
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** *bound
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bonde
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+  - **Middle English:** bundel
+    - **English:** bond
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bundle
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bind
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bound
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+    - **English:** bownd
+      - **Scots:** bund
+      - **Scots:** bound
+      - **Scots:** bundle
+      - **Scots:** bindle
+- **Old Frisian:** *bund
+  - **Saterland Frisian:** Buund
+  - **West Frisian:** bondel
+- **Old Frisian:** *bundel
+  - **Saterland Frisian:** Buund
+  - **West Frisian:** bondel
+- **Old Frisian:** *bondel
+  - **Saterland Frisian:** Buund
+  - **West Frisian:** bondel
+- **Old Saxon:** *bund
+  - **Middle Low German:** bund
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+  - **Middle Low German:** bunt
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+  - **Middle Low German:** bündel
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+- **Old Saxon:** gibund
+  - **Middle Low German:** bund
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+  - **Middle Low German:** bunt
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+  - **Middle Low German:** bündel
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+- **Old Saxon:** bundilīn
+  - **Middle Low German:** bund
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+  - **Middle Low German:** bunt
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+  - **Middle Low German:** bündel
+    - **Low German:** Bundel
+    - **Danish:** bundt — _borrowed_
+    - **Swedish:** bunt — _borrowed_
+    - **Norwegian:** bunt — _borrowed_
+- **Old Dutch:** *bund
+  - **Middle Dutch:** bont
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+  - **Middle Dutch:** bundel
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+  - **Middle Dutch:** bondel
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+- **Old Dutch:** *bunt
+  - **Middle Dutch:** bont
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+  - **Middle Dutch:** bundel
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+  - **Middle Dutch:** bondel
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+- **Old Dutch:** *bundil
+  - **Middle Dutch:** bont
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+  - **Middle Dutch:** bundel
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+  - **Middle Dutch:** bondel
+    - **Dutch:** bond
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bundel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+    - **Dutch:** bondel
+      - **Afrikaans:** bond
+      - **Afrikaans:** bondel
+- **Old High German:** *bunt
+  - **Middle High German:** bunt
+    - **German:** Bund
+    - **German:** Bündel
+    - **Luxembourgish:** Bond
+  - **Middle High German:** bündel
+    - **German:** Bund
+    - **German:** Bündel
+    - **Luxembourgish:** Bond
+- **Old High German:** gibuntili
+  - **Middle High German:** bunt
+    - **German:** Bund
+    - **German:** Bündel
+    - **Luxembourgish:** Bond
+  - **Middle High German:** bündel
+    - **German:** Bund
+    - **German:** Bündel
+    - **Luxembourgish:** Bond
+- **Old Norse:** *byndi
+- **Old Norse:** handbyndi
+- **Gothic:** 𐌲𐌰𐌱𐌿𐌽𐌳𐌹

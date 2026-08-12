@@ -1,0 +1,638 @@
+# *skaduz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/skaduz)
+
+## Proto-Germanic
+
+**Reconstruction:** *skaduz
+
+### Etymology
+
+From Proto-Indo-European *(s)ḱh₃-tús, from *(s)ḱeh₃- (“dark”). Cognate with Old Irish scáth (“shadow”), Ancient Greek σκότος (skótos, “darkness”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *(s)ḱeh₃-, *(s)ḱh₃-tús, *(s)ḱh₃tús
+
+### Pronunciation
+
+- IPA: `/ˈskɑð.uz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ a shadow
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| skaduz | nominative, singular |
+| skadiwiz | nominative, plural |
+| skadu | singular, vocative |
+| skadiwiz | plural, vocative |
+| skadų | accusative, singular |
+| skadunz | accusative, plural |
+| skadauz | genitive, singular |
+| skadiwǫ̂ | genitive, plural |
+| skadiwi | dative, singular |
+| skadumaz | dative, plural |
+| skadū | instrumental, singular |
+| skadumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *skadu
+  - **Old English:** sċeadu
+    - **Middle English:** schade
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** shad
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** shadde
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** shade
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** scæde — _Early Middle English_
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** ssade — _Southwest Midland_
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** ssed — _Kent_
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** schadwe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadewe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schado — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadou — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadowe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** shadewe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** shadow — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** shadue — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadough — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadow — _reshaped by analogy or addition of morphemes; Late Middle English_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** scaudu — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadw — _reshaped by analogy or addition of morphemes; West Riding_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+  - **Old English:** sċadu
+    - **Middle English:** schade
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** shad
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** shadde
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** shade
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** scæde — _Early Middle English_
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** ssade — _Southwest Midland_
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** ssed — _Kent_
+      - **English:** shade
+        - **Middle Scots:** schad — _borrowed_
+          - **Scots:** shade
+        - **Middle Scots:** schade — _borrowed_
+          - **Scots:** shade
+      - **Yola:** shaade
+    - **Middle English:** schadwe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadewe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schado — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadou — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadowe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** shadewe — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** shadow — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** shadue — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadough — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadow — _reshaped by analogy or addition of morphemes; Late Middle English_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** scaudu — _reshaped by analogy or addition of morphemes_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+    - **Middle English:** schadw — _reshaped by analogy or addition of morphemes; West Riding_
+      - **English:** shadow
+      - **Middle Scots:** schadow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** schaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+      - **Middle Scots:** scaddow
+        - **Scots:** shadda
+        - **Scots:** shedda
+  - **Old Frisian:** *skade
+    - **Saterland Frisian:** Skade
+    - **Saterland Frisian:** Skaad
+    - **West Frisian:** skaad
+    - **West Frisian:** skâd
+  - **Old Saxon:** skado
+    - **Middle Low German:** schaduwe
+      - **Low German:** 
+        - **German Low German:** Schade
+        - **German Low German:** Scharre
+        - **German Low German:** Scharr
+        - **Westphalian:** 
+      - **Plautdietsch:** Schauten
+    - **Middle Low German:** schadewe
+      - **Low German:** 
+        - **German Low German:** Schade
+        - **German Low German:** Scharre
+        - **German Low German:** Scharr
+        - **Westphalian:** 
+      - **Plautdietsch:** Schauten
+    - **Middle Low German:** schāde
+      - **Low German:** 
+        - **German Low German:** Schade
+        - **German Low German:** Scharre
+        - **German Low German:** Scharr
+        - **Westphalian:** 
+      - **Plautdietsch:** Schauten
+    - **Middle Low German:** schēde
+      - **Low German:** 
+        - **German Low German:** Schade
+        - **German Low German:** Scharre
+        - **German Low German:** Scharr
+        - **Westphalian:** 
+      - **Plautdietsch:** Schauten
+  - **Old Dutch:** scado
+    - **Middle Dutch:** schāde
+      - **Dutch:** schaduw — _archaic_
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Dutch:** schad — _archaic_
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Dutch:** schade
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Dutch:** schaai
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Limburgish:** Schatte
+    - **Middle Dutch:** schāduwe
+      - **Dutch:** schaduw — _archaic_
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Dutch:** schad — _archaic_
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Dutch:** schade
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Dutch:** schaai
+        - **Afrikaans:** skadu
+        - **Afrikaans:** skaduwee
+      - **Limburgish:** Schatte
+  - **Old High German:** skato
+    - **Middle High German:** schate
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schade
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schete
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schatwe
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schetewe — _m_
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+  - **Old High German:** scato — _m_
+    - **Middle High German:** schate
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schade
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schete
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schatwe
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schetewe — _m_
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+  - **Old High German:** skata
+    - **Middle High German:** schate
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schade
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schete
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schatwe
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schetewe — _m_
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+  - **Old High German:** scata — _f_
+    - **Middle High German:** schate
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schade
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schete
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schatwe
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+    - **Middle High German:** schetewe — _m_
+      - **German:** Schatten
+      - **Central Franconian:** Schatte
+      - **Hunsrik:** Schatte
+      - **Luxembourgish:** Schiet
+      - **Vilamovian:** siota
+      - **Yiddish:** שאָטן
+- **Old Norse:** *skadda
+  - **Icelandic:** skodda
+  - **Icelandic:** skoddi
+  - **Faroese:** skadda
+  - **Faroese:** skødda
+  - **Faroese:** skaddi
+  - **Norwegian Bokmål:** skodde
+  - **Norwegian Nynorsk:** skodde
+  - **Jamtish:** skǫdde
+- **Old Norse:** *skǫddu
+  - **Icelandic:** skodda
+  - **Icelandic:** skoddi
+  - **Faroese:** skadda
+  - **Faroese:** skødda
+  - **Faroese:** skaddi
+  - **Norwegian Bokmål:** skodde
+  - **Norwegian Nynorsk:** skodde
+  - **Jamtish:** skǫdde
+- **Gothic:** 𐍃𐌺𐌰𐌳𐌿𐍃

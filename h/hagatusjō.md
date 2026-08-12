@@ -1,0 +1,1473 @@
+# *hagatusjō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hagatusj%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *hagatusjō
+
+### Etymology
+
+Uncertain; possibly from *hagaz (“skilled, crafty”) + *tusjō (“witch, demon”) (whence Norwegian tysja (“witch, demon”)), perhaps from Proto-Indo-European *dʰus-yéh₂, from *dʰews- (“breath; spirit”) (whence *deuzą (“animal, beast”)). However, this devoicing is phonetically irregular. The second part is more likely from Proto-Indo-European *dus- (“bad, evil”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dus-, *dʰus-yéh₂, *ḱek-
+
+### Noun
+
+1. _(Germanic, West, feminine, reconstruction)_ witch
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| hagatusjō | nominative, singular |
+| hagatusjôz | nominative, plural |
+| hagatusjō | singular, vocative |
+| hagatusjôz | plural, vocative |
+| hagatusjǭ | accusative, singular |
+| hagatusjōz | accusative, plural |
+| hagatusjōz | genitive, singular |
+| hagatusjǫ̂ | genitive, plural |
+| hagatusjōi | dative, singular |
+| hagatusjōmaz | dative, plural |
+| hagatusjō | instrumental, singular |
+| hagatusjōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hagatussjā
+  - **Old English:** hæġtesse
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** hæġtes
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** hæġtess
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** heġtes
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** hǣts
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old Frisian:** *hegtesse — _inherited; uncertain_
+  - **Old Saxon:** *hagatussia — _inherited; uncertain_
+  - **Old Dutch:** *hagatissa
+    - **Middle Dutch:** hagetisse
+      - **Dutch:** hagedis — _dialectal_
+  - **Old High German:** hagazussa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzasa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzessa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzisa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzissa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzisa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzusa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hazzesa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hazzisa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+- **Proto-West Germanic:** *hagatusi
+  - **Old English:** hæġtesse
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** hæġtes
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** hæġtess
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** heġtes
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old English:** hǣts
+    - **Middle English:** hagge
+      - **English:** hag
+    - **Middle English:** hegge
+      - **English:** hag
+  - **Old Frisian:** *hegtesse — _inherited; uncertain_
+  - **Old Saxon:** *hagatussia — _inherited; uncertain_
+  - **Old Dutch:** *hagatissa
+    - **Middle Dutch:** hagetisse
+      - **Dutch:** hagedis — _dialectal_
+  - **Old High German:** hagazussa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzasa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzessa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzisa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzissa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzisa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hāzusa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hazzesa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+  - **Old High German:** hazzisa
+    - **Middle High German:** hecse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hesse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hegxse
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_
+    - **Middle High German:** hexe
+      - **German:** Hexe
+      - **Luxembourgish:** Hex — _inheritance uncertain_
+      - **Middle Dutch:** hexe — _borrowed_
+        - **Dutch:** heks
+          - **Afrikaans:** heks
+          - **West Frisian:** heks — _borrowed; alternatively through Middle Low German_
+      - **Middle Low German:** hexe — _borrowed_
+        - **Low German:** Hex
+        - **Low German:** Hexe
+        - **Plautdietsch:** Hakjs
+        - **Danish:** heks — _borrowed_
+        - **Norwegian:** heks — _borrowed_
+        - **Saterland Frisian:** Häkse — _borrowed_
+        - **Swedish:** häxa — _borrowed_

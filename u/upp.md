@@ -1,0 +1,398 @@
+# *upp
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/upp)
+
+## Proto-Germanic
+
+**Reconstruction:** *upp
+
+### Etymology
+
+The form is from either *ub + a nasal affix representing an earlier *up-nó, related to *uppai (earlier *up-nóy) and *ubanē; or by analogy with *uppai.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/upː/`
+
+### Adverb
+
+1. _(reconstruction)_ up, upwards
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| *eup | alternative |
+| *ūp | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *upp
+  - **Old English:** upp
+    - **Middle English:** up
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** upp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** op
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** oup
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** ap
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** owp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+  - **Old English:** up
+    - **Middle English:** up
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** upp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** op
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** oup
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** ap
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** owp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+  - **Old English:** ūp
+    - **Middle English:** up
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** upp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** op
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** oup
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** ap
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** owp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+  - **Old Frisian:** uppa
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Frisian:** oppa
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Frisian:** up
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Frisian:** op
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Saxon:** ūp
+    - **Middle Low German:** up
+      - **German Low German:** up
+      - **German Low German:** op
+  - **Old Dutch:** ūp
+    - **Middle Dutch:** op
+      - **Dutch:** op
+      - **Dutch:** oep
+      - **West Flemish:** up
+      - **West Flemish:** ip
+  - **Old High German:** ūf
+    - **Middle High German:** ūf
+      - **Alemannic German:** uf
+      - **Alemannic German:** ufe
+      - **Bavarian:** aaf
+      - **Bavarian:** auf
+      - **German:** auf
+      - **Vilamovian:** u̇f
+      - **Yiddish:** אויף
+    - **Old Rhine Franconian:** uf
+      - **Middle Rhine Franconian:** uf
+        - **Rhine Franconian:** uff
+        - **Rhine Franconian:** off
+    - **Old Central Franconian:** *up
+      - **Middle Central Franconian:** up
+        - **Central Franconian:** op
+  - **Old High German:** uf — _Rhine Franconian_
+    - **Middle High German:** ūf
+      - **Alemannic German:** uf
+      - **Alemannic German:** ufe
+      - **Bavarian:** aaf
+      - **Bavarian:** auf
+      - **German:** auf
+      - **Vilamovian:** u̇f
+      - **Yiddish:** אויף
+    - **Old Rhine Franconian:** uf
+      - **Middle Rhine Franconian:** uf
+        - **Rhine Franconian:** uff
+        - **Rhine Franconian:** off
+    - **Old Central Franconian:** *up
+      - **Middle Central Franconian:** up
+        - **Central Franconian:** op
+  - **Old High German:** *up — _Central Franconian_
+    - **Middle High German:** ūf
+      - **Alemannic German:** uf
+      - **Alemannic German:** ufe
+      - **Bavarian:** aaf
+      - **Bavarian:** auf
+      - **German:** auf
+      - **Vilamovian:** u̇f
+      - **Yiddish:** אויף
+    - **Old Rhine Franconian:** uf
+      - **Middle Rhine Franconian:** uf
+        - **Rhine Franconian:** uff
+        - **Rhine Franconian:** off
+    - **Old Central Franconian:** *up
+      - **Middle Central Franconian:** up
+        - **Central Franconian:** op
+- **Proto-West Germanic:** *ūp
+  - **Old English:** upp
+    - **Middle English:** up
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** upp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** op
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** oup
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** ap
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** owp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+  - **Old English:** up
+    - **Middle English:** up
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** upp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** op
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** oup
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** ap
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** owp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+  - **Old English:** ūp
+    - **Middle English:** up
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** upp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** op
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** oup
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** ap
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+    - **Middle English:** owp
+      - **English:** up
+      - **Scots:** up
+      - **Yola:** ap
+      - **Yola:** up
+  - **Old Frisian:** uppa
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Frisian:** oppa
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Frisian:** up
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Frisian:** op
+    - **North Frisian:** 
+      - **Sylt:** üp
+    - **Saterland Frisian:** op
+    - **Saterland Frisian:** ap
+    - **West Frisian:** op
+  - **Old Saxon:** ūp
+    - **Middle Low German:** up
+      - **German Low German:** up
+      - **German Low German:** op
+  - **Old Dutch:** ūp
+    - **Middle Dutch:** op
+      - **Dutch:** op
+      - **Dutch:** oep
+      - **West Flemish:** up
+      - **West Flemish:** ip
+  - **Old High German:** ūf
+    - **Middle High German:** ūf
+      - **Alemannic German:** uf
+      - **Alemannic German:** ufe
+      - **Bavarian:** aaf
+      - **Bavarian:** auf
+      - **German:** auf
+      - **Vilamovian:** u̇f
+      - **Yiddish:** אויף
+    - **Old Rhine Franconian:** uf
+      - **Middle Rhine Franconian:** uf
+        - **Rhine Franconian:** uff
+        - **Rhine Franconian:** off
+    - **Old Central Franconian:** *up
+      - **Middle Central Franconian:** up
+        - **Central Franconian:** op
+  - **Old High German:** uf — _Rhine Franconian_
+    - **Middle High German:** ūf
+      - **Alemannic German:** uf
+      - **Alemannic German:** ufe
+      - **Bavarian:** aaf
+      - **Bavarian:** auf
+      - **German:** auf
+      - **Vilamovian:** u̇f
+      - **Yiddish:** אויף
+    - **Old Rhine Franconian:** uf
+      - **Middle Rhine Franconian:** uf
+        - **Rhine Franconian:** uff
+        - **Rhine Franconian:** off
+    - **Old Central Franconian:** *up
+      - **Middle Central Franconian:** up
+        - **Central Franconian:** op
+  - **Old High German:** *up — _Central Franconian_
+    - **Middle High German:** ūf
+      - **Alemannic German:** uf
+      - **Alemannic German:** ufe
+      - **Bavarian:** aaf
+      - **Bavarian:** auf
+      - **German:** auf
+      - **Vilamovian:** u̇f
+      - **Yiddish:** אויף
+    - **Old Rhine Franconian:** uf
+      - **Middle Rhine Franconian:** uf
+        - **Rhine Franconian:** uff
+        - **Rhine Franconian:** off
+    - **Old Central Franconian:** *up
+      - **Middle Central Franconian:** up
+        - **Central Franconian:** op
+- **Old Norse:** upp
+  - **Icelandic:** upp
+  - **Faroese:** upp
+  - **Norwegian Nynorsk:** upp
+  - **Old Swedish:** up
+    - **Swedish:** upp
+  - **Danish:** op
+    - **Norwegian Bokmål:** opp
+      - **Norwegian Nynorsk:** opp — _borrowed_
+- **Gothic:** 𐌹𐌿𐍀

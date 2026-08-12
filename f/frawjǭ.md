@@ -1,0 +1,1775 @@
+# *frawjǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/frawj%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *frawjǭ
+
+### Etymology
+
+A feminine form of *frawjô (“lord”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈɸrɑw.jɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ lady, wife of a lord (woman of high standing)
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| frawjǭ | nominative, singular |
+| frawjōniz | nominative, plural |
+| frawjǭ | singular, vocative |
+| frawjōniz | plural, vocative |
+| frawjōnų | accusative, singular |
+| frawjōnunz | accusative, plural |
+| frawjōniz | genitive, singular |
+| frawjōnǫ̂ | genitive, plural |
+| frawjōni | dative, singular |
+| frawjōmaz | dative, plural |
+| frawjōnē | instrumental, singular |
+| frawjōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *frauwjā
+  - **Old English:** frōwe
+  - **Old English:** frēo — _inherited; uncertain_
+  - **Old Frisian:** frōwe
+    - **West Frisian:** frou
+  - **Old Frisian:** frouwe
+    - **West Frisian:** frou
+  - **Old Saxon:** frouwe
+    - **Middle Low German:** vrûwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Middle Low German:** vrouwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Old Norse:** frú — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúa — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúva — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+  - **Old Saxon:** frūa — _> *frawā_
+    - **Middle Low German:** vrûwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Middle Low German:** vrouwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Old Norse:** frú — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúa — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúva — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+  - **Old Saxon:** frūe
+    - **Middle Low German:** vrûwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Middle Low German:** vrouwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Old Norse:** frú — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúa — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúva — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+  - **Old Dutch:** frouwa
+    - **Middle Dutch:** vrouwe
+      - **Dutch:** vrouwe
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Dutch:** vrouw
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Limburgish:** Vro
+      - **Limburgish:** vrów
+      - **West Flemish:** vrouwe
+      - **Zealandic:** vrouwe
+      - **English:** frow — _borrowed_
+  - **Old Dutch:** vrouwa
+    - **Middle Dutch:** vrouwe
+      - **Dutch:** vrouwe
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Dutch:** vrouw
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Limburgish:** Vro
+      - **Limburgish:** vrów
+      - **West Flemish:** vrouwe
+      - **Zealandic:** vrouwe
+      - **English:** frow — _borrowed_
+  - **Old High German:** frouwa
+    - **Middle High German:** vrouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vro
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** fro — _before proper names_
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+  - **Old High German:** frowa
+    - **Middle High German:** vrouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vro
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** fro — _before proper names_
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+- **Proto-West Germanic:** *frawā
+  - **Old English:** frōwe
+  - **Old English:** frēo — _inherited; uncertain_
+  - **Old Frisian:** frōwe
+    - **West Frisian:** frou
+  - **Old Frisian:** frouwe
+    - **West Frisian:** frou
+  - **Old Saxon:** frouwe
+    - **Middle Low German:** vrûwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Middle Low German:** vrouwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Old Norse:** frú — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúa — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúva — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+  - **Old Saxon:** frūa — _> *frawā_
+    - **Middle Low German:** vrûwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Middle Low German:** vrouwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Old Norse:** frú — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúa — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúva — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+  - **Old Saxon:** frūe
+    - **Middle Low German:** vrûwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Middle Low German:** vrouwe
+      - **Low German:** Fru
+        - **German Low German:** Froo
+      - **Low German:** Frau
+        - **German Low German:** Froo
+      - **Plautdietsch:** Fru
+      - **Plautdietsch:** Frü
+    - **Old Norse:** frú — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúa — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+    - **Old Norse:** frúva — _borrowed_
+      - **Icelandic:** frú
+      - **Faroese:** frúgv
+      - **Faroese:** frú
+      - **Norwegian:** fru
+      - **Norwegian:** frue
+      - **Swedish:** fru
+      - **Swedish:** fruga
+      - **Danish:** frue
+      - **Danish:** fru
+  - **Old Dutch:** frouwa
+    - **Middle Dutch:** vrouwe
+      - **Dutch:** vrouwe
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Dutch:** vrouw
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Limburgish:** Vro
+      - **Limburgish:** vrów
+      - **West Flemish:** vrouwe
+      - **Zealandic:** vrouwe
+      - **English:** frow — _borrowed_
+  - **Old Dutch:** vrouwa
+    - **Middle Dutch:** vrouwe
+      - **Dutch:** vrouwe
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Dutch:** vrouw
+        - **Afrikaans:** vrou
+          - **English:** vrou — _borrowed_
+        - **English:** vrouw — _borrowed_
+      - **Limburgish:** Vro
+      - **Limburgish:** vrów
+      - **West Flemish:** vrouwe
+      - **Zealandic:** vrouwe
+      - **English:** frow — _borrowed_
+  - **Old High German:** frouwa
+    - **Middle High German:** vrouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vro
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** fro — _before proper names_
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+  - **Old High German:** frowa
+    - **Middle High German:** vrouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frouwe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frowe
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vrou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** frou
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** vro
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+    - **Middle High German:** fro — _before proper names_
+      - **Alemannic German:** Frau
+        - **Alsatian:** Fràui
+        - **Alsatian:** Fràù
+        - **Alsatian:** Frài
+        - **Alsatian:** Froi
+        - **Alsatian:** Fròi
+        - **Alsatian:** Fraù
+        - **Alsatian:** Frœy
+        - **Alsatian:** Fráw
+        - **Alsatian:** Frá
+        - **Walser:** frou
+      - **Bavarian:** Frau
+        - **Cimbrian:** brau
+        - **Cimbrian:** vrau
+      - **Central Franconian:** Fraa
+        - **Hunsrik:** Fraa
+        - **Luxembourgish:** Fra
+      - **East Central German:** Fraa
+        - **Silesian East Central German:** Froo
+      - **German:** Frau
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fr. — _abbreviation_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraue — _archaic_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frauw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Fraw
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **German:** Frawe — _obsolete_
+        - **Unserdeutsch:** Frau
+        - **English:** frau — _borrowed_
+      - **Rhine Franconian:** Fraa
+        - **Pennsylvania German:** Fraa
+        - **Palatine German:** Fraa
+      - **Vilamovian:** fraoj
+      - **Yiddish:** פֿרוי
+- **Old Norse:** freyja
+  - **Icelandic:** freyja
+  - **Old Swedish:** -prea
+- **Gothic:** 𐍆𐍂𐌰𐌿𐌾𐍉

@@ -1,0 +1,807 @@
+# -inassuz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-inassuz)
+
+## Proto-Germanic
+
+**Reconstruction:** -inassuz
+
+### Etymology
+
+Reanalyzed from *-inōną + *-assuz.
+
+### Proto-Indo-European ancestry
+
+**PIE form(s) resolved through Proto-Germanic components:** *-dyé-, *-tus
+
+### Pronunciation
+
+- IPA: `/i.nɑs.suz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ -ness
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| -inassuz | nominative, singular |
+| -inassiwiz | nominative, plural |
+| -inassu | singular, vocative |
+| -inassiwiz | plural, vocative |
+| -inassų | accusative, singular |
+| -inassunz | accusative, plural |
+| -inassauz | genitive, singular |
+| -inassiwǫ̂ | genitive, plural |
+| -inassiwi | dative, singular |
+| -inassumaz | dative, plural |
+| -inassū | instrumental, singular |
+| -inassumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *-nassī
+  - **Old English:** -nes
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -ness
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nis
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -niss
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nys
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nyss
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old Frisian:** -nisse
+    - **Saterland Frisian:** -nisse
+    - **Saterland Frisian:** -nis
+    - **West Frisian:** -ens
+  - **Old Frisian:** -ense
+    - **Saterland Frisian:** -nisse
+    - **Saterland Frisian:** -nis
+    - **West Frisian:** -ens
+  - **Old Saxon:** -nessi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Saxon:** -nissi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Saxon:** -nussi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Dutch:** -nissi
+    - **Middle Dutch:** -nisse
+      - **Dutch:** -nis
+        - **Afrikaans:** -nis
+  - **Old Dutch:** -nussi
+    - **Middle Dutch:** -nisse
+      - **Dutch:** -nis
+        - **Afrikaans:** -nis
+  - **Old High German:** -nissi
+    - **Middle High German:** -nisse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nusse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nüsse — _at least in rhyme_
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+  - **Old High German:** -nussi
+    - **Middle High German:** -nisse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nusse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nüsse — _at least in rhyme_
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+- **Proto-West Germanic:** *-nassi
+  - **Old English:** -nes
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -ness
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nis
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -niss
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nys
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nyss
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old Frisian:** -nisse
+    - **Saterland Frisian:** -nisse
+    - **Saterland Frisian:** -nis
+    - **West Frisian:** -ens
+  - **Old Frisian:** -ense
+    - **Saterland Frisian:** -nisse
+    - **Saterland Frisian:** -nis
+    - **West Frisian:** -ens
+  - **Old Saxon:** -nessi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Saxon:** -nissi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Saxon:** -nussi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Dutch:** -nissi
+    - **Middle Dutch:** -nisse
+      - **Dutch:** -nis
+        - **Afrikaans:** -nis
+  - **Old Dutch:** -nussi
+    - **Middle Dutch:** -nisse
+      - **Dutch:** -nis
+        - **Afrikaans:** -nis
+  - **Old High German:** -nissi
+    - **Middle High German:** -nisse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nusse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nüsse — _at least in rhyme_
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+  - **Old High German:** -nussi
+    - **Middle High German:** -nisse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nusse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nüsse — _at least in rhyme_
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+- **Proto-West Germanic:** *-nussi — _feminine jo-stem_
+  - **Old English:** -nes
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -ness
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nis
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -niss
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nys
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old English:** -nyss
+    - **Middle English:** -nesse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -ness
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nes
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nece
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nesce
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nisse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nis
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næse
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -næs
+      - **English:** -ness
+      - **Scots:** -nes
+    - **Middle English:** -nez
+      - **English:** -ness
+      - **Scots:** -nes
+  - **Old Frisian:** -nisse
+    - **Saterland Frisian:** -nisse
+    - **Saterland Frisian:** -nis
+    - **West Frisian:** -ens
+  - **Old Frisian:** -ense
+    - **Saterland Frisian:** -nisse
+    - **Saterland Frisian:** -nis
+    - **West Frisian:** -ens
+  - **Old Saxon:** -nessi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Saxon:** -nissi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Saxon:** -nussi
+    - **Middle Low German:** -nisse
+      - **Low German:** -nisse
+      - **Low German:** -nis
+  - **Old Dutch:** -nissi
+    - **Middle Dutch:** -nisse
+      - **Dutch:** -nis
+        - **Afrikaans:** -nis
+  - **Old Dutch:** -nussi
+    - **Middle Dutch:** -nisse
+      - **Dutch:** -nis
+        - **Afrikaans:** -nis
+  - **Old High German:** -nissi
+    - **Middle High German:** -nisse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nusse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nüsse — _at least in rhyme_
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+  - **Old High German:** -nussi
+    - **Middle High German:** -nisse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nusse
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+    - **Middle High German:** -nüsse — _at least in rhyme_
+      - **German:** -nis
+      - **German:** -niß
+      - **German:** -nüß
+      - **German:** -nuß
+      - **Yiddish:** ־ניש
+- **Gothic:** -𐌹𐌽𐌰𐍃𐍃𐌿𐍃

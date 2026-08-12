@@ -1,0 +1,1178 @@
+# *skēpą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/sk%C4%93p%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *skēpą
+
+### Etymology
+
+Unknown. May be a wanderword from West Asia: compare Persian چپش (čapeš, “yearling goat”), Proto-Scythian *čapi (whence Ossetian цӕу (cæw, “goat”); probably also loaned into Albanian as cap, cjap (“he-goat”) and Slavic as *capъ (“he-goat”)) and Proto-Turkic *čepiš (“yearling goat”).
+Other proposals include:
+* An old European substrate word
+* Derived from the root of *skabaną (“to scratch, scrape, shave, shear”), with *b > *p via Kluge's law; this may be evidenced by Old High German scāpāri, scāppāri (“sheepskin”) which points to a Proto-Germanic form with *b
+* Mallory & Adams assume a relation to Old English hēċen (“kid”) (see Proto-West Germanic *hōkīn) and propose Proto-Indo-European *(s)ḱégos (“goat, sheep”), comparing several Indo-Iranian cognates such as Sanskrit छगल (chagala), छाग (chā́ga, “goat”) (whence Marathi सागा (sāgā, “flock of sheep”)), from Proto-Indo-Iranian *sčágas.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *(s)ḱégos
+
+### Pronunciation
+
+- IPA: `/ˈskɛː.pɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ sheep
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| skēpą | nominative, singular |
+| skēpō | nominative, plural |
+| skēpą | singular, vocative |
+| skēpō | plural, vocative |
+| skēpą | accusative, singular |
+| skēpō | accusative, plural |
+| skēpas | genitive, singular |
+| skēpis | genitive, singular |
+| skēpǫ̂ | genitive, plural |
+| skēpai | dative, singular |
+| skēpamaz | dative, plural |
+| skēpō | instrumental, singular |
+| skēpamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *skāp
+  - **Old English:** sċēap
+    - **Middle English:** schep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** schepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** sheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** shepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheip — _Shropshire_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** ssep — _Kent; Southern_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+  - **Old English:** sċāp — _West Saxon_
+    - **Middle English:** schep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** schepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** sheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** shepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheip — _Shropshire_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** ssep — _Kent; Southern_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+  - **Old English:** sċēp — _Anglian; Late West Saxon; late Kentish_
+    - **Middle English:** schep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** schepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** sheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** shepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheip — _Shropshire_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** ssep — _Kent; Southern_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+  - **Old English:** sċīp — _Northumbrian_
+    - **Middle English:** schep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** schepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** sheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** shepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheip — _Shropshire_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** ssep — _Kent; Southern_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+  - **Old English:** sċǣp — _early Kentish_
+    - **Middle English:** schep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** schepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** sheep
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** shepe
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** scheip — _Shropshire_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+    - **Middle English:** ssep — _Kent; Southern_
+      - **English:** sheep
+      - **Middle Scots:** scheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheip
+        - **Scots:** sheep
+      - **Middle Scots:** cheipe
+        - **Scots:** sheep
+      - **Middle Scots:** scheipe
+        - **Scots:** sheep
+      - **Middle Scots:** sheip
+        - **Scots:** sheep
+      - **Middle Scots:** schip
+        - **Scots:** sheep
+      - **Middle Scots:** schipe
+        - **Scots:** sheep
+      - **Middle Scots:** schap
+        - **Scots:** sheep
+      - **Middle Scots:** scheap
+        - **Scots:** sheep
+      - **Middle Scots:** scheep
+        - **Scots:** sheep
+      - **Middle Scots:** schepe
+        - **Scots:** sheep
+      - **Middle Scots:** sceyp
+        - **Scots:** sheep
+      - **Middle Scots:** schiepe — _rare_
+        - **Scots:** sheep
+      - **Yola:** zheep
+      - **Yola:** sheep
+  - **Old Frisian:** skēp
+    - **North Frisian:** 
+    - **East Frisian:** 
+    - **West Frisian:** skiep
+  - **Old Saxon:** skāp
+    - **Middle Low German:** schâp
+      - **Low German:** Schaap
+        - **German Low German:** Schaap
+        - **German Low German:** Schåp
+        - **German Low German:** Schoap
+        - **German Low German:** Schaop
+        - **German Low German:** Schoop
+        - **German Low German:** Schap
+        - **German Low German:** Schop
+        - **Westphalian:** 
+      - **Low German:** Schap
+        - **German Low German:** Schaap
+        - **German Low German:** Schåp
+        - **German Low German:** Schoap
+        - **German Low German:** Schaop
+        - **German Low German:** Schoop
+        - **German Low German:** Schap
+        - **German Low German:** Schop
+        - **Westphalian:** 
+      - **Plautdietsch:** Schop
+  - **Old Saxon:** scāp
+    - **Middle Low German:** schâp
+      - **Low German:** Schaap
+        - **German Low German:** Schaap
+        - **German Low German:** Schåp
+        - **German Low German:** Schoap
+        - **German Low German:** Schaop
+        - **German Low German:** Schoop
+        - **German Low German:** Schap
+        - **German Low German:** Schop
+        - **Westphalian:** 
+      - **Low German:** Schap
+        - **German Low German:** Schaap
+        - **German Low German:** Schåp
+        - **German Low German:** Schoap
+        - **German Low German:** Schaop
+        - **German Low German:** Schoop
+        - **German Low German:** Schap
+        - **German Low German:** Schop
+        - **Westphalian:** 
+      - **Plautdietsch:** Schop
+  - **Old Dutch:** skāp
+    - **Middle Dutch:** schâep
+      - **Dutch:** schaap
+        - **Afrikaans:** skaap
+      - **Limburgish:** Schoëp
+      - **Limburgish:** sjaop
+  - **Old Dutch:** scāp
+    - **Middle Dutch:** schâep
+      - **Dutch:** schaap
+        - **Afrikaans:** skaap
+      - **Limburgish:** Schoëp
+      - **Limburgish:** sjaop
+  - **Old High German:** scāf
+    - **Middle High German:** schāf
+      - **Alemannic German:** Schooff
+      - **Bavarian:** Schåf
+      - **East Central German:** 
+      - **German:** Schaf
+        - **Alemannic German:** Schaf — _borrowed_
+      - **Hunsrik:** Schof
+      - **Luxembourgish:** Schof
+      - **Rhine Franconian:** Schoof
+      - **Vilamovian:** siöf
+      - **Yiddish:** שאָף

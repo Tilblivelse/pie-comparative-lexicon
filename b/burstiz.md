@@ -1,0 +1,1561 @@
+# *burstiz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/burstiz)
+
+## Proto-Germanic
+
+**Reconstruction:** *burstiz
+
+### Etymology
+
+From earlier *bʰurstís, from Proto-Indo-European *bʰr̥s-tí-s, from *bʰers- (“top, point”). Cognate with Latin fastīgō (“to sharpen to a point”), Sanskrit भृष्टि (bhṛṣṭí, “spike, point”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *bʰr̥s-tí-s
+
+### Noun
+
+1. _(feminine, reconstruction)_ bristle
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| i-stem | class |
+| burstiz | nominative, singular |
+| burstīz | nominative, plural |
+| bursti | singular, vocative |
+| burstīz | plural, vocative |
+| burstį | accusative, singular |
+| burstinz | accusative, plural |
+| burstīz | genitive, singular |
+| burstijǫ̂ | genitive, plural |
+| burstī | dative, singular |
+| burstimaz | dative, plural |
+| burstī | instrumental, singular |
+| burstimiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *bursti
+  - **Old English:** byrst
+    - **Middle English:** byrst
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** brust
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** bresse
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** brisse
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+  - **Old Frisian:** *berste
+    - **Saterland Frisian:** Bäärste
+  - **Old Saxon:** *burst — _< *bursti_
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old Saxon:** bursta
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old Saxon:** *borsta — _< *burstā; *borstā_
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old High German:** *burst — _< *bursti; attested as plural pursti; burste_
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Old High German:** bursta
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Old High German:** borsta — _< *burstā; *borstā_
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Proto-West Germanic:** *burstil — _reshaped by analogy or addition of morphemes_
+- **Proto-West Germanic:** *burstā
+  - **Old English:** byrst
+    - **Middle English:** byrst
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** brust
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** bresse
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** brisse
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+  - **Old Frisian:** *berste
+    - **Saterland Frisian:** Bäärste
+  - **Old Saxon:** *burst — _< *bursti_
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old Saxon:** bursta
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old Saxon:** *borsta — _< *burstā; *borstā_
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old High German:** *burst — _< *bursti; attested as plural pursti; burste_
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Old High German:** bursta
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Old High German:** borsta — _< *burstā; *borstā_
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Proto-West Germanic:** *burstil — _reshaped by analogy or addition of morphemes_
+- **Proto-West Germanic:** *borstā
+  - **Old English:** byrst
+    - **Middle English:** byrst
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** brust
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** bresse
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+    - **Middle English:** brisse
+      - **Scots:** byrst
+      - **Scots:** byrs
+      - **Scots:** birs
+  - **Old Frisian:** *berste
+    - **Saterland Frisian:** Bäärste
+  - **Old Saxon:** *burst — _< *bursti_
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old Saxon:** bursta
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old Saxon:** *borsta — _< *burstā; *borstā_
+    - **Middle Low German:** bōrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bōrste
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrst
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+    - **Middle Low German:** bȫrste — _both etyma are graphically indistinguishable_
+      - **German Low German:** Bost
+      - **German Low German:** Böst
+      - **German Low German:** Büste
+      - **German Low German:** Büerste — _Westphalian forms with certain Old Saxon -o-_
+      - **German Low German:** Boarste
+      - **German Low German:** Buoste
+  - **Old High German:** *burst — _< *bursti; attested as plural pursti; burste_
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Old High German:** bursta
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Old High German:** borsta — _< *burstā; *borstā_
+    - **Middle High German:** burst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürst
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** bürste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** burste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+    - **Middle High German:** borste
+      - **Bavarian:** Biaschtn
+      - **Central Franconian:** Büesch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Böösch
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Beerscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Biescht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **Central Franconian:** Buuscht
+        - **Hunsrik:** Berst
+        - **Luxembourgish:** Biischt
+        - **Luxembourgish:** Buuscht
+      - **East Central German:** Birscht
+      - **East Central German:** bèrschd
+      - **German:** Bürste
+      - **German:** Borste
+  - **Proto-West Germanic:** *burstil — _reshaped by analogy or addition of morphemes_
+- **Old Norse:** burst
+  - **Icelandic:** burst
+  - **Faroese:** bust
+  - **Old Swedish:** borst
+    - **Swedish:** borst
+    - **Swedish:** borste
+  - **Danish:** børste
+- **Middle English:** brusshe — _borrowed_ — _through a non-Germanic route_
+  - **English:** brush
+- **Middle English:** brusshe — _borrowed_ — _through a non-Germanic route_
+  - **English:** brush
+- **Middle English:** brusshe — _borrowed_ — _through a non-Germanic route_
+  - **English:** brush
+- **Middle English:** brusshe — _borrowed_ — _through a non-Germanic route_
+  - **English:** brush

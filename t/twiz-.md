@@ -1,0 +1,318 @@
+# *twiz-
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/twiz-)
+
+## Proto-Germanic
+
+**Reconstruction:** *twiz-
+
+### Etymology
+
+From Proto-Indo-European *dwís. Cognates include Latin dis-, Ancient Greek δίς (dís) and Sanskrit द्विस् (dvís).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dwís
+
+### Pronunciation
+
+- IPA: `/twiz/`
+
+### Prefix
+
+1. _(morpheme, reconstruction)_ in two, in twain
+2. _(morpheme, reconstruction)_ asunder, in pieces
+3. _(morpheme, reconstruction)_ apart, separate
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *twiʀ-
+  - **Old English:** te-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old English:** ti-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old English:** tō-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old Frisian:** te-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Frisian:** ti-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Frisian:** tō-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Saxon:** te-
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Saxon:** ti-
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Saxon:** tō
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Dutch:** te- — _in tebrekan and tefaran_
+    - **Middle Dutch:** te-
+      - **Dutch:** te-
+    - **Middle Dutch:** toe-
+      - **Dutch:** te-
+  - **Old Dutch:** *tō
+    - **Middle Dutch:** te-
+      - **Dutch:** te-
+    - **Middle Dutch:** toe-
+      - **Dutch:** te-
+  - **Old High German:** zi-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zir-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zar-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zur-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+- **Proto-West Germanic:** *tuʀ-
+  - **Old English:** te-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old English:** ti-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old English:** tō-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old Frisian:** te-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Frisian:** ti-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Frisian:** tō-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Saxon:** te-
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Saxon:** ti-
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Saxon:** tō
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Dutch:** te- — _in tebrekan and tefaran_
+    - **Middle Dutch:** te-
+      - **Dutch:** te-
+    - **Middle Dutch:** toe-
+      - **Dutch:** te-
+  - **Old Dutch:** *tō
+    - **Middle Dutch:** te-
+      - **Dutch:** te-
+    - **Middle Dutch:** toe-
+      - **Dutch:** te-
+  - **Old High German:** zi-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zir-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zar-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zur-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+- **Proto-West Germanic:** *tiʀ-
+  - **Old English:** te-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old English:** ti-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old English:** tō-
+    - **Middle English:** to-
+      - **English:** to-
+  - **Old Frisian:** te-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Frisian:** ti-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Frisian:** tō-
+    - **Saterland Frisian:** tou-
+    - **West Frisian:** ta-
+  - **Old Saxon:** te-
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Saxon:** ti-
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Saxon:** tō
+    - **Middle Low German:** to-
+      - **German Low German:** to-
+    - **Middle Low German:** tô-
+      - **German Low German:** to-
+  - **Old Dutch:** te- — _in tebrekan and tefaran_
+    - **Middle Dutch:** te-
+      - **Dutch:** te-
+    - **Middle Dutch:** toe-
+      - **Dutch:** te-
+  - **Old Dutch:** *tō
+    - **Middle Dutch:** te-
+      - **Dutch:** te-
+    - **Middle Dutch:** toe-
+      - **Dutch:** te-
+  - **Old High German:** zi-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zir-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zar-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+  - **Old High German:** zur-
+    - **Middle High German:** zer-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zur-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+    - **Middle High German:** zu-
+      - **German:** zer-
+      - **German:** zu-
+      - **Yiddish:** צע־
+- **Gothic:** 𐍄𐍅𐌹𐍃-
+- **Gothic:** 𐌳𐌹𐍃- — _inherited; uncertain_

@@ -1,0 +1,973 @@
+# *dagaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/dagaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *dagaz
+
+### Etymology
+
+Uncertain. Often explained as derived from the Proto-Indo-European root *dʰegʷʰ- (“to burn”), but the loss of the labialization would be irregular; *dawaz would be expected. Kroonen posits instead a root *dʰeǵʰ- (“day”), from which he says a heteroclitic noun *dʰṓǵʰ-r/n- (“day”) is also derived, the source of Proto-Germanic *dōgera-/*dōgena- (see *dōg-) and Proto-Indo-Iranian *Háȷ́ʰr̥ (from which Sanskrit अहर् (ahar)) with irregular loss of the initial consonant, possibly in the zero grade. For this root, see also *gēz, Gothic 𐌲𐌹𐍃𐍄𐍂𐌰𐌳𐌰𐌲𐌹𐍃 (gistradagis) and Proto-West Germanic *gesteran (“yesterday”), all deriving from Proto-Indo-European *dʰǵʰyés.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dʰegʷʰ-, *dʰǵʰyés
+
+### Pronunciation
+
+- IPA: `/ˈdɑ.ɣɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ day (the period between sunrise and sunset)
+2. _(masculine, reconstruction)_ name of the rune ᛞ (d)
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| dagaz | nominative, singular |
+| dagōz | nominative, plural |
+| dagōs | nominative, plural |
+| dag | singular, vocative |
+| dagōz | plural, vocative |
+| dagōs | plural, vocative |
+| dagą | accusative, singular |
+| daganz | accusative, plural |
+| dagas | genitive, singular |
+| dagis | genitive, singular |
+| dagǫ̂ | genitive, plural |
+| dagai | dative, singular |
+| dagamaz | dative, plural |
+| dagō | instrumental, singular |
+| dagamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *dag
+  - **Old English:** dæġ
+    - **Middle English:** day
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dai
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daye
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dey
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daȝȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daiȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæi
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dei — _Early Middle English_
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+  - **Old English:** deġ — _Vespasian Psalter Mercian; late Kentish_
+    - **Middle English:** day
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dai
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daye
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dey
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daȝȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daiȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæi
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dei — _Early Middle English_
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+  - **Old English:** deag
+    - **Middle English:** day
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dai
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daye
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dey
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daȝȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daiȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæi
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dei — _Early Middle English_
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+  - **Old English:** dæiġ
+    - **Middle English:** day
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dai
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daye
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dey
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daȝȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daiȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæi
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dei — _Early Middle English_
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+  - **Old English:** daig
+    - **Middle English:** day
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dai
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daye
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dey
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daȝȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daiȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæi
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dei — _Early Middle English_
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+  - **Old English:** dag
+    - **Middle English:** day
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dai
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daye
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dey
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daȝȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daiȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæi
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dei — _Early Middle English_
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+  - **Old English:** daġ
+    - **Middle English:** day
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dai
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daye
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dey
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daȝȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** daiȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæi
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dæȝ
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+    - **Middle English:** dei — _Early Middle English_
+      - **English:** day
+      - **Scots:** day
+      - **Scots:** dey
+      - **Scots:** dei
+      - **Scots:** dy
+      - **Yola:** die
+      - **Yola:** daie
+      - **Yola:** dei
+      - **Yola:** dey
+  - **Old Frisian:** dei
+    - **North Frisian:** dai — _Föhr-Amrum_
+    - **North Frisian:** doi — _Goesharde_
+    - **North Frisian:** däi — _Mooring_
+    - **North Frisian:** Dai — _Sylt_
+    - **Saterland Frisian:** Dai
+    - **West Frisian:** dei
+  - **Old Frisian:** dī
+    - **North Frisian:** dai — _Föhr-Amrum_
+    - **North Frisian:** doi — _Goesharde_
+    - **North Frisian:** däi — _Mooring_
+    - **North Frisian:** Dai — _Sylt_
+    - **Saterland Frisian:** Dai
+    - **West Frisian:** dei
+  - **Old Saxon:** dag
+    - **Middle Low German:** dach
+      - **Low German:** Dag
+        - **Dutch Low Saxon:** dag
+        - **German Low German:** Dag
+      - **Plautdietsch:** Dach
+  - **Old Dutch:** dag
+    - **Middle Dutch:** dach
+      - **Dutch:** dag
+        - **Afrikaans:** dag
+      - **Dutch:** dagge
+        - **Afrikaans:** dag
+      - **Dutch:** dagh — _obsolete_
+        - **Afrikaans:** dag
+      - **Limburgish:** daag
+      - **West Flemish:** dag
+      - **Zealandic:** dag
+  - **Old High German:** tag
+    - **Middle High German:** tac
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** tag
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** dach
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+  - **Old High German:** tac
+    - **Middle High German:** tac
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** tag
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** dach
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+  - **Old High German:** tak
+    - **Middle High German:** tac
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** tag
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** dach
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+  - **Old High German:** dac
+    - **Middle High German:** tac
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** tag
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** dach
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+  - **Old High German:** *dag — _northern_
+    - **Middle High German:** tac
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** tag
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+    - **Middle High German:** dach
+      - **Alemannic German:** Tag
+      - **Bavarian:** Da
+      - **Bavarian:** Dåg
+      - **Bavarian:** Doch
+      - **Bavarian:** Tog
+      - **Central Franconian:** Daach
+      - **East Central German:** 
+      - **German:** Tag
+      - **Luxembourgish:** Dag
+      - **Luxembourgish:** Do
+      - **Rhine Franconian:** Tach
+      - **Transylvanian Saxon:** Dåch
+      - **Vilamovian:** taog
+      - **Yiddish:** טאָג
+- **Proto-Norse:** *ᛞᚨᚷᚨᛉ
+  - **Old Norse:** dagr
+    - **Icelandic:** dagur
+    - **Faroese:** dagur
+    - **Norn:** dagh
+      - **Scots:** dag — _borrowed_
+    - **Norwegian Nynorsk:** dag — _dialectal_
+    - **Norwegian Nynorsk:** dag’e
+    - **Elfdalian:** dag
+    - **Old Swedish:** dagher
+      - **Swedish:** dag
+      - **Swedish:** dager — _archaic_
+    - **Old Swedish:** ᚦᛆᚵᚼᚽᚱ
+      - **Swedish:** dag
+      - **Swedish:** dager — _archaic_
+    - **Old Danish:** dagh
+      - **Danish:** dag
+        - **Norwegian Bokmål:** dag
+      - **Scanian:** dağ
+    - **Gutnish:** dag
+- **Crimean Gothic:** tag
+- **Gothic:** 𐌳𐌰𐌲𐍃
+- **Vandalic:** *dag-

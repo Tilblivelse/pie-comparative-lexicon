@@ -1,0 +1,348 @@
+# *felu
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/felu)
+
+## Proto-Germanic
+
+**Reconstruction:** *felu
+
+### Etymology
+
+Originally the neuter singular form of older *feluz (“many”), from Proto-Indo-European *pélh₁us, derived from the root *pleh₁- (“to fill”). Cognate with Latin plūs, Ancient Greek πολύς (polús).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *pelh₁-, *pélh₁us
+
+### Pronunciation
+
+- IPA: `/ˈɸe.lu/`
+
+### Pronoun
+
+1. _(reconstruction)_ much, a lot
+2. _(reconstruction)_ a lot of
+
+### Adverb
+
+1. _(reconstruction)_ much, a lot
+2. _(reconstruction)_ very
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *felu
+  - **Old English:** fela
+    - **Middle English:** fele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fale
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feole
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** vele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feala
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fela
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** felæ
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feola
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** veole — _Early Middle English_
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+  - **Old English:** feola — _Mercian_
+    - **Middle English:** fele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fale
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feole
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** vele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feala
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fela
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** felæ
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feola
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** veole — _Early Middle English_
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+  - **Old English:** fiolu
+    - **Middle English:** fele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fale
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feole
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** vele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feala
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fela
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** felæ
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feola
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** veole — _Early Middle English_
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+  - **Old English:** feolu
+    - **Middle English:** fele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fale
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feole
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** vele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feala
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fela
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** felæ
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feola
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** veole — _Early Middle English_
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+  - **Old English:** feolo
+    - **Middle English:** fele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fale
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feole
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** vele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feala
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fela
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** felæ
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feola
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** veole — _Early Middle English_
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+  - **Old English:** fala
+    - **Middle English:** fele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fale
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fel
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feole
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** vele
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feala
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** fela
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** felæ
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** feola
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+    - **Middle English:** veole — _Early Middle English_
+      - **English:** fele — _obsolete; dialectal_
+      - **Middle Scots:** fele — _poetic_
+  - **Old Frisian:** felo
+    - **East Frisian:** 
+    - **West Frisian:** feal
+    - **West Frisian:** fel
+  - **Old Frisian:** fele
+    - **East Frisian:** 
+    - **West Frisian:** feal
+    - **West Frisian:** fel
+  - **Old Frisian:** fel
+    - **East Frisian:** 
+    - **West Frisian:** feal
+    - **West Frisian:** fel
+  - **Old Saxon:** filu
+  - **Old Saxon:** filo
+  - **Old Dutch:** filo
+    - **Middle Dutch:** vele
+      - **Dutch:** veel
+  - **Old High German:** filu
+    - **Middle High German:** vil
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+    - **Middle High German:** vile
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+  - **Old High German:** vilu
+    - **Middle High German:** vil
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+    - **Middle High German:** vile
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+  - **Old High German:** filo
+    - **Middle High German:** vil
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+    - **Middle High German:** vile
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+  - **Old High German:** fila
+    - **Middle High German:** vil
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+    - **Middle High German:** vile
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+  - **Old High German:** vili
+    - **Middle High German:** vil
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+    - **Middle High German:** vile
+      - **Alemannic German:** viel
+      - **Bavarian:** vui
+      - **Bavarian:** vei
+      - **Bavarian:** vii
+      - **German:** viel
+      - **Luxembourgish:** vill
+      - **Yiddish:** פֿיל
+- **Old Norse:** fjǫl
+  - **Icelandic:** fjöl-
+  - **Faroese:** fjøl-
+  - **Norwegian Nynorsk:** fjøl-
+- **Old Norse:** fjǫlð — _< ?_
+  - **Icelandic:** fjöl-
+  - **Faroese:** fjøl-
+  - **Norwegian Nynorsk:** fjøl-
+- **Gothic:** 𐍆𐌹𐌻𐌿

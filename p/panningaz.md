@@ -1,0 +1,1228 @@
+# *panningaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/panningaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *panningaz
+
+### Etymology
+
+Of unclear origin. Many regard the forms without the medial *-t- or *-d- as the older ones because the Slavic and Lithuanian loans (Proto-Slavic *pěnędzь) do not show the reflex of a medial obstruent, which makes it difficult to connect with *pandan- (“pledge”) (Old High German phant) or their possible etymon, Latin pondus (“weight”). The second part of the word is probably *-ingaz. The first part is possibly a borrowing of one of these Latin words:
+* panna (“pan”), with a semantic shift explained as a penny being a "coin with a concave form" (per De Vries/De Tollenaere), or
+* pannus (“piece of cloth”), because cloth was often used as means of payment.
+Vennemann suggests another possibility, following from his (controversial) Punic superstrate theory: that *paning may derive from Carthaginian traders' jargon use of Punic 𐤐𐤍 (pn /⁠pani⁠/, “face”) to mean "coin", as almost all Carthaginian coins depicted the face of Tanit (a goddess who was herself known as the "face of Baal"), and even the second-most common motif was the face of Melqart; Vennemann further speculates that the variants *panning and *panding preserved the bimoric nature of the Punic word.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈpɑn.niŋ.ɡɑz/`
+
+### Noun
+
+1. _(reconstruction)_ a coin, penny
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| panningaz | canonical |
+| pandingaz | canonical |
+| pantingaz | canonical, masculine |
+| a-stem | class |
+| panningaz | nominative, singular |
+| panningōz | nominative, plural |
+| panningōs | nominative, plural |
+| panning | singular, vocative |
+| panningōz | plural, vocative |
+| panningōs | plural, vocative |
+| panningą | accusative, singular |
+| panninganz | accusative, plural |
+| panningas | genitive, singular |
+| panningis | genitive, singular |
+| panningǫ̂ | genitive, plural |
+| panningai | dative, singular |
+| panningamaz | dative, plural |
+| panningō | instrumental, singular |
+| panningamiz | instrumental, plural |
+| *pandingaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *panning
+  - **Old English:** penning
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pending
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pæning
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pening
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pæniġ
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** peniġ
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old Frisian:** panning
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Frisian:** penning
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Frisian:** pennig
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Saxon:** penning
+    - **Middle Low German:** pennink
+      - **German Low German:** Penning
+      - **German Low German:** Penn
+  - **Old Saxon:** pennig
+    - **Middle Low German:** pennink
+      - **German Low German:** Penning
+      - **German Low German:** Penn
+  - **Old Dutch:** *penning
+    - **Middle Dutch:** penninc
+      - **Dutch:** penning
+      - **Limburgish:** penning
+    - **Middle Dutch:** pennich
+      - **Dutch:** penning
+      - **Limburgish:** penning
+    - **Middle Dutch:** pennig
+      - **Dutch:** penning
+      - **Limburgish:** penning
+  - **Old High German:** pfending
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfanting
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfenting
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfenning — _Central German_
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** penning
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+- **Proto-West Germanic:** *panding
+  - **Old English:** penning
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pending
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pæning
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pening
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pæniġ
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** peniġ
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old Frisian:** panning
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Frisian:** penning
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Frisian:** pennig
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Saxon:** penning
+    - **Middle Low German:** pennink
+      - **German Low German:** Penning
+      - **German Low German:** Penn
+  - **Old Saxon:** pennig
+    - **Middle Low German:** pennink
+      - **German Low German:** Penning
+      - **German Low German:** Penn
+  - **Old Dutch:** *penning
+    - **Middle Dutch:** penninc
+      - **Dutch:** penning
+      - **Limburgish:** penning
+    - **Middle Dutch:** pennich
+      - **Dutch:** penning
+      - **Limburgish:** penning
+    - **Middle Dutch:** pennig
+      - **Dutch:** penning
+      - **Limburgish:** penning
+  - **Old High German:** pfending
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfanting
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfenting
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfenning — _Central German_
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** penning
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+- **Proto-West Germanic:** *penning
+  - **Old English:** penning
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pending
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pæning
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pening
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** pæniġ
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old English:** peniġ
+    - **Middle English:** peny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peni
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pene
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peney
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** penny
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peyne — _Late Middle English_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pani
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** pany — _especially East Saxon or West Midland_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+    - **Middle English:** peninnꟑ — _Ormulum_
+      - **English:** penny
+      - **Middle Scots:** penny
+        - **Scots:** penny
+  - **Old Frisian:** panning
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Frisian:** penning
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Frisian:** pennig
+    - **Saterland Frisian:** Pännich
+    - **West Frisian:** pinning
+  - **Old Saxon:** penning
+    - **Middle Low German:** pennink
+      - **German Low German:** Penning
+      - **German Low German:** Penn
+  - **Old Saxon:** pennig
+    - **Middle Low German:** pennink
+      - **German Low German:** Penning
+      - **German Low German:** Penn
+  - **Old Dutch:** *penning
+    - **Middle Dutch:** penninc
+      - **Dutch:** penning
+      - **Limburgish:** penning
+    - **Middle Dutch:** pennich
+      - **Dutch:** penning
+      - **Limburgish:** penning
+    - **Middle Dutch:** pennig
+      - **Dutch:** penning
+      - **Limburgish:** penning
+  - **Old High German:** pfending
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfanting
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfenting
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** pfenning — _Central German_
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+  - **Old High German:** penning
+    - **Middle High German:** pfennic
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** pfenninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+    - **Middle High German:** penninc
+      - **Central Franconian:** Penning
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **Central Franconian:** Pennek
+        - **Luxembourgish:** Pennek — _obsolete_
+      - **German:** Pfennig
+        - **English:** pfennig — _borrowed_
+        - **Luxembourgish:** Fenneg — _borrowed_
+- **Old Norse:** penningr
+  - **Icelandic:** peningur
+  - **Faroese:** peningur
+  - **Faroese:** pengar
+  - **Norn:** pengar
+  - **Norwegian Nynorsk:** pengar
+  - **Norwegian Nynorsk:** peng
+  - **Norwegian Nynorsk:** penge
+  - **Norwegian Bokmål:** penger
+  - **Norwegian Bokmål:** penge
+  - **Old Swedish:** pænninger
+    - **Swedish:** penning
+    - **Swedish:** pengar
+    - **Swedish:** peng
+  - **Old Danish:** pæning
+    - **Danish:** penning
+    - **Danish:** penge
+  - **Elfdalian:** peningg
+  - **Elfdalian:** peningger
+  - **Elfdalian:** paingger
+  - **Elfdalian:** peng
+  - **Gutnish:** penningg
+  - **Gutnish:** peningg
+- **Old Norse:** pengr
+  - **Icelandic:** peningur
+  - **Faroese:** peningur
+  - **Faroese:** pengar
+  - **Norn:** pengar
+  - **Norwegian Nynorsk:** pengar
+  - **Norwegian Nynorsk:** peng
+  - **Norwegian Nynorsk:** penge
+  - **Norwegian Bokmål:** penger
+  - **Norwegian Bokmål:** penge
+  - **Old Swedish:** pænninger
+    - **Swedish:** penning
+    - **Swedish:** pengar
+    - **Swedish:** peng
+  - **Old Danish:** pæning
+    - **Danish:** penning
+    - **Danish:** penge
+  - **Elfdalian:** peningg
+  - **Elfdalian:** peningger
+  - **Elfdalian:** paingger
+  - **Elfdalian:** peng
+  - **Gutnish:** penningg
+  - **Gutnish:** peningg

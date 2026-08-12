@@ -1,0 +1,527 @@
+# *keutaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/keutaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *keutaz
+
+### Etymology
+
+Compared to Sanskrit गुद (guda, “intestine, entrail, colon, rectum”) and Avestan 𐬔𐬎𐬜𐬀 (guδa) for Proto-Indo-European *gewd- (“intestine, gut”), supposedly an extension of *gew- (“to curve, arch, bulge”). Lubotsky separates the Indo-Iranian terms and suggests a non-Indo-European origin.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *gewd-
+
+### Pronunciation
+
+- IPA: `/ˈkeu̯.tɑz/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ bag
+2. _(neuter, reconstruction)_ stomach
+3. _(neuter, reconstruction)_ gut, entrails, intestines
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| z-stem | class |
+| keutaz | nominative, singular |
+| kiutizō | nominative, plural |
+| keutaz | singular, vocative |
+| kiutizō | plural, vocative |
+| keutaz | accusative, singular |
+| kiutizō | accusative, plural |
+| kiutiziz | genitive, singular |
+| kiutizǫ̂ | genitive, plural |
+| kiutizi | dative, singular |
+| kiutizumaz | dative, plural |
+| kiutizē | instrumental, singular |
+| kiutizumiz | instrumental, plural |
+| *kūtaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *keut
+  - **Old English:** *ċēoter — _inherited; uncertain_
+    - **Middle English:** *cheter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+    - **Middle English:** *chiter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+  - **Old English:** *ċīeter — _inherited; uncertain_
+    - **Middle English:** *cheter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+    - **Middle English:** *chiter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+  - **Old Saxon:** *kūt
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Dutch:** *kūt
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+  - **Old Dutch:** *kiot
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+- **Proto-West Germanic:** *kūt
+  - **Old English:** *ċēoter — _inherited; uncertain_
+    - **Middle English:** *cheter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+    - **Middle English:** *chiter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+  - **Old English:** *ċīeter — _inherited; uncertain_
+    - **Middle English:** *cheter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+    - **Middle English:** *chiter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+  - **Old Saxon:** *kūt
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Dutch:** *kūt
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+  - **Old Dutch:** *kiot
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+- **Proto-West Germanic:** *keutaʀ
+  - **Old English:** *ċēoter — _inherited; uncertain_
+    - **Middle English:** *cheter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+    - **Middle English:** *chiter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+  - **Old English:** *ċīeter — _inherited; uncertain_
+    - **Middle English:** *cheter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+    - **Middle English:** *chiter — _inherited; uncertain_
+      - **Scots:** chitter — _inherited; uncertain_
+      - **Middle English:** chiterlyng — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterling — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chitterlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+      - **Middle English:** chytyrlynge — _reshaped by analogy or addition of morphemes_
+        - **English:** chitterling
+        - **English:** chitlin
+  - **Old Saxon:** *kūt
+    - **Middle Low German:** kûte
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kût
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂te
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+    - **Middle Low German:** kü̂t — _f or n_
+      - **German Low German:** Küüt — _f or n_
+        - **Saterland Frisian:** Küüt — _borrowed; m_
+        - **West Frisian:** kût — _borrowed; n_
+  - **Old Dutch:** *kūt
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+  - **Old Dutch:** *kiot
+    - **Middle Dutch:** cute
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyte
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuut
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** cuyt
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+    - **Middle Dutch:** kiet — _f or n_
+      - **Dutch:** kuit
+      - **West Flemish:** kiete
+      - **West Flemish:** kiet
+      - **West Flemish:** kijte
+      - **Middle English:** kyt — _borrowed_
+      - **Middle English:** kyte — _borrowed_
+      - **Middle English:** kytt — _borrowed_
+- **Old Norse:** kútr — _inherited; uncertain; m_
+  - **Icelandic:** kútur
+  - **Swedish:** kut

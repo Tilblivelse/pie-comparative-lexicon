@@ -1,0 +1,761 @@
+# *hrussą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hruss%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *hrussą
+
+### Etymology
+
+Uncertain. Theories include:
+* from Proto-Indo-European *ḱr̥sós (“vehicle”, literally “runner”), derived from Proto-Indo-European *ḱers- (“to run”);
+* borrowed from Northeastern Iranian, compare Proto-Sarmatian *wurš, whence Ossetian уырс (wyrs, “stallion”);
+* or less likely, derived from *hreusaną, compare Old English hrēosan (“to fall”), Old High German riosan (“to fall, plunge, rush”) and Lithuanian krùšti (“to trample”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *ḱers-, *ḱr̥sós
+
+### Pronunciation
+
+- IPA: `/ˈxrus.sɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ horse
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| hrussą | nominative, singular |
+| hrussō | nominative, plural |
+| hrussą | singular, vocative |
+| hrussō | plural, vocative |
+| hrussą | accusative, singular |
+| hrussō | accusative, plural |
+| hrussas | genitive, singular |
+| hrussis | genitive, singular |
+| hrussǫ̂ | genitive, plural |
+| hrussai | dative, singular |
+| hrussamaz | dative, plural |
+| hrussō | instrumental, singular |
+| hrussamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *hross
+  - **Old English:** hors
+    - **Middle English:** hors
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horce
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horse
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horsse
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** ors
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horrs — _Ormulum_
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+  - **Old Frisian:** hors
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Frisian:** hars
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Frisian:** hers
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Frisian:** ros
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Saxon:** hros
+    - **Middle Low German:** ros
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** ors
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** örs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** oͤrs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** orsch
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** urs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** horse — _reshaped by analogy or addition of morphemes; f_
+  - **Old Saxon:** hross
+    - **Middle Low German:** ros
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** ors
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** örs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** oͤrs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** orsch
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** urs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** horse — _reshaped by analogy or addition of morphemes; f_
+  - **Old Saxon:** hors
+    - **Middle Low German:** ros
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** ors
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** örs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** oͤrs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** orsch
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** urs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** horse — _reshaped by analogy or addition of morphemes; f_
+  - **Old Dutch:** hors
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old Dutch:** ors
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old Dutch:** hers
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old Dutch:** ros
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old High German:** hros
+    - **Middle High German:** ros
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+    - **Middle High German:** ors
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+  - **Old High German:** ros
+    - **Middle High German:** ros
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+    - **Middle High German:** ors
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+  - **Old High German:** *hors
+    - **Middle High German:** ros
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+    - **Middle High German:** ors
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+- **Proto-West Germanic:** *hors
+  - **Old English:** hors
+    - **Middle English:** hors
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horce
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horse
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horsse
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** ors
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+    - **Middle English:** horrs — _Ormulum_
+      - **English:** horse
+      - **English:** hoss
+      - **Middle Scots:** hors
+        - **Scots:** horse
+        - **Scots:** hoarse
+  - **Old Frisian:** hors
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Frisian:** hars
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Frisian:** hers
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Frisian:** ros
+    - **North Frisian:** hors
+    - **Saterland Frisian:** rosje — _reshaped by analogy or addition of morphemes_
+    - **Saterland Frisian:** rösje — _reshaped by analogy or addition of morphemes_
+    - **West Frisian:** hoars
+    - **West Frisian:** rosje
+  - **Old Saxon:** hros
+    - **Middle Low German:** ros
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** ors
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** örs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** oͤrs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** orsch
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** urs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** horse — _reshaped by analogy or addition of morphemes; f_
+  - **Old Saxon:** hross
+    - **Middle Low German:** ros
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** ors
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** örs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** oͤrs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** orsch
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** urs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** horse — _reshaped by analogy or addition of morphemes; f_
+  - **Old Saxon:** hors
+    - **Middle Low German:** ros
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** ors
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** örs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** oͤrs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** orsch
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** urs
+      - **German Low German:** Hüsi — _inherited; uncertain_
+      - **German Low German:** Hiesi — _inherited; uncertain_
+    - **Middle Low German:** horse — _reshaped by analogy or addition of morphemes; f_
+  - **Old Dutch:** hors
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old Dutch:** ors
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old Dutch:** hers
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old Dutch:** ros
+    - **Middle Dutch:** ors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hors
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** hers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ers
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+    - **Middle Dutch:** ros
+      - **Dutch:** ros
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+      - **Dutch:** hors — _dialectal_
+        - **Afrikaans:** ros
+        - **Dutch:** rossen — _reshaped by analogy or addition of morphemes_
+          - **West Frisian:** rosse — _borrowed_
+  - **Old High German:** hros
+    - **Middle High German:** ros
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+    - **Middle High German:** ors
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+  - **Old High German:** ros
+    - **Middle High German:** ros
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+    - **Middle High German:** ors
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+  - **Old High German:** *hors
+    - **Middle High German:** ros
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+    - **Middle High German:** ors
+      - **Alemannic German:** Ross
+      - **Bavarian:** Ross
+      - **Central Franconian:** 
+      - **German:** Ross
+- **Old Norse:** hross
+  - **Danish:** hors — _dialectal_
+  - **Faroese:** ross
+  - **Faroese:** hors
+  - **Gutnish:** russ
+  - **Icelandic:** hross
+  - **Icelandic:** hors
+  - **Norn:** russ
+  - **Norwegian:** 
+    - **Norwegian Bokmål:** røss-
+    - **Norwegian Nynorsk:** hors
+  - **Old Swedish:** hors
+    - **Swedish:** hors — _dialectal_
+  - **Old Swedish:** hross
+    - **Swedish:** ross
+    - **Swedish:** russ
+- **Old Norse:** hors
+  - **Danish:** hors — _dialectal_
+  - **Faroese:** ross
+  - **Faroese:** hors
+  - **Gutnish:** russ
+  - **Icelandic:** hross
+  - **Icelandic:** hors
+  - **Norn:** russ
+  - **Norwegian:** 
+    - **Norwegian Bokmål:** røss-
+    - **Norwegian Nynorsk:** hors
+  - **Old Swedish:** hors
+    - **Swedish:** hors — _dialectal_
+  - **Old Swedish:** hross
+    - **Swedish:** ross
+    - **Swedish:** russ

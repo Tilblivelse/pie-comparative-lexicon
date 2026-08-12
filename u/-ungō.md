@@ -1,0 +1,828 @@
+# -ungō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-ung%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** -ungō
+
+### Etymology
+
+Unknown, but possibly from an earlier *-ōngō, equivalent to *-ōną + *-gō. No certain cognates outside of Germanic and not found in Gothic, which has instead similar verbal nouns without -g-.
+Perhaps cognate with Latin suffixes -undus (forms the gerund) or Ancient Greek -δᾰπός (-dăpós) (from Proto-Indo-European *-n̥kʷos) as in ἀλλοδαπός (allodapós), ποδαπός (podapós), and possibly Latin propinquus.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *-n̥kʷos
+
+### Pronunciation
+
+- IPA: `/uŋ.ɡɔː/`
+
+### Suffix
+
+1. _(feminine, morpheme, reconstruction)_ -ing, -ion; forms gerund nouns from verbs.
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| -ungō | nominative, singular |
+| -ungôz | nominative, plural |
+| -ungō | singular, vocative |
+| -ungôz | plural, vocative |
+| -ungǭ | accusative, singular |
+| -ungōz | accusative, plural |
+| -ungōz | genitive, singular |
+| -ungǫ̂ | genitive, plural |
+| -ungōi | dative, singular |
+| -ungōmaz | dative, plural |
+| -ungō | instrumental, singular |
+| -ungōmiz | instrumental, plural |
+| *-ingō | alternative |
+| *-engō | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *-ungu
+  - **Old English:** -ung
+    - **Middle English:** -ynge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -eng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -enge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ing
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ingue
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -yng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ung
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -unge — _Early Middle English_
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+  - **Old English:** -ong
+    - **Middle English:** -ynge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -eng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -enge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ing
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ingue
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -yng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ung
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -unge — _Early Middle English_
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+  - **Old Frisian:** -unge
+    - **Saterland Frisian:** -enge
+    - **West Frisian:** -ing
+  - **Old Frisian:** -inge
+    - **Saterland Frisian:** -enge
+    - **West Frisian:** -ing
+  - **Old Saxon:** -unga
+    - **Middle Low German:** -inge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -unge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -onge
+      - **Low German:** -ung
+      - **Low German:** -ing
+  - **Old Saxon:** -inga
+    - **Middle Low German:** -inge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -unge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -onge
+      - **Low German:** -ung
+      - **Low German:** -ing
+  - **Old Dutch:** -inga
+    - **Middle Dutch:** -inge
+      - **Dutch:** -ing
+  - **Old Dutch:** -unga
+    - **Middle Dutch:** -inge
+      - **Dutch:** -ing
+  - **Old Dutch:** -onga
+    - **Middle Dutch:** -inge
+      - **Dutch:** -ing
+  - **Old High German:** -unga
+    - **Middle High German:** -unge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+    - **Middle High German:** -inge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+  - **Old High German:** -inga
+    - **Middle High German:** -unge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+    - **Middle High German:** -inge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+- **Proto-West Germanic:** *-ingu
+  - **Old English:** -ung
+    - **Middle English:** -ynge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -eng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -enge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ing
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ingue
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -yng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ung
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -unge — _Early Middle English_
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+  - **Old English:** -ong
+    - **Middle English:** -ynge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -eng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -enge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ing
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inge
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ingue
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -inng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -yng
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -ung
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+    - **Middle English:** -unge — _Early Middle English_
+      - **English:** -ing
+      - **English:** -in'
+      - **English:** -in
+      - **Middle Scots:** -ing
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Middle Scots:** -yng
+        - **Scots:** -in
+        - **Scots:** -in'
+        - **Scots:** -ing
+      - **Yola:** -een
+      - **Yola:** -en
+  - **Old Frisian:** -unge
+    - **Saterland Frisian:** -enge
+    - **West Frisian:** -ing
+  - **Old Frisian:** -inge
+    - **Saterland Frisian:** -enge
+    - **West Frisian:** -ing
+  - **Old Saxon:** -unga
+    - **Middle Low German:** -inge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -unge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -onge
+      - **Low German:** -ung
+      - **Low German:** -ing
+  - **Old Saxon:** -inga
+    - **Middle Low German:** -inge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -unge
+      - **Low German:** -ung
+      - **Low German:** -ing
+    - **Middle Low German:** -onge
+      - **Low German:** -ung
+      - **Low German:** -ing
+  - **Old Dutch:** -inga
+    - **Middle Dutch:** -inge
+      - **Dutch:** -ing
+  - **Old Dutch:** -unga
+    - **Middle Dutch:** -inge
+      - **Dutch:** -ing
+  - **Old Dutch:** -onga
+    - **Middle Dutch:** -inge
+      - **Dutch:** -ing
+  - **Old High German:** -unga
+    - **Middle High German:** -unge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+    - **Middle High German:** -inge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+  - **Old High German:** -inga
+    - **Middle High German:** -unge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+    - **Middle High German:** -inge
+      - **Alemannic German:** -ig
+      - **Alemannic German:** -ing
+      - **Central Franconian:** -ung
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ong
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -ing
+        - **Luxembourgish:** -ung
+      - **Central Franconian:** -eng
+        - **Luxembourgish:** -ung
+      - **East Central German:** -ing
+      - **German:** -ung
+      - **Yiddish:** ־ונג
+- **Old Norse:** -ing
+  - **Danish:** -ing
+  - **Faroese:** -ing
+  - **Icelandic:** -ing
+  - **Icelandic:** -ung
+  - **Norwegian Bokmål:** -ing
+  - **Norwegian Nynorsk:** -ing
+  - **Old Swedish:** -ing
+    - **Swedish:** -ing
+    - **Swedish:** -ung
+  - **Old Swedish:** -ung
+    - **Swedish:** -ing
+    - **Swedish:** -ung
+- **Old Norse:** -ung
+  - **Danish:** -ing
+  - **Faroese:** -ing
+  - **Icelandic:** -ing
+  - **Icelandic:** -ung
+  - **Norwegian Bokmål:** -ing
+  - **Norwegian Nynorsk:** -ing
+  - **Old Swedish:** -ing
+    - **Swedish:** -ing
+    - **Swedish:** -ung
+  - **Old Swedish:** -ung
+    - **Swedish:** -ing
+    - **Swedish:** -ung

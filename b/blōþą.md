@@ -1,0 +1,574 @@
+# *blōþą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/bl%C5%8D%C3%BE%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *blōþą
+
+### Etymology
+
+Of uncertain origin; possibly from Proto-Indo-European *bʰleh₃-tó-m, a neuter collective noun from Proto-Indo-European *bʰleh₃- (“to bloom”) (whence *blōaną (“to bloom, flower”)), morphing into the sense of "blooming red, blushing" > "liquid blood". In addition to the above theory, Kroonen also suggests a derivation from *blēaną (“to blow”), with a sense of "blowing or gushing out". Either way, possibly a taboo-avoidance euphemism.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *bʰleh₃-, *bʰleh₃-tó-m
+
+### Pronunciation
+
+- IPA: `/ˈblɔː.θɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ blood
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| blōþą | nominative, singular |
+| blōdō | nominative, plural |
+| blōþą | singular, vocative |
+| blōdō | plural, vocative |
+| blōþą | accusative, singular |
+| blōdō | accusative, plural |
+| blōþas | genitive, singular |
+| blōþis | genitive, singular |
+| blōdǫ̂ | genitive, plural |
+| blōþai | dative, singular |
+| blōdamaz | dative, plural |
+| blōþō | instrumental, singular |
+| blōdamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *blōd
+  - **Old English:** blōd
+    - **Middle English:** blood
+      - **English:** blood
+      - **English:** bloode
+      - **English:** bloud — _obsolete_
+      - **Scots:** blude
+      - **Scots:** bluid
+      - **Yola:** blooed
+  - **Old Frisian:** blōd
+    - **North Frisian:** blud — _Föhr-Amrum_
+    - **North Frisian:** blödj — _Mooring_
+    - **North Frisian:** Blör — _Sylt_
+    - **Saterland Frisian:** Bloud
+    - **West Frisian:** bloed
+  - **Old Saxon:** blōd
+    - **Middle Low German:** blôt
+      - **Low German:** Blod
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+      - **Low German:** Bloot
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+  - **Old Saxon:** bluod
+    - **Middle Low German:** blôt
+      - **Low German:** Blod
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+      - **Low German:** Bloot
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+  - **Old Dutch:** bluot
+    - **Middle Dutch:** bloet
+      - **Dutch:** bloed
+        - **Afrikaans:** bloed
+      - **Limburgish:** blood
+  - **Old High German:** bluot
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** blod
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluat
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** blud
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluet
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluod
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluoth
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** blut
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluth
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pload
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** ploat
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** plot
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** plout
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluat
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluod
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluot
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluoth
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+- **Proto-West Germanic:** *blōþ
+  - **Old English:** blōd
+    - **Middle English:** blood
+      - **English:** blood
+      - **English:** bloode
+      - **English:** bloud — _obsolete_
+      - **Scots:** blude
+      - **Scots:** bluid
+      - **Yola:** blooed
+  - **Old Frisian:** blōd
+    - **North Frisian:** blud — _Föhr-Amrum_
+    - **North Frisian:** blödj — _Mooring_
+    - **North Frisian:** Blör — _Sylt_
+    - **Saterland Frisian:** Bloud
+    - **West Frisian:** bloed
+  - **Old Saxon:** blōd
+    - **Middle Low German:** blôt
+      - **Low German:** Blod
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+      - **Low German:** Bloot
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+  - **Old Saxon:** bluod
+    - **Middle Low German:** blôt
+      - **Low German:** Blod
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+      - **Low German:** Bloot
+        - **German Low German:** Blood
+        - **German Low German:** Bloot
+  - **Old Dutch:** bluot
+    - **Middle Dutch:** bloet
+      - **Dutch:** bloed
+        - **Afrikaans:** bloed
+      - **Limburgish:** blood
+  - **Old High German:** bluot
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** blod
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluat
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** blud
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluet
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluod
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluoth
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** blut
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** bluth
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pload
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** ploat
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** plot
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** plout
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluat
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluod
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluot
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+  - **Old High German:** pluoth
+    - **Middle High German:** bluot
+      - **Alemannic German:** Bluet
+      - **Bavarian:** Bluad
+      - **Bavarian:** Bluat
+      - **Central Franconian:** Blot
+        - **Hunsrik:** Blud
+        - **Luxembourgish:** Blutt
+      - **East Central German:** Blutt (Oberlausitz; Silesian)
+      - **East Franconian:** 
+      - **German:** Blut
+      - **Rhine Franconian:** 
+      - **Yiddish:** בלוט
+- **Old Norse:** blóð
+  - **Icelandic:** blóð
+  - **Faroese:** blóð
+  - **Norwegian:** blod
+  - **Old Swedish:** blōþ
+    - **Swedish:** blod
+  - **Old Swedish:** blodh
+    - **Swedish:** blod
+  - **Old Danish:** bloth
+    - **Danish:** blod
+- **Gothic:** 𐌱𐌻𐍉𐌸
+- **Crimean Gothic:** plut

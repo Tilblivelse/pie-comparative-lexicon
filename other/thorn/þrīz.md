@@ -1,0 +1,499 @@
+# *þrīz
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BEr%C4%ABz)
+
+## Proto-Germanic
+
+**Reconstruction:** *þrīz
+
+### Etymology
+
+From earlier *þreiz, from earlier *þrejiz, from Proto-Indo-European *tréyes (“three”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *tréyes
+
+### Pronunciation
+
+- IPA: `/θriːz/`
+
+### Numeral
+
+1. _(reconstruction)_ three
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| þrīz | error-unrecognized-form, nominative, plural |
+| þrijō | neuter, nominative, plural |
+| þrinz | accusative, error-unrecognized-form, plural |
+| þrijō | accusative, neuter, plural |
+| þrijǫ̂ | error-unrecognized-form, genitive, plural |
+| þrijǫ̂ | genitive, neuter, plural |
+| þrimaz | dative, error-unrecognized-form, plural |
+| þrimaz | dative, neuter, plural |
+| þrimiz | error-unrecognized-form, instrumental, plural |
+| þrimiz | instrumental, neuter, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *þrīʀ
+  - **Old English:** þrī
+    - **Middle English:** thre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** threo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thri
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thrie
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðhre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þreo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þrie — _Early Middle English_
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+  - **Old English:** þrīe
+    - **Middle English:** thre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** threo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thri
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thrie
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðhre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þreo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þrie — _Early Middle English_
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+  - **Old English:** þrīo
+    - **Middle English:** thre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** threo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thri
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thrie
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðhre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þreo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þrie — _Early Middle English_
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+  - **Old English:** þrȳ
+    - **Middle English:** thre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** threo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thri
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thrie
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðhre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þreo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þrie — _Early Middle English_
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+  - **Old English:** þrēo
+    - **Middle English:** thre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** threo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thri
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** thrie
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðhre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** ðre
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þreo
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+    - **Middle English:** þrie — _Early Middle English_
+      - **English:** three
+      - **Scots:** three
+      - **Scots:** threi
+      - **Scots:** hrei
+      - **Yola:** dhree
+      - **Yola:** dhrie
+      - **Yola:** dree
+  - **Old Frisian:** thrē
+    - **North Frisian:** tri
+    - **Saterland Frisian:** träi
+    - **West Frisian:** trije
+  - **Old Frisian:** thriā
+    - **North Frisian:** tri
+    - **Saterland Frisian:** träi
+    - **West Frisian:** trije
+  - **Old Saxon:** thrīe
+    - **Middle Low German:** drê
+      - **Low German:** drei
+        - **German Low German:** dree
+      - **Low German:** dree
+        - **German Low German:** dree
+      - **Plautdietsch:** dree
+  - **Old Dutch:** thrie
+    - **Middle Dutch:** dri — _m_
+      - **Dutch:** drie
+        - **Afrikaans:** drie
+      - **Dutch:** drij — _dialectal_
+        - **Afrikaans:** drie
+    - **Middle Dutch:** drie — _f_
+      - **Dutch:** drie
+        - **Afrikaans:** drie
+      - **Dutch:** drij — _dialectal_
+        - **Afrikaans:** drie
+  - **Old High German:** drī
+    - **Middle High German:** drī
+      - **Alemannic German:** drüü
+      - **Alemannic German:** drü
+      - **Alemannic German:** drii
+      - **Alemannic German:** drei
+      - **Alemannic German:** drüi
+      - **Bavarian:** drei
+      - **Central Franconian:** drei
+        - **Hunsrik:** drei
+        - **Luxembourgish:** dräi
+      - **East Central German:** 
+      - **German:** drei
+      - **Rhine Franconian:** 
+      - **Vilamovian:** draj
+      - **Yiddish:** דרײַ
+- **Proto-Norse:** ᚦᚱᛁᛃᛟᛉ — _feminine nominative_
+  - **Old Norse:** þrír
+    - **Icelandic:** þrír
+    - **Faroese:** tríggir
+    - **Norn:** trir
+    - **Norwegian Nynorsk:** tri — _dialectal_
+    - **Norwegian Nynorsk:** trí
+    - **Norwegian Nynorsk:** trir
+    - **Norwegian Nynorsk:** try
+    - **Norwegian Nynorsk:** tre — _possibly influenced by Danish_
+    - **Jamtish:** trí
+    - **Elfdalian:** trair
+    - **Old Swedish:** þrīr
+      - **Swedish:** tre
+      - **Swedish:** try
+    - **Old Swedish:** þrī
+      - **Swedish:** tre
+      - **Swedish:** try
+    - **Old Danish:** thrē
+      - **Danish:** tre
+        - **Norwegian Bokmål:** tre
+      - **Scanian:** tré
+    - **Gutnish:** trei
+- **Proto-Norse:** ᚦᚱᛁᚨ
+  - **Old Norse:** þrír
+    - **Icelandic:** þrír
+    - **Faroese:** tríggir
+    - **Norn:** trir
+    - **Norwegian Nynorsk:** tri — _dialectal_
+    - **Norwegian Nynorsk:** trí
+    - **Norwegian Nynorsk:** trir
+    - **Norwegian Nynorsk:** try
+    - **Norwegian Nynorsk:** tre — _possibly influenced by Danish_
+    - **Jamtish:** trí
+    - **Elfdalian:** trair
+    - **Old Swedish:** þrīr
+      - **Swedish:** tre
+      - **Swedish:** try
+    - **Old Swedish:** þrī
+      - **Swedish:** tre
+      - **Swedish:** try
+    - **Old Danish:** thrē
+      - **Danish:** tre
+        - **Norwegian Bokmål:** tre
+      - **Scanian:** tré
+    - **Gutnish:** trei
+- **Gothic:** 𐌸𐍂𐌴𐌹𐍃

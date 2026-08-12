@@ -1,0 +1,625 @@
+# *fuglaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/fuglaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *fuglaz
+
+### Etymology
+
+Likely dissimilated from earlier *fluglaz, from pre-Proto-Germanic *pluk-ló-s, from *pleuketi (“to fly”) (whence Proto-Germanic *fleuganą) + *-lós (agent noun suffix), from Proto-Indo-European *plewk- (“to fly”). Parallel construction with *flugilaz (“wing”), from *fleuganą + *-ilaz. Alternatively cognate with Lithuanian paũkštis (“bird”), itself perhaps from Proto-Indo-European *powk-sti-s, from presumed root *pewk-.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *plewk-, *powk-sti-s
+
+### Pronunciation
+
+- IPA: `/ˈɸuɣ.lɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ bird
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| fuglaz | nominative, singular |
+| fuglōz | nominative, plural |
+| fuglōs | nominative, plural |
+| fugl | singular, vocative |
+| fuglōz | plural, vocative |
+| fuglōs | plural, vocative |
+| fuglą | accusative, singular |
+| fuglanz | accusative, plural |
+| fuglas | genitive, singular |
+| fuglis | genitive, singular |
+| fuglǫ̂ | genitive, plural |
+| fuglai | dative, singular |
+| fuglamaz | dative, plural |
+| fuglō | instrumental, singular |
+| fuglamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *fugl
+  - **Old English:** fugol
+    - **Middle English:** foul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fouel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowele
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuhel — _Early Middle English_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** voȝel — _Kent_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** feul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewle
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** ffewyll
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foghel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foughel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foyhel — _Yorkshire_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+  - **Old English:** fugel
+    - **Middle English:** foul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fouel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowele
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuhel — _Early Middle English_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** voȝel — _Kent_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** feul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewle
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** ffewyll
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foghel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foughel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foyhel — _Yorkshire_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+  - **Old English:** fugul
+    - **Middle English:** foul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fouel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowele
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuhel — _Early Middle English_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** voȝel — _Kent_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** feul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewle
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** ffewyll
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foghel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foughel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foyhel — _Yorkshire_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+  - **Old English:** *flugol — _attested as fluglas (pl)_
+    - **Middle English:** foul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fouel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowele
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fowl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuȝel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fuhel — _Early Middle English_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** voȝel — _Kent_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** feul
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewl
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** fewle
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** ffewyll
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foghel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foughel
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+    - **Middle English:** foyhel — _Yorkshire_
+      - **English:** fowl
+      - **Middle Scots:** foul
+        - **Scots:** fowl
+      - **Middle Scots:** fowle
+        - **Scots:** fowl
+      - **Yola:** fowlès — _plural_
+  - **Old Frisian:** fugel
+    - **North Frisian:** 
+      - **Föhr-Amrum:** fögel
+      - **Hallig:** fugel
+      - **Goesharde and Mooring:** föögel
+    - **Saterland Frisian:** Fúgel
+    - **Saterland Frisian:** Fuugel
+    - **West Frisian:** fûgel
+  - **Old Saxon:** fugal
+    - **Middle Low German:** vōgel
+      - **German Low German:** Vogel
+      - **German Low German:** Vögel
+      - **Low German:** Vagel
+      - **Low German:** Vögel
+      - **Plautdietsch:** Voagel
+  - **Old Dutch:** fogal
+    - **Middle Dutch:** vōgel
+      - **Dutch:** vogel
+        - **Afrikaans:** voël
+          - **English:** voël — _borrowed_
+      - **Dutch:** veugel — _obsolete_
+        - **Afrikaans:** voël
+          - **English:** voël — _borrowed_
+      - **Limburgish:** vogel
+      - **Limburgish:** voeagel
+      - **West Flemish:** veugel
+      - **Zealandic:** veugel
+  - **Old Dutch:** vogal
+    - **Middle Dutch:** vōgel
+      - **Dutch:** vogel
+        - **Afrikaans:** voël
+          - **English:** voël — _borrowed_
+      - **Dutch:** veugel — _obsolete_
+        - **Afrikaans:** voël
+          - **English:** voël — _borrowed_
+      - **Limburgish:** vogel
+      - **Limburgish:** voeagel
+      - **West Flemish:** veugel
+      - **Zealandic:** veugel
+  - **Old High German:** fogal
+    - **Middle High German:** vogel
+      - **Alemannic German:** Fogel
+      - **Alemannic German:** Vogel
+      - **Central Franconian:** Vuggel
+      - **Central Franconian:** Vugel — _Colognian Academy spelling_
+      - **Central Franconian:** Vuul — _scattered variant in Moselle Franconian_
+      - **Cimbrian:** vóoghel
+      - **Cimbrian:** bóoghel
+      - **Cimbrian:** vogl
+      - **German:** Vogel
+      - **Luxembourgish:** Vugel
+      - **Luxembourgish:** Vull
+      - **Rhine Franconian:** 
+      - **Vilamovian:** föguł
+      - **Yiddish:** פֿויגל
+  - **Old High German:** fugal
+    - **Middle High German:** vogel
+      - **Alemannic German:** Fogel
+      - **Alemannic German:** Vogel
+      - **Central Franconian:** Vuggel
+      - **Central Franconian:** Vugel — _Colognian Academy spelling_
+      - **Central Franconian:** Vuul — _scattered variant in Moselle Franconian_
+      - **Cimbrian:** vóoghel
+      - **Cimbrian:** bóoghel
+      - **Cimbrian:** vogl
+      - **German:** Vogel
+      - **Luxembourgish:** Vugel
+      - **Luxembourgish:** Vull
+      - **Rhine Franconian:** 
+      - **Vilamovian:** föguł
+      - **Yiddish:** פֿויגל
+- **Old Norse:** fogl
+  - **Icelandic:** fugl
+  - **Faroese:** fuglur
+  - **Norn:** fugl
+  - **Norn:** ful
+  - **Norwegian Nynorsk:** fugl — _dialectal_
+  - **Norwegian Nynorsk:** fogl
+  - **Norwegian Nynorsk:** føgl
+  - **Norwegian Nynorsk:** faugl
+  - **Jamtish:** fugł
+  - **Elfdalian:** fugel
+  - **Old Swedish:** fughl
+    - **Swedish:** fågel
+    - **Swedish:** fogel
+  - **Old Swedish:** foghl
+    - **Swedish:** fågel
+    - **Swedish:** fogel
+  - **Old Swedish:** ᚠᚢᚵᚼᛚ
+    - **Swedish:** fågel
+    - **Swedish:** fogel
+  - **Old Danish:** fughl
+    - **Danish:** fugl
+      - **Norwegian Bokmål:** fugl
+    - **Scanian:** fuğl
+  - **Gutnish:** fäugel
+- **Old Norse:** fugl
+  - **Icelandic:** fugl
+  - **Faroese:** fuglur
+  - **Norn:** fugl
+  - **Norn:** ful
+  - **Norwegian Nynorsk:** fugl — _dialectal_
+  - **Norwegian Nynorsk:** fogl
+  - **Norwegian Nynorsk:** føgl
+  - **Norwegian Nynorsk:** faugl
+  - **Jamtish:** fugł
+  - **Elfdalian:** fugel
+  - **Old Swedish:** fughl
+    - **Swedish:** fågel
+    - **Swedish:** fogel
+  - **Old Swedish:** foghl
+    - **Swedish:** fågel
+    - **Swedish:** fogel
+  - **Old Swedish:** ᚠᚢᚵᚼᛚ
+    - **Swedish:** fågel
+    - **Swedish:** fogel
+  - **Old Danish:** fughl
+    - **Danish:** fugl
+      - **Norwegian Bokmål:** fugl
+    - **Scanian:** fuğl
+  - **Gutnish:** fäugel
+- **Gothic:** 𐍆𐌿𐌲𐌻𐍃

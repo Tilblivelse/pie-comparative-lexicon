@@ -1,0 +1,4739 @@
+# *niwjaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/niwjaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *niwjaz
+
+### Etymology
+
+From earlier *newjaz, from Proto-Indo-European *néwyos (“new”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *néwos, *néwyos
+
+### Pronunciation
+
+- IPA: `/ˈniu̯.jɑz/`
+
+### Adjective
+
+1. _(reconstruction)_ new
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| niwizô | comparative |
+| niwistaz | superlative |
+| ja-stem | class |
+| niwjaz | masculine, nominative, singular, strong |
+| niwjō | feminine, nominative, singular, strong |
+| niwją | neuter, nominative, singular, strong |
+| -atō | neuter, nominative, singular, strong |
+| niwjai | masculine, nominative, plural, strong |
+| niwjôz | feminine, nominative, plural, strong |
+| niwjō | neuter, nominative, plural, strong |
+| niwjanǭ | accusative, masculine, singular, strong |
+| niwjǭ | accusative, feminine, singular, strong |
+| niwją | accusative, neuter, singular, strong |
+| -atō | accusative, neuter, singular, strong |
+| niwjanz | accusative, masculine, plural, strong |
+| niwjōz | accusative, feminine, plural, strong |
+| niwjō | accusative, neuter, plural, strong |
+| niwjas | genitive, masculine, singular, strong |
+| -is | genitive, masculine, singular, strong |
+| niwjaizōz | feminine, genitive, singular, strong |
+| niwjas | genitive, neuter, singular, strong |
+| -is | genitive, neuter, singular, strong |
+| niwjaizǫ̂ | genitive, masculine, plural, strong |
+| niwjaizǫ̂ | feminine, genitive, plural, strong |
+| niwjaizǫ̂ | genitive, neuter, plural, strong |
+| niwjammai | dative, masculine, singular, strong |
+| niwjaizōi | dative, feminine, singular, strong |
+| niwjammai | dative, neuter, singular, strong |
+| niwjaimaz | dative, masculine, plural, strong |
+| niwjaimaz | dative, feminine, plural, strong |
+| niwjaimaz | dative, neuter, plural, strong |
+| niwjanō | instrumental, masculine, singular, strong |
+| niwjaizō | feminine, instrumental, singular, strong |
+| niwjanō | instrumental, neuter, singular, strong |
+| niwjaimiz | instrumental, masculine, plural, strong |
+| niwjaimiz | feminine, instrumental, plural, strong |
+| niwjaimiz | instrumental, neuter, plural, strong |
+| niwjô | masculine, nominative, singular, weak |
+| niwjǭ | feminine, nominative, singular, weak |
+| niwjô | neuter, nominative, singular, weak |
+| niwjaniz | masculine, nominative, plural, weak |
+| niwjōniz | feminine, nominative, plural, weak |
+| niwjōnō | neuter, nominative, plural, weak |
+| niwjanų | accusative, masculine, singular, weak |
+| niwjōnų | accusative, feminine, singular, weak |
+| niwjô | accusative, neuter, singular, weak |
+| niwjanunz | accusative, masculine, plural, weak |
+| niwjōnunz | accusative, feminine, plural, weak |
+| niwjōnō | accusative, neuter, plural, weak |
+| niwiniz | genitive, masculine, singular, weak |
+| niwjōniz | feminine, genitive, singular, weak |
+| niwiniz | genitive, neuter, singular, weak |
+| niwjanǫ̂ | genitive, masculine, plural, weak |
+| niwjōnǫ̂ | feminine, genitive, plural, weak |
+| niwjanǫ̂ | genitive, neuter, plural, weak |
+| niwini | dative, masculine, singular, weak |
+| niwjōni | dative, feminine, singular, weak |
+| niwini | dative, neuter, singular, weak |
+| niwjammaz | dative, masculine, plural, weak |
+| niwjōmaz | dative, feminine, plural, weak |
+| niwjammaz | dative, neuter, plural, weak |
+| niwinē | instrumental, masculine, singular, weak |
+| niwjōnē | feminine, instrumental, singular, weak |
+| niwinē | instrumental, neuter, singular, weak |
+| niwjammiz | instrumental, masculine, plural, weak |
+| niwjōmiz | feminine, instrumental, plural, weak |
+| niwjammiz | instrumental, neuter, plural, weak |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *niwi
+  - **Old English:** nīewe
+    - **Middle English:** newe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** new
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neue
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** nywe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neowe — _Early Middle English or West Midland_
+      - **English:** new
+      - **Scots:** new
+  - **Old English:** nīwe
+    - **Middle English:** newe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** new
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neue
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** nywe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neowe — _Early Middle English or West Midland_
+      - **English:** new
+      - **Scots:** new
+  - **Old English:** nēowe
+    - **Middle English:** newe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** new
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neue
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** nywe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neowe — _Early Middle English or West Midland_
+      - **English:** new
+      - **Scots:** new
+  - **Old English:** nīowe
+    - **Middle English:** newe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** new
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neue
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** nywe
+      - **English:** new
+      - **Scots:** new
+    - **Middle English:** neowe — _Early Middle English or West Midland_
+      - **English:** new
+      - **Scots:** new
+  - **Old Frisian:** nī
+    - **North Frisian:** 
+    - **Saterland Frisian:** näi
+    - **West Frisian:** nij
+  - **Old Frisian:** nīe
+    - **North Frisian:** 
+    - **Saterland Frisian:** näi
+    - **West Frisian:** nij
+  - **Old Saxon:** niuwi
+    - **Middle Low German:** nîe
+      - **Dutch Low Saxon:** nij
+      - **Low German:** nee
+      - **Low German:** nie
+      - **Low German:** neu
+      - **German Low German:** nü
+      - **German Low German:** nüe
+      - **German Low German:** nii
+      - **German Low German:** nee
+      - **German Low German:** neei
+      - **Plautdietsch:** nie
+    - **Middle Low German:** nîge
+      - **Dutch Low Saxon:** nij
+      - **Low German:** nee
+      - **Low German:** nie
+      - **Low German:** neu
+      - **German Low German:** nü
+      - **German Low German:** nüe
+      - **German Low German:** nii
+      - **German Low German:** nee
+      - **German Low German:** neei
+      - **Plautdietsch:** nie
+    - **Middle Low German:** nü̂we
+      - **Dutch Low Saxon:** nij
+      - **Low German:** nee
+      - **Low German:** nie
+      - **Low German:** neu
+      - **German Low German:** nü
+      - **German Low German:** nüe
+      - **German Low German:** nii
+      - **German Low German:** nee
+      - **German Low German:** neei
+      - **Plautdietsch:** nie
+  - **Old Dutch:** niuwi
+    - **Middle Dutch:** niewe
+      - **Dutch:** nieuw
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nief — _Brabant_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nie — _Eastern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nij — _Frisian; eastern & northern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nieuwt — _dialectal; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nouw — _dialectal; Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuw — _Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuwt — _dialectal; Holland; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Limburgish:** nuuj
+    - **Middle Dutch:** neuwe
+      - **Dutch:** nieuw
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nief — _Brabant_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nie — _Eastern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nij — _Frisian; eastern & northern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nieuwt — _dialectal; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nouw — _dialectal; Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuw — _Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuwt — _dialectal; Holland; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Limburgish:** nuuj
+    - **Middle Dutch:** newe
+      - **Dutch:** nieuw
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nief — _Brabant_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nie — _Eastern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nij — _Frisian; eastern & northern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nieuwt — _dialectal; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nouw — _dialectal; Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuw — _Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuwt — _dialectal; Holland; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Limburgish:** nuuj
+    - **Middle Dutch:** niwe
+      - **Dutch:** nieuw
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nief — _Brabant_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nie — _Eastern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nij — _Frisian; eastern & northern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nieuwt — _dialectal; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nouw — _dialectal; Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuw — _Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuwt — _dialectal; Holland; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Limburgish:** nuuj
+    - **Middle Dutch:** nuwe
+      - **Dutch:** nieuw
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nief — _Brabant_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nie — _Eastern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nij — _Frisian; eastern & northern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nieuwt — _dialectal; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nouw — _dialectal; Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuw — _Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuwt — _dialectal; Holland; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Limburgish:** nuuj
+    - **Middle Dutch:** niew
+      - **Dutch:** nieuw
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nief — _Brabant_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nie — _Eastern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nij — _Frisian; eastern & northern Netherlands_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nieuwt — _dialectal; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nouw — _dialectal; Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuw — _Holland_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Dutch:** nuwt — _dialectal; Holland; originally neuter_
+        - **Afrikaans:** nuwe
+        - **Afrikaans:** nuut
+      - **Limburgish:** nuuj
+  - **Old High German:** niuwi
+    - **Middle High German:** niuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** neu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** new
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** newe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nue
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuge
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nüewe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** núwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůw
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+  - **Old High German:** niuwe
+    - **Middle High German:** niuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** neu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** new
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** newe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nue
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuge
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nüewe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** núwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůw
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+  - **Old High German:** niwe
+    - **Middle High German:** niuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** neu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** new
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** newe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nue
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuge
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nüewe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** núwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůw
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+  - **Old High German:** niwi
+    - **Middle High German:** niuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** neu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** new
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** newe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nue
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuge
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nüewe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** núwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůw
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+  - **Old High German:** nuwi
+    - **Middle High German:** niuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** neu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** new
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** newe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niu
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** niwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nue
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuge
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nuwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nüewe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** núwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůw
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+    - **Middle High German:** nůwe
+      - **Alemannic German:** nüüw
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nöi
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Alemannic German:** nüü
+        - **Alsatian:** nèi
+        - **Swabian:** nei
+        - **Walser:** niw
+        - **Walser:** niww
+        - **Walser:** nu
+      - **Bavarian:** nei
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Bavarian:** neich
+        - **Cimbrian:** nòjar
+        - **Cimbrian:** nauk
+        - **Cimbrian:** naüge
+        - **Gottscheerish:** nai
+        - **Hianzisch:** neich
+        - **Mòcheno:** nai
+        - **Udinese:** naie
+        - **Udinese:** naje
+        - **Udinese:** noi
+      - **Central Franconian:** nei
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **Central Franconian:** neu
+        - **Hunsrik:** nei
+        - **Kölsch:** neu
+        - **Transylvanian Saxon:** na
+      - **East Central German:** 
+        - **Silesian East Central German:** neu
+        - **Upper Saxon German:** nei
+          - **Erzgebirgisch:** nei
+      - **East Franconian:** nei
+      - **East Franconian:** neu
+      - **German:** neu
+      - **Luxembourgish:** nei
+      - **Rhine Franconian:** 
+        - **Hessian:** nei
+        - **Hessian:** neu
+        - **Palatine German:** nau
+        - **Palatine German:** nei
+        - **Palatine German:** neu
+        - **Pennsylvania German:** nei
+      - **Vilamovian:** noj
+      - **Vilamovian:** noü
+      - **Yiddish:** נײַ
+      - **Zipser German:** nai
+      - **Zipser German:** neu
+- **Proto-Norse:** *ᚾᛁᚢᛃᚨᛉ
+  - **Proto-Norse:** ᚾᛁᚢᛃᛁᛚᚨ — _reshaped by analogy or addition of morphemes_
+  - **Proto-Norse:** ᚾᛁᚢᚹᛁᛚᚨ — _reshaped by analogy or addition of morphemes_
+  - **Old Norse:** nýr
+    - **Icelandic:** nýr
+    - **Faroese:** nýggjur
+    - **Norwegian Nynorsk:** ny
+    - **Norwegian Nynorsk:** nyr — _dialectal_
+    - **Old Swedish:** nȳr
+      - **Swedish:** ny
+    - **Old Danish:** ny
+      - **Danish:** ny
+        - **Norwegian Bokmål:** ny
+- **Gothic:** 𐌽𐌹𐌿𐌾𐌹𐍃

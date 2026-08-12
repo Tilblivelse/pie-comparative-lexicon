@@ -1,0 +1,542 @@
+# *stukkiją
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/stukkij%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *stukkiją
+
+### Etymology
+
+A ja-stem nominal derived either from *stikaną (“to stick”) or its iterative *stukkōną (“idem”).
+An alternative theory, as follows, derives the word from Proto-Indo-European *(s)tewg- (“to shock, butt, impact”). The geminate -kk- is assumed based on *stukkaz (“stick”) (whence Old English stocc, Old Norse stokkr).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *(s)tewg-
+
+### Pronunciation
+
+- IPA: `/ˈstuk.ki.jɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ stump
+2. _(neuter, reconstruction)_ piece
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ja-stem | class |
+| stukkiją | nominative, singular |
+| stukkijō | nominative, plural |
+| stukkiją | singular, vocative |
+| stukkijō | plural, vocative |
+| stukkiją | accusative, singular |
+| stukkijō | accusative, plural |
+| stukkijas | genitive, singular |
+| stukkīs | genitive, singular |
+| stukkijǫ̂ | genitive, plural |
+| stukkijai | dative, singular |
+| stukkijamaz | dative, plural |
+| stukkijō | instrumental, singular |
+| stukkijamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *stukkī
+  - **Old English:** styċċe
+    - **Middle English:** stucche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stecche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stech
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** steche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** sticche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stitche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stuche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **English:** styca — _borrowed_
+    - **English:** stuckling — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** stiċċe
+    - **Middle English:** stucche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stecche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stech
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** steche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** sticche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stitche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stuche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **English:** styca — _borrowed_
+    - **English:** stuckling — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** stiċ — _sometimes in compounds_
+    - **Middle English:** stucche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stecche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stech
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** steche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** sticche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stitche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stuche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **English:** styca — _borrowed_
+    - **English:** stuckling — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** styċġċe — _Anglian_
+    - **Middle English:** stucche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stecche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stech
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** steche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** sticche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stitche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **Middle English:** stuche
+      - **English:** stitch meale — _reshaped by analogy or addition of morphemes_
+      - **English:** stitchmeal — _reshaped by analogy or addition of morphemes_
+    - **English:** styca — _borrowed_
+    - **English:** stuckling — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old Frisian:** stekk
+    - **Saterland Frisian:** Stuk
+    - **West Frisian:** stik
+  - **Old Saxon:** stukki
+    - **Middle Low German:** stücke
+      - **German Low German:** Stück
+      - **Plautdietsch:** Stekj
+  - **Old Dutch:** *stukki
+    - **Middle Dutch:** stucke
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** stuc
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** sticke
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** stic
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+  - **Old Dutch:** *stikki
+    - **Middle Dutch:** stucke
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** stuc
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** sticke
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** stic
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+  - **Old Dutch:** -stic
+    - **Middle Dutch:** stucke
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** stuc
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** sticke
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+    - **Middle Dutch:** stic
+      - **Dutch:** stuk
+        - **Afrikaans:** stuk
+      - **Dutch:** stik
+        - **Afrikaans:** stuk
+      - **West Flemish:** stik
+      - **Middle English:** stic — _borrowed_
+        - **English:** stick
+        - **English:** steck
+        - **Scots:** stick
+        - **Scots:** steck
+  - **Old High German:** stucki
+    - **Middle High German:** stucke
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stück
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stuck
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **English:** stucco — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** stuc — _borrowed_ — _through a non-Germanic route_
+    - **German:** Stuck — _borrowed_ — _through a non-Germanic route_
+  - **Old High German:** stukki
+    - **Middle High German:** stucke
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stück
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stuck
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **English:** stucco — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** stuc — _borrowed_ — _through a non-Germanic route_
+    - **German:** Stuck — _borrowed_ — _through a non-Germanic route_
+  - **Old High German:** stucchi
+    - **Middle High German:** stucke
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stück
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stuck
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **English:** stucco — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** stuc — _borrowed_ — _through a non-Germanic route_
+    - **German:** Stuck — _borrowed_ — _through a non-Germanic route_
+  - **Old High German:** stuhhi
+    - **Middle High German:** stucke
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stück
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **Middle High German:** stuck
+      - **Alemannic German:** Stuck
+      - **Alemannic German:** Stucke
+      - **Alemannic German:** Stucki
+      - **Alemannic German:** Stück
+      - **Alemannic German:** Stücke
+      - **Alemannic German:** Stücki
+      - **Bavarian:** Stuck
+      - **Bavarian:** Stick — _latter influenced by diminutive and/or Standard German_
+      - **Central Franconian:** Stöck
+        - **Luxembourgish:** Stéck
+      - **Central Franconian:** Steck
+        - **Luxembourgish:** Stéck
+      - **East Central German:** 
+        - **Upper Saxon German:** Stigg
+        - **Upper Saxon German:** Stigge
+      - **German:** Stück
+      - **Yiddish:** שטיק
+        - **English:** shtick — _borrowed_
+    - **English:** stucco — _borrowed_ — _through a non-Germanic route_
+    - **Dutch:** stuc — _borrowed_ — _through a non-Germanic route_
+    - **German:** Stuck — _borrowed_ — _through a non-Germanic route_
+- **Old Norse:** stykki
+  - **Icelandic:** stykki
+  - **Faroese:** stykki
+  - **Norwegian Bokmål:** stykke
+  - **Norwegian Nynorsk:** stykke
+  - **Old Swedish:** stykke
+    - **Swedish:** stycke
+  - **Danish:** stykke
+  - **Scanian:** stikke

@@ -1,0 +1,1098 @@
+# *gurą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/gur%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *gurą
+
+### Etymology
+
+Of uncertain origin. Bears strong resemblance to Old Irish gur (“matter, pus”), suggesting a potential derivation from Proto-Indo-European *gʷʰer- (“warm; hot”), though the correspondence of Proto-Indo-European *gʷʰ to Proto-Germanic *g is still on a matter of debate.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *gʷʰer-
+
+### Pronunciation
+
+- IPA: `/ˈɣu.rɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ half-digested stomach contents
+2. _(neuter, reconstruction)_ manure; dung; feces
+3. _(neuter, reconstruction)_ filth; muck
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| gurą | nominative, singular |
+| gurō | nominative, plural |
+| gurą | singular, vocative |
+| gurō | plural, vocative |
+| gurą | accusative, singular |
+| gurō | accusative, plural |
+| guras | genitive, singular |
+| guris | genitive, singular |
+| gurǫ̂ | genitive, plural |
+| gurai | dative, singular |
+| guramaz | dative, plural |
+| gurō | instrumental, singular |
+| guramiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *gor
+  - **Old English:** gor
+    - **Middle English:** gor
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gorre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gore
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** güre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** girre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gire
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** gyr
+    - **Middle English:** gor
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gorre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gore
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** güre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** girre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gire
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** gyre
+    - **Middle English:** gor
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gorre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gore
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** güre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** girre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gire
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** gyra
+    - **Middle English:** gor
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gorre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gore
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** güre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** girre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gire
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old English:** gyru
+    - **Middle English:** gor
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gorre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gore
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** güre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** girre
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+    - **Middle English:** gire
+      - **Scots:** goor
+      - **Scots:** gure
+      - **English:** gore
+      - **English:** gurry — _reshaped by analogy or addition of morphemes; uncertain_
+  - **Old Frisian:** gēre
+    - **Saterland Frisian:** Gorre
+    - **Saterland Frisian:** Jirre
+    - **West Frisian:** jarre
+  - **Old Frisian:** iēre
+    - **Saterland Frisian:** Gorre
+    - **Saterland Frisian:** Jirre
+    - **West Frisian:** jarre
+  - **Old Frisian:** jēre
+    - **Saterland Frisian:** Gorre
+    - **Saterland Frisian:** Jirre
+    - **West Frisian:** jarre
+  - **Old Saxon:** *gor
+    - **Middle Low German:** gore
+    - **Middle Low German:** goor
+    - **Middle Low German:** gore
+    - **Middle Low German:** gorre
+  - **Old Saxon:** *goru
+    - **Middle Low German:** gore
+    - **Middle Low German:** goor
+    - **Middle Low German:** gore
+    - **Middle Low German:** gorre
+  - **Old Dutch:** gor
+    - **Middle Dutch:** ghoor
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** goor
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** goor
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** gore
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** gier
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** ghier
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+  - **Old Dutch:** *gori
+    - **Middle Dutch:** ghoor
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** goor
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** goor
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** gore
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** gier
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+    - **Middle Dutch:** ghier
+      - **Dutch:** goor
+        - **Afrikaans:** goor
+      - **Dutch:** gier
+        - **Afrikaans:** goor
+  - **Old High German:** gor
+    - **Middle High German:** *gor
+      - **German:** Gur
+        - **Swedish:** gur — _borrowed_
+      - **German:** Gür — _f_
+        - **Swedish:** gur — _borrowed_
+      - **German:** Guhr
+        - **Swedish:** gur — _borrowed_
+  - **Old High German:** gurigabala
+    - **Middle High German:** *gor
+      - **German:** Gur
+        - **Swedish:** gur — _borrowed_
+      - **German:** Gür — _f_
+        - **Swedish:** gur — _borrowed_
+      - **German:** Guhr
+        - **Swedish:** gur — _borrowed_
+- **Old Norse:** gor
+  - **Old Norse:** gjǫr — _reshaped by analogy or addition of morphemes_
+  - **Faroese:** gor
+  - **Icelandic:** gor
+  - **Icelandic:** gorr
+  - **Icelandic:** gjör
+  - **Norwegian:** 
+    - **Norwegian Bokmål:** gørr
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gorr
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gor
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gaur
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Nynorsk:** gørr
+  - **Old Danish:** gorr
+    - **Danish:** gorr
+    - **Danish:** gor
+  - **Old Danish:** gor
+    - **Danish:** gorr
+    - **Danish:** gor
+  - **Old Swedish:** gorr
+    - **Swedish:** gor
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gohr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gorr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** guhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gurr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyrr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** går
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gåhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gårr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gör
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** göhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** görr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gaur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Old Swedish:** giöria — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görja
+      - **Swedish:** giörja
+    - **Old Swedish:** giöriod — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görji
+      - **Swedish:** görjog
+      - **Swedish:** giörjod
+      - **Swedish:** gyrjoger
+  - **Old Swedish:** gor
+    - **Swedish:** gor
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gohr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gorr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** guhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gurr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyrr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** går
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gåhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gårr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gör
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** göhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** görr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gaur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Old Swedish:** giöria — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görja
+      - **Swedish:** giörja
+    - **Old Swedish:** giöriod — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görji
+      - **Swedish:** görjog
+      - **Swedish:** giörjod
+      - **Swedish:** gyrjoger
+- **Old Norse:** gur
+  - **Old Norse:** gjǫr — _reshaped by analogy or addition of morphemes_
+  - **Faroese:** gor
+  - **Icelandic:** gor
+  - **Icelandic:** gorr
+  - **Icelandic:** gjör
+  - **Norwegian:** 
+    - **Norwegian Bokmål:** gørr
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gorr
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gor
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gaur
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Nynorsk:** gørr
+  - **Old Danish:** gorr
+    - **Danish:** gorr
+    - **Danish:** gor
+  - **Old Danish:** gor
+    - **Danish:** gorr
+    - **Danish:** gor
+  - **Old Swedish:** gorr
+    - **Swedish:** gor
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gohr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gorr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** guhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gurr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyrr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** går
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gåhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gårr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gör
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** göhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** görr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gaur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Old Swedish:** giöria — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görja
+      - **Swedish:** giörja
+    - **Old Swedish:** giöriod — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görji
+      - **Swedish:** görjog
+      - **Swedish:** giörjod
+      - **Swedish:** gyrjoger
+  - **Old Swedish:** gor
+    - **Swedish:** gor
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gohr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gorr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** guhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gurr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyrr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** går
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gåhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gårr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gör
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** göhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** görr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gaur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Old Swedish:** giöria — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görja
+      - **Swedish:** giörja
+    - **Old Swedish:** giöriod — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görji
+      - **Swedish:** görjog
+      - **Swedish:** giörjod
+      - **Swedish:** gyrjoger
+- **Old Norse:** gorr
+  - **Old Norse:** gjǫr — _reshaped by analogy or addition of morphemes_
+  - **Faroese:** gor
+  - **Icelandic:** gor
+  - **Icelandic:** gorr
+  - **Icelandic:** gjör
+  - **Norwegian:** 
+    - **Norwegian Bokmål:** gørr
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gorr
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gor
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Bokmål:** gaur
+      - **Norwegian Bokmål:** gyrja — _reshaped by analogy or addition of morphemes_
+    - **Norwegian Nynorsk:** gørr
+  - **Old Danish:** gorr
+    - **Danish:** gorr
+    - **Danish:** gor
+  - **Old Danish:** gor
+    - **Danish:** gorr
+    - **Danish:** gor
+  - **Old Swedish:** gorr
+    - **Swedish:** gor
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gohr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gorr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** guhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gurr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyrr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** går
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gåhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gårr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gör
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** göhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** görr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gaur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Old Swedish:** giöria — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görja
+      - **Swedish:** giörja
+    - **Old Swedish:** giöriod — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görji
+      - **Swedish:** görjog
+      - **Swedish:** giörjod
+      - **Swedish:** gyrjoger
+  - **Old Swedish:** gor
+    - **Swedish:** gor
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gohr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gorr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** guhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gurr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gyrr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** går
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gåhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gårr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gör
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** göhr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** görr
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Swedish:** gaur
+      - **Swedish:** gorra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårra — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gorrig — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** gårrig — _reshaped by analogy or addition of morphemes_
+      - **Gothenburghian:** gör
+      - **Swedish:** gård- — _reshaped by analogy or addition of morphemes_
+    - **Old Swedish:** giöria — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görja
+      - **Swedish:** giörja
+    - **Old Swedish:** giöriod — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** görji
+      - **Swedish:** görjog
+      - **Swedish:** giörjod
+      - **Swedish:** gyrjoger

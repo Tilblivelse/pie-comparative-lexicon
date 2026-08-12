@@ -1,0 +1,1838 @@
+# *skakulaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/skakulaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *skakulaz
+
+### Etymology
+
+From *skakaną + *-ulaz.
+
+### Proto-Indo-European ancestry
+
+**PIE form(s) resolved through Proto-Germanic components:** *(s)kek-, *skek-
+
+### Pronunciation
+
+- IPA: `/ˈskɑ.ku.lɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ a link in a chain
+2. _(masculine, reconstruction)_ a fetter
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| skakulaz | nominative, singular |
+| skakulōz | nominative, plural |
+| skakulōs | nominative, plural |
+| skakul | singular, vocative |
+| skakulōz | plural, vocative |
+| skakulōs | plural, vocative |
+| skakulą | accusative, singular |
+| skakulanz | accusative, plural |
+| skakulas | genitive, singular |
+| skakulis | genitive, singular |
+| skakulǫ̂ | genitive, plural |
+| skakulai | dative, singular |
+| skakulamaz | dative, plural |
+| skakulō | instrumental, singular |
+| skakulamiz | instrumental, plural |
+| *skakilaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *skakul
+  - **Old English:** sċacul
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** sċeacul
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** sċeacel
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** sċecel
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** *skakilaz
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old Frisian:** *skakel
+    - **Saterland Frisian:** Schakel
+    - **West Frisian:** skeakel
+  - **Old Saxon:** *skakul
+    - **Middle Low German:** schākel
+      - **German Low German:** Schakel
+      - **German Low German:** Schackel
+      - **German:** Schäckel — _borrowed_
+      - **German:** Schäkel — _borrowed_
+  - **Old Dutch:** *skakul
+    - **Middle Dutch:** scākel
+      - **Dutch:** schakel
+    - **Middle Dutch:** schakel
+      - **Dutch:** schakel
+    - **Middle Dutch:** schaeckel
+      - **Dutch:** schakel
+- **Proto-West Germanic:** *skakil
+  - **Old English:** sċacul
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** sċeacul
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** sċeacel
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** sċecel
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old English:** *skakilaz
+    - **Middle English:** schakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakil
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakkyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakle
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** schakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakel
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakill
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyl
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shakyll
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+    - **Middle English:** shekyl — _from Old English sċecel_
+      - **English:** shackle
+        - **Danish:** sjækkel — _borrowed_
+        - **Norwegian:** sjakkel — _borrowed_
+        - **Swedish:** schackel — _borrowed_
+      - **Middle Scots:** schaikill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schakill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+      - **Middle Scots:** schekill
+        - **Scots:** shakle
+        - **Scots:** shackle
+        - **Scots:** sheckle
+  - **Old Frisian:** *skakel
+    - **Saterland Frisian:** Schakel
+    - **West Frisian:** skeakel
+  - **Old Saxon:** *skakul
+    - **Middle Low German:** schākel
+      - **German Low German:** Schakel
+      - **German Low German:** Schackel
+      - **German:** Schäckel — _borrowed_
+      - **German:** Schäkel — _borrowed_
+  - **Old Dutch:** *skakul
+    - **Middle Dutch:** scākel
+      - **Dutch:** schakel
+    - **Middle Dutch:** schakel
+      - **Dutch:** schakel
+    - **Middle Dutch:** schaeckel
+      - **Dutch:** schakel
+- **Proto-Germanic:** *skakilaz — _reshaped by analogy or addition of morphemes_
+  - **Proto-Norse:** *ᛋᚲᚨᚲᛁᛚᚨᛉ
+    - **Old Norse:** skǫkull
+      - **Old Danish:** skagel
+        - **Danish:** skagle
+      - **Icelandic:** skökull
+      - **Icelandic:** skekill
+      - **Icelandic:** skekkill
+      - **Norwegian:** skåk
+      - **Norwegian:** skakel
+      - **Norwegian:** skakkel
+      - **Norwegian:** skakle
+      - **Norwegian:** skokle
+      - **Old Swedish:** skakul
+        - **Swedish:** skakel
+        - **Swedish:** skackel — _dialectal_
+        - **Swedish:** skakal
+        - **Swedish:** skackal
+        - **Swedish:** skakla
+        - **Swedish:** skackla
+        - **Swedish:** skakle
+        - **Swedish:** skackle
+    - **Old Norse:** skekill
+      - **Old Danish:** skagel
+        - **Danish:** skagle
+      - **Icelandic:** skökull
+      - **Icelandic:** skekill
+      - **Icelandic:** skekkill
+      - **Norwegian:** skåk
+      - **Norwegian:** skakel
+      - **Norwegian:** skakkel
+      - **Norwegian:** skakle
+      - **Norwegian:** skokle
+      - **Old Swedish:** skakul
+        - **Swedish:** skakel
+        - **Swedish:** skackel — _dialectal_
+        - **Swedish:** skakal
+        - **Swedish:** skackal
+        - **Swedish:** skakla
+        - **Swedish:** skackla
+        - **Swedish:** skakle
+        - **Swedish:** skackle

@@ -1,0 +1,1902 @@
+# *lētaną
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/l%C4%93tan%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *lētaną
+
+### Etymology
+
+From Proto-Indo-European *leh₁d- (“to let (go), be tired”). Compare Latin lassus (“tired”), Albanian lodh, and possibly Ancient Greek ληδεῖν (lēdeîn, “to be tired”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *leh₁d-
+
+### Pronunciation
+
+- IPA: `/ˈlɛː.tɑ.nɑ̃/`
+
+### Verb
+
+1. _(reconstruction)_ to let, to allow
+2. _(reconstruction)_ to leave alone
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| 7d | class |
+| lētō | active, first-person, indicative, singular |
+| lētaų | active, first-person, singular, subjunctive |
+| - | active, first-person, imperative, singular |
+| lētai | first-person, indicative, passive, singular |
+| - | first-person, passive, singular, subjunctive |
+| lētizi | active, indicative, second-person, singular |
+| lētaiz | active, second-person, singular, subjunctive |
+| lēt | active, imperative, second-person, singular |
+| lētazai | indicative, passive, second-person, singular |
+| lētaizau | passive, second-person, singular, subjunctive |
+| lētidi | active, indicative, singular, third-person |
+| lētai | active, singular, subjunctive, third-person |
+| lētadau | active, imperative, singular, third-person |
+| lētadai | indicative, passive, singular, third-person |
+| lētaidau | passive, singular, subjunctive, third-person |
+| lētōz | active, dual, first-person, indicative |
+| lētaiw | active, dual, first-person, subjunctive |
+| - | active, dual, first-person, imperative |
+| - | dual, first-person, indicative, passive |
+| - | dual, first-person, passive, subjunctive |
+| lētadiz | active, dual, indicative, second-person |
+| lētaidiz | active, dual, second-person, subjunctive |
+| lētadiz | active, dual, imperative, second-person |
+| - | dual, indicative, passive, second-person |
+| - | dual, passive, second-person, subjunctive |
+| lētamaz | active, first-person, indicative, plural |
+| lētaim | active, first-person, plural, subjunctive |
+| - | active, first-person, imperative, plural |
+| lētandai | first-person, indicative, passive, plural |
+| lētaindau | first-person, passive, plural, subjunctive |
+| lētid | active, indicative, plural, second-person |
+| lētaid | active, plural, second-person, subjunctive |
+| lētid | active, imperative, plural, second-person |
+| lētandai | indicative, passive, plural, second-person |
+| lētaindau | passive, plural, second-person, subjunctive |
+| lētandi | active, indicative, plural, third-person |
+| lētain | active, plural, subjunctive, third-person |
+| lētandau | active, imperative, plural, third-person |
+| lētandai | indicative, passive, plural, third-person |
+| lētaindau | passive, plural, subjunctive, third-person |
+| lelōt | active, first-person, indicative, singular |
+| leltį̄ | active, first-person, singular, subjunctive |
+| lelōst | active, indicative, second-person, singular |
+| leltīz | active, second-person, singular, subjunctive |
+| lelōt | active, indicative, singular, third-person |
+| leltī | active, singular, subjunctive, third-person |
+| leltū | active, dual, first-person, indicative |
+| leltīw | active, dual, first-person, subjunctive |
+| leltudiz | active, dual, indicative, second-person |
+| leltīdiz | active, dual, second-person, subjunctive |
+| leltum | active, first-person, indicative, plural |
+| leltīm | active, first-person, plural, subjunctive |
+| leltud | active, indicative, plural, second-person |
+| leltīd | active, plural, second-person, subjunctive |
+| leltun | active, indicative, plural, third-person |
+| leltīn | active, plural, subjunctive, third-person |
+| lētandz | active, participle, present |
+| lētanaz | active, participle, past, subjunctive |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *lātan
+  - **Old English:** lǣtan
+    - **Middle English:** leten
+      - **English:** let
+      - **Scots:** lat
+      - **Scots:** let
+      - **Scots:** lete
+      - **Yola:** leth
+    - **Middle English:** letten
+      - **English:** let
+      - **Scots:** lat
+      - **Scots:** let
+      - **Scots:** lete
+      - **Yola:** leth
+  - **Old Frisian:** lēta
+    - **North Frisian:** 
+    - **Saterland Frisian:** läite
+    - **West Frisian:** litte
+  - **Old Saxon:** lātan
+    - **Middle Low German:** lāten
+      - **Low German:** laten
+        - **German Low German:** laten
+        - **German Low German:** låten
+  - **Old Dutch:** lātan
+    - **Middle Dutch:** lâten
+      - **Dutch:** laten
+        - **Afrikaans:** laat
+      - **Limburgish:** laote
+  - **Old High German:** lāzan
+    - **Middle High German:** lāȥen
+      - **Alemannic German:** laa
+      - **Bavarian:** låssn
+      - **Central Franconian:** loße
+      - **Central Franconian:** losse — _southernmost Moselle Franconian; few dialects of Ripuarian; including Kölsch_
+      - **East Central German:** lossn
+      - **German:** lassen
+      - **Luxembourgish:** loossen
+      - **Yiddish:** לאָזן
+    - **Middle High German:** lān
+      - **Alemannic German:** laa
+      - **Bavarian:** låssn
+      - **Central Franconian:** loße
+      - **Central Franconian:** losse — _southernmost Moselle Franconian; few dialects of Ripuarian; including Kölsch_
+      - **East Central German:** lossn
+      - **German:** lassen
+      - **Luxembourgish:** loossen
+      - **Yiddish:** לאָזן
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+  - **Old High German:** lāȥȥan — _early_
+    - **Middle High German:** lāȥen
+      - **Alemannic German:** laa
+      - **Bavarian:** låssn
+      - **Central Franconian:** loße
+      - **Central Franconian:** losse — _southernmost Moselle Franconian; few dialects of Ripuarian; including Kölsch_
+      - **East Central German:** lossn
+      - **German:** lassen
+      - **Luxembourgish:** loossen
+      - **Yiddish:** לאָזן
+    - **Middle High German:** lān
+      - **Alemannic German:** laa
+      - **Bavarian:** låssn
+      - **Central Franconian:** loße
+      - **Central Franconian:** losse — _southernmost Moselle Franconian; few dialects of Ripuarian; including Kölsch_
+      - **East Central German:** lossn
+      - **German:** lassen
+      - **Luxembourgish:** loossen
+      - **Yiddish:** לאָזן
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** *lesen — _borrowed; through an assumed Anglo-Norman *leser_ — _through a non-Germanic route_
+      - **English:** lease
+      - **English:** leaze
+      - **Scots:** lease
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **English:** laisse — _borrowed_ — _through a non-Germanic route_
+    - **Middle English:** lees — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** leece — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+    - **Middle English:** lese — _borrowed_ — _through a non-Germanic route_
+      - **English:** lease
+      - **Middle English:** leesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** leysche — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+      - **Middle English:** lesshe — _reshaped by analogy or addition of morphemes_
+        - **English:** leash
+- **Old Norse:** láta
+  - **Icelandic:** láta
+  - **Faroese:** láta
+  - **Norwegian:** 
+    - **Norwegian Bokmål:** la
+    - **Norwegian Nynorsk:** la
+    - **Norwegian Nynorsk:** lata
+    - **Norwegian Nynorsk:** late
+  - **Elfdalian:** låta
+  - **Old Swedish:** lāta
+    - **Swedish:** låta
+  - **Old Danish:** latæ
+    - **Danish:** lade
+- **Gothic:** 𐌻𐌴𐍄𐌰𐌽

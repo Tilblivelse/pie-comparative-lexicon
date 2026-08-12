@@ -1,0 +1,1377 @@
+# *haiduz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/haiduz)
+
+## Proto-Germanic
+
+**Reconstruction:** *haiduz
+
+### Etymology
+
+Apparently identical to Sanskrit केतु (ketú, “brightness, light; appearance, form, mark”), from Proto-Indo-European *koyt-ús, from the root *keyt- (“clear, bright, shining”), whence also *haidraz (“clear, bright”). A pre-form *keydʰ- is also possible.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *keyt-, *koyt-ús
+
+### Pronunciation
+
+- IPA: `/ˈxɑi̯.ðuz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ manner, way
+2. _(masculine, reconstruction)_ personality, character
+3. _(masculine, reconstruction)_ appearance, aspect
+4. _(masculine, reconstruction)_ rank, degree, status
+5. _(masculine, reconstruction)_ state, condition
+6. _(masculine, reconstruction)_ kind, sort; gender
+7. _(in-compounds, masculine, reconstruction)_ -hood
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| haiduz | nominative, singular |
+| haidiwiz | nominative, plural |
+| haidu | singular, vocative |
+| haidiwiz | plural, vocative |
+| haidų | accusative, singular |
+| haidunz | accusative, plural |
+| haidauz | genitive, singular |
+| haidiwǫ̂ | genitive, plural |
+| haidiwi | dative, singular |
+| haidumaz | dative, plural |
+| haidū | instrumental, singular |
+| haidumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *haidu
+  - **Old English:** hād
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** -hād
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *hǣd
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *-hǣd
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *-hǣdu
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old Frisian:** -hēd
+    - **Saterland Frisian:** -haid
+    - **Saterland Frisian:** -gaid
+    - **West Frisian:** -heid
+  - **Old Saxon:** -hēd
+    - **Middle Low German:** -heit
+      - **German Low German:** -heid (East Frisian), -heit (Mecklenburgisch-Vorpommerisch, Paderbornisch), -heet, -het
+      - **Norwegian Bokmål:** -het — _borrowed_
+      - **Norwegian Nynorsk:** -heit — _borrowed_
+      - **Swedish:** -het — _borrowed_
+      - **Danish:** -hed — _borrowed_
+      - **Icelandic:** -heit — _borrowed_
+  - **Old Dutch:** *-hēd
+    - **Middle Dutch:** -heit
+      - **Dutch:** -heid
+        - **Afrikaans:** -heid
+  - **Old Dutch:** *-heid
+    - **Middle Dutch:** -heit
+      - **Dutch:** -heid
+        - **Afrikaans:** -heid
+  - **Old High German:** heit
+    - **Middle High German:** -heit
+      - **German:** -heit
+      - **German:** -keit
+      - **Yiddish:** ־הייט
+      - **Yiddish:** ־קייט
+  - **Old High German:** -heit
+    - **Middle High German:** -heit
+      - **German:** -heit
+      - **German:** -keit
+      - **Yiddish:** ־הייט
+      - **Yiddish:** ־קייט
+- **Proto-West Germanic:** *-haidu
+  - **Old English:** hād
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** -hād
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *hǣd
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *-hǣd
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *-hǣdu
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old Frisian:** -hēd
+    - **Saterland Frisian:** -haid
+    - **Saterland Frisian:** -gaid
+    - **West Frisian:** -heid
+  - **Old Saxon:** -hēd
+    - **Middle Low German:** -heit
+      - **German Low German:** -heid (East Frisian), -heit (Mecklenburgisch-Vorpommerisch, Paderbornisch), -heet, -het
+      - **Norwegian Bokmål:** -het — _borrowed_
+      - **Norwegian Nynorsk:** -heit — _borrowed_
+      - **Swedish:** -het — _borrowed_
+      - **Danish:** -hed — _borrowed_
+      - **Icelandic:** -heit — _borrowed_
+  - **Old Dutch:** *-hēd
+    - **Middle Dutch:** -heit
+      - **Dutch:** -heid
+        - **Afrikaans:** -heid
+  - **Old Dutch:** *-heid
+    - **Middle Dutch:** -heit
+      - **Dutch:** -heid
+        - **Afrikaans:** -heid
+  - **Old High German:** heit
+    - **Middle High German:** -heit
+      - **German:** -heit
+      - **German:** -keit
+      - **Yiddish:** ־הייט
+      - **Yiddish:** ־קייט
+  - **Old High German:** -heit
+    - **Middle High German:** -heit
+      - **German:** -heit
+      - **German:** -keit
+      - **Yiddish:** ־הייט
+      - **Yiddish:** ־קייט
+- **Proto-West Germanic:** *-haidi
+  - **Old English:** hād
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** -hād
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *hǣd
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *-hǣd
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old English:** *-hǣdu
+    - **Middle English:** had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hode
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -had
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hod
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hed
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+    - **Middle English:** -hede
+      - **Scots:** had
+      - **Scots:** hade
+      - **Scots:** haid
+      - **Scots:** -heid
+      - **English:** hade
+      - **English:** hede
+      - **English:** hode
+      - **English:** -hood
+      - **English:** -head
+  - **Old Frisian:** -hēd
+    - **Saterland Frisian:** -haid
+    - **Saterland Frisian:** -gaid
+    - **West Frisian:** -heid
+  - **Old Saxon:** -hēd
+    - **Middle Low German:** -heit
+      - **German Low German:** -heid (East Frisian), -heit (Mecklenburgisch-Vorpommerisch, Paderbornisch), -heet, -het
+      - **Norwegian Bokmål:** -het — _borrowed_
+      - **Norwegian Nynorsk:** -heit — _borrowed_
+      - **Swedish:** -het — _borrowed_
+      - **Danish:** -hed — _borrowed_
+      - **Icelandic:** -heit — _borrowed_
+  - **Old Dutch:** *-hēd
+    - **Middle Dutch:** -heit
+      - **Dutch:** -heid
+        - **Afrikaans:** -heid
+  - **Old Dutch:** *-heid
+    - **Middle Dutch:** -heit
+      - **Dutch:** -heid
+        - **Afrikaans:** -heid
+  - **Old High German:** heit
+    - **Middle High German:** -heit
+      - **German:** -heit
+      - **German:** -keit
+      - **Yiddish:** ־הייט
+      - **Yiddish:** ־קייט
+  - **Old High German:** -heit
+    - **Middle High German:** -heit
+      - **German:** -heit
+      - **German:** -keit
+      - **Yiddish:** ־הייט
+      - **Yiddish:** ־קייט
+- **Old Norse:** heiðr
+  - **Icelandic:** heiður
+  - **Faroese:** heiður
+  - **Norwegian Bokmål:** heder
+  - **Norwegian Nynorsk:** heider
+  - **Old Swedish:** hēþer
+    - **Swedish:** heder
+  - **Old Danish:** hæthær
+    - **Danish:** hæder
+- **Gothic:** 𐌷𐌰𐌹𐌳𐌿𐍃

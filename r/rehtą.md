@@ -1,0 +1,570 @@
+# *rehtą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/reht%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *rehtą
+
+### Etymology
+
+Derived from *rehtaz (“right, straight”). Compare Proto-Celtic *rextus (“rule, law”), which may have influenced this word.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈrex.tɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ right, privilege
+2. _(neuter, reconstruction)_ legal or moral entitlement
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| rehtą | nominative, singular |
+| rehtō | nominative, plural |
+| rehtą | singular, vocative |
+| rehtō | plural, vocative |
+| rehtą | accusative, singular |
+| rehtō | accusative, plural |
+| rehtas | genitive, singular |
+| rihtis | genitive, singular |
+| rehtǫ̂ | genitive, plural |
+| rehtai | dative, singular |
+| rehtamaz | dative, plural |
+| rehtō | instrumental, singular |
+| rehtamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *reht
+  - **Old English:** riht
+    - **Middle English:** right
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** reȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryght
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** righte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riht
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+  - **Old English:** reht — _Mercian_
+    - **Middle English:** right
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** reȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryght
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** righte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riht
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+  - **Old English:** reht
+    - **Middle English:** right
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** reȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryght
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** righte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riht
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+  - **Old English:** reoht
+    - **Middle English:** right
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** reȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryght
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** righte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riht
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+  - **Old English:** rieht
+    - **Middle English:** right
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** reȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryght
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** righte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riht
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+  - **Old English:** ryht
+    - **Middle English:** right
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** reȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryȝt
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** ryght
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** righte
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+    - **Middle English:** riht
+      - **English:** right
+      - **English:** reight — _Yorkshire_
+      - **English:** reet — _Geordie; Yorkshire; Lancashire_
+      - **English:** rite — _informal_
+      - **English:** righte
+      - **English:** ryght — _obsolete_
+      - **Geordie:** reet
+      - **Scots:** richt
+      - **Yola:** reights — _plural_
+  - **Old Frisian:** riucht
+    - **Saterland Frisian:** riucht
+    - **Saterland Frisian:** gjucht
+    - **West Frisian:** rjocht
+  - **Old Frisian:** riocht
+    - **Saterland Frisian:** riucht
+    - **Saterland Frisian:** gjucht
+    - **West Frisian:** rjocht
+  - **Old Saxon:** reht
+    - **Middle Low German:** recht
+      - **Low German:** recht
+      - **Plautdietsch:** rajcht
+  - **Old Dutch:** reht
+    - **Middle Dutch:** recht
+      - **Dutch:** recht
+      - **Limburgish:** réët
+  - **Old High German:** reht
+    - **Middle High German:** rëht
+      - **Alemannic German:** Rëcht
+      - **Central Franconian:** rääch
+      - **Central Franconian:** räht
+      - **Central Franconian:** räät — _western Ripuarian; parts of western Moselle Franconian_
+      - **Central Franconian:** reht
+      - **Central Franconian:** reet
+      - **Central Franconian:** reecht — _other parts of Moselle Franconian_
+      - **Central Franconian:** räächt — _eastern Moselle Franconian_
+      - **German:** recht
+      - **German:** Recht
+      - **Hunsrik:** richt
+      - **Luxembourgish:** riets
+      - **Luxembourgish:** riicht
+      - **Luxembourgish:** Recht — _influenced by German_
+      - **Vilamovian:** racht
+      - **Yiddish:** רעכט

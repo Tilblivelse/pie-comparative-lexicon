@@ -1,0 +1,268 @@
+# *himmai
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/himmai)
+
+## Proto-Germanic
+
+**Reconstruction:** *himmai
+
+### Etymology
+
+No etymology is supplied.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Determiner
+
+1. _(dative, form-of, masculine, neuter, reconstruction, singular)_ dative singular masculine/neuter of *hiz
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *himmā
+  - **Old English:** him
+    - **Middle English:** him
+      - **English:** him
+      - **Scots:** him
+  - **Old Frisian:** him
+    - **North Frisian:** ham
+    - **North Frisian:** höm
+    - **Saterland Frisian:** him
+    - **West Frisian:** him
+  - **Old Saxon:** imu
+    - **Middle Low German:** ime
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** ēme
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** ȫme
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** gim
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** jum
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** um
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** em
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** en
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+  - **Old Dutch:** himo
+    - **Middle Dutch:** heme
+      - **Dutch:** hem
+    - **Middle Dutch:** him
+      - **Dutch:** hem
+    - **Middle Dutch:** hem
+      - **Dutch:** hem
+    - **Middle Dutch:** hen
+      - **Dutch:** hem
+  - **Old Dutch:** imo
+    - **Middle Dutch:** heme
+      - **Dutch:** hem
+    - **Middle Dutch:** him
+      - **Dutch:** hem
+    - **Middle Dutch:** hem
+      - **Dutch:** hem
+    - **Middle Dutch:** hen
+      - **Dutch:** hem
+  - **Old Dutch:** him
+    - **Middle Dutch:** heme
+      - **Dutch:** hem
+    - **Middle Dutch:** him
+      - **Dutch:** hem
+    - **Middle Dutch:** hem
+      - **Dutch:** hem
+    - **Middle Dutch:** hen
+      - **Dutch:** hem
+  - **Old High German:** himo
+    - **Middle High German:** him
+      - **German:** ihm
+    - **Middle High German:** ime
+      - **German:** ihm
+    - **Middle High German:** im
+      - **German:** ihm
+  - **Old High German:** imo
+    - **Middle High German:** him
+      - **German:** ihm
+    - **Middle High German:** ime
+      - **German:** ihm
+    - **Middle High German:** im
+      - **German:** ihm
+  - **Old High German:** imu
+    - **Middle High German:** him
+      - **German:** ihm
+    - **Middle High German:** ime
+      - **German:** ihm
+    - **Middle High German:** im
+      - **German:** ihm
+- **Proto-West Germanic:** *himō
+  - **Old English:** him
+    - **Middle English:** him
+      - **English:** him
+      - **Scots:** him
+  - **Old Frisian:** him
+    - **North Frisian:** ham
+    - **North Frisian:** höm
+    - **Saterland Frisian:** him
+    - **West Frisian:** him
+  - **Old Saxon:** imu
+    - **Middle Low German:** ime
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** ēme
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** ȫme
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** gim
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** jum
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** um
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** em
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+    - **Middle Low German:** en
+      - **German Low German:** hum
+      - **German Low German:** hüm
+      - **German Low German:** em
+      - **German Low German:** äm
+      - **Dutch Low Saxon:** em
+      - **Dutch Low Saxon:** um
+      - **Plautdietsch:** am
+  - **Old Dutch:** himo
+    - **Middle Dutch:** heme
+      - **Dutch:** hem
+    - **Middle Dutch:** him
+      - **Dutch:** hem
+    - **Middle Dutch:** hem
+      - **Dutch:** hem
+    - **Middle Dutch:** hen
+      - **Dutch:** hem
+  - **Old Dutch:** imo
+    - **Middle Dutch:** heme
+      - **Dutch:** hem
+    - **Middle Dutch:** him
+      - **Dutch:** hem
+    - **Middle Dutch:** hem
+      - **Dutch:** hem
+    - **Middle Dutch:** hen
+      - **Dutch:** hem
+  - **Old Dutch:** him
+    - **Middle Dutch:** heme
+      - **Dutch:** hem
+    - **Middle Dutch:** him
+      - **Dutch:** hem
+    - **Middle Dutch:** hem
+      - **Dutch:** hem
+    - **Middle Dutch:** hen
+      - **Dutch:** hem
+  - **Old High German:** himo
+    - **Middle High German:** him
+      - **German:** ihm
+    - **Middle High German:** ime
+      - **German:** ihm
+    - **Middle High German:** im
+      - **German:** ihm
+  - **Old High German:** imo
+    - **Middle High German:** him
+      - **German:** ihm
+    - **Middle High German:** ime
+      - **German:** ihm
+    - **Middle High German:** im
+      - **German:** ihm
+  - **Old High German:** imu
+    - **Middle High German:** him
+      - **German:** ihm
+    - **Middle High German:** ime
+      - **German:** ihm
+    - **Middle High German:** im
+      - **German:** ihm

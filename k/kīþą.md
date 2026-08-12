@@ -1,0 +1,574 @@
+# *kīþą
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/k%C4%AB%C3%BE%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *kīþą
+
+### Etymology
+
+From Proto-Indo-European *ǵéyH-ti- or similar, from the root *ǵey(H)- (“to split open, sprout”), with some variation on the suffix. Related to Proto-Germanic *kīnaną (“to split open, germinate, sprout”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *ǵéyH-ti-
+
+### Pronunciation
+
+- IPA: `/ˈkiː.θɑ̃/`
+
+### Noun
+
+1. _(Germanic, West, neuter, reconstruction)_ seed, germ; seedling, shoot, sprout
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| kīþą | nominative, singular |
+| kīþō | nominative, plural |
+| kīþą | singular, vocative |
+| kīþō | plural, vocative |
+| kīþą | accusative, singular |
+| kīþō | accusative, plural |
+| kīþas | genitive, singular |
+| kīþis | genitive, singular |
+| kīþǫ̂ | genitive, plural |
+| kīþai | dative, singular |
+| kīþamaz | dative, plural |
+| kīþō | instrumental, singular |
+| kīþamiz | instrumental, plural |
+| *kīþiz | alternative |
+| *kīþaz | alternative |
+| *kīþô | alternative |
+| *kittaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *kīþ
+  - **Old English:** ċīþ
+    - **Middle English:** chithe
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chide
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chive
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chis
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chire
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chitte
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chit
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+  - **Old English:** ċȳþ
+    - **Middle English:** chithe
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chide
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chive
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chis
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chire
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chitte
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chit
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+  - **Old Saxon:** *kīth
+  - **Old Saxon:** kītho
+  - **Old Saxon:** kīthun
+  - **Old Dutch:** *kīthi
+    - **Middle Dutch:** *kijde
+    - **Middle Dutch:** kiede
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+  - **Old High German:** *chīdi
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** *kīdi
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** *kīd
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+- **Proto-West Germanic:** *kīþī
+  - **Old English:** ċīþ
+    - **Middle English:** chithe
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chide
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chive
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chis
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chire
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chitte
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chit
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+  - **Old English:** ċȳþ
+    - **Middle English:** chithe
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chide
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chive
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chis
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chire
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chitte
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chit
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+  - **Old Saxon:** *kīth
+  - **Old Saxon:** kītho
+  - **Old Saxon:** kīthun
+  - **Old Dutch:** *kīthi
+    - **Middle Dutch:** *kijde
+    - **Middle Dutch:** kiede
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+  - **Old High German:** *chīdi
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** *kīdi
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** *kīd
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+- **Proto-West Germanic:** *kīþō
+  - **Old English:** ċīþ
+    - **Middle English:** chithe
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chide
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chive
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chis
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chire
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chitte
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chit
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+  - **Old English:** ċȳþ
+    - **Middle English:** chithe
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chide
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chive
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chis
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** chire
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chitte
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+    - **Middle English:** *chit
+      - **English:** chit
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **English:** chive
+        - **English:** chism — _reshaped by analogy or addition of morphemes_
+      - **Scots:** chit
+  - **Old Saxon:** *kīth
+  - **Old Saxon:** kītho
+  - **Old Saxon:** kīthun
+  - **Old Dutch:** *kīthi
+    - **Middle Dutch:** *kijde
+    - **Middle Dutch:** kiede
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** ciun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** cyun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** scioun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** sion — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** siun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syon — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+    - **Middle English:** syoun — _borrowed_ — _through a non-Germanic route_
+      - **English:** scion
+  - **Old High German:** *chīdi
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** *kīdi
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** *kīd
+    - **Middle High German:** kīde
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** kīt
+      - **German:** Keid
+      - **Alemannic German:** chiide — _reshaped by analogy or addition of morphemes_

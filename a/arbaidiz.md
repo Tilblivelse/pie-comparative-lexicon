@@ -1,0 +1,612 @@
+# *arbaidiz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/arbaidiz)
+
+## Proto-Germanic
+
+**Reconstruction:** *arbaidiz
+
+### Etymology
+
+From earlier *arbaiþiz. Apparently linked to a verb *arbijaną, *arbāną (“be orphaned”), ultimately from Proto-Indo-European *h₃órbʰos (“orphan”) + *-tis (whence *-þiz), though the formation is unclear. Compare, with a different suffix, Proto-Slavic *orbota (“work”). It may also be an old compound term, deriving from Pre-Germanic *h₃órbʰos + *h₁éytis (whence *idiz (“work”)).
+ PIE word
+ *h₃órbʰos
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *-tis, *h₃erbʰ-, *h₃órbʰos
+
+### Pronunciation
+
+- IPA: `/ˈɑr.βɑi̯.ðiz/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ labour, work, toil
+2. _(feminine, reconstruction)_ hardship, suffering
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| i-stem | class |
+| arbaidiz | nominative, singular |
+| arbaidīz | nominative, plural |
+| arbaidi | singular, vocative |
+| arbaidīz | plural, vocative |
+| arbaidį | accusative, singular |
+| arbaidinz | accusative, plural |
+| arbaidīz | genitive, singular |
+| arbaidijǫ̂ | genitive, plural |
+| arbaidī | dative, singular |
+| arbaidimaz | dative, plural |
+| arbaidī | instrumental, singular |
+| arbaidimiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *arbaiþi
+  - **Old English:** earfoþe
+    - **Middle English:** arveð
+  - **Old English:** earfeþe
+    - **Middle English:** arveð
+  - **Old English:** earfod
+    - **Middle English:** arveð
+  - **Old Frisian:** arbēd
+    - **Saterland Frisian:** Oarbaid
+    - **West Frisian:** arbeid
+  - **Old Saxon:** arvēd
+    - **Middle Low German:** arbeit
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arbet
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arveit
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arvet
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+  - **Old Saxon:** arƀed
+    - **Middle Low German:** arbeit
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arbet
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arveit
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arvet
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+  - **Old Saxon:** arvid
+    - **Middle Low German:** arbeit
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arbet
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arveit
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+    - **Middle Low German:** arvet
+      - **German Low German:** Arbeid
+      - **German Low German:** Arbed
+      - **German Low German:** Arweid
+      - **German Low German:** Arwed
+      - **Icelandic:** arbeiði — _borrowed_
+      - **Icelandic:** arbeið — _borrowed_
+      - **Faroese:** arbeiði — _borrowed_
+      - **Norwegian:** arbeid — _borrowed_
+      - **Old Swedish:** arbeide — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyd — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbede — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyte — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbeyt — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** ærbete — _borrowed_
+        - **Swedish:** arbete
+      - **Old Swedish:** arbet — _borrowed_
+        - **Swedish:** arbete
+      - **Danish:** arbejde — _borrowed_
+  - **Old Dutch:** arbeit
+    - **Middle Dutch:** arbeit
+      - **Dutch:** arbeid
+        - **Afrikaans:** arbeid
+      - **Limburgish:** arbeid
+  - **Old Dutch:** arvith
+    - **Middle Dutch:** arbeit
+      - **Dutch:** arbeid
+        - **Afrikaans:** arbeid
+      - **Limburgish:** arbeid
+  - **Old High German:** arbeit
+    - **Middle High German:** arebeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+    - **Middle High German:** erebeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+    - **Middle High German:** arbeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+    - **Middle High German:** erbeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+  - **Old High German:** arabeit
+    - **Middle High German:** arebeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+    - **Middle High German:** erebeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+    - **Middle High German:** arbeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+    - **Middle High German:** erbeit
+      - **Bavarian:** 
+        - **Cimbrian:** arbat
+        - **Cimbrian:** èrbot — _Sette Comuni_
+        - **Mòcheno:** òrbet
+      - **Central Franconian:** Ärbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arbeit
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Ärwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Arwet
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **Central Franconian:** Oarbicht
+        - **Hunsrik:** Aarvet
+        - **Luxembourgish:** Aarbecht
+      - **East Central German:** Orbeid
+      - **German:** Arbeit
+      - **Rhine Franconian:** Abeit
+        - **Pennsylvania German:** Arewet
+      - **Yiddish:** אַרבעט
+- **Gothic:** 𐌰𐍂𐌱𐌰𐌹𐌸𐍃

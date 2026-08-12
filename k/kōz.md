@@ -1,0 +1,586 @@
+# *kōz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/k%C5%8Dz)
+
+## Proto-Germanic
+
+**Reconstruction:** *kōz
+
+### Etymology
+
+From earlier *kwōz ~ *kwūiz, from Proto-Indo-European *gʷéh₃u-s ~ *gʷuh₃-és.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *gʷéh₃u-s, *gʷṓws
+
+### Pronunciation
+
+- IPA: `/ˈkɔːz/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ cow
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| kōz | nominative, singular |
+| kōiz | nominative, plural |
+| kō | singular, vocative |
+| kōiz | plural, vocative |
+| kōǭ | accusative, singular |
+| kōnz | accusative, plural |
+| kūiz | genitive, singular |
+| kūǫ̂ | genitive, plural |
+| kūī | dative, singular |
+| kūmaz | dative, plural |
+| kūē | instrumental, singular |
+| kūmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *kō
+  - **Old English:** cū
+    - **Middle English:** cow
+      - **English:** cow
+      - **Scots:** coo
+      - **Scots:** coe
+      - **Scots:** cou
+      - **Yola:** keow
+      - **Yola:** keouw
+      - **Yola:** keowe
+    - **Middle English:** cou
+      - **English:** cow
+      - **Scots:** coo
+      - **Scots:** coe
+      - **Scots:** cou
+      - **Yola:** keow
+      - **Yola:** keouw
+      - **Yola:** keowe
+    - **Middle English:** cowe
+      - **English:** cow
+      - **Scots:** coo
+      - **Scots:** coe
+      - **Scots:** cou
+      - **Yola:** keow
+      - **Yola:** keouw
+      - **Yola:** keowe
+    - **Middle English:** cu
+      - **English:** cow
+      - **Scots:** coo
+      - **Scots:** coe
+      - **Scots:** cou
+      - **Yola:** keow
+      - **Yola:** keouw
+      - **Yola:** keowe
+    - **Middle English:** kow
+      - **English:** cow
+      - **Scots:** coo
+      - **Scots:** coe
+      - **Scots:** cou
+      - **Yola:** keow
+      - **Yola:** keouw
+      - **Yola:** keowe
+    - **Middle English:** kowe
+      - **English:** cow
+      - **Scots:** coo
+      - **Scots:** coe
+      - **Scots:** cou
+      - **Yola:** keow
+      - **Yola:** keouw
+      - **Yola:** keowe
+    - **Middle English:** ku
+      - **English:** cow
+      - **Scots:** coo
+      - **Scots:** coe
+      - **Scots:** cou
+      - **Yola:** keow
+      - **Yola:** keouw
+      - **Yola:** keowe
+  - **Old Frisian:** kū
+    - **North Frisian:** 
+    - **Saterland Frisian:** Ku
+    - **West Frisian:** ko
+  - **Old Saxon:** kō
+    - **Middle Low German:** kô
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** ko
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koo
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** kou
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koe
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koh
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koy
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** ku
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+  - **Old Saxon:** kuo
+    - **Middle Low German:** kô
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** ko
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koo
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** kou
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koe
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koh
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** koy
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+    - **Middle Low German:** ku
+      - **Low German:** Koh
+        - **German Low German:** Koh
+        - **German Low German:** Kauh
+        - **German Low German:** Ko
+        - **German Low German:** Koo
+        - **German Low German:** Kuh
+      - **Plautdietsch:** Koo
+  - **Old Dutch:** cuo
+    - **Middle Dutch:** coe
+      - **Dutch:** koe
+      - **Limburgish:** ków
+      - **West Flemish:** koe
+  - **Old High German:** kuo
+    - **Middle High German:** kuo
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** kū
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** kō
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** chuo
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+  - **Old High German:** kuoa
+    - **Middle High German:** kuo
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** kū
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** kō
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** chuo
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+  - **Old High German:** chuo
+    - **Middle High German:** kuo
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** kū
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** kō
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+    - **Middle High German:** chuo
+      - **Alemannic German:** Chue
+        - **Alsatian:** Küeh
+        - **Walser:** Chua
+      - **Bavarian:** Kuah
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kouh — _Northern Bavarian_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Bavarian:** Kua — _spelling variant_
+        - **Cimbrian:** khua
+        - **Mòcheno:** kua
+      - **Central Franconian:** Kuh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **Central Franconian:** Koh
+        - **Hunsrik:** Kuh
+        - **Luxembourgish:** Kou
+      - **East Franconian:** Kou
+      - **East Franconian:** Kua
+      - **East Franconian:** Kuu
+      - **German:** Kuh
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Kuh
+      - **Vilamovian:** kü
+      - **Yiddish:** קו
+- **Proto-Norse:** *kūʀ
+  - **Old Norse:** 
+    - **Old East Norse:** *kōʀ
+    - **Old West Norse:** kýr
+    - **Old West Norse:** 
+      - **Icelandic:** kýr
+      - **Faroese:** kúgv
+      - **Faroese:** kú
+      - **Norwegian Nynorsk:** ku
+      - **Norwegian Bokmål:** ku
+      - **Jamtish:** kú
+      - **Elfdalian:** tjyr
+      - **Old Swedish:** kō
+        - **Swedish:** ko
+      - **Old Danish:** kō
+        - **Danish:** ko

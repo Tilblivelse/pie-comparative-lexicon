@@ -1,0 +1,1026 @@
+# *hezōi
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hez%C5%8Di)
+
+## Proto-Germanic
+
+**Reconstruction:** *hezōi
+
+### Etymology
+
+No etymology is supplied.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Determiner
+
+1. _(dative, feminine, form-of, reconstruction, singular)_ dative singular feminine of *hiz
+
+### Germanic descendants
+
+- **Old English:** hire
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hyre
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hiere
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** heore
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hiore
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hure
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hir
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hiræ
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hira
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hyræ
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hyra
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hyr
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** hieræ
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old English:** heora
+  - **Middle English:** hire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hyr
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ire
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ir
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** here
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** her
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** ere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** er
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heyre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** heore
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hare
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hure
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hur
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** hurre
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+  - **Middle English:** huere
+    - **English:** her
+    - **Scots:** her
+    - **Yola:** her
+- **Old Frisian:** hire
+  - **North Frisian:** hör
+  - **Saterland Frisian:** hier
+  - **West Frisian:** har
+- **Old Frisian:** hiāre
+  - **North Frisian:** hör
+  - **Saterland Frisian:** hier
+  - **West Frisian:** har
+- **Old Saxon:** *hiro
+  - **Middle Low German:** ere
+    - **Low German:** ehr
+    - **Low German:** hör
+    - **Low German:** eer
+    - **Low German:** er
+  - **Middle Low German:** er
+    - **Low German:** ehr
+    - **Low German:** hör
+    - **Low German:** eer
+    - **Low German:** er
+- **Old Saxon:** *iro
+  - **Middle Low German:** ere
+    - **Low German:** ehr
+    - **Low German:** hör
+    - **Low German:** eer
+    - **Low German:** er
+  - **Middle Low German:** er
+    - **Low German:** ehr
+    - **Low German:** hör
+    - **Low German:** eer
+    - **Low German:** er
+- **Old Dutch:** hiro
+  - **Middle Dutch:** haer
+    - **Dutch:** haar
+- **Old High German:** ira
+  - **Alemannic German:** ire
+  - **German:** ihr
+  - **Luxembourgish:** hir
+  - **Yiddish:** איר

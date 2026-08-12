@@ -1,0 +1,640 @@
+# *fermō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ferm%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *fermō
+
+### Etymology
+
+From *ferhwą (“life force, body, being”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Noun
+
+1. _(feminine, reconstruction)_ means of living, subsistence
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| fermō | nominative, singular |
+| fermôz | nominative, plural |
+| fermō | singular, vocative |
+| fermôz | plural, vocative |
+| fermǭ | accusative, singular |
+| fermōz | accusative, plural |
+| fermōz | genitive, singular |
+| fermǫ̂ | genitive, plural |
+| fermōi | dative, singular |
+| fermōmaz | dative, plural |
+| fermō | instrumental, singular |
+| fermōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Old English:** feorm
+  - **Middle English:** ferme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** farme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** ferm
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** fyrme — _Late Middle English_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** feorme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** veorme — _Laȝamon's Brut; in part_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+- **Old English:** farm
+  - **Middle English:** ferme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** farme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** ferm
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** fyrme — _Late Middle English_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** feorme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** veorme — _Laȝamon's Brut; in part_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+- **Old English:** færm
+  - **Middle English:** ferme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** farme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** ferm
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** fyrme — _Late Middle English_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** feorme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** veorme — _Laȝamon's Brut; in part_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+- **Old English:** fearm
+  - **Middle English:** ferme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** farme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** ferm
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** fyrme — _Late Middle English_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** feorme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** veorme — _Laȝamon's Brut; in part_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+- **Old English:** fyrm
+  - **Middle English:** ferme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** farme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** ferm
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** fyrme — _Late Middle English_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** feorme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** veorme — _Laȝamon's Brut; in part_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+- **Old English:** fiorm
+  - **Middle English:** ferme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** farme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** ferm
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** fyrme — _Late Middle English_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** feorme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** veorme — _Laȝamon's Brut; in part_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+- **Old English:** form
+  - **Middle English:** ferme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** farme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** ferm
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** fyrme — _Late Middle English_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** feorme
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+  - **Middle English:** veorme — _Laȝamon's Brut; in part_
+    - **English:** farm
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **English:** feorm — _historical_
+      - **Danish:** farm — _borrowed_
+      - **Dutch:** farm — _borrowed_
+      - **German:** Farm — _borrowed_
+      - **Yiddish:** פֿאַרם — _borrowed_
+      - **Swedish:** farm — _borrowed_
+    - **Scots:** ferm
+- **Old Norse:** Fjǫrm
+  - **Icelandic:** Fjörm

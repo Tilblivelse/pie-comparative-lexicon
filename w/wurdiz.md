@@ -1,0 +1,474 @@
+# *wurdiz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/wurdiz)
+
+## Proto-Germanic
+
+**Reconstruction:** *wurdiz
+
+### Etymology
+
+From Pre-Germanic *wr̥tís, from Proto-Indo-European *wert- (“to turn, wind”), from Proto-Indo-European *wer- (“to turn, bend”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *wer-, *wert-
+
+### Pronunciation
+
+- IPA: `/ˈwur.ðiz/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ fate, destiny
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| i-stem | class |
+| wurdiz | nominative, singular |
+| wurdīz | nominative, plural |
+| wurdi | singular, vocative |
+| wurdīz | plural, vocative |
+| wurdį | accusative, singular |
+| wurdinz | accusative, plural |
+| wurdīz | genitive, singular |
+| wurdijǫ̂ | genitive, plural |
+| wurdī | dative, singular |
+| wurdimaz | dative, plural |
+| wurdī | instrumental, singular |
+| wurdimiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *wurdi
+  - **Old English:** wyrd
+    - **Middle English:** werde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** weerde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** weird
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werd
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werede
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werid
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wierde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wired
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wird
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wirde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wired
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wirid
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** word
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wyerde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wyrde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **English:** wyrd — _learned borrowing; learned_
+  - **Old English:** werd — _late Kentish_
+    - **Middle English:** werde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** weerde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** weird
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werd
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werede
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werid
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wierde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wired
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wird
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wirde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wired
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wirid
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** word
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wyerde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wyrde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **English:** wyrd — _learned borrowing; learned_
+  - **Old English:** weord
+    - **Middle English:** werde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** weerde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** weird
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werd
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werede
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** werid
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wierde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wired
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wird
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wirde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wired
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wirid
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** word
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wyerde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **Middle English:** wyrde
+      - **English:** werd
+      - **English:** weard — _obsolete_
+      - **Middle Scots:** weird
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+      - **Middle Scots:** werd
+        - **Scots:** weird
+        - **English:** weird — _borrowed_
+    - **English:** wyrd — _learned borrowing; learned_
+  - **Old Frisian:** werd
+  - **Old Frisian:** werde
+  - **Old Saxon:** wurd
+  - **Old High German:** wurt
+    - **Middle High German:** wurt
+- **Old Norse:** urðr
+  - **Icelandic:** urður
+  - **Old Swedish:** urþer
+    - **Swedish:** urd
+  - **Old Norse:** Urðr — _reshaped by analogy or addition of morphemes_
+- **Old Norse:** yrðr
+  - **Icelandic:** urður
+  - **Old Swedish:** urþer
+    - **Swedish:** urd
+  - **Old Norse:** Urðr — _reshaped by analogy or addition of morphemes_

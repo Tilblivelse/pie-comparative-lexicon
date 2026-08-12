@@ -1,0 +1,491 @@
+# *þunraz
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BEunraz)
+
+## Proto-Germanic
+
+**Reconstruction:** *þunraz
+
+### Etymology
+
+From Proto-Indo-European *(s)tenh₂- (“to thunder”). Cognate with Proto-Celtic *toranos (“thunder”), Latin tonō (“to thunder”), Persian تندر (tondar, “thunder”), Sanskrit स्तनति (stánati, “to resound; to thunder; to roar”), and Proto-Germanic *stenaną.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *(s)tenh₂-
+
+### Pronunciation
+
+- IPA: `/ˈθun.rɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ thunder
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| þunraz | nominative, singular |
+| þunr | singular, vocative |
+| þunrą | accusative, singular |
+| þunras | genitive, singular |
+| þunris | genitive, singular |
+| þunrai | dative, singular |
+| þunrō | instrumental, singular |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *þunr
+  - **Old English:** þunor
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þunar
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þunur
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þuner
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þonor
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old Frisian:** thuner
+    - **West Frisian:** tonger
+  - **Old Frisian:** thonger
+    - **West Frisian:** tonger
+  - **Old Saxon:** thunar
+    - **Middle Low German:** dunner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donre
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donder
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** dōner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+  - **Old Saxon:** thuner
+    - **Middle Low German:** dunner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donre
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donder
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** dōner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+  - **Old Dutch:** *thonar
+    - **Middle Dutch:** donre
+      - **Dutch:** donder
+        - **Afrikaans:** donder
+      - **Limburgish:** dónder
+      - **Limburgish:** dónjer
+      - **West Flemish:** dunder
+  - **Old High German:** donar
+    - **Middle High German:** toner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+    - **Middle High German:** doner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+  - **Old High German:** thonar
+    - **Middle High German:** toner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+    - **Middle High German:** doner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+- **Proto-West Germanic:** *þunar
+  - **Old English:** þunor
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þunar
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þunur
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þuner
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þonor
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old Frisian:** thuner
+    - **West Frisian:** tonger
+  - **Old Frisian:** thonger
+    - **West Frisian:** tonger
+  - **Old Saxon:** thunar
+    - **Middle Low German:** dunner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donre
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donder
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** dōner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+  - **Old Saxon:** thuner
+    - **Middle Low German:** dunner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donre
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donder
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** dōner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+  - **Old Dutch:** *thonar
+    - **Middle Dutch:** donre
+      - **Dutch:** donder
+        - **Afrikaans:** donder
+      - **Limburgish:** dónder
+      - **Limburgish:** dónjer
+      - **West Flemish:** dunder
+  - **Old High German:** donar
+    - **Middle High German:** toner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+    - **Middle High German:** doner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+  - **Old High German:** thonar
+    - **Middle High German:** toner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+    - **Middle High German:** doner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+- **Proto-West Germanic:** *þonar
+  - **Old English:** þunor
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þunar
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þunur
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þuner
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old English:** þonor
+    - **Middle English:** thonder
+      - **English:** thunder
+      - **Scots:** thunner
+      - **Scots:** thuner
+      - **Scots:** thunder
+      - **Scots:** thundir
+      - **Yola:** dhunder
+      - **Yola:** dunder
+  - **Old Frisian:** thuner
+    - **West Frisian:** tonger
+  - **Old Frisian:** thonger
+    - **West Frisian:** tonger
+  - **Old Saxon:** thunar
+    - **Middle Low German:** dunner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donre
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donder
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** dōner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+  - **Old Saxon:** thuner
+    - **Middle Low German:** dunner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donre
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** donder
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+    - **Middle Low German:** dōner
+      - **Low German:** 
+        - **German Low German:** 
+        - **Westphalian:** 
+      - **Plautdietsch:** Donna
+  - **Old Dutch:** *thonar
+    - **Middle Dutch:** donre
+      - **Dutch:** donder
+        - **Afrikaans:** donder
+      - **Limburgish:** dónder
+      - **Limburgish:** dónjer
+      - **West Flemish:** dunder
+  - **Old High German:** donar
+    - **Middle High German:** toner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+    - **Middle High German:** doner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+  - **Old High German:** thonar
+    - **Middle High German:** toner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+    - **Middle High German:** doner
+      - **Central Franconian:** 
+      - **German:** Donner
+      - **Rhine Franconian:** Dunner
+      - **Vilamovian:** dunyn
+      - **(likely a plural form of:** *duner
+      - **Yiddish:** דונער
+- **Proto-Norse:** *ᚦᛟᚾᚨᚱᚨᛉ
+  - **Old Norse:** þórr
+    - **Old Norse:** *þórdynr — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** tordön
+      - **Danish:** torden
+        - **Norwegian Bokmål:** torden
+    - **Faroese:** tora
+    - **Norwegian Nynorsk:** tor — _m_
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Norwegian Nynorsk:** tore
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Norwegian Nynorsk:** tora — _dialectal; f_
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Norwegian Nynorsk:** torde — _influenced by Þórðr_
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Swedish:** tor
+- **Proto-Norse:** *ᚦᛟᚱᚨᛉ
+  - **Old Norse:** þórr
+    - **Old Norse:** *þórdynr — _reshaped by analogy or addition of morphemes_
+      - **Swedish:** tordön
+      - **Danish:** torden
+        - **Norwegian Bokmål:** torden
+    - **Faroese:** tora
+    - **Norwegian Nynorsk:** tor — _m_
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Norwegian Nynorsk:** tore
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Norwegian Nynorsk:** tora — _dialectal; f_
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Norwegian Nynorsk:** torde — _influenced by Þórðr_
+      - **Norwegian Bokmål:** tore — _borrowed_
+    - **Swedish:** tor

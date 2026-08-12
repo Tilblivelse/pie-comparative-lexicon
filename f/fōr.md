@@ -1,0 +1,581 @@
+# *fōr
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/f%C5%8Dr)
+
+## Proto-Germanic
+
+**Reconstruction:** *fōr
+
+### Etymology
+
+From Proto-Indo-European *péh₂wr̥ ~ *ph₂wéns (“fire”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *péh₂wr̥
+
+### Pronunciation
+
+- IPA: `/ˈɸɔːr/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ fire
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| fōr | nominative, singular |
+| fōr | singular, vocative |
+| fōr | accusative, singular |
+| funiz | genitive, singular |
+| funi | dative, singular |
+| funē | instrumental, singular |
+| fuiniz | genitive, singular |
+| fuini | dative, singular |
+| fuinē | instrumental, singular |
+| funiniz | genitive, singular |
+| funini | dative, singular |
+| funinē | instrumental, singular |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *fuir
+  - **Old English:** fȳr
+    - **Middle English:** fyr
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fer
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fier
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fir
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fyre
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** vir
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fer — _East Anglia_
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fuir
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fur
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** fuyr
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** vur — _Southern; West Midland_
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+    - **Middle English:** ver — _Kent_
+      - **English:** fire
+      - **Scots:** fyre
+      - **Scots:** feier
+      - **Yola:** vire
+      - **Yola:** vier
+  - **Old Frisian:** fiūr
+    - **Saterland Frisian:** Fjuur
+    - **Saterland Frisian:** Fjúur
+    - **West Frisian:** fjoer
+  - **Old Frisian:** fiōr
+    - **Saterland Frisian:** Fjuur
+    - **Saterland Frisian:** Fjúur
+    - **West Frisian:** fjoer
+  - **Old Saxon:** fiur
+    - **Middle Low German:** viur
+      - **Low German:** Füür
+        - **German Low German:** Füür
+        - **German Low German:** Füer
+        - **German Low German:** Für
+      - **Plautdietsch:** Fia
+    - **Middle Low German:** vuir
+      - **Low German:** Füür
+        - **German Low German:** Füür
+        - **German Low German:** Füer
+        - **German Low German:** Für
+      - **Plautdietsch:** Fia
+    - **Middle Low German:** vü̂er
+      - **Low German:** Füür
+        - **German Low German:** Füür
+        - **German Low German:** Füer
+        - **German Low German:** Für
+      - **Plautdietsch:** Fia
+    - **Middle Low German:** vü̂r
+      - **Low German:** Füür
+        - **German Low German:** Füür
+        - **German Low German:** Füer
+        - **German Low German:** Für
+      - **Plautdietsch:** Fia
+  - **Old Dutch:** fuïr
+    - **Middle Dutch:** vuur
+      - **Dutch:** vuur
+        - **Afrikaans:** vuur
+      - **Dutch:** vier — _Southern_
+        - **Afrikaans:** vuur
+      - **Limburgish:** vuur
+      - **West Flemish:** vier
+      - **Zealandic:** vier
+  - **Old High German:** fiur
+    - **Middle High German:** viur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fiur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** vūr
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fūr — _parts of Central German_
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** viuwer (viwer)
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fiuwer (fiwer)
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** veur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** feur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** veuer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** feuer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** vewer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fewer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** vūwer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fūwer — _chiefly Late MHG_
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+  - **Old High German:** fuïr
+    - **Middle High German:** viur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fiur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** vūr
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fūr — _parts of Central German_
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** viuwer (viwer)
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fiuwer (fiwer)
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** veur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** feur
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** veuer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** feuer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** vewer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fewer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** vūwer
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+    - **Middle High German:** fūwer — _chiefly Late MHG_
+      - **Alemannic German:** Füür
+      - **Bavarian:** Faia
+      - **Bavarian:** Feia
+      - **Central Franconian:** Füür
+      - **Central Franconian:** Feier
+      - **Central Franconian:** Fouer
+      - **German:** Feuer
+      - **East Central German:** 
+      - **Rhine Franconian:** 
+      - **Luxembourgish:** Feier
+      - **Vilamovian:** faojer
+      - **Yiddish:** פֿײַער
+- **Old Norse:** fúrr
+  - **Icelandic:** fúrr
+  - **Icelandic:** fúr
+  - **Icelandic:** fýr
+  - **Icelandic:** fýri
+  - **Icelandic:** funi
+  - **Faroese:** fýrur
+  - **Norn:** foni
+  - **Norwegian Nynorsk:** fyr
+  - **Swedish:** fyr
+  - **Old Danish:** für
+    - **Danish:** fyr
+      - **Norwegian Bokmål:** fyr
+- **Old Norse:** fýr
+  - **Icelandic:** fúrr
+  - **Icelandic:** fúr
+  - **Icelandic:** fýr
+  - **Icelandic:** fýri
+  - **Icelandic:** funi
+  - **Faroese:** fýrur
+  - **Norn:** foni
+  - **Norwegian Nynorsk:** fyr
+  - **Swedish:** fyr
+  - **Old Danish:** für
+    - **Danish:** fyr
+      - **Norwegian Bokmål:** fyr
+- **Old Norse:** fýrir
+  - **Icelandic:** fúrr
+  - **Icelandic:** fúr
+  - **Icelandic:** fýr
+  - **Icelandic:** fýri
+  - **Icelandic:** funi
+  - **Faroese:** fýrur
+  - **Norn:** foni
+  - **Norwegian Nynorsk:** fyr
+  - **Swedish:** fyr
+  - **Old Danish:** für
+    - **Danish:** fyr
+      - **Norwegian Bokmål:** fyr
+- **Old Norse:** funi
+  - **Icelandic:** fúrr
+  - **Icelandic:** fúr
+  - **Icelandic:** fýr
+  - **Icelandic:** fýri
+  - **Icelandic:** funi
+  - **Faroese:** fýrur
+  - **Norn:** foni
+  - **Norwegian Nynorsk:** fyr
+  - **Swedish:** fyr
+  - **Old Danish:** für
+    - **Danish:** fyr
+      - **Norwegian Bokmål:** fyr
+- **Gothic:** 𐍆𐍉𐌽

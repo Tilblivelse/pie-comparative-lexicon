@@ -1,0 +1,2149 @@
+# -ukaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-ukaz)
+
+## Proto-Germanic
+
+**Reconstruction:** -ukaz
+
+### Etymology
+
+No etymology is supplied.
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/u.kɑz/`
+
+### Suffix
+
+1. _(masculine, morpheme, reconstruction)_ Forms diminutive nouns.
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| -ukaz | nominative, singular |
+| -ukōz | nominative, plural |
+| -ukōs | nominative, plural |
+| -uk | singular, vocative |
+| -ukōz | plural, vocative |
+| -ukōs | plural, vocative |
+| -uką | accusative, singular |
+| -ukanz | accusative, plural |
+| -ukas | genitive, singular |
+| -ukis | genitive, singular |
+| -ukǫ̂ | genitive, plural |
+| -ukai | dative, singular |
+| -ukamaz | dative, plural |
+| -ukō | instrumental, singular |
+| -ukamiz | instrumental, plural |
+| *-ikaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *-uk
+  - **Old English:** -oc
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -uc
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ic
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ec
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ac
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old Saxon:** *-uk
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Saxon:** *-ik
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Saxon:** -ak
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Dutch:** -ok
+    - **Middle Dutch:** -oc
+      - **Dutch:** -k — _fossilised_
+    - **Middle Dutch:** -c
+      - **Dutch:** -k — _fossilised_
+  - **Old Dutch:** -k
+    - **Middle Dutch:** -oc
+      - **Dutch:** -k — _fossilised_
+    - **Middle Dutch:** -c
+      - **Dutch:** -k — _fossilised_
+  - **Old High German:** -uh
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+  - **Old High German:** -ih
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+  - **Old High German:** -ah
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+- **Proto-West Germanic:** *-ik
+  - **Old English:** -oc
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -uc
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ic
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ec
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ac
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old Saxon:** *-uk
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Saxon:** *-ik
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Saxon:** -ak
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Dutch:** -ok
+    - **Middle Dutch:** -oc
+      - **Dutch:** -k — _fossilised_
+    - **Middle Dutch:** -c
+      - **Dutch:** -k — _fossilised_
+  - **Old Dutch:** -k
+    - **Middle Dutch:** -oc
+      - **Dutch:** -k — _fossilised_
+    - **Middle Dutch:** -c
+      - **Dutch:** -k — _fossilised_
+  - **Old High German:** -uh
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+  - **Old High German:** -ih
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+  - **Old High German:** -ah
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+- **Proto-West Germanic:** *-ak
+  - **Old English:** -oc
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -uc
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ic
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ec
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old English:** -ac
+    - **Middle English:** -ok
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ock
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -oq
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -og
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uc
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uk
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -uck
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ak
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ke
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -k — _rare_
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+    - **Middle English:** -ek
+      - **English:** -ock
+      - **English:** -ick
+      - **English:** -ik — _dialectal_
+      - **Scots:** -ock
+      - **Scots:** -ockie
+      - **Yola:** -ok
+      - **Yola:** -ock
+      - **Yola:** -uck
+      - **Yola:** -ick
+  - **Old Saxon:** *-uk
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Saxon:** *-ik
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Saxon:** -ak
+    - **Middle Low German:** -ek
+      - **German Low German:** -k
+    - **Middle Low German:** -k
+      - **German Low German:** -k
+  - **Old Dutch:** -ok
+    - **Middle Dutch:** -oc
+      - **Dutch:** -k — _fossilised_
+    - **Middle Dutch:** -c
+      - **Dutch:** -k — _fossilised_
+  - **Old Dutch:** -k
+    - **Middle Dutch:** -oc
+      - **Dutch:** -k — _fossilised_
+    - **Middle Dutch:** -c
+      - **Dutch:** -k — _fossilised_
+  - **Old High German:** -uh
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+  - **Old High German:** -ih
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+  - **Old High German:** -ah
+    - **Middle High German:** -ech
+      - **German:** -ich
+    - **Middle High German:** -ch
+      - **German:** -ich
+- **Old Norse:** -kr
+  - **Icelandic:** -kur
+  - **Faroese:** -kur
+  - **Norwegian:** -k
+  - **Old Swedish:** -ker
+    - **Swedish:** -k
+  - **Old Danish:** -k
+    - **Danish:** -ike
+    - **Danish:** -k
+- **Gothic:** *-𐌿𐌺𐍃

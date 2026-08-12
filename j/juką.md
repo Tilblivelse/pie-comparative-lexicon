@@ -1,0 +1,812 @@
+# *juką
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/juk%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *juką
+
+### Etymology
+
+From Proto-Indo-European *yugóm.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *yewg-, *yugóm
+
+### Pronunciation
+
+- IPA: `/ˈju.kɑ̃/`
+
+### Noun
+
+1. _(neuter, reconstruction)_ yoke
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| juką | nominative, singular |
+| jukō | nominative, plural |
+| juką | singular, vocative |
+| jukō | plural, vocative |
+| juką | accusative, singular |
+| jukō | accusative, plural |
+| jukas | genitive, singular |
+| jukis | genitive, singular |
+| jukǫ̂ | genitive, plural |
+| jukai | dative, singular |
+| jukamaz | dative, plural |
+| jukō | instrumental, singular |
+| jukamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *juk
+  - **Old English:** ġeoc
+    - **Middle English:** yok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝocke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝoke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝook
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝoocke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** jok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** yoke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** yokke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝeoce
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝocc
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** iuc — _Early Middle English_
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+  - **Old English:** ġioc
+    - **Middle English:** yok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝocke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝoke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝook
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝoocke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** jok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** yoke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** yokke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝeoce
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝocc
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** iuc — _Early Middle English_
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+  - **Old English:** ioc
+    - **Middle English:** yok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝocke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝoke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝook
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝoocke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** jok
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** yoke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** yokke
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝeoce
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** ȝocc
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+    - **Middle English:** iuc — _Early Middle English_
+      - **English:** yoke — _obsolete yock_
+      - **Middle Scots:** ȝok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝoke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝock
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** ȝocke
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yok
+        - **Scots:** yoke
+        - **Scots:** yock
+      - **Middle Scots:** yoke
+        - **Scots:** yoke
+        - **Scots:** yock
+  - **Old Frisian:** *juk
+    - **Saterland Frisian:** Juk
+    - **West Frisian:** jok
+    - **West Frisian:** jûk
+  - **Old Frisian:** *jok
+    - **Saterland Frisian:** Juk
+    - **West Frisian:** jok
+    - **West Frisian:** jûk
+  - **Old Saxon:** *juk
+    - **Middle Low German:** juk
+      - **Low German:** Jok
+      - **Plautdietsch:** Joch
+    - **Middle Low German:** jok
+      - **Low German:** Jok
+      - **Plautdietsch:** Joch
+  - **Old Dutch:** *juk
+    - **Middle Dutch:** joc
+      - **Dutch:** juk
+      - **Limburgish:** jaok
+    - **Middle Dutch:** juc
+      - **Dutch:** juk
+      - **Limburgish:** jaok
+  - **Old High German:** joh
+    - **Middle High German:** joch
+      - **Cimbrian:** jòch
+      - **German:** Joch
+      - **Hunsrik:** Joch
+      - **Luxembourgish:** Jach
+- **Old Norse:** ok
+  - **Icelandic:** ok
+  - **Faroese:** ok
+  - **Norwegian:** åk
+  - **Old Swedish:** uk
+    - **Swedish:** ok
+  - **Old Swedish:** ok
+    - **Swedish:** ok
+  - **Danish:** åg
+  - **Elfdalian:** uok
+  - **Gutnish:** uk
+- **Gothic:** 𐌾𐌿𐌺

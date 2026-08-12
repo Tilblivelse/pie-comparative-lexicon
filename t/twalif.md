@@ -1,0 +1,511 @@
+# *twalif
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/twalif)
+
+## Proto-Germanic
+
+**Reconstruction:** *twalif
+
+### Etymology
+
+Compound of *twai (“two”) and *-lif (“left over”), from *lībaną (“to remain, be left”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈtwɑ.liɸ/`
+
+### Numeral
+
+1. _(reconstruction)_ twelve
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *twalif
+  - **Old English:** twelf
+    - **Middle English:** twelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** tuelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twelfe
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twælf — _Early Middle English_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twellf — _Ormulum_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+  - **Old English:** twælf — _late Kentish_
+    - **Middle English:** twelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** tuelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twelfe
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twælf — _Early Middle English_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twellf — _Ormulum_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+  - **Old English:** tuœlf — _Northumbrian_
+    - **Middle English:** twelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** tuelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twelfe
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twælf — _Early Middle English_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twellf — _Ormulum_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+  - **Old English:** tuelf
+    - **Middle English:** twelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** tuelf
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twelfe
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twælf — _Early Middle English_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+    - **Middle English:** twellf — _Ormulum_
+      - **English:** twelve
+      - **Middle Scots:** twelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** tuelf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+      - **Middle Scots:** twalf
+        - **Scots:** twal
+        - **Scots:** twel
+        - **Scots:** twol
+  - **Old Frisian:** twelif
+    - **North Frisian:** tweelwen
+    - **Saterland Frisian:** tweelif
+    - **Saterland Frisian:** tweelf
+    - **Saterland Frisian:** tweelich
+    - **West Frisian:** tolve
+    - **West Frisian:** tolf
+  - **Old Frisian:** twelef
+    - **North Frisian:** tweelwen
+    - **Saterland Frisian:** tweelif
+    - **Saterland Frisian:** tweelf
+    - **Saterland Frisian:** tweelich
+    - **West Frisian:** tolve
+    - **West Frisian:** tolf
+  - **Old Saxon:** twelif
+    - **Middle Low German:** twelef
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** tweleve
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twelve
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twelf
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twalf
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+  - **Old Saxon:** twilif
+    - **Middle Low German:** twelef
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** tweleve
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twelve
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twelf
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twalf
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+  - **Old Saxon:** twulif
+    - **Middle Low German:** twelef
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** tweleve
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twelve
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twelf
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+    - **Middle Low German:** twalf
+      - **German Low German:** twölf
+      - **German Low German:** twalf
+      - **German Low German:** twalv
+      - **Plautdietsch:** twelf
+  - **Old Dutch:** *twelif
+    - **Middle Dutch:** twelef
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+    - **Middle Dutch:** tweelf
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+    - **Middle Dutch:** twalef
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+    - **Middle Dutch:** twaelf
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+  - **Old Dutch:** *twalif
+    - **Middle Dutch:** twelef
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+    - **Middle Dutch:** tweelf
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+    - **Middle Dutch:** twalef
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+    - **Middle Dutch:** twaelf
+      - **Dutch:** twaalf
+        - **Afrikaans:** twaalf
+      - **Limburgish:** twelf
+  - **Old High German:** zwelif
+    - **Middle High German:** zwelef
+      - **Central Franconian:** zwällef
+      - **Central Franconian:** zwellef — _alternative spelling_
+      - **Central Franconian:** zwöllef — _Ripuarian variant from standard German_
+      - **Cimbrian:** sbölbe
+      - **German:** zwölf
+      - **Luxembourgish:** zwielef
+      - **Vilamovian:** cwełf
+      - **Yiddish:** צוועלף
+    - **Middle High German:** zwelf
+      - **Central Franconian:** zwällef
+      - **Central Franconian:** zwellef — _alternative spelling_
+      - **Central Franconian:** zwöllef — _Ripuarian variant from standard German_
+      - **Cimbrian:** sbölbe
+      - **German:** zwölf
+      - **Luxembourgish:** zwielef
+      - **Vilamovian:** cwełf
+      - **Yiddish:** צוועלף
+- **Old Norse:** tolf
+  - **Icelandic:** tólf
+  - **Faroese:** tólv
+  - **Norwegian Nynorsk:** tolv — _dialectal_
+  - **Norwegian Nynorsk:** tølv
+  - **Norwegian Nynorsk:** tøl
+  - **Norwegian Nynorsk:** tóv
+  - **Norwegian Nynorsk:** tælv
+  - **Norwegian Bokmål:** tolv
+  - **Elfdalian:** tolv
+  - **Old Swedish:** tolf
+    - **Swedish:** tolv
+    - **Swedish:** tolf — _pre-1906 spelling_
+  - **Old Danish:** tolf
+    - **Danish:** tolv
+    - **Scanian:** tølw
+  - **Gutnish:** tåll
+  - **Gutnish:** tålv
+- **Old Norse:** tólf
+  - **Icelandic:** tólf
+  - **Faroese:** tólv
+  - **Norwegian Nynorsk:** tolv — _dialectal_
+  - **Norwegian Nynorsk:** tølv
+  - **Norwegian Nynorsk:** tøl
+  - **Norwegian Nynorsk:** tóv
+  - **Norwegian Nynorsk:** tælv
+  - **Norwegian Bokmål:** tolv
+  - **Elfdalian:** tolv
+  - **Old Swedish:** tolf
+    - **Swedish:** tolv
+    - **Swedish:** tolf — _pre-1906 spelling_
+  - **Old Danish:** tolf
+    - **Danish:** tolv
+    - **Scanian:** tølw
+  - **Gutnish:** tåll
+  - **Gutnish:** tålv
+- **Old Norse:** tvalf
+  - **Icelandic:** tólf
+  - **Faroese:** tólv
+  - **Norwegian Nynorsk:** tolv — _dialectal_
+  - **Norwegian Nynorsk:** tølv
+  - **Norwegian Nynorsk:** tøl
+  - **Norwegian Nynorsk:** tóv
+  - **Norwegian Nynorsk:** tælv
+  - **Norwegian Bokmål:** tolv
+  - **Elfdalian:** tolv
+  - **Old Swedish:** tolf
+    - **Swedish:** tolv
+    - **Swedish:** tolf — _pre-1906 spelling_
+  - **Old Danish:** tolf
+    - **Danish:** tolv
+    - **Scanian:** tølw
+  - **Gutnish:** tåll
+  - **Gutnish:** tålv
+- **Gothic:** 𐍄𐍅𐌰𐌻𐌹𐍆

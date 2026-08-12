@@ -1,0 +1,892 @@
+# *daigijǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/daigij%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *daigijǭ
+
+### Etymology
+
+From Proto-Indo-European *dʰeyǵʰ- (“to knead, form, build”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dʰeyǵʰ-
+
+### Pronunciation
+
+- IPA: `/ˈdɑi̯.ɣi.jɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ kneader of bread; dairy-maid
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| daigijǭ | nominative, singular |
+| daigijōniz | nominative, plural |
+| daigijǭ | singular, vocative |
+| daigijōniz | plural, vocative |
+| daigijōnų | accusative, singular |
+| daigijōnunz | accusative, plural |
+| daigijōniz | genitive, singular |
+| daigijōnǫ̂ | genitive, plural |
+| daigijōni | dative, singular |
+| daigijōmaz | dative, plural |
+| daigijōnē | instrumental, singular |
+| daigijōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *daigijā
+  - **Old English:** dǣġe
+    - **Middle English:** deye
+      - **English:** dai
+      - **English:** dei
+      - **English:** dey
+      - **English:** deye — _dialectal or historical_
+      - **Scots:** dey
+      - **Scots:** dee
+      - **Scots:** deigh
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+    - **Middle English:** daie
+      - **English:** dai
+      - **English:** dei
+      - **English:** dey
+      - **English:** deye — _dialectal or historical_
+      - **Scots:** dey
+      - **Scots:** dee
+      - **Scots:** deigh
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+    - **Middle English:** deie
+      - **English:** dai
+      - **English:** dei
+      - **English:** dey
+      - **English:** deye — _dialectal or historical_
+      - **Scots:** dey
+      - **Scots:** dee
+      - **Scots:** deigh
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayre — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deierie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deiȝerie — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyerye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** dayrye — _borrowed_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+      - **Middle English:** deyry — _borrowed; Late Middle English_ — _through a non-Germanic route_
+        - **English:** dairy
+        - **Scots:** derry
+        - **Scots:** dery
+        - **Scots:** dyrie
+- **Old Norse:** deigja
+  - **Icelandic:** deigja
+  - **Norwegian Bokmål:** deie
+  - **Norwegian Nynorsk:** deigja
+  - **Norwegian Nynorsk:** deia
+  - **Old Swedish:** deghia
+    - **Swedish:** deja
+  - **Old Swedish:** dighia
+    - **Swedish:** deja

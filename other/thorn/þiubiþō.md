@@ -1,0 +1,633 @@
+# *þiubiþō
+
+[Alphabetical index](../../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/%C3%BEiubi%C3%BE%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *þiubiþō
+
+### Etymology
+
+From *þeubaz (“thief”) + *-iþō, and/or *þiubijaną (“to thieve”) + *-iþō.
+
+### Proto-Indo-European ancestry
+
+**PIE form(s) resolved through Proto-Germanic components:** *tewp-
+
+### Pronunciation
+
+- IPA: `/ˈθiu̯.βi.θɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ the state or condition of a thief; thiefdom
+2. _(feminine, reconstruction)_ theft
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| þiubiþō | nominative, singular |
+| þiubiþôz | nominative, plural |
+| þiubiþō | singular, vocative |
+| þiubiþôz | plural, vocative |
+| þiubiþǭ | accusative, singular |
+| þiubiþōz | accusative, plural |
+| þiubiþōz | genitive, singular |
+| þiubiþǫ̂ | genitive, plural |
+| þiubiþōi | dative, singular |
+| þiubiþōmaz | dative, plural |
+| þiubiþō | instrumental, singular |
+| þiubiþōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *þiubiþu
+  - **Old English:** þīefþ
+    - **Middle English:** thefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theffte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þiefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þyefþe — _Kent_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifthe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeffþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofðe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeuft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þufþe — _Southern; West Midland_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thyft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þifte — _East Saxon or Northern_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+  - **Old English:** þȳfþ
+    - **Middle English:** thefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theffte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þiefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þyefþe — _Kent_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifthe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeffþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofðe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeuft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þufþe — _Southern; West Midland_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thyft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þifte — _East Saxon or Northern_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+  - **Old English:** þīfþ
+    - **Middle English:** thefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theffte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þiefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þyefþe — _Kent_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifthe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeffþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofðe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeuft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þufþe — _Southern; West Midland_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thyft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þifte — _East Saxon or Northern_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+  - **Old English:** þēofþ
+    - **Middle English:** thefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theffte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þiefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þyefþe — _Kent_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifthe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeffþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofðe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeuft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þufþe — _Southern; West Midland_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thyft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þifte — _East Saxon or Northern_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+  - **Old English:** þēoft
+    - **Middle English:** thefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theffte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** theft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeefte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þiefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þyefþe — _Kent_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifthe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þefþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeffþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofðe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeofþe
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þeuft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þufþe — _Southern; West Midland_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thifte
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** thyft
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þift
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+    - **Middle English:** þifte — _East Saxon or Northern_
+      - **English:** theft
+      - **Middle Scots:** thift
+        - **Scots:** thift
+        - **Scots:** theft
+  - **Old Frisian:** thiubda
+  - **Old Frisian:** thiuvethe
+  - **Old Frisian:** thiuvede
+  - **Old Frisian:** thiufthe
+  - **Old Frisian:** tiefte
+  - **Old Saxon:** *thiuvitha
+    - **Middle Low German:** dü̂vede
+    - **Middle Low German:** dêfte
+  - **Old Dutch:** *thiuvitha
+    - **Middle Dutch:** diefte
+      - **Dutch:** diefte — _dialectal_
+        - **Afrikaans:** diefte
+  - **Old High German:** *diubida
+    - **Middle High German:** diubede
+      - **German:** Diebde
+- **Old Norse:** þýfð
+  - **Icelandic:** þýfð
+  - **Icelandic:** þýft
+  - **Old Swedish:** þyft
+    - **Swedish:** tjuft
+  - **Old Swedish:** þiuft
+    - **Swedish:** tjuft
+- **Old Norse:** þýft
+  - **Icelandic:** þýfð
+  - **Icelandic:** þýft
+  - **Old Swedish:** þyft
+    - **Swedish:** tjuft
+  - **Old Swedish:** þiuft
+    - **Swedish:** tjuft

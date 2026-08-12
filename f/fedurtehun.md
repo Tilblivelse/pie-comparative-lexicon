@@ -1,0 +1,263 @@
+# *fedurtehun
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/fedurtehun)
+
+## Proto-Germanic
+
+**Reconstruction:** *fedurtehun
+
+### Etymology
+
+Compound of *fedwōr (“four”) + *tehun (“ten”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈɸe.ður.te.xun/`
+
+### Numeral
+
+1. _(reconstruction)_ fourteen
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *feuwartehun
+  - **Old English:** fēowertīene
+    - **Middle English:** fourtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** ffortene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** ffourtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fouretene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowrtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** vourtene — _Southern; West Midland_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fourtiene — _Gower_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fforteyne
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowretene — _Promptorium Parvulorum_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** faurten
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fourten — _Northern_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowrten — _Catholicon Anglicum_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+  - **Old English:** fēowertēne
+    - **Middle English:** fourtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** ffortene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** ffourtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fouretene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowrtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** vourtene — _Southern; West Midland_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fourtiene — _Gower_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fforteyne
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowretene — _Promptorium Parvulorum_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** faurten
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fourten — _Northern_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowrten — _Catholicon Anglicum_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+  - **Old English:** fēowertȳne
+    - **Middle English:** fourtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** ffortene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** ffourtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fouretene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowrtene
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** vourtene — _Southern; West Midland_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fourtiene — _Gower_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fforteyne
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowretene — _Promptorium Parvulorum_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** faurten
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fourten — _Northern_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+    - **Middle English:** fowrten — _Catholicon Anglicum_
+      - **English:** fourteen
+      - **Scots:** fowerteen
+      - **Yola:** vourteen
+  - **Old Frisian:** fiūwertīne
+    - **North Frisian:** fjauertanj — _Föhr-Amrum_
+    - **North Frisian:** fjouertäin — _Mooring_
+    - **North Frisian:** fjuurtain — _Sylt_
+    - **Saterland Frisian:** fjautien
+    - **West Frisian:** fjirtjin
+  - **Old Saxon:** fiuwartein
+    - **Middle Low German:** vêrtein
+      - **Low German:** veerteihn
+      - **Plautdietsch:** vieetieen
+  - **Old Dutch:** *fiortian
+    - **Middle Dutch:** viertien
+      - **Dutch:** veertien
+        - **Afrikaans:** veertien
+    - **Middle Dutch:** veertien
+      - **Dutch:** veertien
+        - **Afrikaans:** veertien
+  - **Old High German:** fiorzehan
+    - **Middle High German:** vierzehen
+      - **Cimbrian:** viartzane
+      - **German:** vierzehn
+      - **Luxembourgish:** véierzéng
+      - **Yiddish:** פֿערצן
+- **Old Norse:** fjórtán
+  - **Icelandic:** fjórtán
+  - **Faroese:** fjúrtan
+  - **Norwegian Bokmål:** fjorten
+  - **Norwegian Nynorsk:** fjorten
+  - **Old Swedish:** fiughurtan
+    - **Swedish:** fjorton
+  - **Old Swedish:** fiughertān
+    - **Swedish:** fjorton
+  - **Old Danish:** fiughærtæn
+    - **Danish:** fjorten
+    - **Elfdalian:** fiuortǫ
+    - **Gutnish:** feurtan
+- **Old Norse:** fjugurtán
+  - **Icelandic:** fjórtán
+  - **Faroese:** fjúrtan
+  - **Norwegian Bokmål:** fjorten
+  - **Norwegian Nynorsk:** fjorten
+  - **Old Swedish:** fiughurtan
+    - **Swedish:** fjorton
+  - **Old Swedish:** fiughertān
+    - **Swedish:** fjorton
+  - **Old Danish:** fiughærtæn
+    - **Danish:** fjorten
+    - **Elfdalian:** fiuortǫ
+    - **Gutnish:** feurtan
+- **Old Norse:** fjugrtán
+  - **Icelandic:** fjórtán
+  - **Faroese:** fjúrtan
+  - **Norwegian Bokmål:** fjorten
+  - **Norwegian Nynorsk:** fjorten
+  - **Old Swedish:** fiughurtan
+    - **Swedish:** fjorton
+  - **Old Swedish:** fiughertān
+    - **Swedish:** fjorton
+  - **Old Danish:** fiughærtæn
+    - **Danish:** fjorten
+    - **Elfdalian:** fiuortǫ
+    - **Gutnish:** feurtan
+- **Old Norse:** fjúrtán
+  - **Icelandic:** fjórtán
+  - **Faroese:** fjúrtan
+  - **Norwegian Bokmål:** fjorten
+  - **Norwegian Nynorsk:** fjorten
+  - **Old Swedish:** fiughurtan
+    - **Swedish:** fjorton
+  - **Old Swedish:** fiughertān
+    - **Swedish:** fjorton
+  - **Old Danish:** fiughærtæn
+    - **Danish:** fjorten
+    - **Elfdalian:** fiuortǫ
+    - **Gutnish:** feurtan
+- **Old Norse:** fjǫgurtán
+  - **Icelandic:** fjórtán
+  - **Faroese:** fjúrtan
+  - **Norwegian Bokmål:** fjorten
+  - **Norwegian Nynorsk:** fjorten
+  - **Old Swedish:** fiughurtan
+    - **Swedish:** fjorton
+  - **Old Swedish:** fiughertān
+    - **Swedish:** fjorton
+  - **Old Danish:** fiughærtæn
+    - **Danish:** fjorten
+    - **Elfdalian:** fiuortǫ
+    - **Gutnish:** feurtan
+- **Gothic:** 𐍆𐌹𐌳𐍅𐍉𐍂𐍄𐌰𐌹𐌷𐌿𐌽 — _reshaped by analogy or addition of morphemes_

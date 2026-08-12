@@ -1,0 +1,1402 @@
+# *dōną
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/d%C5%8Dn%C4%85)
+
+## Proto-Germanic
+
+**Reconstruction:** *dōną
+
+### Etymology
+
+From two related Proto-Indo-European verbs:
+* Present tense from the perfective *dʰéh₁t, although the o-grade form *dʰóh₁t is unexpected.
+* Past tense from the past of the reduplicated imperfective *dʰédʰeh₁ti.
+Both originate from the root *dʰeh₁- (“to place, do”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *dʰeh₁-, *dʰédʰeh₁ti, *dʰéh₁t
+
+### Pronunciation
+
+- IPA: `/ˈdɔː.nɑ̃/`
+
+### Verb
+
+1. _(reconstruction)_ to do, make
+2. _(reconstruction)_ to put, place
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| dōmi | active, first-person, indicative, singular |
+| dǭ | active, first-person, singular, subjunctive |
+| - | active, first-person, imperative, singular |
+| - | first-person, indicative, passive, singular |
+| - | first-person, passive, singular, subjunctive |
+| dōsi | active, indicative, second-person, singular |
+| dōs | active, second-person, singular, subjunctive |
+| dō | active, imperative, second-person, singular |
+| - | indicative, passive, second-person, singular |
+| - | passive, second-person, singular, subjunctive |
+| dōþi | active, indicative, singular, third-person |
+| dō | active, singular, subjunctive, third-person |
+| dōþau | active, imperative, singular, third-person |
+| - | indicative, passive, singular, third-person |
+| - | passive, singular, subjunctive, third-person |
+| dōs | active, dual, first-person, indicative |
+| dōw | active, dual, first-person, subjunctive |
+| - | active, dual, first-person, imperative |
+| - | dual, first-person, indicative, passive |
+| - | dual, first-person, passive, subjunctive |
+| dōþiz | active, dual, indicative, second-person |
+| dōþiz | active, dual, second-person, subjunctive |
+| dōþiz | active, dual, imperative, second-person |
+| - | dual, indicative, passive, second-person |
+| - | dual, passive, second-person, subjunctive |
+| dōmaz | active, first-person, indicative, plural |
+| dōm | active, first-person, plural, subjunctive |
+| - | active, first-person, imperative, plural |
+| - | first-person, indicative, passive, plural |
+| - | first-person, passive, plural, subjunctive |
+| dōþ | active, indicative, plural, second-person |
+| dōþ | active, plural, second-person, subjunctive |
+| dōþ | active, imperative, plural, second-person |
+| - | indicative, passive, plural, second-person |
+| - | passive, plural, second-person, subjunctive |
+| dōnþi | active, indicative, plural, third-person |
+| dōn | active, plural, subjunctive, third-person |
+| dōnþau | active, imperative, plural, third-person |
+| - | indicative, passive, plural, third-person |
+| - | passive, plural, subjunctive, third-person |
+| dedǭ | active, first-person, indicative, singular |
+| dēdį̄ | active, first-person, singular, subjunctive |
+| dedēz | active, indicative, second-person, singular |
+| dēdīz | active, second-person, singular, subjunctive |
+| dedē | active, indicative, singular, third-person |
+| dēdī | active, singular, subjunctive, third-person |
+| dēdū | active, dual, first-person, indicative |
+| dēdīw | active, dual, first-person, subjunctive |
+| dēdudiz | active, dual, indicative, second-person |
+| dēdīdiz | active, dual, second-person, subjunctive |
+| dēdum | active, first-person, indicative, plural |
+| dēdīm | active, first-person, plural, subjunctive |
+| dēdud | active, indicative, plural, second-person |
+| dēdīd | active, plural, second-person, subjunctive |
+| dēdun | active, indicative, plural, third-person |
+| dēdīn | active, plural, subjunctive, third-person |
+| dōndz | active, participle, present |
+| dēnaz | active, participle, past, subjunctive |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *dōn
+  - **Old English:** dōn
+    - **Middle English:** don
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** do
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** donne
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doon
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doyn
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+  - **Old English:** doan — _Anglian_
+    - **Middle English:** don
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** do
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** donne
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doon
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doyn
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+  - **Old English:** doa
+    - **Middle English:** don
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** do
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** donne
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doon
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doyn
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+  - **Old English:** doæ
+    - **Middle English:** don
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** do
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** donne
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doon
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doyn
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+  - **Old English:** doe — _Northumbrian_
+    - **Middle English:** don
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** do
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** donne
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doon
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+    - **Middle English:** doyn
+      - **English:** do
+      - **Scots:** dae
+      - **Scots:** dee — _Doric_
+      - **Yola:** doone
+      - **Yola:** deen
+  - **Old Frisian:** dwā
+    - **North Frisian:** du — _Föhr-Amrum_
+    - **North Frisian:** düünj — _Mooring_
+    - **North Frisian:** dö — _Sylt_
+    - **Saterland Frisian:** dwo
+    - **West Frisian:** dwaan
+  - **Old Frisian:** dwān
+    - **North Frisian:** du — _Föhr-Amrum_
+    - **North Frisian:** düünj — _Mooring_
+    - **North Frisian:** dö — _Sylt_
+    - **Saterland Frisian:** dwo
+    - **West Frisian:** dwaan
+  - **Old Frisian:** duān
+    - **North Frisian:** du — _Föhr-Amrum_
+    - **North Frisian:** düünj — _Mooring_
+    - **North Frisian:** dö — _Sylt_
+    - **Saterland Frisian:** dwo
+    - **West Frisian:** dwaan
+  - **Old Frisian:** duā
+    - **North Frisian:** du — _Föhr-Amrum_
+    - **North Frisian:** düünj — _Mooring_
+    - **North Frisian:** dö — _Sylt_
+    - **Saterland Frisian:** dwo
+    - **West Frisian:** dwaan
+  - **Old Frisian:** dūa
+    - **North Frisian:** du — _Föhr-Amrum_
+    - **North Frisian:** düünj — _Mooring_
+    - **North Frisian:** dö — _Sylt_
+    - **Saterland Frisian:** dwo
+    - **West Frisian:** dwaan
+  - **Old Saxon:** dōn
+    - **Middle Low German:** dôn
+      - **Low German:** deoen — _Paderbornisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** dohn — _Münsterländisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** doon
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+  - **Old Saxon:** doan
+    - **Middle Low German:** dôn
+      - **Low German:** deoen — _Paderbornisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** dohn — _Münsterländisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** doon
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+  - **Old Saxon:** dūan
+    - **Middle Low German:** dôn
+      - **Low German:** deoen — _Paderbornisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** dohn — _Münsterländisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** doon
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+  - **Old Saxon:** duon
+    - **Middle Low German:** dôn
+      - **Low German:** deoen — _Paderbornisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** dohn — _Münsterländisch_
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+      - **Low German:** doon
+        - **Norwegian Bokmål:** don — _borrowed_
+        - **Norwegian Bokmål:** dont — _borrowed_
+        - **Swedish:** don — _borrowed_
+  - **Old Dutch:** duon
+    - **Middle Dutch:** doen
+      - **Dutch:** doen
+        - **Afrikaans:** doen
+      - **Limburgish:** doon
+  - **Old High German:** tuon
+    - **Middle High German:** tuon
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tûn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tôn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** duon
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** dûn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** dôn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tœn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tain
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tuogen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tuomen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** thoenen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+  - **Old High German:** duon
+    - **Middle High German:** tuon
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tûn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tôn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** duon
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** dûn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** dôn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tœn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tain
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tuogen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tuomen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** thoenen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+  - **Old High German:** duan
+    - **Middle High German:** tuon
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tûn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tôn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** duon
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** dûn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** dôn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tœn
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tain
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tuogen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** tuomen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן
+    - **Middle High German:** thoenen
+      - **Alemannic German:** tue
+      - **Alemannic German:** due
+      - **Alemannic German:** tuä
+      - **Bavarian:** doa
+      - **Central Franconian:** donn
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** don — _northern Moselle Franconian; some rural dialects of Ripuarian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dunn — _Kölsch_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **Central Franconian:** dun — _southern Moselle Franconian_
+        - **Hunsrik:** dun
+        - **Luxembourgish:** doen
+        - **Luxembourgish:** dinn — _alternative standard; chiefly south-western areas_
+        - **Luxembourgish:** dunn
+        - **Luxembourgish:** dongen — _dialectal; now dated_
+      - **German:** tun
+      - **Rhine Franconian:** 
+      - **Yiddish:** טאָן

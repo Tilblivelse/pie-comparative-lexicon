@@ -1,0 +1,637 @@
+# *luftuz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/luftuz)
+
+## Proto-Germanic
+
+**Reconstruction:** *luftuz
+
+### Etymology
+
+According to Kroonen, from Proto-Indo-European *lubʰ-tu-s, from *lewbʰ- (“to peel, break off, damage”) (whence also *laubą (“leaf”)); this may be linked to Russian луб (lub, “bast”), Old Prussian lubbo (“bast, plank”) and therefore have an original meaning of "roof (fashioned from peeled bark)". The Indo-European root has been taken as an extension of a root *lew- (“to cut away, remove, prune”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *lubʰ-tu-s
+
+### Pronunciation
+
+- IPA: `/ˈluɸ.tuz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ roof
+2. _(masculine, reconstruction)_ roof of the earth, firmament; heavens, sky
+3. _(masculine, reconstruction)_ atmosphere
+4. _(masculine, reconstruction)_ air
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| u-stem | class |
+| luftuz | nominative, singular |
+| luftiwiz | nominative, plural |
+| luftu | singular, vocative |
+| luftiwiz | plural, vocative |
+| luftų | accusative, singular |
+| luftunz | accusative, plural |
+| luftauz | genitive, singular |
+| luftiwǫ̂ | genitive, plural |
+| luftiwi | dative, singular |
+| luftumaz | dative, plural |
+| luftū | instrumental, singular |
+| luftumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *luftu
+  - **Old English:** lyft
+    - **Middle English:** luft
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+    - **Middle English:** lift
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+  - **Old English:** loft
+    - **Middle English:** luft
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+    - **Middle English:** lift
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+  - **Old English:** lybt — _< *lufti_
+    - **Middle English:** luft
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+    - **Middle English:** lift
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+  - **Old Frisian:** luft
+    - **Saterland Frisian:** Luft
+    - **West Frisian:** loft
+  - **Old Frisian:** lufte
+    - **Saterland Frisian:** Luft
+    - **West Frisian:** loft
+  - **Old Frisian:** *loft
+    - **Saterland Frisian:** Luft
+    - **West Frisian:** loft
+  - **Old Saxon:** luft
+    - **Middle Low German:** luft
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+    - **Middle Low German:** lucht
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+  - **Old Saxon:** luht
+    - **Middle Low German:** luft
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+    - **Middle Low German:** lucht
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+  - **Old Dutch:** luft
+    - **Middle Dutch:** lucht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+    - **Middle Dutch:** locht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+  - **Old Dutch:** luht
+    - **Middle Dutch:** lucht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+    - **Middle Dutch:** locht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+  - **Old High German:** luft
+    - **Middle High German:** luft
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+    - **Middle High German:** lucht
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+  - **Old High German:** luht — _northern_
+    - **Middle High German:** luft
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+    - **Middle High German:** lucht
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+- **Proto-West Germanic:** *lufti
+  - **Old English:** lyft
+    - **Middle English:** luft
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+    - **Middle English:** lift
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+  - **Old English:** loft
+    - **Middle English:** luft
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+    - **Middle English:** lift
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+  - **Old English:** lybt — _< *lufti_
+    - **Middle English:** luft
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+    - **Middle English:** lift
+      - **English:** loft
+      - **English:** lift
+      - **Scots:** luft
+      - **Scots:** lift
+  - **Old Frisian:** luft
+    - **Saterland Frisian:** Luft
+    - **West Frisian:** loft
+  - **Old Frisian:** lufte
+    - **Saterland Frisian:** Luft
+    - **West Frisian:** loft
+  - **Old Frisian:** *loft
+    - **Saterland Frisian:** Luft
+    - **West Frisian:** loft
+  - **Old Saxon:** luft
+    - **Middle Low German:** luft
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+    - **Middle Low German:** lucht
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+  - **Old Saxon:** luht
+    - **Middle Low German:** luft
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+    - **Middle Low German:** lucht
+      - **Low German:** Lucht
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Low German:** Luft
+        - **East Frisian Low Saxon:** lücht
+        - **Plautdietsch:** 
+      - **Saterland Frisian:** Lucht — _borrowed_
+      - **Faroese:** luft — _borrowed_
+      - **Faroese:** luktur — _borrowed_
+      - **Norwegian:** luft — _borrowed_
+      - **Norwegian:** lukt — _borrowed_
+      - **Swedish:** luft — _borrowed_
+      - **Swedish:** lukt — _borrowed_
+      - **Danish:** luft — _borrowed_
+      - **Danish:** lugt — _borrowed_
+  - **Old Dutch:** luft
+    - **Middle Dutch:** lucht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+    - **Middle Dutch:** locht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+  - **Old Dutch:** luht
+    - **Middle Dutch:** lucht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+    - **Middle Dutch:** locht
+      - **Dutch:** lucht
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+      - **Dutch:** lugt — _obsolete_
+        - **Afrikaans:** lug
+        - **West Frisian:** lucht — _borrowed_
+  - **Old High German:** luft
+    - **Middle High German:** luft
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+    - **Middle High German:** lucht
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+  - **Old High German:** luht — _northern_
+    - **Middle High German:** luft
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+    - **Middle High German:** lucht
+      - **German:** Luft
+        - **English:** luft — _borrowed_
+        - **Luxembourgish:** Loft — _borrowed_
+      - **Central Franconian:** Luft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loft
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Loff — _originally south-eastern_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luucht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luuch
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Luht
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **Central Franconian:** Lueht — _northern and western; now only for “space”_
+        - **Hunsrik:** Luft
+        - **Luxembourgish:** Luucht
+        - **Luxembourgish:** Lut
+      - **East Central German:** 
+      - **Pennsylvania German:** Luft
+      - **Yiddish:** לופֿט
+- **Old Norse:** lopt — _n_
+  - **Icelandic:** loft
+  - **Faroese:** loft
+  - **Norwegian:** loft
+  - **Swedish:** loft
+  - **Danish:** loft
+  - **Danish:** luft
+  - **Old English:** loft — _borrowed_
+    - **Middle English:** lofte
+      - **Scots:** loft
+      - **Scots:** laft
+      - **English:** loft
+- **Old Norse:** loft — _< *luftą_
+  - **Icelandic:** loft
+  - **Faroese:** loft
+  - **Norwegian:** loft
+  - **Swedish:** loft
+  - **Danish:** loft
+  - **Danish:** luft
+  - **Old English:** loft — _borrowed_
+    - **Middle English:** lofte
+      - **Scots:** loft
+      - **Scots:** laft
+      - **English:** loft
+- **Gothic:** 𐌻𐌿𐍆𐍄𐌿𐍃

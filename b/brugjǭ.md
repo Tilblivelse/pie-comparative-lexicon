@@ -1,0 +1,540 @@
+# *brugjǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/brugj%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *brugjǭ
+
+### Etymology
+
+Of uncertain origin.
+Kroonen takes the word from the genitive of a pre-Germanic formation *brug-, from an earlier *bru(w)ī with velarization of the *-w- to a *-g-, from Proto-Indo-European *h₃bʰruH-íh₂-, itself an ih₂-stem nominal formation from the root of *h₃bʰrúHs (“eyebrow”), owing to the similar shapes of bridges and brows.
+The North Germanic forms, represented by Old Norse bryggja, stem from the original genitive of *h₃bʰruH-íh₂-, *h₃bʰruH-iéh₂-s. This latter formation became *brujjōz in Proto-Germanic, via Dybo's law and Holtzmann's law, like in *ajją.
+An alternate theory by Matasovic derives the root from a Proto-Indo-European *bʰerh₁w-, from a root *bʰrewh₁- (“wooden flooring, decking, bridge”), comparing Gaulish brīuā. Whether a relation exists between *bʰrewh₁- and *h₃bʰrúHs is unclear.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *bʰerh₁w-, *h₃bʰruH-íh₂-
+
+### Pronunciation
+
+- IPA: `/ˈbruɣ.jɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ bridge
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| brugjǭ | nominative, singular |
+| brugjōniz | nominative, plural |
+| brugjǭ | singular, vocative |
+| brugjōniz | plural, vocative |
+| brugjōnų | accusative, singular |
+| brugjōnunz | accusative, plural |
+| brugjōniz | genitive, singular |
+| brugjōnǫ̂ | genitive, plural |
+| brugjōni | dative, singular |
+| brugjōmaz | dative, plural |
+| brugjōnē | instrumental, singular |
+| brugjōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *bruggju
+  - **Old English:** bryċġ
+    - **Middle English:** brigge
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** brig
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** brige
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** brigg
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** brydge
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** bryg
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** bryge
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** brygge
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** bregge — _Kent; East Anglia; East Saxon_
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+    - **Middle English:** brugge — _Southern; West Midland_
+      - **English:** bridge
+      - **Middle Scots:** brig
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Middle Scots:** bryg
+        - **Scots:** brig
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** brigg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+        - **Scots:** breeg
+          - **English:** brig — _borrowed_
+          - **English:** brigg — _borrowed_
+      - **Yola:** burge
+  - **Old Frisian:** brigge
+    - **North Frisian:** brag — _Föhr-Amrum_
+    - **North Frisian:** Bröch — _Sylt_
+    - **Saterland Frisian:** Brääch
+    - **Saterland Frisian:** Brääg
+    - **West Frisian:** brêge
+  - **Old Frisian:** bregge
+    - **North Frisian:** brag — _Föhr-Amrum_
+    - **North Frisian:** Bröch — _Sylt_
+    - **Saterland Frisian:** Brääch
+    - **Saterland Frisian:** Brääg
+    - **West Frisian:** brêge
+  - **Old Saxon:** bruggia
+    - **Middle Low German:** brugge
+      - **Low German:** Brügge
+        - **Dutch Low Saxon:** brugge — _Drents; Gronings; Twents; Veluws; Achterhoeks_
+        - **Dutch Low Saxon:** brogge — _Drents; Stellingwerfs; Veluws_
+        - **Dutch Low Saxon:** brog — _Drents; Gronings; Veluws_
+        - **German Low German:** Brugge
+        - **German Low German:** Brügg(e)
+        - **German Low German:** Brüch
+      - **Plautdietsch:** Brigj
+  - **Old Saxon:** bruggie
+    - **Middle Low German:** brugge
+      - **Low German:** Brügge
+        - **Dutch Low Saxon:** brugge — _Drents; Gronings; Twents; Veluws; Achterhoeks_
+        - **Dutch Low Saxon:** brogge — _Drents; Stellingwerfs; Veluws_
+        - **Dutch Low Saxon:** brog — _Drents; Gronings; Veluws_
+        - **German Low German:** Brugge
+        - **German Low German:** Brügg(e)
+        - **German Low German:** Brüch
+      - **Plautdietsch:** Brigj
+  - **Old Saxon:** brugge
+    - **Middle Low German:** brugge
+      - **Low German:** Brügge
+        - **Dutch Low Saxon:** brugge — _Drents; Gronings; Twents; Veluws; Achterhoeks_
+        - **Dutch Low Saxon:** brogge — _Drents; Stellingwerfs; Veluws_
+        - **Dutch Low Saxon:** brog — _Drents; Gronings; Veluws_
+        - **German Low German:** Brugge
+        - **German Low German:** Brügg(e)
+        - **German Low German:** Brüch
+      - **Plautdietsch:** Brigj
+  - **Old Dutch:** brugga
+    - **Middle Dutch:** brugge
+      - **Dutch:** brug
+        - **Afrikaans:** brug
+      - **Dutch:** Brugge
+        - **Afrikaans:** brug
+      - **Limburgish:** brögk
+  - **Old High German:** brugga
+    - **Middle High German:** brucke
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+    - **Middle High German:** brücke
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+    - **Middle High German:** brügge
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+    - **Middle High German:** brugge
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+  - **Old High German:** brucca
+    - **Middle High German:** brucke
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+    - **Middle High German:** brücke
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+    - **Middle High German:** brügge
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+    - **Middle High German:** brugge
+      - **Alemannic German:** Brugg
+      - **Bavarian:** Bruck
+      - **Bavarian:** Brugg
+      - **Central Franconian:** Bröck
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **Central Franconian:** Breck — _Moselle Franconian_
+        - **Hunsrik:** Brick
+        - **Luxembourgish:** Bréck
+      - **East Central German:** Brick
+      - **German:** Brücke
+      - **Rhine Franconian:** 
+        - **Pennsylvania German:** Brick
+      - **Vilamovian:** bryk
+      - **Yiddish:** בריק
+- **Old Norse:** bryggja
+  - **Icelandic:** bryggja
+  - **Faroese:** bryggja
+  - **Norwegian Nynorsk:** brygge
+  - **Norwegian Nynorsk:** bryggje
+  - **Norwegian Nynorsk:** brygga
+  - **Norwegian Nynorsk:** bryggja
+  - **Norwegian Bokmål:** brygge
+  - **Old Swedish:** bryggia
+    - **Swedish:** brygga
+  - **Old Swedish:** ᛒᚱᛦᚵᚵᛁᛆ
+    - **Swedish:** brygga
+  - **Danish:** brygge
+  - **Northern Middle English:** brig — _borrowed_
+    - **English:** 
+    - **Middle Scots:** brig
+      - **Scots:** brig
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** brigg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** breeg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+    - **Middle Scots:** bryg
+      - **Scots:** brig
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** brigg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** breeg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+  - **Northern Middle English:** brigg — _borrowed_
+    - **English:** 
+    - **Middle Scots:** brig
+      - **Scots:** brig
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** brigg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** breeg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+    - **Middle Scots:** bryg
+      - **Scots:** brig
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** brigg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** breeg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+  - **Northern Middle English:** bryg — _borrowed_
+    - **English:** 
+    - **Middle Scots:** brig
+      - **Scots:** brig
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** brigg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** breeg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+    - **Middle Scots:** bryg
+      - **Scots:** brig
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** brigg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_
+      - **Scots:** breeg
+        - **English:** brig — _borrowed_
+        - **English:** brigg — _borrowed_

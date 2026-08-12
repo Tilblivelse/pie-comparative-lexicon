@@ -1,0 +1,986 @@
+# *askǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ask%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *askǭ
+
+### Etymology
+
+Usually connected to Proto-Indo-European *h₂e(H)s- (“to dry, burn”), with an uncertain suffix; compare Old Armenian աճիւն (ačiwn, “ashes”). In view of the voiced cluster in Gothic 𐌰𐌶𐌲𐍉 (azgō), Kroonen suggests a compound of Proto-Indo-European *h₂ed- (“to dry”) + *dʰegʷʰ- (“to burn”), the first element of which is based on Hittite 𒄩𒀀𒋾 (ḫa-a-ti /⁠ḫāti⁠/) and Ancient Greek ἄζω (ázō), both “to dry up”. Compare also Old Polish ozd, Czech ozditi (“to dry malt”), which could point to a root *h₂esd- or compound *h₂(H)s-d-.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₂e(H)s-, *h₂eHs-, *h₂ed-
+
+### Pronunciation
+
+- IPA: `/ˈɑs.kɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ ash, ashes
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| askǭ | nominative, singular |
+| askōniz | nominative, plural |
+| askǭ | singular, vocative |
+| askōniz | plural, vocative |
+| askōnų | accusative, singular |
+| askōnunz | accusative, plural |
+| askōniz | genitive, singular |
+| askōnǫ̂ | genitive, plural |
+| askōni | dative, singular |
+| askōmaz | dative, plural |
+| askōnē | instrumental, singular |
+| askōmiz | instrumental, plural |
+| *azgǭ | alternative, East, Germanic |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *askā
+  - **Old English:** æsċe
+    - **Middle English:** asshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** axe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ash
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** assche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aysshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aisshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** acxe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ass
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esk
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** eshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+  - **Old English:** asċe
+    - **Middle English:** asshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** axe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ash
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** assche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aysshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aisshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** acxe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ass
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esk
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** eshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+  - **Old English:** axe
+    - **Middle English:** asshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** axe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ash
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** assche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aysshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aisshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** acxe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ass
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esk
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** eshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+  - **Old English:** acse
+    - **Middle English:** asshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** axe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ash
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** assche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aysshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aisshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** acxe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ass
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esk
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** eshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+  - **Old English:** ahse
+    - **Middle English:** asshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** axe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ash
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** assche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aysshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aisshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** acxe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ass
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esk
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** eshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+  - **Old English:** axse
+    - **Middle English:** asshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** axe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ash
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** assche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aysshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aisshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** acxe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ass
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esk
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** eshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+  - **Old English:** æxe
+    - **Middle English:** asshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** axe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ash
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** assche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aysshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** aisshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** asske
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** acxe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** ass
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esche
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** esk
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+    - **Middle English:** eshe
+      - **English:** ash
+      - **Scots:** ess
+      - **Scots:** asch
+      - **Scots:** ais
+      - **Scots:** as
+      - **Scots:** askis
+      - **Yola:** ashen
+      - **Yola:** oaskean — _plural_
+  - **Old Frisian:** *aske
+    - **Saterland Frisian:** Ääske
+    - **West Frisian:** jiske
+  - **Old Frisian:** *eske
+    - **Saterland Frisian:** Ääske
+    - **West Frisian:** jiske
+  - **Old Saxon:** aska
+    - **Middle Low German:** asche
+      - **German Low German:** Asch
+      - **Plautdietsch:** Ausch
+  - **Old Dutch:** asca
+    - **Middle Dutch:** asche
+      - **Dutch:** as
+        - **Afrikaans:** as
+      - **Dutch:** asch — _obsolete_
+        - **Afrikaans:** as
+      - **Dutch:** asse
+        - **Afrikaans:** as
+      - **Limburgish:** Aïsch
+      - **Limburgish:** Aïsche
+      - **Limburgish:** Äsch
+  - **Old High German:** asca
+    - **Middle High German:** asche
+      - **Alemannic German:** Äsche
+      - **Cimbrian:** èssa
+      - **German:** Asche
+      - **Luxembourgish:** Äsch
+      - **Vilamovian:** oś
+      - **Vilamovian:** oš
+      - **Yiddish:** אַש
+  - **Old High German:** aska
+    - **Middle High German:** asche
+      - **Alemannic German:** Äsche
+      - **Cimbrian:** èssa
+      - **German:** Asche
+      - **Luxembourgish:** Äsch
+      - **Vilamovian:** oś
+      - **Vilamovian:** oš
+      - **Yiddish:** אַש
+- **Old Norse:** aska
+  - **Icelandic:** aska
+  - **Faroese:** øska
+  - **Norwegian:** 
+  - **Old Swedish:** aska
+    - **Swedish:** aska
+  - **Old Danish:** askæ
+    - **Danish:** aske
+- **Gothic:** 𐌰𐌶𐌲𐍉

@@ -1,0 +1,954 @@
+# *saiwalō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/saiwal%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *saiwalō
+
+### Etymology
+
+Uncertain with several theories:
+* from *saiwiz (“sea, ocean”) + *-alō, in connection to the pagan Germanic belief in sacred lakes inhabited by the dead and the unborn, compare the Sami borrowing from Germanic, *Sāvjë, a realm of the dead believed to be under special double-bottomed lakes,
+* from Proto-Indo-European *sóh₂i-wl̥ ~ *sh₂i-wéns, possibly cognate with Proto-Balto-Slavic *séiˀlāˀ (“strength, force; soul”), Latin saevus (“fierce”), Proto-Celtic *saitlom (“life, age”), Latin saeculum (“generation, lifetime”), perhaps either from *seh₂y- (“to bind”) or homonym *seh₂y- (“rage, fury”), making it possibly again related to *saiwiz (“sea, ocean”) (the connection to the Balto-Slavic is tentatively favored by Kroonen),
+* borrowed from a substrate,
+* or from *s(w)ai (“self”), from Proto-Indo-European *swoy- (“idem”), + *walō (“choice, will”), from Proto-Indo-European *wolh₁-eh₂, from *welh₁- (“to choose, want”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *swoy-, *swé, *sóh₂i-wl̥ ~ *sh₂i-wéns, *wolh₁-eh₂
+
+### Pronunciation
+
+- IPA: `/ˈsɑi̯.wɑ.lɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ soul, life force
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| saiwalō | nominative, singular |
+| saiwalôz | nominative, plural |
+| saiwalō | singular, vocative |
+| saiwalôz | plural, vocative |
+| saiwalǭ | accusative, singular |
+| saiwalōz | accusative, plural |
+| saiwalōz | genitive, singular |
+| saiwalǫ̂ | genitive, plural |
+| saiwalōi | dative, singular |
+| saiwalōmaz | dative, plural |
+| saiwalō | instrumental, singular |
+| saiwalōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *saiwalu
+  - **Old English:** sāwol
+    - **Middle English:** soule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawlæ
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sæule — _Early Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souȝle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowll
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowyl — _Late Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawell
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawil
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle — _Northern_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** zaule — _Kent_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Old Norse:** sála — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+    - **Old Norse:** sál — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+  - **Old English:** sāwel
+    - **Middle English:** soule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawlæ
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sæule — _Early Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souȝle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowll
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowyl — _Late Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawell
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawil
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle — _Northern_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** zaule — _Kent_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Old Norse:** sála — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+    - **Old Norse:** sál — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+  - **Old English:** sāwal
+    - **Middle English:** soule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawlæ
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sæule — _Early Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souȝle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowll
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowyl — _Late Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawell
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawil
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle — _Northern_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** zaule — _Kent_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Old Norse:** sála — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+    - **Old Norse:** sál — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+  - **Old English:** sāul
+    - **Middle English:** soule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawlæ
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sæule — _Early Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souȝle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowll
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowyl — _Late Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawell
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawil
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle — _Northern_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** zaule — _Kent_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Old Norse:** sála — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+    - **Old Norse:** sál — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+  - **Old English:** sawl
+    - **Middle English:** soule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawlæ
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sæule — _Early Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souȝle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowll
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowyl — _Late Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawell
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawil
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle — _Northern_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** zaule — _Kent_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Old Norse:** sála — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+    - **Old Norse:** sál — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+  - **Old English:** sōwhul
+    - **Middle English:** soule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawlæ
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sæule — _Early Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souȝle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowll
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowyl — _Late Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawell
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawil
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle — _Northern_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** zaule — _Kent_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Old Norse:** sála — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+    - **Old Norse:** sál — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+  - **Old English:** sawul
+    - **Middle English:** soule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saule
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soul
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawlæ
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sæule — _Early Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** souȝle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** soull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowll
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sowyl — _Late Middle English_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sauel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saull
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** saulle
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawel
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawele
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawell
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawil
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** sawle — _Northern_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Middle English:** zaule — _Kent_
+      - **English:** soul
+      - **Scots:** saul
+      - **Scots:** sowel
+    - **Old Norse:** sála — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+    - **Old Norse:** sál — _borrowed_
+      - **Icelandic:** sál
+      - **Faroese:** sál
+      - **Norwegian Nynorsk:** sål
+      - **Old Gutnish:** selu
+  - **Old Frisian:** sēla
+    - **North Frisian:** siel
+    - **North Frisian:** sial
+    - **Saterland Frisian:** Seele
+    - **West Frisian:** siel
+  - **Old Saxon:** sēola
+    - **Middle Low German:** sêle
+      - **Low German:** Seel
+        - **German Low German:** Seel
+        - **Westphalian:** 
+      - **Low German:** Siel
+        - **German Low German:** Seel
+        - **Westphalian:** 
+      - **Low German:** Seele
+        - **German Low German:** Seel
+        - **Westphalian:** 
+      - **Low German:** Siele
+        - **German Low German:** Seel
+        - **Westphalian:** 
+      - **Low German:** Sele
+        - **German Low German:** Seel
+        - **Westphalian:** 
+      - **Plautdietsch:** Seel
+    - **Old Norse:**  — _borrowed_
+      - **Norwegian:** sjel
+      - **Old Swedish:** siæl
+        - **Swedish:** själ
+      - **Old Swedish:** sial
+        - **Swedish:** själ
+      - **Danish:** sjæl
+  - **Old Dutch:** sēla
+    - **Middle Dutch:** siele
+      - **Dutch:** ziel
+        - **Afrikaans:** siel
+      - **Limburgish:** zeel
+  - **Old Dutch:** siela
+    - **Middle Dutch:** siele
+      - **Dutch:** ziel
+        - **Afrikaans:** siel
+      - **Limburgish:** zeel
+  - **Old Dutch:** *sēola
+    - **Middle Dutch:** siele
+      - **Dutch:** ziel
+        - **Afrikaans:** siel
+      - **Limburgish:** zeel
+  - **Old Dutch:** *siola
+    - **Middle Dutch:** siele
+      - **Dutch:** ziel
+        - **Afrikaans:** siel
+      - **Limburgish:** zeel
+  - **Old High German:** sēla
+    - **Middle High German:** sēle
+      - **Alemannic German:** Seel
+      - **Central Franconian:** Siel
+      - **German:** Seele
+      - **Luxembourgish:** Séil
+      - **Vilamovian:** zejł
+      - **Vilamovian:** zəjł
+      - **Vilamovian:** zyił
+  - **Old High German:** sēula
+    - **Middle High German:** sēle
+      - **Alemannic German:** Seel
+      - **Central Franconian:** Siel
+      - **German:** Seele
+      - **Luxembourgish:** Séil
+      - **Vilamovian:** zejł
+      - **Vilamovian:** zəjł
+      - **Vilamovian:** zyił
+- **Gothic:** 𐍃𐌰𐌹𐍅𐌰𐌻𐌰

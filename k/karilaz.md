@@ -1,0 +1,962 @@
+# *karilaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/karilaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *karilaz
+
+### Etymology
+
+A diminutive of *karaz (but a Proto-Indo-European l-stem according to Kroonen 2013). Probably from Proto-Indo-European *ǵerh₂- (“to become old, to grow”) and related to Ancient Greek γέρων (gérōn), Sanskrit जरन्त (jaranta), Old Armenian ծեր (cer), Avestan 𐬀𐬰𐬀𐬭𐬆𐬴𐬀𐬥𐬙- (azarəṣ̌ant-), Tocharian A kwär-, Tocharian B kwär-, Hittite [script needed] (karu).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *ǵerh₂-
+
+### Pronunciation
+
+- IPA: `/ˈkɑ.ri.lɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ free man
+2. _(masculine, reconstruction)_ little man, young man
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| karilaz | nominative, singular |
+| karilōz | nominative, plural |
+| karilōs | nominative, plural |
+| karil | singular, vocative |
+| karilōz | plural, vocative |
+| karilōs | plural, vocative |
+| karilą | accusative, singular |
+| karilanz | accusative, plural |
+| karilas | genitive, singular |
+| karilis | genitive, singular |
+| karilǫ̂ | genitive, plural |
+| karilai | dative, singular |
+| karilamaz | dative, plural |
+| karilō | instrumental, singular |
+| karilamiz | instrumental, plural |
+| *karlaz | alternative |
+| *kerlaz | alternative |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *karil
+  - **Old English:** ċeorl
+    - **Middle English:** cherl
+      - **English:** churl
+      - **Middle Scots:** churl
+        - **Scots:** churl
+      - **Middle Scots:** churle
+        - **Scots:** churl
+      - **Yola:** chourle
+  - **Old English:** ċiorl
+    - **Middle English:** cherl
+      - **English:** churl
+      - **Middle Scots:** churl
+        - **Scots:** churl
+      - **Middle Scots:** churle
+        - **Scots:** churl
+      - **Yola:** chourle
+  - **Old Frisian:** tzerl
+    - **North Frisian:** keerl
+    - **West Frisian:** tsjirl
+    - **West Frisian:** tsjerl
+  - **Old Frisian:** tzirl
+    - **North Frisian:** keerl
+    - **West Frisian:** tsjirl
+    - **West Frisian:** tsjerl
+  - **Old Saxon:** *keril
+    - **Middle Low German:** kerl
+      - **Dutch Low Saxon:** keerl
+      - **Dutch Low Saxon:** kearl — _Twents; Achterhoeks_
+      - **German Low German:** Keerl
+      - **German Low German:** Kerel
+      - **Westphalian:** 
+      - **German:** Kerl — _borrowed_
+      - **Saterland Frisian:** Käärel — _borrowed_
+    - **Middle Low German:** kerle
+      - **Dutch Low Saxon:** keerl
+      - **Dutch Low Saxon:** kearl — _Twents; Achterhoeks_
+      - **German Low German:** Keerl
+      - **German Low German:** Kerel
+      - **Westphalian:** 
+      - **German:** Kerl — _borrowed_
+      - **Saterland Frisian:** Käärel — _borrowed_
+  - **Old Dutch:** *keril
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old Dutch:** *karal
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old Dutch:** karl
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old High German:** *keril
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+  - **Old High German:** karal
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+  - **Old High German:** karl
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+- **Proto-West Germanic:** *karul
+  - **Old English:** ċeorl
+    - **Middle English:** cherl
+      - **English:** churl
+      - **Middle Scots:** churl
+        - **Scots:** churl
+      - **Middle Scots:** churle
+        - **Scots:** churl
+      - **Yola:** chourle
+  - **Old English:** ċiorl
+    - **Middle English:** cherl
+      - **English:** churl
+      - **Middle Scots:** churl
+        - **Scots:** churl
+      - **Middle Scots:** churle
+        - **Scots:** churl
+      - **Yola:** chourle
+  - **Old Frisian:** tzerl
+    - **North Frisian:** keerl
+    - **West Frisian:** tsjirl
+    - **West Frisian:** tsjerl
+  - **Old Frisian:** tzirl
+    - **North Frisian:** keerl
+    - **West Frisian:** tsjirl
+    - **West Frisian:** tsjerl
+  - **Old Saxon:** *keril
+    - **Middle Low German:** kerl
+      - **Dutch Low Saxon:** keerl
+      - **Dutch Low Saxon:** kearl — _Twents; Achterhoeks_
+      - **German Low German:** Keerl
+      - **German Low German:** Kerel
+      - **Westphalian:** 
+      - **German:** Kerl — _borrowed_
+      - **Saterland Frisian:** Käärel — _borrowed_
+    - **Middle Low German:** kerle
+      - **Dutch Low Saxon:** keerl
+      - **Dutch Low Saxon:** kearl — _Twents; Achterhoeks_
+      - **German Low German:** Keerl
+      - **German Low German:** Kerel
+      - **Westphalian:** 
+      - **German:** Kerl — _borrowed_
+      - **Saterland Frisian:** Käärel — _borrowed_
+  - **Old Dutch:** *keril
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old Dutch:** *karal
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old Dutch:** karl
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old High German:** *keril
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+  - **Old High German:** karal
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+  - **Old High German:** karl
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+- **Proto-West Germanic:** *karl
+  - **Old English:** ċeorl
+    - **Middle English:** cherl
+      - **English:** churl
+      - **Middle Scots:** churl
+        - **Scots:** churl
+      - **Middle Scots:** churle
+        - **Scots:** churl
+      - **Yola:** chourle
+  - **Old English:** ċiorl
+    - **Middle English:** cherl
+      - **English:** churl
+      - **Middle Scots:** churl
+        - **Scots:** churl
+      - **Middle Scots:** churle
+        - **Scots:** churl
+      - **Yola:** chourle
+  - **Old Frisian:** tzerl
+    - **North Frisian:** keerl
+    - **West Frisian:** tsjirl
+    - **West Frisian:** tsjerl
+  - **Old Frisian:** tzirl
+    - **North Frisian:** keerl
+    - **West Frisian:** tsjirl
+    - **West Frisian:** tsjerl
+  - **Old Saxon:** *keril
+    - **Middle Low German:** kerl
+      - **Dutch Low Saxon:** keerl
+      - **Dutch Low Saxon:** kearl — _Twents; Achterhoeks_
+      - **German Low German:** Keerl
+      - **German Low German:** Kerel
+      - **Westphalian:** 
+      - **German:** Kerl — _borrowed_
+      - **Saterland Frisian:** Käärel — _borrowed_
+    - **Middle Low German:** kerle
+      - **Dutch Low Saxon:** keerl
+      - **Dutch Low Saxon:** kearl — _Twents; Achterhoeks_
+      - **German Low German:** Keerl
+      - **German Low German:** Kerel
+      - **Westphalian:** 
+      - **German:** Kerl — _borrowed_
+      - **Saterland Frisian:** Käärel — _borrowed_
+  - **Old Dutch:** *keril
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old Dutch:** *karal
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old Dutch:** karl
+    - **Middle Dutch:** carel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** caerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerl
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Middle Dutch:** kerel
+      - **Dutch:** kerel
+        - **Afrikaans:** kêrel
+        - **Saterland Frisian:** kerel — _borrowed_
+        - **Saterland Frisian:** kërel — _borrowed_
+        - **Saterland Frisian:** kërdel — _borrowed_
+        - **West Frisian:** keardel — _borrowed_
+        - **West Frisian:** kearel — _borrowed_
+    - **Limburgish:** kaerel
+  - **Old High German:** *keril
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+  - **Old High German:** karal
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+  - **Old High German:** karl
+    - **Middle High German:** karl
+    - **Middle High German:** karle
+    - **Middle High German:** kërl
+    - **Middle High German:** kërle
+    - **Old High German:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **German:** Karl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+      - **German:** Carl
+        - **English:** Karl — _borrowed_
+        - **English:** Carl — _borrowed_
+- **Proto-Norse:** *ᚲᚨᚱᛁᛚᚨᛉ
+  - **Old Norse:** karl
+    - **Icelandic:** karl
+    - **Faroese:** kallur
+    - **Norwegian:** kall
+      - **Danish:** kar — _borrowed_
+        - **Norwegian Bokmål:** kar
+    - **Norwegian:** kar
+      - **Danish:** kar — _borrowed_
+        - **Norwegian Bokmål:** kar
+    - **Jamtish:** kall
+    - **Jamtish:** karr — _< *karaz_
+    - **Elfdalian:** kall
+    - **Old Swedish:** karilʀ
+      - **Swedish:** karl
+    - **Old Danish:** karl
+      - **Danish:** karl
+      - **Danish:** kal
+      - **Norwegian Bokmål:** kall
+    - **Old Norse:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **Icelandic:** Karl
+      - **Icelandic:** Carl
+      - **Faroese:** Karl
+      - **Norwegian:** Karl
+      - **Norwegian:** Carl
+      - **Old Swedish:** Karl
+        - **Swedish:** Karl
+        - **Swedish:** Carl
+      - **Old Danish:** Karl
+        - **Danish:** Karl
+        - **Danish:** Carl
+      - **Old Norse:** Karli — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** Karli
+        - **Norwegian:** Karle
+        - **Norwegian:** Kalle
+        - **Norwegian:** Calle
+        - **Old Swedish:** Karle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Swedish:** Kalle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Danish:** Karli
+          - **Danish:** Karli
+          - **Danish:** Karly
+          - **Danish:** Kalle
+          - **Danish:** Calle
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+      - **Old Norse:** Karle — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** Karli
+        - **Norwegian:** Karle
+        - **Norwegian:** Kalle
+        - **Norwegian:** Calle
+        - **Old Swedish:** Karle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Swedish:** Kalle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Danish:** Karli
+          - **Danish:** Karli
+          - **Danish:** Karly
+          - **Danish:** Kalle
+          - **Danish:** Calle
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+      - **Old Norse:** Kalli — _diminutive; reshaped by analogy or addition of morphemes_
+        - **Icelandic:** Karli
+        - **Norwegian:** Karle
+        - **Norwegian:** Kalle
+        - **Norwegian:** Calle
+        - **Old Swedish:** Karle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Swedish:** Kalle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Danish:** Karli
+          - **Danish:** Karli
+          - **Danish:** Karly
+          - **Danish:** Kalle
+          - **Danish:** Calle
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+      - **English:** Karl — _borrowed_
+      - **English:** Carl — _borrowed_
+    - **English:** karl — _learned borrowing; learned_
+    - **Old English:** *carl — _borrowed_
+      - **Middle English:** carl
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** carle
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** carll
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** karl
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** karle
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** caryle — _Catholicon Anglicum_
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+  - **Old Norse:** kall
+    - **Icelandic:** karl
+    - **Faroese:** kallur
+    - **Norwegian:** kall
+      - **Danish:** kar — _borrowed_
+        - **Norwegian Bokmål:** kar
+    - **Norwegian:** kar
+      - **Danish:** kar — _borrowed_
+        - **Norwegian Bokmål:** kar
+    - **Jamtish:** kall
+    - **Jamtish:** karr — _< *karaz_
+    - **Elfdalian:** kall
+    - **Old Swedish:** karilʀ
+      - **Swedish:** karl
+    - **Old Danish:** karl
+      - **Danish:** karl
+      - **Danish:** kal
+      - **Norwegian Bokmål:** kall
+    - **Old Norse:** Karl — _reshaped by analogy or addition of morphemes; given name_
+      - **Icelandic:** Karl
+      - **Icelandic:** Carl
+      - **Faroese:** Karl
+      - **Norwegian:** Karl
+      - **Norwegian:** Carl
+      - **Old Swedish:** Karl
+        - **Swedish:** Karl
+        - **Swedish:** Carl
+      - **Old Danish:** Karl
+        - **Danish:** Karl
+        - **Danish:** Carl
+      - **Old Norse:** Karli — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** Karli
+        - **Norwegian:** Karle
+        - **Norwegian:** Kalle
+        - **Norwegian:** Calle
+        - **Old Swedish:** Karle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Swedish:** Kalle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Danish:** Karli
+          - **Danish:** Karli
+          - **Danish:** Karly
+          - **Danish:** Kalle
+          - **Danish:** Calle
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+      - **Old Norse:** Karle — _reshaped by analogy or addition of morphemes_
+        - **Icelandic:** Karli
+        - **Norwegian:** Karle
+        - **Norwegian:** Kalle
+        - **Norwegian:** Calle
+        - **Old Swedish:** Karle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Swedish:** Kalle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Danish:** Karli
+          - **Danish:** Karli
+          - **Danish:** Karly
+          - **Danish:** Kalle
+          - **Danish:** Calle
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+      - **Old Norse:** Kalli — _diminutive; reshaped by analogy or addition of morphemes_
+        - **Icelandic:** Karli
+        - **Norwegian:** Karle
+        - **Norwegian:** Kalle
+        - **Norwegian:** Calle
+        - **Old Swedish:** Karle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Swedish:** Kalle
+          - **Swedish:** Karli
+          - **Swedish:** Karle
+          - **Swedish:** Carli
+          - **Swedish:** Carlie
+          - **Swedish:** Karly
+          - **Swedish:** Kalle
+          - **Swedish:** Calle
+        - **Old Danish:** Karli
+          - **Danish:** Karli
+          - **Danish:** Karly
+          - **Danish:** Kalle
+          - **Danish:** Calle
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+        - **Swedish:** Kaarle — _borrowed_ — _through a non-Germanic route_
+      - **English:** Karl — _borrowed_
+      - **English:** Carl — _borrowed_
+    - **English:** karl — _learned borrowing; learned_
+    - **Old English:** *carl — _borrowed_
+      - **Middle English:** carl
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** carle
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** carll
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** karl
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** karle
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl
+      - **Middle English:** caryle — _Catholicon Anglicum_
+        - **English:** carl
+        - **Middle Scots:** carle
+          - **Scots:** carl
+          - **Scots:** cairl
+        - **Middle Scots:** cairle
+          - **Scots:** carl
+          - **Scots:** cairl

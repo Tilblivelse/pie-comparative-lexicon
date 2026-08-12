@@ -1,0 +1,490 @@
+# *gōdį̄
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/g%C5%8Dd%C4%AF%CC%84)
+
+## Proto-Germanic
+
+**Reconstruction:** *gōdį̄
+
+### Etymology
+
+From *gōdaz (“good”) + *-į̄.
+
+### Proto-Indo-European ancestry
+
+**PIE form(s) resolved through Proto-Germanic components:** *-i-h₂, *-ih₂, *gʰedʰ-
+
+### Pronunciation
+
+- IPA: `/ˈɣɔː.ðĩː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ goodness
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| īn-stem | class |
+| gōdį̄ | nominative, singular |
+| gōdīniz | nominative, plural |
+| gōdį̄ | singular, vocative |
+| gōdīniz | plural, vocative |
+| gōdīnų | accusative, singular |
+| gōdīnunz | accusative, plural |
+| gōdīniz | genitive, singular |
+| gōdīnǫ̂ | genitive, plural |
+| gōdīni | dative, singular |
+| gōdīmaz | dative, plural |
+| gōdīnē | instrumental, singular |
+| gōdīmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *gōdī
+  - **Old Saxon:** gōdī
+    - **Middle Low German:** gôde
+    - **Middle Low German:** gö̂de
+    - **Middle Low German:** güde
+    - **Middle Low German:** gö̂te
+  - **Old Saxon:** guodī
+    - **Middle Low German:** gôde
+    - **Middle Low German:** gö̂de
+    - **Middle Low German:** güde
+    - **Middle Low German:** gö̂te
+  - **Old Dutch:** guodi
+    - **Middle Dutch:** goede
+  - **Old High German:** guotī
+    - **Middle High German:** giute
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güete
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güöte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤti
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+  - **Old High German:** guatī
+    - **Middle High German:** giute
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güete
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güöte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤti
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+  - **Old High German:** guodī
+    - **Middle High German:** giute
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güete
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güöte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤti
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+  - **Old High German:** guoitī
+    - **Middle High German:** giute
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güete
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güöte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤti
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+  - **Old High German:** kuotī
+    - **Middle High German:** giute
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güete
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güöte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤti
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+  - **Old High German:** chuotī — _hypercorrect_
+    - **Middle High German:** giute
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güete
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** güöte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤte
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+    - **Middle High German:** guͤti
+      - **Alemannic German:** Gieti
+      - **Alemannic German:** Güeti
+      - **Central Franconian:** Jöt
+        - **Hunsrik:** Gied
+      - **Central Franconian:** Jöde
+        - **Hunsrik:** Gied
+      - **Cimbrian:** güute
+      - **German:** Güte
+      - **Rhine Franconian:** 
+        - **Hessian:** Gied
+        - **Hessian:** Giede
+        - **Palatine German:** Giet
+        - **Palatine German:** Giete
+- **Old Norse:** gœði — _f_
+  - **Icelandic:** gæði — _n pl_
+  - **Faroese:** vil-gøði — _reshaped by analogy or addition of morphemes; f_
+- **Gothic:** 𐌲𐍉𐌳𐌴𐌹

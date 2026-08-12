@@ -1,0 +1,866 @@
+# *jekulaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/jekulaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *jekulaz
+
+### Etymology
+
+From *jekô (“piece of ice”) + *-ulaz (“diminutive suffix”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₁yeg-
+
+### Pronunciation
+
+- IPA: `/ˈje.ku.lɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ icicle
+2. _(Germanic, North, masculine, reconstruction)_ glacier
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| jekulaz | nominative, singular |
+| jekulōz | nominative, plural |
+| jekulōs | nominative, plural |
+| jekul | singular, vocative |
+| jekulōz | plural, vocative |
+| jekulōs | plural, vocative |
+| jekulą | accusative, singular |
+| jekulanz | accusative, plural |
+| jekulas | genitive, singular |
+| jekulis | genitive, singular |
+| jekulǫ̂ | genitive, plural |
+| jekulai | dative, singular |
+| jekulamaz | dative, plural |
+| jekulō | instrumental, singular |
+| jekulamiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *jikil
+  - **Old English:** ġiċel
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** ġieċel
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** ġeċilae
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** ġeċile
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġyċel
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġecol
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġeocol
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġicol
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old Frisian:** itsil
+  - **Old Frisian:** itzil
+  - **Old Frisian:** etzil
+  - **Old Saxon:** *jukil
+    - **Middle Low German:** jȫkel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jekel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jȫkele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jukel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** guckel — _m or f_
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+  - **Old Saxon:** *jikil
+    - **Middle Low German:** jȫkel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jekel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jȫkele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jukel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** guckel — _m or f_
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+  - **Old Saxon:** *jukul
+    - **Middle Low German:** jȫkel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jekel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jȫkele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jukel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** guckel — _m or f_
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+- **Proto-West Germanic:** *jekul
+  - **Old English:** ġiċel
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** ġieċel
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** ġeċilae
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** ġeċile
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġyċel
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġecol
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġeocol
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old English:** *ġicol
+    - **Middle English:** ikil
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykel
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ykle
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ychele
+      - **English:** ickle
+      - **English:** eckle
+    - **Middle English:** ikyl — _with influence from Old Norse jǫkull_
+      - **English:** ickle
+      - **English:** eckle
+  - **Old Frisian:** itsil
+  - **Old Frisian:** itzil
+  - **Old Frisian:** etzil
+  - **Old Saxon:** *jukil
+    - **Middle Low German:** jȫkel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jekel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jȫkele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jukel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** guckel — _m or f_
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+  - **Old Saxon:** *jikil
+    - **Middle Low German:** jȫkel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jekel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jȫkele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jukel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** guckel — _m or f_
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+  - **Old Saxon:** *jukul
+    - **Middle Low German:** jȫkel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jekel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jȫkele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jokele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jöckele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jockele
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** jukel
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+    - **Middle Low German:** guckel — _m or f_
+      - **Low German:** Jäkel
+      - **Low German:** Jökel
+      - **North Frisian:** jöckel
+      - **North Frisian:** jögel
+      - **West Frisian:** jûkel — _borrowed_
+      - **West Frisian:** jokel — _Schiermonnikoog; borrowed_
+      - **Dutch:** jeukel — _borrowed_
+- **Old Norse:** jǫkull
+  - **Icelandic:** jökull
+    - **Danish:** jøkel — _borrowed_
+      - **Norwegian Bokmål:** jøkel
+    - **English:** jokul — _borrowed_
+    - **Swedish:** jökel — _borrowed_
+  - **Faroese:** jøkul
+  - **Faroese:** jøkil
+  - **Norwegian Nynorsk:** jøkul
+  - **Norwegian Nynorsk:** jøkle — _dialectal_
+  - **Norwegian Nynorsk:** jukul
+  - **Old Swedish:** īkil
+    - **Swedish:** ickel — _dialectal_
+  - **Old Danish:** ikæl
+    - **Danish:** egel
+  - **Old Danish:** (hus)ikæl
+    - **Danish:** egel

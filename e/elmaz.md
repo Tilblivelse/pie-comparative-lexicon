@@ -1,0 +1,1046 @@
+# *elmaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/elmaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *elmaz
+
+### Etymology
+
+From Proto-Indo-European *h₁él(e)m (“mountain elm”).
+Kroonen (2011) regards the variant *ulmaz as evidence of an ablauting paradigm, most likely *elm ~ *ulmaz from an amphikinetic m-stem *h₁él-m̥ ~ *h₁l̥-m-ós (compare *armaz and *halmaz for potentially the same type). However, this lemma is not included in his 2013 dictionary.
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₁él(e)m, *h₁élem
+
+### Noun
+
+1. _(masculine, reconstruction)_ elm tree
+2. _(masculine, reconstruction)_ wood from an elm tree
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| elmaz | nominative, singular |
+| elmōz | nominative, plural |
+| elmōs | nominative, plural |
+| elm | singular, vocative |
+| elmōz | plural, vocative |
+| elmōs | plural, vocative |
+| elmą | accusative, singular |
+| elmanz | accusative, plural |
+| elmas | genitive, singular |
+| ilmis | genitive, singular |
+| elmǫ̂ | genitive, plural |
+| elmai | dative, singular |
+| elmamaz | dative, plural |
+| elmō | instrumental, singular |
+| elmamiz | instrumental, plural |
+| *almaz | alternative, Northern |
+| *ulmaz | alternative, Western |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *elm
+  - **Old English:** elm
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old English:** *ulm — _m_
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old Saxon:** elm
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Saxon:** alm — _m_
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Dutch:** *olm — _m_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alma — _f_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** elme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** helme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old High German:** elm
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ilme
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** elmo — _m_
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ulm — _inherited; uncertain; m_
+    - **Middle High German:** ulme — _f_
+      - **German:** Ulme — _f_
+    - **Old High German:** ulmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ulmboum
+      - **Middle High German:** ulmpoum
+- **Proto-West Germanic:** *alm
+  - **Old English:** elm
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old English:** *ulm — _m_
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old Saxon:** elm
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Saxon:** alm — _m_
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Dutch:** *olm — _m_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alma — _f_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** elme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** helme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old High German:** elm
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ilme
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** elmo — _m_
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ulm — _inherited; uncertain; m_
+    - **Middle High German:** ulme — _f_
+      - **German:** Ulme — _f_
+    - **Old High German:** ulmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ulmboum
+      - **Middle High German:** ulmpoum
+- **Proto-West Germanic:** *ulm
+  - **Old English:** elm
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old English:** *ulm — _m_
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old Saxon:** elm
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Saxon:** alm — _m_
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Dutch:** *olm — _m_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alma — _f_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** elme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** helme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old High German:** elm
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ilme
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** elmo — _m_
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ulm — _inherited; uncertain; m_
+    - **Middle High German:** ulme — _f_
+      - **German:** Ulme — _f_
+    - **Old High German:** ulmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ulmboum
+      - **Middle High German:** ulmpoum
+- **Proto-West Germanic:** *olm
+  - **Old English:** elm
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old English:** *ulm — _m_
+    - **Middle English:** elm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** alme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** elme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** helm
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Middle English:** ulme
+      - **English:** elm — _dialectal ellum_
+      - **Scots:** elm
+    - **Old English:** ulmtrēow — _reshaped by analogy or addition of morphemes_
+      - **Middle English:** ulm tree
+        - **English:** elmtree
+      - **Middle English:** elme-tre
+        - **English:** elmtree
+      - **Middle English:** elmetree
+        - **English:** elmtree
+  - **Old Saxon:** elm
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Saxon:** alm — _m_
+    - **Middle Low German:** elme
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** elm
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+    - **Middle Low German:** olm — _m_
+      - **Low German:** Elm
+      - **Low German:** Ölm
+      - **Low German:** Ilm
+      - **Low German:** Ülm
+  - **Old Dutch:** *olm — _m_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alma — _f_
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** alme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** elme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old Dutch:** helme-
+    - **Middle Dutch:** olm
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** *alm — _m_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+    - **Middle Dutch:** olme — _f_
+      - **Dutch:** olm
+      - **Dutch:** alm — _m_
+  - **Old High German:** elm
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ilme
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** elmo — _m_
+    - **Middle High German:** ëlm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ëlme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** elmene
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilm
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilme
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+    - **Middle High German:** ilmene — _f_
+      - **Alemannic German:** Elme
+      - **Alemannic German:** Ilme
+      - **Alemannic German:** Olme
+      - **Middle High German:** ilmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ilmpoum — _reshaped by analogy or addition of morphemes_
+  - **Old High German:** ulm — _inherited; uncertain; m_
+    - **Middle High German:** ulme — _f_
+      - **German:** Ulme — _f_
+    - **Old High German:** ulmboum — _reshaped by analogy or addition of morphemes_
+      - **Middle High German:** ulmboum
+      - **Middle High German:** ulmpoum
+- **Old Norse:** almr
+  - **Icelandic:** álmur
+  - **Faroese:** álmur
+  - **Norwegian Nynorsk:** alm — _dialectal_
+  - **Norwegian Nynorsk:** æłm
+  - **Norwegian Nynorsk:** ålm’e
+  - **Norwegian Nynorsk:** åm’e
+  - **Norwegian Bokmål:** alm
+  - **Swedish:** alm
+  - **Old Norse:** elmi — _reshaped by analogy or addition of morphemes_
+    - **Danish:** elm
+    - **Swedish:** älme — _dialectal_

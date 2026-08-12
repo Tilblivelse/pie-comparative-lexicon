@@ -1,0 +1,1836 @@
+# *bagmaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/bagmaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *bagmaz
+
+### Etymology
+
+Traditionally derived from an earlier *bawwmaz (with assimilation of *-ww- > *-ggw- via Verschärfung), from Proto-Indo-European *bʰuH- (“to grow, swell, be”), and thus of similar formation to Ancient Greek φῠτόν (phŭtón, “plant, tree”). However, Kroonen notes that this derivation is flawed, because the original meaning of the root was most likely "beam" and not "tree", rendering a derivation from *bʰuH- semantically strange, and prefers to derive the root from Proto-Indo-European *bʰh₂ǵʰ-mo-s (“branch”), which is related to Proto-Indo-European *bʰeh₂ǵʰús (“arm”) (whence Proto-Germanic *bōguz (“upper arm, shoulder”)).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *bʰeh₂ǵʰús, *bʰh₂ǵʰ-mo-s, *bʰuH-
+
+### Pronunciation
+
+- IPA: `/ˈbɑɣ.mɑz/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ tree
+2. _(masculine, reconstruction)_ beam, balk
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| bagmaz | nominative, singular |
+| bagmōz | nominative, plural |
+| bagmōs | nominative, plural |
+| bagm | singular, vocative |
+| bagmōz | plural, vocative |
+| bagmōs | plural, vocative |
+| bagmą | accusative, singular |
+| bagmanz | accusative, plural |
+| bagmas | genitive, singular |
+| bagmis | genitive, singular |
+| bagmǫ̂ | genitive, plural |
+| bagmai | dative, singular |
+| bagmamaz | dative, plural |
+| bagmō | instrumental, singular |
+| bagmamiz | instrumental, plural |
+| *baumaz | alternative, Germanic, West |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *baum
+  - **Old English:** bēam
+    - **Middle English:** beem
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** bem
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beme
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beume
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beame — _Northern_
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beom — _Early Middle English_
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+  - **Old English:** bēom
+    - **Middle English:** beem
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** bem
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beme
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beume
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beame — _Northern_
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beom — _Early Middle English_
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+  - **Old English:** bōm
+    - **Middle English:** beem
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** bem
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beme
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beume
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beame — _Northern_
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beam
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+    - **Middle English:** beom — _Early Middle English_
+      - **English:** beam
+        - **German:** beamen — _borrowed_
+        - **Dutch:** beamen — _borrowed_
+      - **Scots:** beam
+      - **Yola:** baam
+  - **Old Frisian:** bām
+    - **North Frisian:** buum — _Föhr-Amrum; Mooring_
+    - **North Frisian:** Booam — _Heligoland_
+    - **North Frisian:** Boom — _Sylt_
+    - **Saterland Frisian:** Boom
+    - **West Frisian:** beam
+    - **Jutish:** boam — _borrowed_
+  - **Old Frisian:** baem — _Late Old Frisian_
+    - **North Frisian:** buum — _Föhr-Amrum; Mooring_
+    - **North Frisian:** Booam — _Heligoland_
+    - **North Frisian:** Boom — _Sylt_
+    - **Saterland Frisian:** Boom
+    - **West Frisian:** beam
+    - **Jutish:** boam — _borrowed_
+  - **Old Saxon:** bōm
+    - **Middle Low German:** bôm
+      - **Low German:** Boom
+        - **German Low German:** Boom
+      - **Plautdietsch:** Boom
+      - **Danish:** bom — _borrowed_
+      - **Gutnish:** bom — _borrowed_
+      - **Norwegian Bokmål:** bom — _borrowed_
+      - **Norwegian Nynorsk:** bom — _borrowed_
+      - **Swedish:** bom — _borrowed_
+  - **Old Dutch:** bōm
+    - **Middle Dutch:** bôom
+      - **Dutch:** boom
+        - **Afrikaans:** boom
+        - **English:** boom — _borrowed_
+      - **Limburgish:** boum
+  - **Old Dutch:** boum
+    - **Middle Dutch:** bôom
+      - **Dutch:** boom
+        - **Afrikaans:** boom
+        - **English:** boom — _borrowed_
+      - **Limburgish:** boum
+  - **Old High German:** boum
+    - **Middle High German:** boum
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** boun
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bōm
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bōn
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bām
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** poum
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** pām
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+  - **Old High German:** poum
+    - **Middle High German:** boum
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** boun
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bōm
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bōn
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bām
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** poum
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** pām
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+  - **Old High German:** paum
+    - **Middle High German:** boum
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** boun
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bōm
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bōn
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** bām
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** poum
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+    - **Middle High German:** pām
+      - **Alemannic German:** Baaum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Bum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baim
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Baum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Alemannic German:** Boum
+        - **Swabian:** Boum
+        - **Swabian:** Boom
+        - **Walser:** böim
+        - **Walser:** baum
+        - **Walser:** bem
+      - **Bavarian:** Bam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** paam
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Bavarian:** pame
+        - **Cimbrian:** póom
+        - **Cimbrian:** puam
+        - **Cimbrian:** pome
+        - **Mòcheno:** pa'm
+      - **Central Franconian:** Boom
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baum
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Boum — _Kölsch; Westerwald_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **Central Franconian:** Baam — _southern Moselle Franconian_
+        - **Hunsrik:** Baam
+        - **Luxembourgish:** Bam
+        - **Transylvanian Saxon:** bum
+      - **East Central German:** 
+        - **Erzgebirgisch:** Baam
+        - **Upper Saxon German:** Boom
+        - **Upper Saxon German:** Baam
+        - **Vilamovian:** baojm
+        - **Vilamovian:** boum
+      - **East Franconian:** Baam
+      - **East Franconian:** Bääm
+      - **German:** Baum
+      - **Rhine Franconian:** Baam
+        - **Pennsylvania German:** Baam
+        - **Palatine German:** Baam
+      - **Yiddish:** בוים
+- **Old Norse:** baðmr
+  - **Icelandic:** baðmur
+  - **Old Swedish:** bagn
+- **Gothic:** 𐌱𐌰𐌲𐌼𐍃

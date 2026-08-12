@@ -1,0 +1,988 @@
+# *langiþō
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/langi%C3%BE%C5%8D)
+
+## Proto-Germanic
+
+**Reconstruction:** *langiþō
+
+### Etymology
+
+From *langaz + *-iþō.
+
+### Proto-Indo-European ancestry
+
+**PIE form(s) resolved through Proto-Germanic components:** *dlongʰos
+
+### Pronunciation
+
+- IPA: `/ˈlɑŋ.ɡi.θɔː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ longness, length
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ō-stem | class |
+| langiþō | nominative, singular |
+| langiþôz | nominative, plural |
+| langiþō | singular, vocative |
+| langiþôz | plural, vocative |
+| langiþǭ | accusative, singular |
+| langiþōz | accusative, plural |
+| langiþōz | genitive, singular |
+| langiþǫ̂ | genitive, plural |
+| langiþōi | dative, singular |
+| langiþōmaz | dative, plural |
+| langiþō | instrumental, singular |
+| langiþōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *langiþu
+  - **Old English:** lengþu
+    - **Middle English:** lengthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** length
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lingþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lyngþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengðe — _Early Middle English_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinþ — _Ireland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkethe — _Northwest Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leyngeth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynþe — _Southwestern; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenþe — _Northern; especially East Anglia; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkith — _especially Northern_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengh
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghe — _Yorkshire; especially West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+  - **Old English:** lengþ
+    - **Middle English:** lengthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** length
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lingþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lyngþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengðe — _Early Middle English_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinþ — _Ireland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkethe — _Northwest Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leyngeth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynþe — _Southwestern; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenþe — _Northern; especially East Anglia; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkith — _especially Northern_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengh
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghe — _Yorkshire; especially West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+  - **Old English:** lengoþu
+    - **Middle English:** lengthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** length
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lingþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lyngþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengðe — _Early Middle English_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinþ — _Ireland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkethe — _Northwest Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leyngeth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynþe — _Southwestern; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenþe — _Northern; especially East Anglia; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkith — _especially Northern_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengh
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghe — _Yorkshire; especially West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+  - **Old English:** lengþo
+    - **Middle English:** lengthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lencþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** length
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lingþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lyngþe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengðe — _Early Middle English_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinþ — _Ireland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenght
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝte
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkethe — _Northwest Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leinthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leyngeth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** leynþe — _Southwestern; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenþe — _Northern; especially East Anglia; West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghthe
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenȝth
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenkith — _especially Northern_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lengh
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+    - **Middle English:** lenghe — _Yorkshire; especially West Midland_
+      - **English:** length
+      - **Middle Scots:** lenth
+        - **Scots:** lenth
+        - **Scots:** lainth
+      - **Middle Scots:** lenthe
+        - **Scots:** lenth
+        - **Scots:** lainth
+  - **Old Frisian:** lengithe
+    - **Saterland Frisian:** Loangte
+    - **West Frisian:** lingte
+    - **West Frisian:** langte
+  - **Old Frisian:** lengethe
+    - **Saterland Frisian:** Loangte
+    - **West Frisian:** lingte
+    - **West Frisian:** langte
+  - **Old Saxon:** *lengitha
+    - **Middle Low German:** lengede
+      - **German Low German:** Längde
+      - **German Low German:** Längd
+      - **German Low German:** Längte
+      - **German Low German:** Längt
+    - **Middle Low German:** lengde
+      - **German Low German:** Längde
+      - **German Low German:** Längd
+      - **German Low German:** Längte
+      - **German Low German:** Längt
+  - **Old Dutch:** *lengitha
+    - **Middle Dutch:** lengede
+      - **Dutch:** lengte
+    - **Middle Dutch:** lingede
+      - **Dutch:** lengte
+    - **Middle Dutch:** lencde
+      - **Dutch:** lengte
+  - **Old High German:** *lengida
+    - **Middle High German:** lengede
+      - **German:** Längde
+      - **Luxembourgish:** Längt
+    - **Old High German:** gilengida — _reshaped by analogy or addition of morphemes_
+- **Old Norse:** lengd
+  - **Icelandic:** lengd
+  - **Faroese:** longd
+  - **Norwegian Nynorsk:** lengd
+  - **Old Swedish:** længd
+    - **Swedish:** längd
+  - **Danish:** længde
+    - **Norwegian Bokmål:** lengde
+      - **Norwegian Nynorsk:** lengde — _borrowed_

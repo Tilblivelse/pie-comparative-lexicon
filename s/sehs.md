@@ -1,0 +1,290 @@
+# *sehs
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/sehs)
+
+## Proto-Germanic
+
+**Reconstruction:** *sehs
+
+### Etymology
+
+From earlier *swehs, from Proto-Indo-European *swéḱs (“six”) with a loss of *w (as also seen in Latin sex and Sanskrit षष् (ṣáṣ) (< Proto-Indo-Iranian *šwáćš)).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *swéḱs
+
+### Pronunciation
+
+- IPA: `/sexs/`
+
+### Numeral
+
+1. _(reconstruction)_ six
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *sehs
+  - **Old English:** six
+    - **Middle English:** six
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cix
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** sex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** zix — _Kent_
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+  - **Old English:** sex — _Anglian_
+    - **Middle English:** six
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cix
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** sex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** zix — _Kent_
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+  - **Old English:** siex
+    - **Middle English:** six
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cix
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** sex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** zix — _Kent_
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+  - **Old English:** syx
+    - **Middle English:** six
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cix
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** sex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** zix — _Kent_
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+  - **Old English:** seox
+    - **Middle English:** six
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cix
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** cex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** sex
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+    - **Middle English:** zix — _Kent_
+      - **English:** six
+      - **Scots:** sax
+      - **Scots:** sex
+      - **Scots:** six
+      - **Yola:** zeese
+  - **Old Frisian:** sex
+    - **North Frisian:** 
+    - **Saterland Frisian:** säks
+    - **West Frisian:** seis
+  - **Old Saxon:** sehs
+    - **Middle Low German:** ses
+      - **Low German:** sess
+        - **Dutch Low Saxon:** zes
+        - **German Low German:** sess
+        - **German Low German:** seß
+        - **German Low German:** söß
+        - **German Low German:** söss
+        - **German Low German:** soss
+        - **German Low German:** süss
+        - **German Low German:** zes — _Dutch Low Saxon_
+      - **Low German:** söß
+        - **Dutch Low Saxon:** zes
+        - **German Low German:** sess
+        - **German Low German:** seß
+        - **German Low German:** söß
+        - **German Low German:** söss
+        - **German Low German:** soss
+        - **German Low German:** süss
+        - **German Low German:** zes — _Dutch Low Saxon_
+      - **Plautdietsch:** sass
+    - **Middle Low German:** sēs
+      - **Low German:** sess
+        - **Dutch Low Saxon:** zes
+        - **German Low German:** sess
+        - **German Low German:** seß
+        - **German Low German:** söß
+        - **German Low German:** söss
+        - **German Low German:** soss
+        - **German Low German:** süss
+        - **German Low German:** zes — _Dutch Low Saxon_
+      - **Low German:** söß
+        - **Dutch Low Saxon:** zes
+        - **German Low German:** sess
+        - **German Low German:** seß
+        - **German Low German:** söß
+        - **German Low German:** söss
+        - **German Low German:** soss
+        - **German Low German:** süss
+        - **German Low German:** zes — _Dutch Low Saxon_
+      - **Plautdietsch:** sass
+  - **Old Dutch:** ses
+    - **Middle Dutch:** ses
+      - **Dutch:** zes
+        - **Afrikaans:** ses
+      - **Limburgish:** zès
+      - **West Flemish:** zèsse
+      - **Zealandic:** zes
+  - **Old High German:** sehs
+    - **Middle High German:** sehs
+      - **Alemannic German:** sächs
+      - **Alemannic German:** saks — _Uri_
+      - **Alemannic German:** säks — _southern Bern; Graubünden_
+      - **Alemannic German:** säksch — _Valais_
+      - **Alemannic German:** säks
+      - **Alemannic German:** säksch
+      - **Bavarian:** 
+      - **Central Franconian:** sechs
+      - **Central Franconian:** sähs — _Ripuarian_
+      - **East Central German:** 
+      - **German:** sechs
+      - **Rhine Franconian:** sechs
+      - **Yiddish:** זעקס
+- **Old Norse:** sex
+  - **Icelandic:** sex
+  - **Faroese:** seks
+  - **Norn:** siks
+  - **Norwegian Bokmål:** seks
+  - **Norwegian Nynorsk:** seks
+  - **Old Swedish:** sæx
+    - **Swedish:** sex
+  - **Old Swedish:** siæx
+    - **Swedish:** sex
+  - **Old Danish:** sæx
+    - **Danish:** seks
+  - **Old Danish:** ᛋᛁᛆᚼᛋ
+    - **Danish:** seks
+  - **Old Danish:** siahs
+    - **Danish:** seks
+  - **Elfdalian:** sjäks
+  - **Old Gutnish:** siex
+    - **Gutnish:** siex
+    - **Gutnish:** sex
+- **Old Norse:** sjax — _broken form_
+  - **Icelandic:** sex
+  - **Faroese:** seks
+  - **Norn:** siks
+  - **Norwegian Bokmål:** seks
+  - **Norwegian Nynorsk:** seks
+  - **Old Swedish:** sæx
+    - **Swedish:** sex
+  - **Old Swedish:** siæx
+    - **Swedish:** sex
+  - **Old Danish:** sæx
+    - **Danish:** seks
+  - **Old Danish:** ᛋᛁᛆᚼᛋ
+    - **Danish:** seks
+  - **Old Danish:** siahs
+    - **Danish:** seks
+  - **Elfdalian:** sjäks
+  - **Old Gutnish:** siex
+    - **Gutnish:** siex
+    - **Gutnish:** sex
+- **Gothic:** 𐍃𐌰𐌹𐌷𐍃

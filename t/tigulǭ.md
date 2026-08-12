@@ -1,0 +1,496 @@
+# *tigulǭ
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/tigul%C7%AD)
+
+## Proto-Germanic
+
+**Reconstruction:** *tigulǭ
+
+### Etymology
+
+Borrowed from Latin tēgula (“tile”).
+
+### Proto-Indo-European ancestry
+
+No Proto-Indo-European ancestor is listed.
+
+### Pronunciation
+
+- IPA: `/ˈti.ɣu.lɔ̃ː/`
+
+### Noun
+
+1. _(feminine, reconstruction)_ tile
+2. _(feminine, reconstruction)_ brick
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| ōn-stem | class |
+| tigulǭ | nominative, singular |
+| tigulōniz | nominative, plural |
+| tigulǭ | singular, vocative |
+| tigulōniz | plural, vocative |
+| tigulōnų | accusative, singular |
+| tigulōnunz | accusative, plural |
+| tigulōniz | genitive, singular |
+| tigulōnǫ̂ | genitive, plural |
+| tigulōni | dative, singular |
+| tigulōmaz | dative, plural |
+| tigulōnē | instrumental, singular |
+| tigulōmiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *tigulā
+  - **Old English:** tigele
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tigule
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tigle
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tiegle
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tighele
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tygele
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old Frisian:** *tigel
+    - **Saterland Frisian:** Tichel
+    - **West Frisian:** tichel
+    - **West Frisian:** tegel
+    - **West Frisian:** teil — _possibly from Dutch_
+  - **Old Frisian:** *tichel
+    - **Saterland Frisian:** Tichel
+    - **West Frisian:** tichel
+    - **West Frisian:** tegel
+    - **West Frisian:** teil — _possibly from Dutch_
+  - **Old Saxon:** tiegla
+    - **Middle Low German:** tēgel
+      - **German Low German:** Tichel
+      - **Plautdietsch:** Tieejel
+    - **Middle Low German:** tichel
+      - **German Low German:** Tichel
+      - **Plautdietsch:** Tieejel
+  - **Old Dutch:** tegela
+    - **Middle Dutch:** tigele
+      - **Dutch:** tegel
+        - **Afrikaans:** teël
+      - **Dutch:** tichel
+        - **Afrikaans:** teël
+    - **Middle Dutch:** tegel
+      - **Dutch:** tegel
+        - **Afrikaans:** teël
+      - **Dutch:** tichel
+        - **Afrikaans:** teël
+    - **Middle Dutch:** tichel
+      - **Dutch:** tegel
+        - **Afrikaans:** teël
+      - **Dutch:** tichel
+        - **Afrikaans:** teël
+  - **Old High German:** ziagala
+    - **Middle High German:** ziegel
+      - **German:** Ziegel
+      - **Hunsrik:** Zieghel
+      - **Luxembourgish:** Zill
+  - **Old High German:** ziagal
+    - **Middle High German:** ziegel
+      - **German:** Ziegel
+      - **Hunsrik:** Zieghel
+      - **Luxembourgish:** Zill
+- **Proto-West Germanic:** *tēgulā
+  - **Old English:** tigele
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tigule
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tigle
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tiegle
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tighele
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old English:** tygele
+    - **Middle English:** tigel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tighele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teghell
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** teȝele
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tiȝel
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tyle
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+    - **Middle English:** tile
+      - **English:** tile
+      - **Scots:** tyl
+      - **Scots:** tild
+  - **Old Frisian:** *tigel
+    - **Saterland Frisian:** Tichel
+    - **West Frisian:** tichel
+    - **West Frisian:** tegel
+    - **West Frisian:** teil — _possibly from Dutch_
+  - **Old Frisian:** *tichel
+    - **Saterland Frisian:** Tichel
+    - **West Frisian:** tichel
+    - **West Frisian:** tegel
+    - **West Frisian:** teil — _possibly from Dutch_
+  - **Old Saxon:** tiegla
+    - **Middle Low German:** tēgel
+      - **German Low German:** Tichel
+      - **Plautdietsch:** Tieejel
+    - **Middle Low German:** tichel
+      - **German Low German:** Tichel
+      - **Plautdietsch:** Tieejel
+  - **Old Dutch:** tegela
+    - **Middle Dutch:** tigele
+      - **Dutch:** tegel
+        - **Afrikaans:** teël
+      - **Dutch:** tichel
+        - **Afrikaans:** teël
+    - **Middle Dutch:** tegel
+      - **Dutch:** tegel
+        - **Afrikaans:** teël
+      - **Dutch:** tichel
+        - **Afrikaans:** teël
+    - **Middle Dutch:** tichel
+      - **Dutch:** tegel
+        - **Afrikaans:** teël
+      - **Dutch:** tichel
+        - **Afrikaans:** teël
+  - **Old High German:** ziagala
+    - **Middle High German:** ziegel
+      - **German:** Ziegel
+      - **Hunsrik:** Zieghel
+      - **Luxembourgish:** Zill
+  - **Old High German:** ziagal
+    - **Middle High German:** ziegel
+      - **German:** Ziegel
+      - **Hunsrik:** Zieghel
+      - **Luxembourgish:** Zill
+- **Old Norse:** tigl
+  - **Icelandic:** tigl
+  - **Faroese:** tigul
+  - **Norwegian Nynorsk:** tigl
+  - **Norwegian Nynorsk:** tegl — _dialectal_
+  - **Norwegian Nynorsk:** tægl
+  - **Old Swedish:** tighl
+    - **Swedish:** tegel
+  - **Danish:** tegl
+    - **Norwegian Bokmål:** tegl
+  - **Gutnish:** tigel
+  - **Gutnish:** tigul

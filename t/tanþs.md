@@ -1,0 +1,494 @@
+# *tanþs
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/tan%C3%BEs)
+
+## Proto-Germanic
+
+**Reconstruction:** *tanþs
+
+### Etymology
+
+From Proto-Indo-European *h₃dónts (“tooth”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₃dónts
+
+### Pronunciation
+
+- IPA: `/tɑnθs/`
+
+### Noun
+
+1. _(masculine, reconstruction)_ tooth
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| tanþs | nominative, singular |
+| tanþiz | nominative, plural |
+| tanþ | singular, vocative |
+| tanþiz | plural, vocative |
+| tanþų | accusative, singular |
+| tanþunz | accusative, plural |
+| tundiz | genitive, singular |
+| tundǫ̂ | genitive, plural |
+| tundi | dative, singular |
+| tundumaz | dative, plural |
+| tundē | instrumental, singular |
+| tundumiz | instrumental, plural |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *tanþ
+  - **Old English:** tōþ
+    - **Middle English:** toth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toeth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tothe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toð — _Early Middle English_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe — _Northern_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+  - **Old English:** tōð
+    - **Middle English:** toth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toeth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tothe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toð — _Early Middle English_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe — _Northern_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+  - **Old Frisian:** tōth
+    - **North Frisian:** toth
+  - **Old Saxon:** tand
+    - **Middle Low German:** tant
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+    - **Middle Low German:** tan
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+  - **Old Saxon:** tōth
+    - **Middle Low German:** tant
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+    - **Middle Low German:** tan
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+  - **Old Dutch:** tant
+    - **Middle Dutch:** tant
+      - **Dutch:** tand
+      - **Limburgish:** tandj
+  - **Old Dutch:** tand
+    - **Middle Dutch:** tant
+      - **Dutch:** tand
+      - **Limburgish:** tandj
+  - **Old High German:** zand
+    - **Middle High German:** zan
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+    - **Middle High German:** zant
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+  - **Old High German:** zan
+    - **Middle High German:** zan
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+    - **Middle High German:** zant
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+  - **Old High German:** zant
+    - **Middle High German:** zan
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+    - **Middle High German:** zant
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+- **Proto-West Germanic:** *tą̄þ — _North Sea Germanic_
+  - **Old English:** tōþ
+    - **Middle English:** toth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toeth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tothe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toð — _Early Middle English_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe — _Northern_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+  - **Old English:** tōð
+    - **Middle English:** toth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toeth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tooþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tothe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþ
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toþe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuth
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** toð — _Early Middle English_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+    - **Middle English:** tuthe — _Northern_
+      - **English:** tooth
+      - **Scots:** tuth
+      - **Scots:** tuith
+  - **Old Frisian:** tōth
+    - **North Frisian:** toth
+  - **Old Saxon:** tand
+    - **Middle Low German:** tant
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+    - **Middle Low German:** tan
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+  - **Old Saxon:** tōth
+    - **Middle Low German:** tant
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+    - **Middle Low German:** tan
+      - **Low German:** Tähn
+      - **Plautdietsch:** Tän
+      - **North Frisian:** 
+      - **Saterland Frisian:** Tiende — _borrowed_
+  - **Old Dutch:** tant
+    - **Middle Dutch:** tant
+      - **Dutch:** tand
+      - **Limburgish:** tandj
+  - **Old Dutch:** tand
+    - **Middle Dutch:** tant
+      - **Dutch:** tand
+      - **Limburgish:** tandj
+  - **Old High German:** zand
+    - **Middle High German:** zan
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+    - **Middle High German:** zant
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+  - **Old High German:** zan
+    - **Middle High German:** zan
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+    - **Middle High German:** zant
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+  - **Old High German:** zant
+    - **Middle High German:** zan
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+    - **Middle High German:** zant
+      - **Alemannic German:** Zah
+      - **Bavarian:** Zåhn
+      - **Bavarian:** Zant
+      - **Central Franconian:** Zank
+      - **Central Franconian:** Zand
+      - **German:** Zahn
+        - **Central Franconian:** Zahn — _borrowed_
+      - **Hunsrik:** Zaan
+      - **Luxembourgish:** Zant
+      - **Pennsylvania German:** Zaah
+      - **Swabian:** Zah
+      - **Swabian:** Zai
+      - **Vilamovian:** cōn
+      - **Yiddish:** צאָן
+- **Proto-Norse:** *ᛏᚨᚾᚦᚢᛉ — _f_
+  - **Old Norse:** tǫnn — _f_
+    - **Icelandic:** tönn — _f_
+    - **Faroese:** tonn — _f_
+      - **Norn:** tann
+      - **Norn:** tannj
+    - **Norwegian Bokmål:** tann — _m or f_
+    - **Norwegian Nynorsk:** tann
+    - **Norwegian Nynorsk:** tonn — _f_
+    - **Old Swedish:** tan — _f_
+      - **Swedish:** tand — _c_
+    - **Old Danish:** tan
+      - **Danish:** tand — _c_
+    - **Gutnish:** tann
+    - **Gutnish:** tand
+- **Gothic:** 𐍄𐌿𐌽𐌸𐌿𐍃 — _reshaped by analogy or addition of morphemes; converted to u-stem_

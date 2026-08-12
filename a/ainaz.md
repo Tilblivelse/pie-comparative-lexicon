@@ -1,0 +1,715 @@
+# *ainaz
+
+[Alphabetical index](../_Index.md) · [View on Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ainaz)
+
+## Proto-Germanic
+
+**Reconstruction:** *ainaz
+
+### Etymology
+
+From Proto-Indo-European *h₁óynos (“one”).
+
+### Proto-Indo-European ancestry
+
+**Directly mentioned PIE form(s):** *h₁óynos
+
+### Pronunciation
+
+- IPA: `/ˈɑi̯.nɑz/`
+
+### Numeral
+
+1. _(reconstruction, singular)_ one
+2. _(in-plural, reconstruction)_ some
+
+<details>
+<summary>Inflection and forms</summary>
+
+| Form | Grammatical information |
+|---|---|
+| a-stem | class |
+| ainaz | masculine, nominative, singular, strong |
+| ainō | feminine, nominative, singular, strong |
+| ainą | neuter, nominative, singular, strong |
+| -at | neuter, nominative, singular, strong |
+| -atō | neuter, nominative, singular, strong |
+| ainai | masculine, nominative, plural, strong |
+| ainôz | feminine, nominative, plural, strong |
+| ainō | neuter, nominative, plural, strong |
+| ainanǭ | accusative, masculine, singular, strong |
+| ainǭ | accusative, feminine, singular, strong |
+| ainą | accusative, neuter, singular, strong |
+| -at | accusative, neuter, singular, strong |
+| -atō | accusative, neuter, singular, strong |
+| ainanz | accusative, masculine, plural, strong |
+| ainōz | accusative, feminine, plural, strong |
+| ainō | accusative, neuter, plural, strong |
+| ainas | genitive, masculine, singular, strong |
+| ainis | genitive, masculine, singular, strong |
+| ainaizōz | feminine, genitive, singular, strong |
+| ainas | genitive, neuter, singular, strong |
+| ainis | genitive, neuter, singular, strong |
+| ainaizǫ̂ | genitive, masculine, plural, strong |
+| ainaizǫ̂ | feminine, genitive, plural, strong |
+| ainaizǫ̂ | genitive, neuter, plural, strong |
+| ainammai | dative, masculine, singular, strong |
+| ainaizōi | dative, feminine, singular, strong |
+| ainammai | dative, neuter, singular, strong |
+| ainaimaz | dative, masculine, plural, strong |
+| ainaimaz | dative, feminine, plural, strong |
+| ainaimaz | dative, neuter, plural, strong |
+| ainanō | instrumental, masculine, singular, strong |
+| ainaizō | feminine, instrumental, singular, strong |
+| ainanō | instrumental, neuter, singular, strong |
+| ainaimiz | instrumental, masculine, plural, strong |
+| ainaimiz | feminine, instrumental, plural, strong |
+| ainaimiz | instrumental, neuter, plural, strong |
+
+</details>
+
+### Germanic descendants
+
+- **Proto-West Germanic:** *ain
+  - **Old English:** ān
+    - **Middle English:** on
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** oon
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** one
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** oen
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** oune
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** hon
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** none
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** an
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** anne
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** onne
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** an
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** ane
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** auen
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** aune — _Northern_
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** auen
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** aune — _north Midland_
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** enne
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** onen
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** onenen — _Kent_
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** en
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** an
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** ane — _Early Middle English_
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** won
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** von
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** wone — _Late Middle English_
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** oon
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** one
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** an — _Northern_
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** an
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+    - **Middle English:** ane — _Early Middle English_
+      - **English:** one
+      - **English:** an
+      - **English:** a
+      - **English:** yan
+      - **English:** un
+      - **English:** on
+      - **English:** wan
+      - **Geordie:** yen
+      - **Scots:** ane
+      - **Scots:** wan
+      - **Scots:** yin
+      - **Scots:** ae
+      - **Yola:** oan
+      - **Yola:** own
+      - **Yola:** ane
+  - **Old Frisian:** ēn
+    - **North Frisian:** een — _Föhr; m_
+    - **North Frisian:** ään — _m_
+    - **North Frisian:** ian — _Amrum; f or n_
+    - **North Frisian:** åån
+    - **North Frisian:** aan — _m_
+    - **North Frisian:** iin — _Goesharde; f or n_
+    - **North Frisian:** aon — _m_
+    - **North Frisian:** ian — _Halligen; f or n_
+    - **North Frisian:** iaan
+    - **North Frisian:** jaan — _Heligoland_
+    - **North Frisian:** ån — _m_
+    - **North Frisian:** iinj — _Mooring; f or n_
+    - **North Frisian:** jen — _Sylt_
+    - **North Frisian:** oan — _m_
+    - **North Frisian:** iin — _Wiedingharde; f or n_
+    - **Saterland Frisian:** aan — _m_
+    - **Saterland Frisian:** een — _f or n_
+    - **West Frisian:** ien
+  - **Old Frisian:** ān
+    - **North Frisian:** een — _Föhr; m_
+    - **North Frisian:** ään — _m_
+    - **North Frisian:** ian — _Amrum; f or n_
+    - **North Frisian:** åån
+    - **North Frisian:** aan — _m_
+    - **North Frisian:** iin — _Goesharde; f or n_
+    - **North Frisian:** aon — _m_
+    - **North Frisian:** ian — _Halligen; f or n_
+    - **North Frisian:** iaan
+    - **North Frisian:** jaan — _Heligoland_
+    - **North Frisian:** ån — _m_
+    - **North Frisian:** iinj — _Mooring; f or n_
+    - **North Frisian:** jen — _Sylt_
+    - **North Frisian:** oan — _m_
+    - **North Frisian:** iin — _Wiedingharde; f or n_
+    - **Saterland Frisian:** aan — _m_
+    - **Saterland Frisian:** een — _f or n_
+    - **West Frisian:** ien
+  - **Old Frisian:** een
+    - **North Frisian:** een — _Föhr; m_
+    - **North Frisian:** ään — _m_
+    - **North Frisian:** ian — _Amrum; f or n_
+    - **North Frisian:** åån
+    - **North Frisian:** aan — _m_
+    - **North Frisian:** iin — _Goesharde; f or n_
+    - **North Frisian:** aon — _m_
+    - **North Frisian:** ian — _Halligen; f or n_
+    - **North Frisian:** iaan
+    - **North Frisian:** jaan — _Heligoland_
+    - **North Frisian:** ån — _m_
+    - **North Frisian:** iinj — _Mooring; f or n_
+    - **North Frisian:** jen — _Sylt_
+    - **North Frisian:** oan — _m_
+    - **North Frisian:** iin — _Wiedingharde; f or n_
+    - **Saterland Frisian:** aan — _m_
+    - **Saterland Frisian:** een — _f or n_
+    - **West Frisian:** ien
+  - **Old Saxon:** ēn
+    - **Middle Low German:** ên
+      - **Low German:** ein
+        - **Low German:** een
+        - **Westphalian:** 
+      - **Low German:** en
+        - **Low German:** een
+        - **Westphalian:** 
+      - **Plautdietsch:** een
+    - **Middle Low German:** ein
+      - **Low German:** ein
+        - **Low German:** een
+        - **Westphalian:** 
+      - **Low German:** en
+        - **Low German:** een
+        - **Westphalian:** 
+      - **Plautdietsch:** een
+  - **Old Dutch:** ēn
+    - **Middle Dutch:** êen
+      - **Dutch:** een
+        - **Afrikaans:** een
+        - **Afrikaans:** 'n
+      - **West Flemish:** ien
+      - **West Flemish:** jin
+    - **Limburgish:** ein
+  - **Old High German:** ein
+    - **Middle High German:** ein
+      - **Alemannic German:** ain
+      - **Alemannic German:** a
+      - **Alemannic German:** an
+      - **Alemannic German:** en
+      - **Bavarian:** a
+      - **Central Franconian:** een
+        - **Hunsrik:** een
+        - **Luxembourgish:** een
+        - **Luxembourgish:** en
+      - **Central Franconian:** ein — _Kölsch; Westerwald_
+        - **Hunsrik:** een
+        - **Luxembourgish:** een
+        - **Luxembourgish:** en
+      - **Central Franconian:** ään — _eastern Moselle Franconian_
+        - **Hunsrik:** een
+        - **Luxembourgish:** een
+        - **Luxembourgish:** en
+      - **East Central German:** ä
+      - **East Central German:** e
+      - **German:** ein
+      - **Rhine Franconian:** e — _Hessian_
+      - **Vilamovian:** an
+      - **Yiddish:** איין
+      - **Yiddish:** אַ
+      - **Yiddish:** אַן
+  - **Old High German:** ain
+    - **Middle High German:** ein
+      - **Alemannic German:** ain
+      - **Alemannic German:** a
+      - **Alemannic German:** an
+      - **Alemannic German:** en
+      - **Bavarian:** a
+      - **Central Franconian:** een
+        - **Hunsrik:** een
+        - **Luxembourgish:** een
+        - **Luxembourgish:** en
+      - **Central Franconian:** ein — _Kölsch; Westerwald_
+        - **Hunsrik:** een
+        - **Luxembourgish:** een
+        - **Luxembourgish:** en
+      - **Central Franconian:** ään — _eastern Moselle Franconian_
+        - **Hunsrik:** een
+        - **Luxembourgish:** een
+        - **Luxembourgish:** en
+      - **East Central German:** ä
+      - **East Central German:** e
+      - **German:** ein
+      - **Rhine Franconian:** e — _Hessian_
+      - **Vilamovian:** an
+      - **Yiddish:** איין
+      - **Yiddish:** אַ
+      - **Yiddish:** אַן
+- **Proto-Norse:** *ᚨᛁᚾᚨᛉ
+  - **Proto-Norse:** *ᚨᛁᚾᚨᛚᚨᛁᛒᚨᛉ — _reshaped by analogy or addition of morphemes_
+  - **Old Norse:** einn
+    - **Icelandic:** einn
+    - **Faroese:** ein
+    - **Norn:** en
+    - **Norwegian Nynorsk:** ein
+    - **Dalecarlian:** 
+      - **Elfdalian:** ᛁᛆᚿ
+    - **Old Swedish:** ēn
+      - **Swedish:** en
+    - **Old Danish:** en
+      - **Danish:** en
+        - **Norwegian Bokmål:** en
+      - **Scanian:** æn
+      - **Scanian:** én
+    - **Old Danish:** æn
+      - **Danish:** en
+        - **Norwegian Bokmål:** en
+      - **Scanian:** æn
+      - **Scanian:** én
+    - **Gutnish:** en
+    - **Gutnish:** ann
+    - **Gutnish:** h'en
+- **Gothic:** 𐌰𐌹𐌽𐍃
